@@ -134,7 +134,7 @@ blockquote {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: var(--site-primary);
   background-color: var(--site-white) !important;
-  border-color: var(--site-white) !important;
+  border-color: var(--site-primary) !important;
   font-weight: 700;
   text-transform: uppercase;
 }

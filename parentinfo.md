@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Parent Info
 layout: page
 ---
 

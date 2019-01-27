@@ -55,39 +55,16 @@
 }
 
 
-/* === COLOR VARIABLES === */
-:root {
-	--oa-white: #FFFFFF;
-	--oa-black: #030006;
-	--oa-grey:#36454F;
-  --oa-red: #E31837;
-  --oa-blue: #005596;
-
-	--site-white: var(--oa-white);
-	--site-black: var(--oa-black);
-	--site-primary: var(--oa-red);
-	--site-accent-dark: var(--oa-grey);
-	--site-accent-light: var(--oa-blue);
-
-	--page-background: var(--site-white);
-	--page-text: var(--site-black);
-	--nav-background: var(--site-primary);
-	--nav-links: var(--site-white);
-	--nav-links-hover: var(--oa-grey);
-}
-
-
 /* === GLOBAL STYLES === */
 body {
   font-size: 1rem;
-  color: var(--page-text);
-  background-color: var(--page-background);
+  //20px;
+  color: #212529;
   font-family: 'museo-sans', sans-serif;
-  padding-top: 70px;
 }
 p {
   line-height: 1.5;
-  margin: 30px 0;
+  //margin: 30px 0;
 }
 h1, h2, h3 {
   font-weight: 800;
@@ -98,11 +75,12 @@ h4, h5, h6 {
   font-family: 'museo-sans', sans-serif;
 }
 a {
-  color: var(--site-accent-light);
+  color: #005596;
+  transition: all 0.25s;
 }
 a:focus, a:hover {
   text-decoration: none;
-  color: var(--site-accent-light)
+  color: #231F20;
 }
 blockquote {
   font-style: italic;
@@ -123,132 +101,249 @@ blockquote {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
-/*buttons*/
-.btn-primary {
-	color: var(--site-white);
-  background-color: var(--site-primary);
-  border-color: var(--site-primary);
-  font-weight: 700;
-  text-transform: uppercase;
-}
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: var(--site-primary);
-  background-color: var(--site-white) !important;
-  border-color: var(--site-white) !important;
-  font-weight: 700;
-  text-transform: uppercase;
-}
-.btn-secondary {
-	color: var(--site-white);
-  background-color: var(--site-secondary);
-  border-color: var(--site-secondary);
-  font-weight: 700;
-  text-transform: uppercase;
-	}
-.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  color: var(--site-secondary);
-  background-color: var(--site-white) !important;
-  border-color: var(--site-white) !important;
-  font-weight: 700;
-  text-transform: uppercase;
-	}
-.btn-light {
-	color: var(--site-primary);
-  background-color: var(--site-white);
-  border-color: var(--site-white);
-  font-weight: 700;
-  text-transform: uppercase;
-	}
-.btn-light:hover, .btn-light:focus, .btn-light:active {
-  color: var(--site-white);
-  background-color: var(--site-primary) !important;
-  border-color: var(--site-white) !important;
-  font-weight: 700;
-  text-transform: uppercase;
-	}
 
 
 /* === NAVIGATION === */
-/* setup */
-.navbar.bg-light {
-  background-color: var(--nav-background) !important;
-  font-family: 'museo-sans', sans-serif;
-}
-.navbar li.nav-item a.nav-link {
-  color: var(--nav-links);
-  font-size: 16px;
-  font-weight: 700;
-  text-decoration: none;
-  text-transform: uppercase;
-  padding: 5px 15px;
-}
-.navbar li.nav-item a.nav-link:hover {
-  color: var(--nav-links-hover);
-}
-/* branding */
 .navbar-brand img.logo {
   float: left;
-  max-width: 200px;
+  max-width: 350px;
   min-width: 150px;
   width: auto !important;
   padding: 5px;
   margin: auto 0;
   display: inline-block;
   vertical-align: middle;
-  filter: brightness(0) invert(1);
 }
-/* toggle */
-.navbar-light .navbar-toggler {
-  color: var(--nav-links);
-  border-color: none;
-  border: none;
-  box-shadow: none;
+
+header.masthead {
+  margin-bottom: 50px;
+  background: no-repeat center center;
+  background-color: #868e96;
+  background-attachment: scroll;
+  position: relative;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-/* dropdown*/
-.dropdown-menu {
-  min-width: 0;
-  text-align: left;
-  border: none !important;
-  border-radius: 0 !important;
+
+header.masthead .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #212529;
+  opacity: 0.5;
 }
-/* spacing on large screens */
-@media (min-width: 992px) {
-	.navbar-light, .bg-light {
-	  height: 70px;
-	}
-	.dropdown-menu{
-		padding: 1em 0 0.5em 0;
-	}
-  .navbar-brand img.logo {
-    max-width: 300px;
+
+header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading {
+  padding: 50px 0 45px;
+  min-height: 200px;
+  color: white;
+}
+
+@media only screen and (min-width:768px) {
+  header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading {
+    padding: 150px 0;
+    min-height: 400px;
   }
+
 }
 
-/* === CONTENT === */
-.content{
-	padding-top: 1em;
-	min-height: calc(100vh - 318px);
-}
-.featured-actions{
-	background-color: var(--site-primary);
-	padding: 0.5em 13.5%;
-}
-.featured-actions .col{
-	padding: 0.5em 1em;
-}
-.post > h1  {
-  font-size: 2rem;
-  margin-bottom: 4px;
-}
-.post > .data{
-  margin-bottom: 1em;
-}
-.post > .cover > img{
-  max-width: 100%;
-  height: auto;
+header.masthead .page-heading, header.masthead .site-heading {
+  text-align: center;
 }
 
-/* === FOOTER === */
+header.masthead .page-heading h1, header.masthead .site-heading h1 {
+  font-size: 50px;
+  margin-top: 0;
+}
+
+header.masthead .page-heading .subheading, header.masthead .site-heading .subheading {
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.1;
+  display: block;
+  margin: 10px 0 0;
+  font-family: 'museo-sans', sans-serif;
+}
+
+@media only screen and (min-width:768px) {
+  header.masthead .page-heading h1, header.masthead .site-heading h1 {
+    font-size: 80px;
+  }
+
+}
+
+header.masthead .post-heading h1 {
+  font-size: 35px;
+}
+
+header.masthead .post-heading .meta, header.masthead .post-heading .subheading {
+  line-height: 1.1;
+  display: block;
+}
+
+header.masthead .post-heading .subheading {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 10px 0 30px;
+  font-family: 'museo-sans', sans-serif;
+}
+
+header.masthead .post-heading .meta {
+  font-size: 20px;
+  font-weight: 300;
+  font-style: italic;
+  font-family: 'museo-slab', serif;
+}
+
+header.masthead .post-heading .meta a {
+  color: #fff;
+}
+
+@media only screen and (min-width:768px) {
+  header.masthead .post-heading h1 {
+    font-size: 55px;
+  }
+
+  header.masthead .post-heading .subheading {
+    font-size: 30px;
+  }
+
+}
+
+.post-preview > a {
+  color: #005596;
+}
+
+.post-preview > a:focus, .post-preview > a:hover {
+  text-decoration: none;
+  color: #231F20;
+}
+
+.post-preview > a > .post-title {
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.post-preview > a > .post-subtitle {
+  font-weight: 300;
+  margin: 0 0 10px;
+}
+
+.post-preview > .post-meta {
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+  color: #868e96;
+}
+
+.post-preview > .post-meta > a {
+  text-decoration: none;
+  color: #005596;
+}
+
+.post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
+  color: #231F20;
+}
+
+@media only screen and (min-width:768px) {
+  .post-preview > a > .post-title {
+    font-size: 36px;
+  }
+
+}
+
+.floating-label-form-group {
+  font-size: 14px;
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.floating-label-form-group input, .floating-label-form-group textarea {
+  font-size: 1.5em;
+  position: relative;
+  z-index: 1;
+  padding: 0;
+  resize: none;
+  border: none;
+  border-radius: 0;
+  background: none;
+  box-shadow: none !important;
+  font-family: 'museo-slab', serif;
+}
+
+.floating-label-form-group input::-webkit-input-placeholder, .floating-label-form-group textarea::-webkit-input-placeholder {
+  color: #868e96;
+  font-family: 'museo-slab', serif;
+}
+
+.floating-label-form-group label {
+  font-size: 0.85em;
+  line-height: 1.764705882em;
+  position: relative;
+  z-index: 0;
+  top: 2em;
+  display: block;
+  margin: 0;
+  -webkit-transition: top 0.3s ease, opacity 0.3s ease;
+  -moz-transition: top 0.3s ease, opacity 0.3s ease;
+  -ms-transition: top 0.3s ease, opacity 0.3s ease;
+  transition: top 0.3s ease, opacity 0.3s ease;
+  vertical-align: middle;
+  vertical-align: baseline;
+  opacity: 0;
+}
+
+.floating-label-form-group .help-block {
+  margin: 15px 0;
+}
+
+.floating-label-form-group-with-value label {
+  top: 0;
+  opacity: 1;
+}
+
+.floating-label-form-group-with-focus label {
+  color: #005596;
+}
+
+form .form-group:first-child .floating-label-form-group {
+  border-top: 1px solid #e6e7e8;
+}
+
+.card h5.card-header {
+  font-family: 'museo-slab', serif;
+}
+
+.card small {
+  font-size: 0.8rem;
+}
+
+.card-columns {
+  @include media-breakpoint-only(md) {
+    column-count: 1;
+  }
+
+  @include media-breakpoint-only(lg) {
+    column-count: 1;
+  }
+
+  @include media-breakpoint-only(xl) {
+    column-count: 1;
+  }
+
+}
+
+p.card-text {
+  margin-top: 0;
+}
+
 footer {
   padding: 10px 0 15px;
 }
@@ -373,10 +468,75 @@ ul.footer-links li:hover * {
   }
 
 }
-.clamp {
-  -webkit-line-clamp: 3;
-  overflow : hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
+
+.btn {
+  font-size: 14px;
+  font-weight: 800;
+  padding: 15px 25px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-radius: 0;
+  font-family: 'museo-sans', sans-serif;
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  background-color: #005596;
+  border-color: #005596;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  color: #fff;
+  background-color: #231F20 !important;
+  border-color: #231F20 !important;
+}
+
+.btn-success {
+  background-color: #03733F;
+  border-color: #03733F;
+}
+
+.btn-success:hover, .btn-success:focus, .btn-success:active {
+  color: #fff;
+  background-color: #36454F !important;
+  border-color: #36454F !important;
+}
+
+.btn-lg {
+  font-size: 16px;
+  padding: 25px 35px;
+}
+
+form#views-exposed-form-virtual-museum-page-1 .form-checkbox {
+  display: none;
+}
+
+form#views-exposed-form-virtual-museum-page-1 label.option {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 5px 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-radius: 0;
+  font-family: 'museo-sans', sans-serif;
+  margin-bottom: 10px;
+  background-color: #005596;
+  border-color: #005596;
+  color: white;
+  float: left;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+form#views-exposed-form-virtual-museum-page-1 label:hover, form#views-exposed-form-virtual-museum-page-1 label:focus, form#views-exposed-form-virtual-museum-page-1 label:active {
+  color: #fff;
+  background-color: #231F20 !important;
+  border-color: #231F20 !important;
+  cursor: pointer;
+}
+
+form#views-exposed-form-virtual-museum-page-1 input:checked + label {
+  color: #fff;
+  background-color: #231F20 !important;
+  border-color: #231F20 !important;
 }

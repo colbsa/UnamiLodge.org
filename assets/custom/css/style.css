@@ -67,7 +67,7 @@
 	--site-black: var(--oa-black);
 	--site-primary: var(--oa-red);
 	--site-accent-dark: var(--oa-grey);
-	--site-accent-light: var(--oa-blue);
+	--site-accent-light: var(--oa-red);
 
 	--page-background: var(--site-white);
 	--page-text: var(--site-black);
@@ -96,6 +96,12 @@ h1, h2, h3 {
 h4, h5, h6 {
   font-weight: 800;
   font-family: 'museo-sans', sans-serif;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.3rem;
 }
 a {
   color: var(--site-accent-light);

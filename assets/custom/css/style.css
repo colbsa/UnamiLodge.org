@@ -172,7 +172,13 @@ blockquote {
   font-weight: 700;
   text-transform: uppercase;
 	}
-
+.btn-link{
+  color: var(--site-accent-light);
+}
+.btn-link:hover, .btn-link:focus, .btn-link:active {
+  text-decoration: none;
+  color: var(--site-accent-light)
+}
 
 /* === NAVIGATION === */
 /* setup */

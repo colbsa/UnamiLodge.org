@@ -3,7 +3,6 @@ title: Lodge Officers
 layout: page
 
 ---
-<h3 class="mt-5">Officers</h3>
 <table class="table table-striped my-3">
 	<thead>
 		<tr>

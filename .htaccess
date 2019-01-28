@@ -1,0 +1,86 @@
+#####
+#Force non-www in a Generic Way
+#####
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.
+RewriteCond %{HTTPS}s ^on(s)|off
+RewriteCond http%1://%{HTTP_HOST} ^(https?://)(www\.)?(.+)$
+RewriteRule ^ %1%3%{REQUEST_URI} [R=301,L]
+
+#####
+#Remove Trailing Slash
+#####
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [R=301,L]
+
+#####
+#Alias PHP URLs
+#####
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^([^.]+)$ $1.html [NC,L]
+
+#####
+#Disable Directory Browsing
+#####
+Options All -Indexes
+
+#####
+#Compress Text Files
+#####
+<IfModule mod_deflate.c>
+
+    # Force compression for mangled headers.
+    # https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
+    <IfModule mod_setenvif.c>
+        <IfModule mod_headers.c>
+            SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+            RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+        </IfModule>
+    </IfModule>
+
+    # Compress all output labeled with one of the following MIME-types
+    # (for Apache versions below 2.3.7, you don't need to enable `mod_filter`
+    #  and can remove the `<IfModule mod_filter.c>` and `</IfModule>` lines
+    #  as `AddOutputFilterByType` is still in the core directives).
+    <IfModule mod_filter.c>
+        AddOutputFilterByType DEFLATE application/atom+xml \
+                                      application/javascript \
+                                      application/json \
+                                      application/rss+xml \
+                                      application/vnd.ms-fontobject \
+                                      application/x-font-ttf \
+                                      application/x-web-app-manifest+json \
+                                      application/xhtml+xml \
+                                      application/xml \
+                                      font/opentype \
+                                      image/svg+xml \
+                                      image/x-icon \
+                                      text/css \
+                                      text/html \
+                                      text/plain \
+                                      text/x-component \
+                                      text/xml
+    </IfModule>
+
+</IfModule>
+
+#####
+#Redirects
+#####
+# ErrorDocument 404 /404.html
+# ErrorDocument 403 /403.html
+
+Redirect /Trading-Post https://squareup.com/store/unami-lodge-one
+Redirect /trading-post https://squareup.com/store/unami-lodge-one
+Redirect /tradingpost https://squareup.com/store/unami-lodge-one
+Redirect /Store https://squareup.com/store/unami-lodge-one
+Redirect /store https://squareup.com/store/unami-lodge-one
+
+Redirect /lldsurvey https://docs.google.com/forms/d/1hox9Hvd39fUVuhEYT3iF70HyPl1qdeqh-9KA-FbMq8M/viewform?usp=send_form
+
+Redirect /InterestSurvey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form
+Redirect /interestsurvey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form
+Redirect /Interest-Survey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form

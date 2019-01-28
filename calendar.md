@@ -16,10 +16,18 @@ layout: page
 	<tbody>
 		{% for event in site.data.events %}
 			<tr>
-				<td>{{event.title}}</td>
-				<td>{{event.dates}}</td>
-				<td>{{event.location}}</td>
-				<td>{{event.link-text}}</td>
+				<td class="align-middle">{{event.title}}</td>
+				<td class="align-middle">{{event.dates}}</td>
+				{% if event.location-url %}
+					<td class="align-middle"><a href="{{event.location-url}}">{{event.location}}</a></td>
+				{% else %}
+					<td class="align-middle">{{event.location}}</td>
+				{% endif %}
+				{% if event.link-url %}
+					<td class="align-middle"><a href="{{event.link-url}}" class="btn btn-primary">{{event.link-text}}</a></td>
+				{% else %}
+					<td class="align-middle">{{event.link-text}}</td>
+				{% endif %}
 			</tr>
 		{% endfor %}
 	</tbody>

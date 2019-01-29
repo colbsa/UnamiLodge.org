@@ -12,11 +12,11 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Unami Lodge Historical Narrative</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="#">Coming Soon!</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="history-narrative">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Delmont Lodge Historical Narative</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="#">Coming Soon!</a></td>
+    <td class="align-middle"><h5 class="my-0">Delmont Lodge Historical Narrative</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="history-delmont">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Past Lodge Chiefs</h5></td>
@@ -24,7 +24,7 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Past Lodge Advisers</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="#">Coming Soon!</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="history-lodgeadvisers">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Vigil Honor Members</h5></td>

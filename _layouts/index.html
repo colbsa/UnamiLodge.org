@@ -8,43 +8,43 @@
 
 <!-- Main Content -->
 <div class="container content">
-    <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-            <h4>Featured News</h4>
-            <div class="d-none d-md-block">
-                {% include section_news-preview-horizontal.html %}
-                {% include section_news-preview-horizontal.html %}
-                {% include section_news-preview-horizontal.html %}
-                <a href="#">View more news articles</a>
-            </div>
-            <div class="d-block d-md-none">
-                {% include section_news-preview-horizontal.html %}
-                {% include section_news-preview-horizontal.html %}
-                {% include section_news-preview-horizontal.html %}
-                <a href="#">View more news articles</a>
-            </div>
-        </div>
-        <div class="col-lg-4 col-md-10 mx-auto">
-            <!-- Quick Links -->
-            <div class="card mb-3">
-                <h5 class="card-header">Quick Links</h5>
-                <div class="card-body">
-                    {% for link in page.quick-links %}
-                        <a href="{{ link[1] }}"><i class="fa fa-link pr-2"></i>{{ link[0] }}</a></br>
-                    {% endfor %}
-                </div>
-            </div>
-            <!-- Upcoming Events -->
-            <div class="card mb-3">
-                <h5 class="card-header">Upcoming Events</h5>
-                <div class="card-body">
-                    {% for link in page.upcoming-events %}
-                        <a href="{{ link[1] }}"><i class="fa fa-calendar pr-2"></i>{{ link[0] }}</a></br>
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <h4>Featured News</h4>
+      <div class="d-none d-md-block">
+        {% include section_news-preview-horizontal.html %}
+        {% include section_news-preview-horizontal.html %}
+        {% include section_news-preview-horizontal.html %}
+        <a href="#">View more news articles</a>
+      </div>
+      <div class="d-block d-md-none">
+        {% include section_news-preview-horizontal.html %}
+        {% include section_news-preview-horizontal.html %}
+        {% include section_news-preview-horizontal.html %}
+        <a href="#">View more news articles</a>
+      </div>
     </div>
+    <div class="col-lg-4 col-md-10 mx-auto">
+      <!-- Quick Links -->
+      <div class="card mb-3">
+        <h5 class="card-header">Quick Links</h5>
+        <div class="card-body">
+          {% for link in page.quick-links %}
+            <a href="{{ link[1] }}"><i class="fa fa-link pr-2"></i>{{ link[0] }}</a></br>
+          {% endfor %}
+        </div>
+      </div>
+      <!-- Upcoming Events -->
+      <div class="card mb-3">
+        <h5 class="card-header">Upcoming Events</h5>
+        <div class="card-body">
+          {% for link in page.upcoming-events %}
+            <a href="{{ link[1] }}"><i class="fa fa-calendar pr-2"></i>{{ link[0] }}</a></br>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Footer -->

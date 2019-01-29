@@ -1,46 +1,46 @@
 officers:
-- title: Lodge Chief                
-  name: Aidan Campbell        
+- title: Lodge Chief
+  name: Aidan Campbell
   email: chief
 
-- title: VC 1                       
-  name: Garrett Witherington  
+- title: VC 1
+  name: Garrett Witherington
   email: vc1
 
-- title: VC 2                       
-  name: Sean Plunkett         
+- title: VC 2
+  name: Sean Plunkett
   email: vc2
 
-- title: Treasurer                  
-  name: Seth Arinsberg        
+- title: Treasurer
+  name: Seth Arinsberg
   email: treasurer
 
-- title: Secretary                  
-  name: Luke Clancy           
+- title: Secretary
+  name: Luke Clancy
   email: secretary
 
-- title: Lodge Adviser              
-  name: Dennis Abernethy      
+- title: Lodge Adviser
+  name: Dennis Abernethy
   email: lodgeadviser
 
-- title: Associate Lodge Adviser    
-  name: Timothy English       
+- title: Associate Lodge Adviser
+  name: Timothy English
   email: tim.english
 
-- title: Associate Lodge Adviser    
-  name: David King            
+- title: Associate Lodge Adviser
+  name: David King
   email: david.king
 
-- title: Associate Lodge Adviser    
-  name: Jerry Reed            
+- title: Associate Lodge Adviser
+  name: Jerry Reed
   email: jerry.reed
 
-- title: Lodge Staff Adviser        
-  name: John Bickel           
+- title: Lodge Staff Adviser
+  name: John Bickel
   email: staffadviser
 
-- title: Supreme Chief of the Fire  
-  name: Daniel Templar        
+- title: Supreme Chief of the Fire
+  name: Daniel Templar
   email: supremechief
 
 advisoryboard:
@@ -91,40 +91,40 @@ committees:
 - title: Ceremonies Assoc. Adviser
   name: Michael Comfort
   email: ceremonies
-- title: Communications Chair     
+- title: Communications Chair
   name: Matthew Luke
   email: communications
 - title: Communications Vice Chair
   name: Alexander Ziemba
   email: communications
-- title: Communications Adviser   
+- title: Communications Adviser
   name: Matt Gutterman
   email: communications
-- title: Communications Assoc. Adviser        
+- title: Communications Assoc. Adviser
   name: David Gibbons
   email: communications
-- title: Events Chair    
+- title: Events Chair
   name: Anthony Glass
   email: events
-- title: Events Vice-Chair 
+- title: Events Vice-Chair
   name: Riley Metzler
   email: events
-- title: Events Adviser  
+- title: Events Adviser
   name: Vacant
   email: events
-- title: Events Assoc. Adviser    
+- title: Events Assoc. Adviser
   name: Robert Deck
   email: events
-- title: History Chair   
+- title: History Chair
   name: Rhys Wallace
   email: history
 - title: History Vice-Chair
   name: Joseph Gulian
   email: history
-- title: History Adviser 
+- title: History Adviser
   name: Michael Comfort
   email: history
-- title: History Assoc. Adviser   
+- title: History Assoc. Adviser
   name: Phil Hittner
   email: history
 - title: Leadership Development Chair
@@ -136,10 +136,10 @@ committees:
 - title: Leadership Development Assoc. Adviser
   name: Gary Hodge
   email: leadershipdevelopment
-- title: Lodge Operations Chair   
+- title: Lodge Operations Chair
   name: Luke Cihak
   email: lodgeoperations
-- title: Lodge Operations Adviser 
+- title: Lodge Operations Adviser
   name: Paul Bowman
   email: lodgeoperations
 - title: Lodge Operations Assoc. Adviser
@@ -154,13 +154,13 @@ committees:
 - title: Membership Assoc. Adviser
   name: Christopher Smith
   email: membership
-- title: Ordeal Chair    
+- title: Ordeal Chair
   name: Seth Lavelle
   email: ordeal
-- title: Ordeal Adviser  
+- title: Ordeal Adviser
   name: Vacant
   email: ordeal
-- title: Service Chair   
+- title: Service Chair
   name: Arron Liebel
   email: service
 - title: Service Co-Adviser
@@ -169,7 +169,7 @@ committees:
 - title: Service Co-Adviser
   name: Daniel Lyons
   email: service
-- title: Troop Representative  Chair 
+- title: Troop Representative  Chair
   name: PJ Weidman
   email: trooprep
 - title: Troop Representative  Vice-Chair
@@ -178,22 +178,22 @@ committees:
 - title: Troop Representative  Adviser
   name: Larry Arinsberg
   email: trooprep
-- title: Unit Election Chair      
+- title: Unit Election Chair
   name: Ethan Graeff
   email: unitelections
-- title: Unit Election Vice-Chair 
+- title: Unit Election Vice-Chair
   name: Will Beardsley
   email: unitelections
-- title: Unit Election Adviser    
+- title: Unit Election Adviser
   name: Paul Dallatore
   email: unitelections
 - title: Unit Election Assoc. Adviser
   name: Tom Tryon
   email: unitelections
-- title: Vigil Honor Chair 
+- title: Vigil Honor Chair
   name: Michael Calliagas
   email: vigil
-- title: Vigil Honor Adviser      
+- title: Vigil Honor Adviser
   name: Matthew McGovern
   email: vigil
 - title: Vigil Honor Associate Adviser

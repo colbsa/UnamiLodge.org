@@ -22,50 +22,66 @@
   adviser: Theodore (Todge) Sutkowski
   assoc-adviser: Vacant
 
-- name:
-  email:
-  chief:
-  vice-chief:
-  secretary:
-  adviser:
-  assoc-adviser:
+- name: Continental
+  email: continental
+  chief: Gavin Frederick
+  vice-chief: William Gabel
+  secretary: Matthew Reitenbaugh
+  adviser: Craig Cless
+  assoc-adviser: Alicia Tryon
 
-- name:
-  email:
-  chief:
-  vice-chief:
-  secretary:
-  adviser:
-  assoc-adviser:
+- name: General Nash
+  email: generalnash
+  chief: Vacant
+  vice-chief: Vacant
+  secretary: Vacant
+  adviser: Chris Nagele
+  assoc-adviser: Larry Brasch
 
-- name:
-  email:
-  chief:
-  vice-chief:
-  secretary:
-  adviser:
-  assoc-adviser:
+- name: Lafayette
+  email: lafayette
+  chief: Stanley Matusheski
+  vice-chief: Seth Huff
+  secretary: Brendan Pippert
+  adviser: Stuart Bowman
+  assoc-adviser: Michael Matusheski
 
-- name:
-  email:
-  chief:
-  vice-chief:
-  secretary:
-  adviser:
-  assoc-adviser:
+- name: Minquas
+  email: minquas
+  chief: Matthew Box
+  vice-chief: Robert Seifrit
+  secretary: Charles Haynes
+  adviser: John McLaughlin
+  assoc-adviser: Mike Penzone
 
-- name:
-  email:
-  chief:
-  vice-chief:
-  secretary:
-  adviser:
-  assoc-adviser:
+- name: Northern
+  email: northern
+  chief: Malachi Solomon
+  vice-chief: Vacant
+  secretary: Vacant
+  adviser: Jim Cooke
+  assoc-adviser: Edward Rigler
 
-- name:
-  email:
-  chief:
-  vice-chief:
-  secretary:
-  adviser:
-  assoc-adviser:
+- name: Roosevelt
+  email: roosevelt
+  chief: Michael Calliagas
+  vice-chief: Timothy McFarland
+  secretary: Vacant
+  adviser: Bob Deck
+  assoc-adviser: Steven Leopold
+
+- name: Triune
+  email: triune
+  chief: Ryan Hodge
+  vice-chief: Vacant
+  secretary: Vacant
+  adviser: Steve Schaefer
+  assoc-adviser: Vacant
+
+- name: Washington
+  email: washington
+  chief: Ethan LaFond
+  vice-chief: Vacant
+  secretary: Vacant
+  adviser: Larry Arinsberg
+  assoc-adviser: Vacant

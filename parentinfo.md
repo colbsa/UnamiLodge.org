@@ -24,7 +24,7 @@ Unami Lodge, One does not intend to keep any information from its newly elected 
 The Order of the Arrow is youth led, but these youth need guidance from capable adults. An adult currently registered in Scouting on the unit, district, or council level can join Unami Lodge, One. Adults in troops, crews, and ships are nominated by the unit committee chair, and adults on the district or council level can be nominated by the lodge adviser, district chair, council president, or member of the professional staff. All candidates for adult membership must be approved by the Scout Executive. When considered an adult for nomination, keep in mind that the nomination for membership should not be viewed as a recognition for an adult's service, but also how he or she can help the lodge and its youth leaders meet the purpose and goals of the Order.
 
 ## I was an OA member when I was a Scout. Can I participate again?
-ABSOLUTELY! It may take sometime to verify your past membership, but you can register and become an active dues paying member of the lodge with your son or daughter. All members must have a current BSA registration within the Cradle of Liberty Council to be a member.
+ABSOLUTELY! It may take some time to verify your past membership, but you can register and become an active dues paying member of the lodge with your son or daughter. All members must have a current BSA registration within the Cradle of Liberty Council to be a member.
 
 ## More Questions?
 If you have any other question, or if you would like to confirm eligibility, please free to contact us at [membership@unamilodge.org](mailto:membership@unamilodge.org).

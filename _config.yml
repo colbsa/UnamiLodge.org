@@ -4,3 +4,10 @@ logo: "_img/logo.png"
 
 url: http://127.0.0.1:4000
 baseurl:
+
+
+page_gen:
+  - data: 'chapters'
+    template: 'chapters'
+    name: 'email'
+    dir: 'chapters'

@@ -72,27 +72,27 @@ layout: page
   <tbody>
     {% for chapter in site.data.chapters %}
       <tr>
-        <td>{{chapter.name}} - Chief</td>
+        <td>{{chapter.chapter-name}} - Chief</td>
         <td>{{chapter.chief}}</td>
         <td><a href="mailto:{{chapter.email}}@unamilodge.org">{{chapter.email}}@unamilodge.org</a></td>
       </tr>
       <tr>
-        <td>{{chapter.name}} - Vice Chief</td>
+        <td>{{chapter.chapter-name}} - Vice Chief</td>
         <td>{{chapter.vice-chief}}</td>
         <td><a href="mailto:{{chapter.email}}@unamilodge.org">{{chapter.email}}@unamilodge.org</a></td>
       </tr>
       <tr>
-        <td>{{chapter.name}} - Secretary</td>
+        <td>{{chapter.chapter-name}} - Secretary</td>
         <td>{{chapter.secretary}}</td>
         <td><a href="mailto:{{chapter.email}}@unamilodge.org">{{chapter.email}}@unamilodge.org</a></td>
       </tr>
       <tr>
-        <td>{{chapter.name}} - Adviser</td>
+        <td>{{chapter.chapter-name}} - Adviser</td>
         <td>{{chapter.adviser}}</td>
         <td><a href="mailto:{{chapter.email}}@unamilodge.org">{{chapter.email}}@unamilodge.org</a></td>
       </tr>
       <tr>
-        <td>{{chapter.name}} - Associate Adviser</td>
+        <td>{{chapter.chapter-name}} - Associate Adviser</td>
         <td>{{chapter.assoc-adviser}}</td>
         <td><a href="mailto:{{chapter.email}}@unamilodge.org">{{chapter.email}}@unamilodge.org</a></td>
       </tr>

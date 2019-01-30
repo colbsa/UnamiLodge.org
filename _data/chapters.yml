@@ -1,85 +1,107 @@
-- name: Baden Powell
+- chapter-name: Baden Powell
   email: badenpowell
+  meeting-text: The Baden Powell Chapter meets at the same time as the Baden Powell district roundtable on the second Wednesday of each month at 7:00pm at the First Presbyterian Church in Flourtown.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m1pb=!1m18!1m12!1m3!1d3051.5224083414446!2d-75.21306999999999!3d40.108360000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6bbb7805a60e7%3A0xabb773bc51d3e7cc!2sFirst+Presbyterian+Church+in+Springfield!5e0!3m2!1sen!2sus!4v1421656792948
   chief: Brendan Flanagan
   vice-chief: Jason Abiuso
   secretary: Joseph Dolan
   adviser: Todd Malora
   assoc-adviser: Vacant
 
-- name: Conestoga
+- chapter-name: Conestoga
   email: conestoga
+  meeting-text: The Conestoga Chapter meets at St Matthew Lutheran Church, 400 Lynbrooke Rd Springfield PA 19064 on the second Tuesday of each at 7:00 pm.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3059.6636009268323!2d-75.32817534815051!3d39.92654377932418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c2110ed75d9d%3A0x5e564303ae83f5fe!2sSt+Matthew+Lutheran+Church!5e0!3m2!1sen!2sus!4v1486266842826
   chief: George Lipchock Jr.
   vice-chief: Vacant
   secretary: Vacant
   adviser: George Lipchock
   assoc-adviser: Vacant
 
-- name: Constellation
+- chapter-name: Constellation
   email: constellation
+  meeting-text: The Constellation chapter meets every second Wednesday of the month at 7:30pm except for the months of July and August at the Church of the Redeemer, 230 Pennswood Rd, Bryn Mawr, PA 19010.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m1pb=!1m18!1m12!1m3!1d3055.3905487460615!2d-75.30664800000083!3d40.02205898430762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6bf88a00f28b7%3A0x32aad1c394b6818e!2sChurch+of+the+Redeemer!5e0!3m2!1sen!2sus!4v1421657777524
   chief: Matt Luke
   vice-chief: Andrew Geer
   secretary: Luke LoSasso
   adviser: Theodore (Todge) Sutkowski
   assoc-adviser: Vacant
 
-- name: Continental
+- chapter-name: Continental
   email: continental
+  meeting-text: The Continental chapter meets every second Thursday of the month at New Hanover Evangelical Lutheran Church in Gilbertsville at 7:30pm.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6085.958063809821!2d-75.57695438358229!3d40.298424518976745!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c683838e1f9731%3A0xd533668d61a2002f!2sNew+Hanover+Lutheran+Church!5e0!3m2!1sen!2sus!4v1428544436437
   chief: Gavin Frederick
   vice-chief: William Gabel
   secretary: Matthew Reitenbaugh
   adviser: Craig Cless
   assoc-adviser: Alicia Tryon
 
-- name: General Nash
+- chapter-name: General Nash
   email: generalnash
+  meeting-text: Chapter meetings are held at Trinity Evangelical Lutheran Church in Lansdale the second Wednesday of the month at 7:30pm. No meetings are held in July or August.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m1pb=!1m18!1m12!1m3!1d3045.237582210125!2d-75.297031!3d40.24825100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a22d170cb359%3A0xa4db03da2cebe16f!2sTrinity+Evangelical+Lutheran+Church!5e0!3m2!1sen!2sus!4v1421657150644
   chief: Vacant
   vice-chief: Vacant
   secretary: Vacant
   adviser: Chris Nagele
   assoc-adviser: Larry Brasch
 
-- name: Lafayette
+- chapter-name: Lafayette
   email: lafayette
+  meeting-text: The Lafayette Chapter meets every second Wednesday of the month at J.P. Mascaro building at 7:15pm.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m1pb=!1m18!1m12!1m3!1d3051.1534356437146!2d-75.42288599999979!3d40.11658398429283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c696a89764ce5f%3A0x79583aa28346ddf5!2sJ.P.+Mascaro+%26+Sons-Corporate!5e0!3m2!1sen!2sus!4v1421657385434
   chief: Stanley Matusheski
   vice-chief: Seth Huff
   secretary: Brendan Pippert
   adviser: Stuart Bowman
   assoc-adviser: Michael Matusheski
 
-- name: Minquas
+- chapter-name: Minquas
   email: minquas
+  meeting-text: The Minquas chapter meets every second Tuesday of the month at the Pennsylvania Institute of Technology at 7:30pm.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3060.47951939367!2d-75.3890799999999!3d39.908283984162225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6e9aaa71a9961%3A0x846602bb853923f9!2sPennsylvania+Institute+Of+Technololgy!5e0!3m2!1sen!2sus!4v1421657847044
   chief: Matthew Box
   vice-chief: Robert Seifrit
   secretary: Charles Haynes
   adviser: John McLaughlin
   assoc-adviser: Mike Penzone
 
-- name: Northern
+- chapter-name: Northern
   email: northern
+  meeting-text: Chapter meetings are held at the Presbyterian Church of Chestnut Hill, located at 8855 Germantown Ave. Philadelphia, PA  19118, the first Tuesday of every month except July & August.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d763.1986612958239!2d-75.2145166753804!3d40.07999252504993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b964c2b6fea7%3A0x58ad1c8ed28854a1!2sThe+Presbyterian+Church+of+Chestnut+Hill!5e0!3m2!1sen!2sus!4v1467304951427
   chief: Malachi Solomon
   vice-chief: Vacant
   secretary: Vacant
   adviser: Jim Cooke
   assoc-adviser: Edward Rigler
 
-- name: Roosevelt
+- chapter-name: Roosevelt
   email: roosevelt
+  meeting-text: Make sure you check out all of the latest happenings with the Roosevelt Chapter on their <a href="http://www.facebook.com/rooseveltunami" target"_blank">Facebook Page</a>. The Roosevelt Chapter meets the second Wednesday of the month (from September until May) from 7:00pm to 8:30pm at The Philadelphia Protestant Home at 6500 Tabor Ave, Philadelphia, PA 19111.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3054.2133289547073!2d-75.0922373481483!3d40.04833997930874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b6ea1a28be41%3A0xc87269d46591f7cd!2sThe+Philadelphia+Protestant+Home!5e0!3m2!1sen!2sus!4v1486262346116
   chief: Michael Calliagas
   vice-chief: Timothy McFarland
   secretary: Vacant
   adviser: Bob Deck
   assoc-adviser: Steven Leopold
 
-- name: Triune
+- chapter-name: Triune
   email: triune
+  meeting-text: The Triune Chapter meets at 7:00pm every second Monday of the month at Mount Zion Maptist Church located at the corner of 50th and Woodland.
+  meeting-url:https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d764.7660508705757!2d-75.21396087074805!3d39.939953526962725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c691eff9e709%3A0x645d1e1a86b6726c!2s1411+S+50th+St%2C+Philadelphia%2C+PA+19143!5e0!3m2!1sen!2sus!4v1467305533965
   chief: Ryan Hodge
   vice-chief: Vacant
   secretary: Vacant
   adviser: Steve Schaefer
   assoc-adviser: Vacant
 
-- name: Washington
+- chapter-name: Washington
   email: washington
+  meeting-text: The Washington Chapter meets at The Roychester Community Center 1819 Harding Ave., Abington, PA 19001. Meetings take place on the second Wednesday of every month at 7:15pm. regular meetings are not held in July or August.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m1pb=!1m18!1m12!1m3!1d3050.4155695666523!2d-75.10892800000009!3d40.13302598435027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b03560b0cac9%3A0x2087e1eb8a73c5d1!2sRoychester+Park!5e0!3m2!1sen!2sus!4v1421657585887
   chief: Ethan LaFond
   vice-chief: Vacant
   secretary: Vacant

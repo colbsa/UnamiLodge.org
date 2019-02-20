@@ -23,6 +23,11 @@ RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^([^.]+)$ $1.html [NC,L]
 
 #####
+#Alternate default index pages
+#####
+DirectoryIndex first.html index.htm index.html index.php
+
+#####
 #Disable Directory Browsing
 #####
 Options All -Indexes

@@ -5,6 +5,7 @@ logo: "_img/logo.png"
 url: http://127.0.0.1:4000
 baseurl:
 
+permalink: /news/:title:output_ext
 
 page_gen:
   - data: 'chapters'

@@ -3,8 +3,8 @@ layout: post
 title: Community Service Day
 author: Arron Liebel
 date: 2019-03-01
-banner: sample.jpeg
-thumbnail: sample.png
+banner: 2019-CSD.png
+thumbnail: 2019-CSD.png
 excerpt: Help us give back to the community! Join us at 1 of 3 service sites for a day of cheerful service.
 ---
 

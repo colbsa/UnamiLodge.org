@@ -207,7 +207,6 @@ blockquote {
   margin: auto 0;
   display: inline-block;
   vertical-align: middle;
-  filter: brightness(0) invert(1);
 }
 /* toggle */
 .navbar-light .navbar-toggler {

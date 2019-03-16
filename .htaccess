@@ -8,6 +8,10 @@ RewriteCond %{HTTPS}s ^on(s)|off
 RewriteCond http%1://%{HTTP_HOST} ^(https?://)(www\.)?(.+)$
 RewriteRule ^ %1%3%{REQUEST_URI} [R=301,L]
 
+# Manually re-route news/ requests to news
+RewriteCond %{REQUEST_FILENAME} news/$
+RewriteRule ^(.*)/$ $1
+
 #####
 #Remove Trailing Slash
 #####
@@ -77,8 +81,6 @@ Options All -Indexes
 #####
 # ErrorDocument 404 /404.html
 # ErrorDocument 403 /403.html
-
-RewriteRule ^news/index.html /news.html [L]
 
 Redirect /Trading-Post https://squareup.com/store/unami-lodge-one
 Redirect /trading-post https://squareup.com/store/unami-lodge-one

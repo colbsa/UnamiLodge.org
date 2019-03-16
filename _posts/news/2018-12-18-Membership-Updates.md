@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Membership Updates
-auther: Brendan Switts
+author: Brendan Switts
 date: 2018-12-18
 banner: membership-updates.jpeg
 thumbnail: sample.png

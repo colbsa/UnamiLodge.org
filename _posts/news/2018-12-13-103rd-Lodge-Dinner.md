@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 103rd Lodge Dinner
-auther:
+author:
 date: 2018-12-13
 banner: 103rd-Lodge-Dinner.png
 thumbnail: 103rd-Lodge-Dinner.png

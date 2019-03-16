@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Message from the Chief
-auther: Aidan Campbell
+author: Aidan Campbell
 date: 2019-01-15
 banner: chief-message.png
 thumbnail: chief-message.png

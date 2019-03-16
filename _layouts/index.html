@@ -31,21 +31,21 @@
         </div>
     {% endfor %}
     <div class="col-lg-4 col-md-10 mx-auto">
-      <!-- Quick Links -->
-      <div class="card mb-3">
-        <h5 class="card-header">Quick Links</h5>
-        <div class="card-body">
-          {% for link in page.quick-links %}
-            <a href="{{ link[1] }}"><i class="fa fa-link pr-2 text-body"></i>{{ link[0] }}</a></br>
-          {% endfor %}
-        </div>
-      </div>
       <!-- Upcoming Events -->
       <div class="card mb-3">
         <h5 class="card-header">Upcoming Events</h5>
         <div class="card-body">
           {% for link in page.upcoming-events %}
             <a href="{{ link[1] }}"><i class="fa fa-calendar pr-2 text-body"></i>{{ link[0] }}</a></br>
+          {% endfor %}
+        </div>
+      </div>
+      <!-- Quick Links -->
+      <div class="card mb-3">
+        <h5 class="card-header">Quick Links</h5>
+        <div class="card-body">
+          {% for link in page.quick-links %}
+            <a href="{{ link[1] }}"><i class="fa fa-link pr-2 text-body"></i>{{ link[0] }}</a></br>
           {% endfor %}
         </div>
       </div>

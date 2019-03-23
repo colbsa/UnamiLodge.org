@@ -4,46 +4,54 @@ layout: page
 
 ---
 
-<form>
+<form id="contactform" onsubmit="event.preventDefault();">
   <div class="row">
-    <div class="col-md-6 mb-3">
-      <label for="name">Name</label>
-      <input type="text" class="form-control" id="name" placeholder="" value="" required>
-      <div class="invalid-feedback">
-        Valid name is required.
+    <div class="col-md-6">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" name="name" id="contactform-name" placeholder="" value="" required>
+        <div class="invalid-feedback">Valid name is required.</div>
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" class="form-control" name="email" id="contactform-email" placeholder="" value="" required>
+        <div class="invalid-feedback">Valid email is required.</div>
+      </div>
+      <div class="form-group">
+        <label for="recipient">Recipient</label>
+        <div class="input-group">
+          <select class="form-control" name="recipient" id="contactform-recipient">
+            <option value="membership">Membership</option>
+            <option value="events">Events</option>
+            <option value="ordeal">Ordeal</option>
+            <option value="brotherhood">Brotherhood</option>
+            <option value="service">Service</option>
+            <option value="unitelections">Unit Elections</option>
+            <option value="ommunications" selected>Communications / Other</option>
+          </select>
+          <div class="input-group-append">
+            <div class="input-group-text">@UnamiLodge.org</div>
+          </div>
+          <div class="invalid-feedback">Please enter a recipient.</div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="subject">Subject</label>
+        <input type="text" class="form-control" name="subject" id="contactform-subject" placeholder="" value="" required>
+        <div class="invalid-feedback">Please enter a subject.</div>
       </div>
     </div>
-    <div class="col-md-6 mb-3">
-      <label for="email">Email</label>
-      <input type="email" class="form-control" id="email" placeholder="" value="" required>
-      <div class="invalid-feedback">
-        Valid email is required.
+    <div class="col-md-6">
+      <div class="form-group">
+        <label for="message">Message</label>
+        <textarea class="form-control" name="message" id="contactform-message" placeholder="" required></textarea>
+        <div class="invalid-feedback">Please enter a message.</div>
       </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-6 mb-3">
-      <label for="recipient">Recipient</label>
-      <input type="text" class="form-control" id="recipient" placeholder="" value="" required>
-      <div class="invalid-feedback">
-        Please enter a recipient.
-      </div>
-    </div>
-    <div class="col-md-6 mb-3">
-      <label for="subject">Subject</label>
-      <input type="text" class="form-control" id="subject" placeholder="" value="" required>
-      <div class="invalid-feedback">
-        Please enter a subject.
-      </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      <label for="message">Message</label>
-      <textarea class="form-control" id="message" placeholder="" required></textarea>
-      <div class="invalid-feedback">
-        Please enter a message.
+      <div class="form-group">
+        <button type="submit" class="btn btn-primary btn-block" id="contactform-send">Send</button>
       </div>
     </div>
   </div>
 </form>
+
+For more options, a complete list of Unami Lodge Leadership is available on our [Contact List Page](contactlist).

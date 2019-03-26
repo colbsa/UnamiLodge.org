@@ -27,4 +27,4 @@ The Order of the Arrow is youth led, but these youth need guidance from capable 
 ABSOLUTELY! It may take some time to verify your past membership, but you can register and become an active dues paying member of the lodge with your son or daughter. All members must have a current BSA registration within the Cradle of Liberty Council to be a member.
 
 ## More Questions?
-If you have any other question, or if you would like to confirm eligibility, please free to contact us at [membership@unamilodge.org](mailto:membership@unamilodge.org).
+If you have any other question, or if you would like to confirm eligibility, please free to contact us at [membership@unamilodge.org](/contact#membership).

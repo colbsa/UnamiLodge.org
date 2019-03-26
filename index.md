@@ -3,8 +3,7 @@ title: Home
 layout: index
 
 slides:
-  img/slider/slide1.png: page.html
-  img/slider/slide2.png: page.html
+  img/slider/slide1.png: https://conclaveregistration.org/section/ne5
 
 button-bar:
   Elected Candidates: /electedcandidates

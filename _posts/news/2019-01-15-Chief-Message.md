@@ -5,7 +5,7 @@ author: Aidan Campbell
 date: 2019-01-15
 banner: chief-message.png
 thumbnail: chief-message.png
-excerpt: Lodge Chief Adain Campbell has some welcoming words to share with the members of Unami Lodge, One.
+excerpt: Lodge Chief Aidan Campbell has some welcoming words to share with the members of Unami Lodge, One.
 ---
 
 Brothers,

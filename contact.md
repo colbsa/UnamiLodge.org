@@ -4,7 +4,10 @@ layout: page
 
 ---
 
-<form id="contactform" onsubmit="event.preventDefault();">
+<div class="alert alert-warning">
+    This page is still under some construction. Please check back later for your best service!
+</div>
+<form id="contactform" class="needs-validation"   onsubmit="event.preventDefault();" novalidate>
   <div class="row">
     <div class="col-md-6">
       <div class="form-group">
@@ -44,7 +47,7 @@ layout: page
     <div class="col-md-6">
       <div class="form-group">
         <label for="message">Message</label>
-        <textarea class="form-control" name="message" id="contactform-message" placeholder="" required></textarea>
+        <textarea class="form-control" name="message" id="contactform-message" rows="12" required></textarea>
         <div class="invalid-feedback">Please enter a message.</div>
       </div>
       <div class="form-group">

@@ -48,7 +48,7 @@ work gloves, personal grooming gear, full Field (Class A) Scout Uniform (for you
 and complete BSA Medical form (along with any prescription medications), and A POSITIVE SCOUT
 ATTITUDE!
 
-Make sure you check out the [Ordeal Packing Instructions](/files/ordealpackinginstructions.pdf) for more details.
+Make sure you check out the [Ordeal Packing Instructions](/files/OrdealPackingInstructions.pdf) for more details.
 
 <h2>More Questions?</h2>
 If you have any other question, or if you would like to confirm eligibility, please feel free to contact us at [ordeal@unamilodge.oeg](/contact#ordeal).

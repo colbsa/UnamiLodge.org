@@ -35,8 +35,9 @@
       <div class="card mb-3">
         <h5 class="card-header">Upcoming Events</h5>
         <div class="card-body">
-          {% for link in page.upcoming-events %}
-            <a href="{{ link[1] }}"><i class="fa fa-calendar pr-2 text-body"></i>{{ link[0] }}</a></br>
+          {% assign highlighted_events = site.data.events | where:"highlight", "true" %}
+          {% for event in highlighted_events %}
+            <a href="{{ event.link-url }}"><i class="fa fa-calendar pr-2 text-body"></i>{{ event.title }}</a></br>
           {% endfor %}
         </div>
       </div>

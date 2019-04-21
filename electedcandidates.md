@@ -36,6 +36,18 @@ summer camp.
 - You can also travel to Resica Falls during the summer and complete your Ordeal provisionally on
 Wednesday &amp; Thursday during any week of summer camp.
 
+<div class="card mb-3">
+  <div class="card-body">
+    <h5>Upcoming Ordeal Opportunities</h5>
+    <ul>
+      {% assign highlighted_events = site.data.events | where:"ordeal", "true" %}
+      {% for event in highlighted_events %}
+        <li><a href="{{ event.link-url }}">{{ event.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
 <h2>Why is the Ordeal such a big secret?</h2>
 Unami Lodge, One does not intend to keep any information from its newly elected candidates. However, any
 secrecy around the Ordeal is meant for a single purpose: the Experience. Revealing too much information before the

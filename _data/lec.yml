@@ -52,10 +52,13 @@ advisoryboard:
   name: Jeromy Hafer
   email: pastchief
 
-
 - title: Lodgemaster Adviser
   name: Lawrence Neibauer
   email: lneibauer
+
+- title: Memorabilia Show Chair
+  name: Rhys Wallace
+  email: rwallace
 
 - title: Memorabilia Show Adviser
   name: Paul Bowman
@@ -64,6 +67,10 @@ advisoryboard:
 - title: Medical Records Adviser
   name: Lee Faden
   email: lfaden
+
+- title: Strategic Plan Chair
+  name: Luke Cihak
+  email: lcihak
 
 committees:
 - title: American Indian Affairs Chair
@@ -123,15 +130,19 @@ committees:
   email: communications
 
 - title: Events Chair
-  name: Anthony Glass
-  email: events
-
-- title: Events Vice-Chair
   name: Riley Metzler
   email: events
 
+- title: Events Vice-Chair
+  name: Anthony Glass
+  email: events
+
 - title: Events Adviser
-  name: Vacant
+  name: Heather Filer
+  email: events
+
+- title: Events Assoc. Adviser
+  name: Pat Campbell
   email: events
 
 - title: Events Assoc. Adviser
@@ -140,10 +151,6 @@ committees:
 
 - title: History Chair
   name: Rhys Wallace
-  email: history
-
-- title: History Vice-Chair
-  name: Joseph Gulian
   email: history
 
 - title: History Adviser
@@ -187,7 +194,7 @@ committees:
   email: membership
 
 - title: Membership Assoc. Adviser
-  name: Christopher Smith
+  name: Chris Smith
   email: membership
 
 - title: Ordeal Chair
@@ -195,7 +202,15 @@ committees:
   email: ordeal
 
 - title: Ordeal Adviser
-  name: Vacant
+  name: Todd Malora
+  email: ordeal
+
+- title: Ordeal Assoc. Adviser
+  name: Alicia Tryon
+  email: ordeal
+
+- title: Ordeal Assoc. Adviser
+  name: Jim Cooke
   email: ordeal
 
 - title: Service Chair
@@ -207,20 +222,8 @@ committees:
   email: service
 
 - title: Service Co-Adviser
-  name: Daniel Lyons
+  name: Dan Lyons
   email: service
-
-- title: Troop Representative  Chair
-  name: PJ Weidman
-  email: trooprep
-
-- title: Troop Representative  Vice-Chair
-  name: Owen Boles
-  email: trooprep
-
-- title: Troop Representative  Adviser
-  name: Larry Arinsberg
-  email: trooprep
 
 - title: Unit Election Chair
   name: Ethan Graeff
@@ -238,6 +241,22 @@ committees:
   name: Tom Tryon
   email: unitelections
 
+- title: Unit Representative  Chair
+  name: PJ Weidman
+  email: unitrep
+
+- title: Unit Representative  Vice-Chair
+  name: Owen Boles
+  email: unitrep
+
+- title: Unit Representative  Adviser
+  name: Larry Arinsberg
+  email: unitrep
+
+- title: Unit Representative  Adviser
+  name: Ron Pleis
+  email: unitrep
+
 - title: Vigil Honor Chair
   name: Michael Calliagas
   email: vigil
@@ -248,4 +267,8 @@ committees:
 
 - title: Vigil Honor Associate Adviser
   name: Brett Montich
+  email: vigil
+
+- title: Vigil Honor Associate Adviser
+  name: Tim Reppert
   email: vigil

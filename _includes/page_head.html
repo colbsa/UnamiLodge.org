@@ -2,11 +2,24 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="title" content="Unami Lodge | Cradle of Liberty Council, BSA" />
-  <meta property="og:site_name" content="Unami Lodge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="title" content="Unami Lodge | Cradle of Liberty Council, BSA" />
+
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:image" content="{% if page.thumbnail %}{{site.url}}/img/posts/thumbs/{{page.thumbnail}}{% else %}{{site.url}}/img/posts/thumbs/sample.png{% endif %}">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@unamilodge">
+  <meta name="twitter:creator" content="@unamilodge">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image:src" content="{% if page.thumbnail %}{{site.url}}/img/posts/thumbs/{{page.thumbnail}}{% else %}{{site.url}}/img/posts/thumbs/sample.png{% endif %}">
 
   <title>{{page.title}} | {{site.title}}</title>
 

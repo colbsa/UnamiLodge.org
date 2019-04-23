@@ -144,6 +144,17 @@ blockquote {
   font-weight: 700;
   text-transform: uppercase;
 }
+.btn-outline-primary {
+  color: var(--site-primary);;
+  background-color: transparent;
+  background-image: none;
+  border-color: var(--site-primary);;
+}
+.btn-outline-primary:hover, .btn-outline-primary:hover {
+  color: var(--site-white);;
+  background-color: var(--site-primary);;
+  border-color: var(--site-primary);;
+}
 .btn-secondary {
   color: var(--site-white);
   background-color: var(--site-secondary);

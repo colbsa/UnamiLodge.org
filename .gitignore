@@ -2,3 +2,5 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+git_deploy.php
+assets/custom/php/secrets.php

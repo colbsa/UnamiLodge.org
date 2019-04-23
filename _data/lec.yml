@@ -1,0 +1,274 @@
+officers:
+- title: Lodge Chief
+  name: Aidan Campbell
+  email: chief
+
+- title: Vice Chief 1
+  name: Garrett Witherington
+  email: vc1
+
+- title: Vice Chief 2
+  name: Sean Plunkett
+  email: vc2
+
+- title: Treasurer
+  name: Seth Arinsberg
+  email: treasurer
+
+- title: Secretary
+  name: Luke Clancy
+  email: secretary
+
+- title: Lodge Adviser
+  name: Dennis Abernethy
+  email: lodgeadviser
+
+- title: Associate Lodge Adviser
+  name: Timothy English
+  email: tim.english
+
+- title: Associate Lodge Adviser
+  name: David King
+  email: david.king
+
+- title: Associate Lodge Adviser
+  name: Jerry Reed
+  email: jerry.reed
+
+- title: Lodge Staff Adviser
+  name: John Bickel
+  email: staffadviser
+
+- title: Supreme Chief of the Fire
+  name: Daniel Templar
+  email: supremechief
+
+advisoryboard:
+- title: Finance Adviser
+  name: Gregg Slocum
+  email: finance
+
+- title: Immediate Past Chief
+  name: Jeromy Hafer
+  email: pastchief
+
+- title: Lodgemaster Adviser
+  name: Lawrence Neibauer
+  email: lneibauer
+
+- title: Memorabilia Show Chair
+  name: Rhys Wallace
+  email: rwallace
+
+- title: Memorabilia Show Adviser
+  name: Paul Bowman
+  email: paul.bowman
+
+- title: Medical Records Adviser
+  name: Lee Faden
+  email: lfaden
+
+- title: Strategic Plan Chair
+  name: Luke Cihak
+  email: lcihak
+
+committees:
+- title: American Indian Affairs Chair
+  name: Matthew Horan
+  email: aia
+
+- title: American Indian Affairs Adviser
+  name: Scott Mann
+  email: aia
+
+- title: American Indian Affairs Assoc. Adviser
+  name: Brett Davis
+  email: aia
+
+- title: Brotherhood Chair
+  name: Patrick Lynch
+  email: brotherhood
+
+- title: Brotherhood Adviser
+  name: Brian Lewis
+  email: brotherhood
+
+- title: Camp Promotions Chair
+  name: Liam Lynch
+  email: camppromotions
+
+- title: Camp Promotions Adviser
+  name: Melissa Sirken
+  email: camppromotions
+
+- title: Ceremonies Chair
+  name: Austin Groeber
+  email: ceremonies
+
+- title: Ceremonies Adviser
+  name: Andrew Doggett
+  email: ceremonies
+
+- title: Ceremonies Assoc. Adviser
+  name: Michael Comfort
+  email: ceremonies
+
+- title: Communications Chair
+  name: Matthew Luke
+  email: communications
+
+- title: Communications Vice Chair
+  name: Alexander Ziemba
+  email: communications
+
+- title: Communications Adviser
+  name: Matt Gutterman
+  email: communications
+
+- title: Communications Assoc. Adviser
+  name: David Gibbons
+  email: communications
+
+- title: Events Chair
+  name: Riley Metzler
+  email: events
+
+- title: Events Vice-Chair
+  name: Anthony Glass
+  email: events
+
+- title: Events Adviser
+  name: Heather Filer
+  email: events
+
+- title: Events Assoc. Adviser
+  name: Pat Campbell
+  email: events
+
+- title: Events Assoc. Adviser
+  name: Robert Deck
+  email: events
+
+- title: History Chair
+  name: Rhys Wallace
+  email: history
+
+- title: History Adviser
+  name: Michael Comfort
+  email: history
+
+- title: History Assoc. Adviser
+  name: Phil Hittner
+  email: history
+
+- title: Leadership Development Chair
+  name: Andrew Geer
+  email: leadershipdevelopment
+
+- title: Leadership Development Adviser
+  name: Thomas Luke
+  email: leadershipdevelopment
+
+- title: Leadership Development Assoc. Adviser
+  name: Gary Hodge
+  email: leadershipdevelopment
+
+- title: Lodge Operations Chair
+  name: Luke Cihak
+  email: lodgeoperations
+
+- title: Lodge Operations Adviser
+  name: Paul Bowman
+  email: lodgeoperations
+
+- title: Lodge Operations Assoc. Adviser
+  name: Stuart Bowman
+  email: lodgeoperations
+
+- title: Membership Chair
+  name: Jeromy Hafer
+  email: membership
+
+- title: Membership Adviser
+  name: Steven Mach
+  email: membership
+
+- title: Membership Assoc. Adviser
+  name: Chris Smith
+  email: membership
+
+- title: Ordeal Chair
+  name: Seth Lavelle
+  email: ordeal
+
+- title: Ordeal Adviser
+  name: Todd Malora
+  email: ordeal
+
+- title: Ordeal Assoc. Adviser
+  name: Alicia Tryon
+  email: ordeal
+
+- title: Ordeal Assoc. Adviser
+  name: Jim Cooke
+  email: ordeal
+
+- title: Service Chair
+  name: Arron Liebel
+  email: service
+
+- title: Service Co-Adviser
+  name: Robert Burkhart
+  email: service
+
+- title: Service Co-Adviser
+  name: Dan Lyons
+  email: service
+
+- title: Unit Election Chair
+  name: Ethan Graeff
+  email: unitelections
+
+- title: Unit Election Vice-Chair
+  name: Will Beardsley
+  email: unitelections
+
+- title: Unit Election Adviser
+  name: Paul Dallatore
+  email: unitelections
+
+- title: Unit Election Assoc. Adviser
+  name: Tom Tryon
+  email: unitelections
+
+- title: Unit Representative  Chair
+  name: PJ Weidman
+  email: unitrep
+
+- title: Unit Representative  Vice-Chair
+  name: Owen Boles
+  email: unitrep
+
+- title: Unit Representative  Adviser
+  name: Larry Arinsberg
+  email: unitrep
+
+- title: Unit Representative  Adviser
+  name: Ron Pleis
+  email: unitrep
+
+- title: Vigil Honor Chair
+  name: Michael Calliagas
+  email: vigil
+
+- title: Vigil Honor Adviser
+  name: Matthew McGovern
+  email: vigil
+
+- title: Vigil Honor Associate Adviser
+  name: Brett Montich
+  email: vigil
+
+- title: Vigil Honor Associate Adviser
+  name: Tim Reppert
+  email: vigil

@@ -1,0 +1,9 @@
+<div class="containter-fluid featured-actions">
+  <div class="row">
+    {% for link in page.button-bar %}
+      <div class="col-md-4 col-sm-6 my-2">
+        <a href={{link[1]}} class="btn btn-light btn-block" target="_blank">{{link[0]}}</a>
+      </div>
+    {% endfor %}
+  </div>
+</div>

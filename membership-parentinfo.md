@@ -1,6 +1,7 @@
 ---
 title: Parent Info
 layout: page
+permalink: /parentinfo/
 ---
 
 Your son or daughter has been chosen to join Scouting’s National Honor Society – the Order of the Arrow. Their fellow Scouts from their unit have chosen them for this great honor, and you should be proud of their election. They will need your support as they begin their journey in the Order of the Arrow and serve Scouting in a whole new way. As a parent, we are sure that you have many questions about the Order of the Arrow, and what this means for your Scout. Hopefully, this page answers them all for you, and helps you understand the opportunities that await your son or daughter on their journey.

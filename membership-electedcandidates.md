@@ -1,6 +1,7 @@
 ---
 title: Elected Candidates
 layout: page
+permalink: /electedcandidates/
 ---
 
 Congratulations on your election to the Order of the Arrow, Scouting’s National Honor Society.

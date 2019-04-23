@@ -1,6 +1,7 @@
 ---
 title: New Members
 layout: page
+permalink: /newmembers/
 ---
 
 Congratulations! You’ve completed your Ordeal and are now a full member in Order of the Arrow, entitled to all the rights and privileges of membership. However, your journey in the Order of the Arrow is only just beginning. A world of opportunity is now open to you as a member of Unami Lodge, One. This page will help you as take the next steps on your membership journey and explore the wonders of the Order of the Arrow.

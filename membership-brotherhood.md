@@ -1,6 +1,7 @@
 ---
 title: Seal the Bond of Brotherhood
 layout: page
+permalink: /brotherhood/
 ---
 
 As an Ordeal member, your focus should be on providing leadership to your home unit. After 10 months as an Ordeal member, you have the opportunity to take the next step in your membership journey and become a Brotherhood member. As a Brotherhood member, your focus should shift to now serve the lodge as well, and providing leadership on the chapter or lodge level.

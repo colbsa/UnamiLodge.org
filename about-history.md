@@ -1,7 +1,7 @@
 ---
 title: Lodge History
 layout: portal
-
+permalink: /history/
 banner: /img/portals/history-portal.jpg
 ---
 

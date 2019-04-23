@@ -1,7 +1,7 @@
 ---
 title: Leadership Awards
 layout: page
-
+permalink: /awards/
 ---
 Each year, Unami Lodge presents various awards at the annual banquet. Recipients are nominated by fellow Arrowman throughout the year.  Below you will find links to all the nomination forms for the current year.
 

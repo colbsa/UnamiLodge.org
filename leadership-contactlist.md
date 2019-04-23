@@ -1,7 +1,7 @@
 ---
 title: Lodge Executive Committee
 layout: page
-
+permalink: /contactlist/
 ---
 <h3 class="mt-5">Officers</h3>
 <table class="table table-striped mt-3">

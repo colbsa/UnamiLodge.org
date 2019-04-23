@@ -1,7 +1,7 @@
 ---
 title: Lodge Calendar
 layout: page
-
+permalink: /calendar/
 ---
 <div class="table-responsive">
   <table class="table table-striped mt-3">

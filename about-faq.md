@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 layout: page
+permalink: /faq/
 ---
 
 **What is the Order of the Arrow?**

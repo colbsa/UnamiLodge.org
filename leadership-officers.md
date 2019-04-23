@@ -1,7 +1,7 @@
 ---
 title: Lodge Officers
 layout: page
-
+permalink: /officers/
 ---
 <table class="table table-striped my-3">
   <thead>

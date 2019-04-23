@@ -1,7 +1,7 @@
 ---
 title: Lodge Reports & Minutes
 layout: page
-
+permalink: /reports/
 ---
 
 Each meeting of the Lodge Executive Committee is recorded through detailed minutes by the lodge secretary. Once approved by the LEC at the following meeting, a copy of the approved minutes will be uploaded to this page for all members to view.  Additionally, annual reports submitted to the Cradle of Liberty council board can also be found below.

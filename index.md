@@ -4,6 +4,7 @@ layout: index
 
 slides:
   img/slider/slide1.png: https://conclaveregistration.org/section/ne5
+  img/slider/slide2.png: http://unamilodge.org/brotherhood/
 
 button-bar:
   Elected Candidates: /electedcandidates

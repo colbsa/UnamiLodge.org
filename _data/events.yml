@@ -38,6 +38,16 @@
   brotherhood: true
   highlight: true
 
+- title: Pow-Wow In The Park
+  dates: May 22, 2019
+  location: Lorimer Park
+  location-url: https://www.google.com/maps/place/183+Moredon+Rd,+Huntingdon+Valley,+PA+19006/data=!4m2!3m1!1s0x89c6b16fedb90021:0x3ed5c19d8d124e79?sa=X&ved=2ahUKEwjI6eSvvefhAhUGW60KHfzFAIkQ8gEwAHoECAoQAQ
+  link-text: Learn More
+  link-url: http://unamilodge.org/news/2019-Pow-Wow
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Section NE-5 Conclave
   dates: June 7-9, 2019
   location: Ockanickon Scout Reservation

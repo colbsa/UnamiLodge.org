@@ -1,7 +1,7 @@
 ---
-title: Lodge Advisers
+title: Unami Lodge Chiefs
 layout: page
-permalink: /history/lodge-advisers
+permalink: /history/unami-chiefs
 ---
 <table class="table table-striped my-3">
   <thead>
@@ -11,10 +11,10 @@ permalink: /history/lodge-advisers
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.lodgeadvisers %}
+    {% for person in site.data.history-unami_chiefs %}
       <tr>
         <td>{{person.name}}</td>
-        <td>{{person.start-year}} - {{person.end-year}}</td>
+        <td>{{person.term}}</td>
       </tr>
     {% endfor %}
   </tbody>

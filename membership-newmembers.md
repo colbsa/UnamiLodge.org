@@ -52,7 +52,7 @@ There are 15 operating committees of Unami Lodge, One, all eager for you to beco
 **Vigil Honor** – recognizes members of the lodge for dedicated service to the lodge, the Order of the Arrow, Scouting, and the Scout camp with the Vigil Honor at the annual Vigil Honor induction weekend, as well as providing continued servant leadership to all facets of the lodge and the Cradle of Liberty Council.
 
 ### Seal the Bonds of Brotherhood
-As an Ordeal member, your focus should be on providing leadership to your home unit. After 10 months as an Ordeal member, you have the opportunity to take the next step in your membership journey and become a Brotherhood member. As a Brotherhood member, your focus should shift to now serve the lodge as well, and providing leadership on the chapter or lodge level. You can become a Brotherhood member at any of our three lodge weekends, as well as at Resica Fall Scout Reservation during the summer. To sign-up and seal the bond, head over to the [Lodge Calendar](calendar).
+As an Ordeal member, your focus should be on providing leadership to your home unit. After 6 months as an Ordeal member, you have the opportunity to take the next step in your membership journey and become a Brotherhood member. As a Brotherhood member, your focus should shift to now serve the lodge as well, and providing leadership on the chapter or lodge level. You can become a Brotherhood member at any of our three lodge weekends, as well as at Resica Fall Scout Reservation during the summer. To sign-up and seal the bond, head over to the [Lodge Calendar](calendar).
 
 ### Key Contacts
 Questions? Head over to the [contact form](contact) and ask one of our lodge committees, or contact one of the leaders of the lodge listed below.

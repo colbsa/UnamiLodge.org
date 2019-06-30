@@ -15,7 +15,7 @@ The Thomas J. Richards Award for Outstanding Service is used to recognize those 
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.history-awards_youth_osa %}
+    {% for person in site.data.awards-youth-osa %}
       <tr>
         <td>{{person.year}}</td>
         <td>{{person.name}}</td>

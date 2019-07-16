@@ -14,6 +14,6 @@ I’m very excited to be serving my brothers this upcoming year. I am currently 
 
 Unami Lodge is a gateway to numerous opportunities for youth to grow, learn, enjoy themselves, and strengthen leadership skills. We have a tangible, positive impact on Scouting, the Scout Camps, our Council, and the community. It changed my outlook on Scouting and because of the OA, I’ve met some of my closest friends, and strengthened my already existing friendships. We have talented chapter chiefs, chairmen, and officers this upcoming year, who will give it their all and ensure our program is the best it can be! Be on the lookout for upcoming events! Our Spring Service 1 Weekend at Musser Scout Reservation is from April 12th-14th and the theme will be Carnival. I encourage the Scouts who joined our Order in 2018 to come out, you won’t regret it!
 
-Yours in Brotherhood,<br>
+Yours in Brotherhood, <br>
 Aidan Campbell <br>
 acampbell@unamilodge.org

@@ -129,6 +129,9 @@ blockquote {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
+.text-primary{
+  color: var(--site-primary) !important;
+}
 /*buttons*/
 .btn-primary {
   color: var(--site-white);

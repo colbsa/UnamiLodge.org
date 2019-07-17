@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96198154-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-96198154-3');
+  </script>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="title" content="Unami Lodge | Cradle of Liberty Council, BSA" />
@@ -26,17 +36,17 @@
   <title>{{page.title}} | {{site.title}}</title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.url }}/assets/vendor/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ site.url }}/assets/vendor/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/vendor/font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://use.typekit.net/awb5aoh.css">
-  <link rel="stylesheet" href="{{ site.url }}/assets/custom/css/style.css">
+  <link rel="stylesheet" href="/assets/custom/css/style.css">
   <!-- Fav Icons -->
-  <link rel="shortcut icon" href="{{ site.url }}/img/favicon.ico" />
+  <link rel="shortcut icon" href="/img/favicon.ico" />
 </head>
 <body>
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" id="mainNav">
   <div class="container">
-      <a class="navbar-brand" href="{{site.url}}"><img src="{{ site.url }}/img/logo.png" class="logo" alt="Unami Lodge"></a>
+      <a class="navbar-brand" href="{{site.url}}"><img src="/img/logo.png" class="logo" alt="Unami Lodge"></a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fa fa-bars"></i>
       </button>
@@ -47,11 +57,11 @@
             About
             </a>
             <div class="dropdown-menu dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="{{ site.url }}/history">Lodge History</a>
-              <a class="dropdown-item" href="{{ site.url }}/reports">Reports & Minutes</a>
-              <a class="dropdown-item" href="{{ site.url }}/rules">Rules & Procedures</a>
-              <a class="dropdown-item" href="{{ site.url }}/calendar">Lodge Calendar</a>
-              <a class="dropdown-item" href="{{ site.url }}/faq">Frequently Asked Questions</a>
+              <a class="dropdown-item" href="/history">Lodge History</a>
+              <a class="dropdown-item" href="/reports">Reports & Minutes</a>
+              <a class="dropdown-item" href="/rules">Rules & Procedures</a>
+              <a class="dropdown-item" href="/calendar">Lodge Calendar</a>
+              <a class="dropdown-item" href="/faq">Frequently Asked Questions</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -59,9 +69,10 @@
             Leadership
             </a>
             <div class="dropdown-menu dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="{{ site.url }}/officers">Lodge Officers</a>
-              <a class="dropdown-item" href="{{ site.url }}/contactlist">Contact List</a>
-              <a class="dropdown-item" href="{{ site.url }}/awards">Award Nominations</a>
+              <a class="dropdown-item" href="/officers">Lodge Officers</a>
+              <a class="dropdown-item" href="/contactlist">Contact List</a>
+              <a class="dropdown-item" href="/awards">Award Nominations</a>
+              <a class="dropdown-item" href="/scholarship">OA High Adventure Scholarship</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -69,11 +80,11 @@
             Membership
             </a>
             <div class="dropdown-menu dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="{{ site.url }}/dues">Pay My Dues</a>
-              <a class="dropdown-item" href="{{ site.url }}/electedcandidates">Elected Candidates</a>
-              <a class="dropdown-item" href="{{ site.url }}/newmembers">New Members</a>
-              <a class="dropdown-item" href="{{ site.url }}/brotherhood">Seal the Bond</a>
-              <a class="dropdown-item" href="{{ site.url }}/parentinfo">Parent Info</a>
+              <a class="dropdown-item" href="/dues">Pay My Dues</a>
+              <a class="dropdown-item" href="/electedcandidates">Elected Candidates</a>
+              <a class="dropdown-item" href="/newmembers">New Members</a>
+              <a class="dropdown-item" href="/brotherhood">Seal the Bond</a>
+              <a class="dropdown-item" href="/parentinfo">Parent Info</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -83,21 +94,21 @@
             <div class="dropdown-menu dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <a class="dropdown-item" href="#">Find My Chapter</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/badenpowell">Baden Powell</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/conestoga">Conestoga</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/constellation">Constellation</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/continental">Continental</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/generalnash">General Nash</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/lafayette">Lafayette</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/minquas">Minquas</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/northern">Northern</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/roosevelt">Roosevelt</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/triune">Triune</a>
-              <a class="dropdown-item" href="{{ site.url }}/chapters/washington">Washington</a>
+              <a class="dropdown-item" href="/chapters/badenpowell">Baden Powell</a>
+              <a class="dropdown-item" href="/chapters/conestoga">Conestoga</a>
+              <a class="dropdown-item" href="/chapters/constellation">Constellation</a>
+              <a class="dropdown-item" href="/chapters/continental">Continental</a>
+              <a class="dropdown-item" href="/chapters/generalnash">General Nash</a>
+              <a class="dropdown-item" href="/chapters/lafayette">Lafayette</a>
+              <a class="dropdown-item" href="/chapters/minquas">Minquas</a>
+              <a class="dropdown-item" href="/chapters/northern">Northern</a>
+              <a class="dropdown-item" href="/chapters/roosevelt">Roosevelt</a>
+              <a class="dropdown-item" href="/chapters/triune">Triune</a>
+              <a class="dropdown-item" href="/chapters/washington">Washington</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.url }}/news.html">News</a>
+            <a class="nav-link" href="/news.html">News</a>
           </li>
         </ul>
       </div>

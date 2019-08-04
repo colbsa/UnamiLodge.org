@@ -5,7 +5,7 @@ author: Michael Calliagas
 date: 2019-08-04
 banner: vigil-arrows.jpg
 thumbnail: vigil-arrows.jpg
-excerpt: New Brotherhood requirements have been released by the National OA Committee.
+excerpt: Upcoming vigil induction weekend is quickly approaching.
 ---
 
 Vigil Honor members,

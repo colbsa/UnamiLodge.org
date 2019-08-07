@@ -54,10 +54,8 @@
       <div class="card mb-3">
         <h5 class="card-header"><a href="/news">More News</a></h5>
         <div class="card-body">
-          {% for post in site.posts limit:6 %}
-            {% if forloop.index > 2 %}
+          {% for post in site.posts limit:4 offset:2 %}
             <a href="{{ BASE_PATH }}{{ post.url }}"><i class="fa fa-newspaper-o pr-2 text-body"></i>{{ post.title }}</a></br>
-            {% endif %}
           {% endfor %}
         </div>
       </div>

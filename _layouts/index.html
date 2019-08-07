@@ -56,7 +56,7 @@
         <div class="card-body">
           {% for post in site.posts limit:6 %}
             {% if forloop.index > 2 %}
-            <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></br>
+            <a href="{{ BASE_PATH }}{{ post.url }}"><i class="fa fa-newspaper-o pr-2 text-body"></i>{{ post.title }}</a></br>
             {% endif %}
           {% endfor %}
         </div>

@@ -114,6 +114,9 @@ blockquote {
   font-style: italic;
   color: #868e96;
 }
+iframe {
+  margin-bottom: 0.5rem;
+}
 .section-heading {
   font-size: 36px;
   font-weight: 700;

@@ -41,5 +41,5 @@ For more information, if you are seeking overnight lodging, or you want to purch
 [Download a Vendor Flyer](/files/2019_Scout-Memorabilia-Show_Vendor.pdf)
 
 ## Vendors
-- Setup Time: 4:00 - 6:00 pm Friday, Oct. 18th
+- Setup Time: Friday, Oct. 18th 4:00 - 6:00 pm
 - Hotel Space: We have rooms available at a discounted rate; mention you're with the Unami Lodge Show (610) 819-1288 at the local Motel 6

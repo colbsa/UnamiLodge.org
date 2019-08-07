@@ -50,6 +50,18 @@
           {% endfor %}
         </div>
       </div>
+      <!-- More News -->
+      <div class="card mb-3">
+        <h5 class="card-header">More News</h5>
+        <div class="card-body">
+          {% for post in site.posts limit:5 %}
+            {% if forloop.index > 2 %}
+            <a href="{{ BASE_PATH }}{{ post.url }}"></i>{{ post.title }}</a></br>
+            {% endif %}
+          {% endfor %}
+          <a href="/news"></i>All News</a></br>
+        </div>
+      </div>
     </div>
   </div>
 </div>

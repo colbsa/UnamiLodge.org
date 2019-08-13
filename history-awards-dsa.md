@@ -7,7 +7,7 @@ The Distinguished Service Award (DSA) was created in 1940 to honor those who ren
 
 The award is a sterling silver arrowhead bearing an arrow pointing up and to the wearer&#39;s right suspended from a white neck-ribbon on which red arrows are embroidered. A white square knot embroidered on red cloth is available for uniform wear, and a silver arrowhead lapel pin is available for civilian wear.
 
-<table class="table table-striped my-3 ">
+<table class="table table-responsive table-striped my-3 ">
   <thead>
     <tr>
       <th scope="col">Year</th>

@@ -7,7 +7,7 @@ Charles J. &quot;Chuck&quot; Benshetler was a Vigil Honor member of Unami Lodge,
 
 The Charles J. &quot;Chuck&quot; Benshetler Spirit of Camp Leadership Award is used to recognize those members of the Cradle of Liberty Council summer camp staff who exemplify the best qualities that a camp staff member should possess. Like Chuck, these individuals are always thinking about what is best for each Scout camper, and are always trying to improve camp through their selfless actions; it is through their words and actions that these individuals are seen by their fellow staff members and put in a position for recognition. Whether it is promoting the proper uniform, leading a song at meals, helping a Scout learn a new skill, or keeping morale high among the staff, the individuals honored with this award are always there to cheerfully take on such tasks, just as Chuck would have done.
 
-<table class="table table-striped my-3 ">
+<table class="table table-responsive table-striped my-3 ">
   <thead>
     <tr>
       <th scope="col">Year</th>

@@ -4,7 +4,7 @@ layout: page
 permalink: /contactlist/
 ---
 <h3 class="mt-5">Officers</h3>
-<table class="table table-striped mt-3">
+<table class="table table-responsive table-striped mt-3">
   <thead>
     <tr>
       <th scope="col">Positon</th>
@@ -23,7 +23,7 @@ permalink: /contactlist/
   </tbody>
 </table>
 <h3 class="mt-5">Advisory Board</h3>
-<table class="table table-striped mt-3">
+<table class="table table-responsive table-striped mt-3">
   <thead>
     <tr>
       <th scope="col">Positon</th>
@@ -42,7 +42,7 @@ permalink: /contactlist/
   </tbody>
 </table>
 <h3 class="mt-5">Committees</h3>
-<table class="table table-striped mt-3">
+<table class="table table-responsive table-striped mt-3">
   <thead>
     <tr>
       <th scope="col">Positon</th>
@@ -61,7 +61,7 @@ permalink: /contactlist/
   </tbody>
 </table>
 <h3 class="mt-5">Chapters</h3>
-<table class="table table-striped mt-3">
+<table class="table table-responsive table-striped mt-3">
   <thead>
     <tr>
       <th scope="col">Positon</th>

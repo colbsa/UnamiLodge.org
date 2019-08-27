@@ -9,7 +9,7 @@ While the Vigil Honor is a high mark of distinction, the Founders Award is used 
 
 The award is a handsome bronze medallion bearing the likenesses of E. Urner Goodman and Carroll A. Edson, with a wooden base and a brass plate suitable for engraving. Available for uniform wear is a gold-colored arrow suspended from a red ribbon.
 
-<table class="table table-striped my-3 ">
+<table class="table table-responsive table-striped my-3 ">
   <thead>
     <tr>
       <th scope="col">Year</th>

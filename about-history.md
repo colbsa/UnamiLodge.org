@@ -2,7 +2,7 @@
 title: Lodge History
 layout: portal
 permalink: /history/
-banner: /img/portals/history-portal.jpg
+banner: img/portals/history-portal.jpg
 ---
 
 Unami Lodge, One and the Order of the Arrow were founded at Treasure Island Camp in 1915 by Dr. E. Urner Goodman and Carroll A. Edson. Originally known as the Wimachtendienk Society, the Order of the Arrow has grown from a fledgling organization of twenty-seven members that first year, to a strong group of thousands of Scouts and Scouters dedicated to serving Scouting around the country over the last 104 years.

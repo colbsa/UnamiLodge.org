@@ -3,7 +3,7 @@ title: Lodge Officers
 layout: page
 permalink: /officers/
 ---
-<table class="table table-striped my-3">
+<table class="table table-responsive table-striped my-3">
   <thead>
     <tr>
       <th scope="col">Positon</th>

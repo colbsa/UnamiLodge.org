@@ -4,7 +4,7 @@ layout: page
 permalink: /calendar/
 ---
 <div class="table-responsive">
-  <table class="table table-striped mt-3">
+  <table class="table table-responsive table-striped mt-3">
     <thead>
       <tr>
         <th scope="col">Event</th>

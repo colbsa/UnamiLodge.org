@@ -55,7 +55,7 @@
   age: Adult
 - name: Joseph "Jay" Tittermary
   year: 2011
-  camp: Treasure Island / Resica Falls (Big Springs & Great Bend) / Musser
+  camp: Treasure Island / Resica Falls (Big Springs & Great Bend)
   lodge: Unami Lodge, One
   age: Adult
 - name: Brendan Fulmer
@@ -115,12 +115,12 @@
   age: Adult
 - name: Michael Coleman
   year: 2013
-  camp: Treasure Island / Resica Falls
+  camp: Treasure Island / Resica Falls / Musser
   lodge: Unami Lodge, One
   age: Adult
 - name: Gerald "Jerry" Reed
   year: 2013
-  camp: Treasure Island / Resica Falls (Big Springs & Firestone) / Barton / Tri-Mount
+  camp: Treasure Island / Resica Falls (Big Springs & Firestone)
   lodge: Unami Lodge, One
   age: Adult
 - name: Stephen Thomson
@@ -165,12 +165,12 @@
   age: Youth
 - name: Brian Texter
   year: 2015
-  camp: Musser / Treasure Island / Tri-Mount
+  camp: Musser / Treasure Island
   lodge: Unami Lodge, One
   age: Adult
 - name: Catherine Texter
   year: 2015
-  camp: Musser / Treasure Island / Tri-Mount
+  camp: Musser / Treasure Island
   lodge: Unami Lodge, One
   age: Adult
 - name: Joshua Sirken
@@ -180,7 +180,7 @@
   age: Youth
 - name: Dr. David Sirken
   year: 2015
-  camp: Resica Falls
+  camp: Resica Falls / Musser
   lodge: Unami Lodge, One
   age: Adult
 - name: Nolan Hurst

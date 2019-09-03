@@ -40,7 +40,7 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Dave Fortunato Outstanding Service Award</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="#">Coming Soon!</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/adult-osa">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Charles J. "Chuck" Benshetler Spirit of Camp Leadership Award Recipients</h5></td>

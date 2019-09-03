@@ -21,9 +21,9 @@ Thank you for completing a unit election for Unami Lodge, One. New members are v
 <h3 class="pt-3">Unit Election Supporting Documents</h3>
 <div class="row-fluid">
     <ul>
-        <li><a href="files/ue/1_-_Election_Procedures_and_Membership_Requirements.pdf" target= "_blank">1 - Election Procedures and Membership Requirements</a><br/></li>
-        <li><a href="files/ue/2_-_Pre_Election_Follow_Up_Letter.pdf" target= "_blank">2 - Pre Election Follow Up Letter</a><br/></li>
-        <li><a href="files/ue/3_-_Post_Election_Thank_You_Letter.pdf" target= "_blank">3 - Post Election Thank You Letter</a><br/></li>
-        <li><a href="files/ue/Unit_Elections_Worksheet.pdf" target= "_blank">Unit Elections Worksheet</a><br/></li>
+        <li><a href="/files/ue/1_-_Election_Procedures_and_Membership_Requirements.pdf" target= "_blank">1 - Election Procedures and Membership Requirements</a><br/></li>
+        <li><a href="/files/ue/2_-_Pre_Election_Follow_Up_Letter.pdf" target= "_blank">2 - Pre Election Follow Up Letter</a><br/></li>
+        <li><a href="/files/ue/3_-_Post_Election_Thank_You_Letter.pdf" target= "_blank">3 - Post Election Thank You Letter</a><br/></li>
+        <li><a href="/files/ue/Unit_Elections_Worksheet.pdf" target= "_blank">Unit Elections Worksheet</a><br/></li>
     </ul>
 </div>

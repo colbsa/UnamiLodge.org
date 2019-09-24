@@ -1,3 +1,9 @@
+function ContactForm() {
+  var requested_email = location.hash.substr(1);
+  if (requested_email.length > 1)
+    $("#contactform-recipient").replaceWith("<input type=\"text\" class=\"form-control\" name=\"recipient\" id=\"requested_email\" placeholder=\"\" value=\"" + requested_email + "\" disabled required>")
+};
+
 function ContactUsAlert(alert_class, alert_headline, alert_text) {
   $("#alert-response").removeClass("alert-info");
   $("#alert-response").removeClass("alert-warning");

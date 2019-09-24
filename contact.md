@@ -23,25 +23,21 @@ layout: page
       <div class="form-group">
         <label for="recipient">Recipient</label>
         <div class="input-group">
-          <select class="form-control" name="recipient" id="contactform-recipient">
+          <select class="form-control" name="recipient" id="contactform-recipient" required>
+            <option value="">Select One</option>
             <option value="membership">Membership</option>
             <option value="events">Events</option>
             <option value="ordeal">Ordeal</option>
             <option value="brotherhood">Brotherhood</option>
             <option value="service">Service</option>
             <option value="unitelections">Unit Elections</option>
-            <option value="ommunications" selected>Communications / Other</option>
+            <option value="communications">Communications / Other</option>
           </select>
           <div class="input-group-append">
             <div class="input-group-text">@UnamiLodge.org</div>
           </div>
           <div class="invalid-feedback">Please enter a recipient.</div>
         </div>
-      </div>
-      <div class="form-group">
-        <label for="subject">Subject</label>
-        <input type="text" class="form-control" name="subject" id="contactform-subject" placeholder="" value="" required>
-        <div class="invalid-feedback">Please enter a subject.</div>
       </div>
     </div>
     <div class="col-md-6">
@@ -58,3 +54,9 @@ layout: page
 </form>
 
 For more options, a complete list of Unami Lodge Leadership is available on our [Contact List Page](contactlist).
+
+<script type="text/javascript">
+window.onload = function() {
+  ContactForm();
+};
+</script>

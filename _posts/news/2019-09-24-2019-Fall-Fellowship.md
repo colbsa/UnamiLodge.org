@@ -12,4 +12,4 @@ Brothers, are you ready for an awesome weekend? I know I sure am. Come out to [R
 
 [Registration is availble here, so sign up now!](http://colbsa.doubleknot.com/event/fall-fellowship/2380637)
 
-Don't forget! This is the weekend we hold officer elections. [For more information click here.](/news/2019-09-23-2020-Officer-Elections)
+Don't forget! This is the weekend we hold officer elections. [For more information click here.](/news/2020-Officer-Elections)

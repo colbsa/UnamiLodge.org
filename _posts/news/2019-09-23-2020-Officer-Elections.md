@@ -12,6 +12,7 @@ The lodge is holding it’s annual elections for officers at the [fall fellowshi
 
 - **Chief**
   - Luke Cihak
+  - Luke Clancy
   - Andrew Geer
   - Matthew Horan
   - Sean Plunkett

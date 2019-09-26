@@ -7,6 +7,6 @@
     "php-http/curl-client": "^2.0",
     "guzzlehttp/psr7": "^1.4",
     "php-http/message": "^1.5",
-    "catfan/Medoo": "^1.6"
+    "catfan/medoo": "^1.6"
   }
 }

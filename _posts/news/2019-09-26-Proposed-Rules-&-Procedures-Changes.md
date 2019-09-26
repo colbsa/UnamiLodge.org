@@ -10,5 +10,5 @@ excerpt: Proposed rules and procedures changes to be voted upon during Fall Fell
 
 The following proposed Rules & Procedures changes shall be voted upon by general lodge membership at Fall Fellowship 2019:
 
-- [Readability and National Changes](/files/rules/proposed_sept19/readablity_and_national_changes.pdf)
-- [Budget Approval Change](/files/rules/proposed_sept19/budget_approval_changes.pdf)
+- [Readability and National Changes](/files/rules/proposed_sept19/readablity_and_national_changes.pdf){:target="_blank"}
+- [Budget Approval Change](/files/rules/proposed_sept19/budget_approval_changes.pdf){:target="_blank"}

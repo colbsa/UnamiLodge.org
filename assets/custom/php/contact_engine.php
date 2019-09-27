@@ -1,6 +1,6 @@
 <?php
 
-require '../../vendor/autoload.php';
+require '../../vendor/php/autoload.php';
 use Mailgun\Mailgun;
 use Medoo\Medoo;
 
@@ -14,7 +14,7 @@ $mailgun = array();
 
 $mailgun['domain'] = "unamilodge.org";
 $mailgun['from'] = "UnamiLodge.org Contact Form <contact_form@" . $mailgun['domain'] . ">";
-$mailgun['subject'] = "UnamiLodge.org Message About: "; // Is added to later in script
+$mailgun['subject'] = "UnamiLodge.org Message To: "; // Is added to later in script
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
@@ -41,9 +41,14 @@ if (empty($user_data['recaptcha']))
 
 if(!isset($error_text))
 {
-  $recaptcha_status   = isreCAPTCHAValid($SECRET_recaptcha, $user_data['recaptcha'], $user_data['address']);
-  if ($recaptcha_status != true)
-    $error_text = "reCAPTCHA was not verified.";
+  $recaptcha = new \ReCaptcha\ReCaptcha($SECRET_recaptcha);
+  $resp = $recaptcha->setExpectedHostname('recaptcha-demo.appspot.com')
+                    ->verify($user_data['recaptcha'], $user_data['address']);
+  if ($resp->isSuccess()) {
+    // Verified!
+  } else {
+    $error_text = "reCAPTCHA was not verified. " . $resp->getErrorCodes();
+  }
 }
 
 $inputs = ['name', 'email', 'recipient', 'subject', 'message'];
@@ -63,7 +68,7 @@ if(!isset($error_text))
    *          EMAIL FORM DATA          *
    * * * * * * * * * * * * * * * * * * */
 
-  $mailgun['subject'] .= $user_data['subject'];
+  $mailgun['subject'] .= $user_data['recipient'] . " From: " . $user_data['name'];
 
   $send_text = "The following was submitted to UnamiLodge.org/contact." .
     PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
@@ -72,7 +77,7 @@ if(!isset($error_text))
 
   $mg->sendMessage($mailgun['domain'], array(
     'from'        => $mailgun['from'],
-    'to'          => "Unami Lodge <" . $user_data['recipient'] . "@" . $mailgun['domain'] . ">, Communications Committee <communications@" . $mailgun['domain'] . ">",
+    'to'          => ucfirst($user_data['recipient']) . " Committee <" . $user_data['recipient'] . "@" . $mailgun['domain'] . ">, Communications Committee <communications@" . $mailgun['domain'] . ">",
     'h:Reply-To'  => $user_data['name'] . " <" . $user_data['email'] . ">, Communications Committee <communications@" . $mailgun['domain'] . ">",
     'subject'     => $mailgun['subject'],
     'text'        => $send_text

@@ -7,7 +7,7 @@ layout: page
 <div class="alert alert-warning">
     This page is still under some construction. Please check back later for your best service!
 </div>
-<form id="contactform" class="needs-validation"   onsubmit="event.preventDefault();" novalidate>
+<form id="contactform" onsubmit="event.preventDefault();" novalidate>
   <div class="row">
     <div class="col-md-6">
       <div class="form-group">
@@ -46,8 +46,16 @@ layout: page
         <textarea class="form-control" name="message" id="contactform-message" rows="12" required></textarea>
         <div class="invalid-feedback">Please enter a message.</div>
       </div>
+      <div class="g-recaptcha"
+        data-sitekey="{{ site.recaptcha }}"
+        data-callback="ContactUs"
+        data-size="invisible">
+      </div>
       <div class="form-group">
         <button type="submit" class="btn btn-primary btn-block" id="contactform-send">Send</button>
+      </div>
+      <div class="alert alert-info fade hidden" role="alert" id="alert-response">
+        <strong id="alert-headline"></strong> <span id="alert-text"></span>
       </div>
     </div>
   </div>
@@ -60,3 +68,6 @@ window.onload = function() {
   ContactForm();
 };
 </script>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>

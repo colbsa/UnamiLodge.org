@@ -14,7 +14,7 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
   $("#alert-response").removeClass("hidden")
   $("#alert-response").addClass("show")
 }
-$("#contact-form").validate({
+$("#contactform").validate({
   rules: {
     name: {
       required: true
@@ -23,19 +23,26 @@ $("#contact-form").validate({
       required: true,
       email: true
     },
+    recipient: {
+      required: true,
+    },
     message: {
       required: true
     }
   },
   messages: {
     name: "Please tell us your name.",
+    recipiet: "Please select a recipient.",
     email: {
       required: "Please give us your email address.",
-      email: "Please put your email address in the format of name@domain.com"
+      email: "Please put your email address in the format of name@example.com"
     },
     message: "Please let us know what you want to say."
   },
+  errorClass: "invalid",
+  validClass: "valid",
   submitHandler: function() {
+    $("#contactform").addClass("was-validated");
     grecaptcha.execute();
   }
 });
@@ -44,15 +51,16 @@ function ContactUs() {
   var alert_headline = "Loading...";
   var alert_text = "";
   ContactUsAlert(alert_class, alert_headline, alert_text)
-  $("#forminput_name").prop('disabled', true);
-  $("#forminput_email").prop('disabled', true);
-  $("#forminput_message").prop('disabled', true);
-  $("#forminput_send").prop('disabled', true);
+  $("#contactform-name").prop('disabled', true);
+  $("#contactform-email").prop('disabled', true);
+  $("#contactform-recipient").prop('disabled', true);
+  $("#contactform-message").prop('disabled', true);
+  $("#contactform-send").prop('disabled', true);
   $.ajax({
-    url: '_inc/ContactUs_Engine.php',
+    url: '/assets/custom/php/contact_engine.php',
     method: 'POST',
     dataType: 'json',
-    data: $("#contact-form :input"),
+    data: $("#contactform :input"),
     success: function(data) {
       if(data['success'] == true)
       {

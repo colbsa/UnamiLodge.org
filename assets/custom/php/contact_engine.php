@@ -47,7 +47,7 @@ if(!isset($error_text))
   if ($resp->isSuccess()) {
     // Verified!
   } else {
-    $error_text = "reCAPTCHA was not verified. " . $resp->getErrorCodes();
+    $error_text = "reCAPTCHA was not verified. " . var_dump($resp->getErrorCodes());
   }
 }
 

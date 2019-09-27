@@ -17,7 +17,8 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 $("#contactform").validate({
   rules: {
     name: {
-      required: true
+      required: true,
+      minlength: 2
     },
     email: {
       required: true,
@@ -27,12 +28,13 @@ $("#contactform").validate({
       required: true,
     },
     message: {
-      required: true
+      required: true,
+      minlength: 5
     }
   },
   messages: {
     name: "Please tell us your name.",
-    recipiet: "Please select a recipient.",
+    recipient: "Please select a recipient.",
     email: {
       required: "Please give us your email address.",
       email: "Please put your email address in the format of name@example.com"
@@ -41,6 +43,9 @@ $("#contactform").validate({
   },
   errorClass: "invalid",
   validClass: "valid",
+  invalidHandler: function() {
+    $("#contactform").addClass("was-validated");
+  },
   submitHandler: function() {
     $("#contactform").addClass("was-validated");
     grecaptcha.execute();

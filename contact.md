@@ -13,12 +13,10 @@ layout: page
       <div class="form-group">
         <label for="name">Name</label>
         <input type="text" class="form-control" name="name" id="contactform-name" placeholder="" value="" required>
-        <div class="invalid-feedback">Valid name is required.</div>
       </div>
       <div class="form-group">
         <label for="email">Email</label>
         <input type="email" class="form-control" name="email" id="contactform-email" placeholder="" value="" required>
-        <div class="invalid-feedback">Valid email is required.</div>
       </div>
       <div class="form-group">
         <label for="recipient">Recipient</label>
@@ -36,7 +34,6 @@ layout: page
           <div class="input-group-append">
             <div class="input-group-text">@UnamiLodge.org</div>
           </div>
-          <div class="invalid-feedback">Please enter a recipient.</div>
         </div>
       </div>
     </div>
@@ -44,7 +41,6 @@ layout: page
       <div class="form-group">
         <label for="message">Message</label>
         <textarea class="form-control" name="message" id="contactform-message" rows="12" required></textarea>
-        <div class="invalid-feedback">Please enter a message.</div>
       </div>
       <div class="g-recaptcha"
         data-sitekey="{{ site.recaptcha }}"

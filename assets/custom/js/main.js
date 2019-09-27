@@ -81,9 +81,7 @@ function ContactUs() {
       }
       ContactUsAlert(alert_class, alert_headline, alert_text);
     },
-    error: function(xhr, status, error) {
-      var err = eval("(" + xhr.responseText + ")");
-      console.log(err.Message);
+    error: function(data) {
       alert_class = "alert-danger";
       alert_headline = "Woops!";
       alert_text = "Sorry, but it looks like something has gone wrong. Please try again later.";

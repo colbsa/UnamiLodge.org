@@ -50,7 +50,7 @@ if(!isset($error_text))
   }
 }
 
-$inputs = ['name', 'email', 'recipient', 'subject', 'message'];
+$inputs = ['name', 'email', 'recipient', 'message'];
 
 foreach ($inputs as $input)
 {

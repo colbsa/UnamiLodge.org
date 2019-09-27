@@ -26,7 +26,6 @@ $return_data = array();
 $user_data['name'] = trim($_POST['name']);
 $user_data['email'] = trim($_POST['email']);
 $user_data['recipient'] = trim($_POST['recipient']);
-$user_data['subject'] = trim($_POST['subject']);
 $user_data['message'] = trim($_POST['message']);
 $user_data['recaptcha'] = $_POST['g-recaptcha-response'];
 

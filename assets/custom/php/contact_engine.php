@@ -72,15 +72,15 @@ if(!isset($error_text))
   $send_text = "The following was submitted to UnamiLodge.org/contact." .
     PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
 
-  $mg = new Mailgun($SECRET_mailgun);
+  $mg = Mailgun::create($SECRET_mailgun);
 
-  $mg->sendMessage($mailgun['domain'], array(
+  $mg->messages()->send($mailgun['domain'], [
     'from'        => $mailgun['from'],
     'to'          => ucfirst($user_data['recipient']) . " Committee <" . $user_data['recipient'] . "@" . $mailgun['domain'] . ">, Communications Committee <communications@" . $mailgun['domain'] . ">",
     'h:Reply-To'  => $user_data['name'] . " <" . $user_data['email'] . ">, Communications Committee <communications@" . $mailgun['domain'] . ">",
     'subject'     => $mailgun['subject'],
     'text'        => $send_text
-  ));
+  ]);
 
   /* * * * * * * * * * * * * * * * * * *
    *          DATABASE INSERT          *

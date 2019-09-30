@@ -14,6 +14,7 @@ $mailgun = array();
 
 $mailgun['domain'] = "unamilodge.org";
 $mailgun['from'] = "UnamiLodge.org Contact Form <contact_form@" . $mailgun['domain'] . ">";
+$mailgun['log_recipient'] = "communications";
 $mailgun['subject'] = "UnamiLodge.org Message To: "; // Is added to later in script
 
 /* * * * * * * * * * * * * * * * * * *
@@ -41,7 +42,7 @@ if (empty($user_data['recaptcha']))
 if(!isset($error_text))
 {
   $recaptcha = new \ReCaptcha\ReCaptcha($SECRET_recaptcha);
-  $resp = $recaptcha->setExpectedHostname($mailgun['domain'])
+  $resp = $recaptcha->setExpectedHostname("{% jekyll.environment %}" . "." . $mailgun['domain'])
                     ->verify($user_data['recaptcha'], $user_data['address']);
   if ($resp->isSuccess()) {
     // Verified!
@@ -66,6 +67,12 @@ if(!isset($error_text))
   /* * * * * * * * * * * * * * * * * * *
    *          EMAIL FORM DATA          *
    * * * * * * * * * * * * * * * * * * */
+
+  $mailgun['to_field'] = ucfirst($user_data['recipient']) . " Committee <" . $user_data['recipient'] . "@" . $mailgun['domain'] . ">";
+  if (strcasecmp($user_data['recipient'], $mailgun['log_recipient']) != 0)
+  {
+    $mailgun['to_field'] .=", Communications Committee <communications@" . $mailgun['domain'] . ">";
+  }
 
   $mailgun['subject'] .= $user_data['recipient'] . " From: " . $user_data['name'];
 
@@ -95,7 +102,6 @@ if(!isset($error_text))
     'name' => $user_data['name'],
     'email' => $user_data['email'],
     'recipient' => $user_data['recipient'],
-    'subject' => $user_data['subject'],
     'message' => $user_data['message'],
     'orig_ip' => $user_data['address'],
   ]);

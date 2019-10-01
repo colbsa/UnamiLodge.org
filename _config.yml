@@ -6,6 +6,8 @@ description: "As the founding lodge of the Order of the Arrow, Unami Lodge, One 
 url: http://127.0.0.1:4000
 baseurl:
 
+recaptcha: 6LdlwroUAAAAAKKNaJmAUiIKTRFYNk_qVpy9b5Fo
+
 permalink: /news/:title:output_ext
 
 page_gen:

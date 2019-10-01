@@ -17,19 +17,19 @@ permalink: /calendar/
       {% for event in site.data.events %}
         <tr>
           <td class="align-middle">{{event.title}}</td>
+          <td class="align-middle">
           {% if event.date-end %}
-            <td class="date-end" hidden>{{event.date-end}}</td>
             {% assign m = event.date | date: "%-m" %}
             {% assign n = event.date-end | date: "%-m" %}
             {% if m == n %}
-              <td class="align-middle">{{event.date | date: "%B %-d"}}-{{ event.date-end | date: "%-d, %Y"}}</td>
+              {{event.date | date: "%B %-d"}}-{{ event.date-end | date: "%-d, %Y"}}
             {% else %}
-              <td class="align-middle">{{event.date | date: "%B %-d"}} - {{ event.date-end | date: "%B %-d, %Y"}}</td>
+              {{event.date | date: "%B %-d"}} - {{ event.date-end | date: "%B %-d, %Y"}}
             {% endif %}
           {% else %}
-            <td class="date-end" hidden>{{event.date}}</td>
-            <td class="align-middle">{{event.date | date: "%B %-d, %Y"}}</td>
+            {{event.date | date: "%B %-d, %Y"}}
           {% endif %}
+          </td>
           {% if event.location-url %}
             <td class="align-middle"><a href="{{event.location-url}}">{{event.location}}</a></td>
           {% else %}

@@ -42,7 +42,7 @@ if (empty($user_data['recaptcha']))
 if(!isset($error_text))
 {
   $recaptcha = new \ReCaptcha\ReCaptcha($SECRET_recaptcha);
-  $resp = $recaptcha->setExpectedHostname("{% jekyll.environment %}" . "." . $mailgun['domain'])
+  $resp = $recaptcha->setExpectedHostname($CONSTANT_environment . "." . $mailgun['domain'])
                     ->verify($user_data['recaptcha'], $user_data['address']);
   if ($resp->isSuccess()) {
     // Verified!

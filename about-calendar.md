@@ -4,7 +4,7 @@ layout: page
 permalink: /calendar/
 ---
 <div class="table-responsive">
-  <table class="table table-responsive table-striped mt-3">
+  <table class="table table-responsive table-striped mt-3" id="lodge-calendar">
     <thead>
       <tr>
         <th scope="col">Event</th>
@@ -17,7 +17,19 @@ permalink: /calendar/
       {% for event in site.data.events %}
         <tr>
           <td class="align-middle">{{event.title}}</td>
-          <td class="align-middle">{{event.dates}}</td>
+          {% if event.date-end %}
+            <td class="date-end" hidden>{{event.date-end}}</td>
+            {% assign m = event.date | date: "%-m" %}
+            {% assign n = event.date-end | date: "%-m" %}
+            {% if m == n %}
+              <td class="align-middle">{{event.date | date: "%B %-d"}}-{{ event.date-end | date: "%-d, %Y"}}</td>
+            {% else %}
+              <td class="align-middle">{{event.date | date: "%B %-d"}} - {{ event.date-end | date: "%B %-d, %Y"}}</td>
+            {% endif %}
+          {% else %}
+            <td class="date-end" hidden>{{event.date}}</td>
+            <td class="align-middle">{{event.date | date: "%B %-d, %Y"}}</td>
+          {% endif %}
           {% if event.location-url %}
             <td class="align-middle"><a href="{{event.location-url}}">{{event.location}}</a></td>
           {% else %}

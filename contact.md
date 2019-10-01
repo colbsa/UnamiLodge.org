@@ -4,9 +4,6 @@ layout: page
 
 ---
 
-<div class="alert alert-warning">
-    This page is still under some construction. Please check back later for your best service!
-</div>
 <form id="contactform" onsubmit="event.preventDefault();" novalidate>
   <div class="row">
     <div class="col-md-6">

@@ -17,7 +17,7 @@ Each year, Unami Lodge presents various awards at the annual banquet. Recipients
     {% for award in site.data.awards %}
       <tr>
         <td class="align-middle">{{award.title}}</td>
-        <td class="align-middle">{{award.deadline}}</td>
+        <td class="align-middle">{{award.deadline | date: "%B %-d, %Y"}}</td>
         {% if award.link-url %}
           <td class="align-middle"><a class="btn btn-primary" href="{{award.link-url}}">{{award.link-text}}</a></td>
         {% else %}

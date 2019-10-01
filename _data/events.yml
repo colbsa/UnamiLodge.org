@@ -1,95 +1,6 @@
-- title: 103rd Annual Dinner
-  dates: January 6, 2019
-  location: Presidential Caterers
-  location-url: https://www.google.com/maps/place/2912+Dekalb+Pike,+East+Norriton,+PA+19401/@40.1423705,-75.3142911,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6bd0bd71dab6f:0x468e5afe0abf549f!8m2!3d40.1423705!4d-75.3121024
-  link-text: Registration Closed
-  link-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Community Service Day
-  dates: March 30, 2019
-  location: Various Locations
-  location-url:
-  link-text: No Registration Neccesary
-  link-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Spring Service 1
-  dates: April 12-14, 2019
-  location: Musser SR
-  location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
-  link-text: Registration Closed
-  link-url:
-  ordeal: true
-  brotherhood: true
-  highlight: false
-
-- title: Spring Service 2
-  dates: May 17-19, 2019
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Registration Closed
-  link-url:
-  ordeal: true
-  brotherhood: true
-  highlight: false
-
-- title: Pow-Wow In The Park
-  dates: May 22, 2019
-  location: Lorimer Park
-  location-url: https://www.google.com/maps/place/183+Moredon+Rd,+Huntingdon+Valley,+PA+19006/data=!4m2!3m1!1s0x89c6b16fedb90021:0x3ed5c19d8d124e79?sa=X&ved=2ahUKEwjI6eSvvefhAhUGW60KHfzFAIkQ8gEwAHoECAoQAQ
-  link-text: Learn More
-  link-url: http://unamilodge.org/news/2019-Pow-Wow
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Section NE-5 Conclave
-  dates: June 7-9, 2019
-  location: Ockanickon Scout Reservation
-  location-url:
-  link-text: Registration Closed
-  link-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Summer Camp Inductions
-  dates: June 24 - August 31, 2019
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Registration Closed
-  link-url:
-  ordeal: true
-  brotherhood: true
-  highlight: false
-
-- title: Vigil Induction Weekend
-  dates: August 17-18, 2019
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Registration Closed
-  link-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Council Service Day
-  dates: September 14, 2019 (Tentative)
-  location: Musser SR
-  location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
-  link-text: Registration Closed
-  link-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Fall Fellowship
-  dates: October 4-6, 2019
+  date: 2019-10-04
+  date-end: 2019-10-06
   location: Resica Falls SR
   location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
   link-text: Register Now
@@ -99,20 +10,154 @@
   highlight: true
 
 - title: Scout Memorabilia Show
-  dates: October 18-19, 2019
+  date: 2019-10-18
+  date-end: 2019-10-19
   location: North End Fire Company
   location-url: https://www.google.com/maps?ll=40.259063,-75.63322&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=6555640595728338837
   link-text: More Information
   link-url: /news/2019-Scout-Memorabilia-Show.html
-  ordeal: true
-  brotherhood: true
+  ordeal: false
+  brotherhood: false
   highlight: true
 
-- title: Lodge Leadership Development
-  dates: November 29 - December 1, 2019
-  location: Camp Delmont
+- title: New Member Bash
+  date: 2019-11-15
+  date-end:
+  location: TBD
   location-url:
   link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Lodge Leadership Development
+  date: TBD
+  date-end:
+  location: TBD
+  location-url:
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: 104th Annual Dinner
+  date: 2020-01-05
+  date-end:
+  location: Presidential Caterers
+  location-url: https://www.google.com/maps/place/2912+Dekalb+Pike,+East+Norriton,+PA+19401/@40.1423705,-75.3142911,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6bd0bd71dab6f:0x468e5afe0abf549f!8m2!3d40.1423705!4d-75.3121024
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Community Service Day
+  date: 2020-03-21
+  date-end:
+  location: Various Locations
+  location-url:
+  link-text: No Registration Neccesary
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Spring Service 1
+  date: 2020-04-03
+  date-end: 2020-04-05
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Spring Service 2
+  date: 2020-05-15
+  date-end: 2020-05-17
+  location: Resica Falls SR
+  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Section NE-5 Conclave
+  date: 2020-06-05
+  date-end: 2020-06-07
+  location: Goose Pond SR
+  location-url: https://www.google.com/maps/place/Goose+Pond+Scout+Reservation/@41.404131,-75.276116,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4b9a06308c7f7:0x881ed9ffccee371!8m2!3d41.404127!4d-75.273922
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Summer Camp Inductions
+  date: 2020-06-24
+  date-end: 2020-08-06
+  location: Resica Falls SR
+  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: National Order of the Arrow Conference
+  date: 2020-08-03
+  date-end: 2020-08-08
+  location: Michigan State University
+  location-url: https://www.google.com/maps/place/Michigan+State+University/@42.7018519,-84.4843659,17z/data=!3m1!4b1!4m5!3m4!1s0x8822c259da888d63:0x6e9898ab05aa3b3f!8m2!3d42.701848!4d-84.4821719
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/event/2020-noac/2578650
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
+- title: Vigil Induction Weekend
+  date: TBD
+  date-end:
+  location: TBD
+  location-url:
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Council Service Day
+  date: 2020-09-26
+  date-end:
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Fall Fellowship
+  date: 2020-10-09
+  date-end: 2020-10-11
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Scout Memorabilia Show
+  date: 2020-10-16
+  date-end: 2020-10-17
+  location: TBD
+  location-url:
+  link-text: Coming Soon
   link-url:
   ordeal: false
   brotherhood: false

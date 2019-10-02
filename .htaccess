@@ -75,8 +75,8 @@ Options All -Indexes
 #####
 #Redirects
 #####
-# ErrorDocument 404 /404/index.html
-# ErrorDocument 403 /403/index.html
+ErrorDocument 404 /404/index.html
+ErrorDocument 403 /403/index.html
 
 RewriteRule ^news/index.html /news.html [L]
 

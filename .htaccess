@@ -75,8 +75,8 @@ Options All -Indexes
 #####
 #Redirects
 #####
-# ErrorDocument 404 /404.html
-# ErrorDocument 403 /403.html
+ErrorDocument 404 /404/index.html
+ErrorDocument 403 /403/index.html
 
 RewriteRule ^news/index.html /news.html [L]
 
@@ -95,3 +95,5 @@ Redirect /interestsurvey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7
 Redirect /Interest-Survey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form
 
 Redirect /show /news/2019-Scout-Memorabilia-Show.html
+
+Redirect /noac https://colbsa.doubleknot.com/event/2020-noac/2578650

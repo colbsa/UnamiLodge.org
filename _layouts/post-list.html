@@ -31,14 +31,27 @@
       <li class="page-item">
         <a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a>
       </li>
+      <li class="page-item">
+        <a class="page-link" href="/news">1</a>
+      </li>
+      {% if paginator.page > 2 %}
+      <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1">Previous</a></li>
+      {% endif %}
     {% else %}
     <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1">Previous</a></li>
     {% endif %}
       <li class="page-item disabled">
-        <a class="page-link" href="#" tabindex="-1">Page: {{ paginator.page }} of {{ paginator.total_pages }}</a>
+        <a class="page-link" href="#" tabindex="-1">{{ paginator.page }}</a>
       </li>
+    {% assign second_to_last_page = paginator.total_pages | minus: 1 %}
     {% if paginator.next_page %}
-    <li class="page-item">
+      {% if paginator.page < second_to_last_page %}
+      <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1">Previous</a></li>
+      {% endif %}
+      <li class="page-item">
+        <a class="page-link" href="/news/page{{ paginator.total_pages }}/">{{ paginator.total_pages }}</a>
+      </li>
+      <li class="page-item">
         <a class="page-link" href="{{ paginator.next_page_path }}">Next</a>
       </li>
     {% else %}

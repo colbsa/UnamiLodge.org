@@ -33,4 +33,4 @@ If you haven't seen the instagram story check it out [@unamilodge](https://insta
 Can't wait for what's next? Neither can we!
 - [Scout Memorabilia Show](/news/2019-Scout-Memorabilia-Show.html) *- October 18-19*
 - [New Members' Bash](/calendar) *- November 15*
-- [Lodge Leadership Development](/calendar) *- TBD*
+- [Lodge Leadership Development](/calendar) *- December 6-8*

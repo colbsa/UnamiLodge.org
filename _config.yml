@@ -11,7 +11,7 @@ baseurl:
 
 recaptcha: 6LdlwroUAAAAAKKNaJmAUiIKTRFYNk_qVpy9b5Fo
 
-permalink: /news/:title:output_ext
+permalink: /news/:title
 
 pagination:
   limit: false

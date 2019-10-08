@@ -22,9 +22,14 @@ $(function() {
   var message = getUrlParams('message');
   if (recipient.length > 1){
     $("#contactform-recipient").replaceWith("<input type=\"text\" class=\"form-control\" name=\"recipient\" id=\"requested_email\" placeholder=\"\" value=\"" + recipient + "\" disabled required>")
+    $("#contactform-card").remove();
     if (message.length > 1)
       $("#contactform-message").text(message);
   }
+});
+
+$("#contactform-recipient").change(function () {
+  $("#recipient-name").text(this.value);
 });
 
 function ContactUsAlert(alert_class, alert_headline, alert_text) {

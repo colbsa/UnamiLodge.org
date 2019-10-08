@@ -33,6 +33,12 @@ layout: page
           </div>
         </div>
       </div>
+      <!-- <div class="card" id="contactform-card">
+        <div class="card-body">
+          <h5 class="card-title" id="recipient-name">Select Recipient</h5>
+          <p class="card-text" id="recipient-description">Select a recipient to learn how that committee may be able to help you!</p>
+        </div>
+      </div>-->
     </div>
     <div class="col-md-6">
       <div class="form-group">
@@ -53,5 +59,17 @@ layout: page
     </div>
   </div>
 </form>
+
+<script type="text/javascript">
+recipients = [
+{% for committee in site.data.committees %}
+{
+"name": "{{committee.committee-name}}",
+"email": "{{committee.email}}",
+"description": "{{committee.responsibilities}}"
+},
+{% endfor %}
+];
+</script>
 
 For more options, a complete list of Unami Lodge Leadership is available on our [Contact List Page](contactlist).

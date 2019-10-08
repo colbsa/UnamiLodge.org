@@ -3,7 +3,7 @@ title: Unit Elections
 layout: page
 permalink: /unitelections/
 ---
-Thank you for completing a unit election for Unami Lodge, One. New members are vital to the continued success of our organization. Please record the results to the unit election you've completed on the forms linked through the buttons below. If you have any questions, please contact the lodge Unit Elections Committee at [unitelections@unamilodge.org](/contact#unitelections).
+Thank you for completing a unit election for Unami Lodge, One. New members are vital to the continued success of our organization. Please record the results to the unit election you've completed on the forms linked through the buttons below. If you have any questions, please contact the lodge Unit Elections Committee at [unitelections@unamilodge.org](/contact?recipient=unitelections).
 <div class="row justify-content-md-center">
   <div class="col-md-4 col-sm-12 text-center">
       <a class="btn btn-outline-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfn0HbuXldroW5qO6_Mh9J9bCVzn8hrMKvEDT5iNKlFvwzImQ/viewform">

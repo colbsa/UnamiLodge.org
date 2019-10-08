@@ -10,4 +10,4 @@ Becoming a Brotherhood member publicly shows your commitment to the Order of the
 
 To sign-up and seal the bond, head over to the [Lodge Calendar](calendar) page. Please note: your lodge dues must be paid for you to become a Brotherhood member of the Order of the Arrow.
 
-We look forward to seeing you at one of our upcoming opportunities to seal your membership. If you have any questions, feel free to contact the Brotherhood Committee at [brotherhood@unamilodge.org](contact#brotherhood).
+We look forward to seeing you at one of our upcoming opportunities to seal your membership. If you have any questions, feel free to contact the Brotherhood Committee at [brotherhood@unamilodge.org](contact?recipient=brotherhood).

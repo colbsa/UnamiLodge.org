@@ -57,8 +57,8 @@ As an Ordeal member, your focus should be on providing leadership to your home u
 ### Key Contacts
 Questions? Head over to the [contact form](contact) and ask one of our lodge committees, or contact one of the leaders of the lodge listed below.
 
-Aidan Campbell – Lodge Chief - [lodgechief@unamilodge.org](/contact#lodgechief)
+Aidan Campbell – Lodge Chief - [lodgechief@unamilodge.org](/contact?recipient=lodgechief)
 
-Dennis Abernethy – Lodge Adviser - [lodgeadviser@unamilodge.org](/contact#lodgeadviser)
+Dennis Abernethy – Lodge Adviser - [lodgeadviser@unamilodge.org](/contact?recipient=lodgeadviser)
 
-John Bickel – Lodge Staff Adviser - [lodgestaffadviser@unamilodge.org](/contact#lodgestaffadviser)
+John Bickel – Lodge Staff Adviser - [lodgestaffadviser@unamilodge.org](/contact?recipient=lodgestaffadviser)

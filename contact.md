@@ -55,9 +55,3 @@ layout: page
 </form>
 
 For more options, a complete list of Unami Lodge Leadership is available on our [Contact List Page](contactlist).
-
-<script type="text/javascript">
-window.onload = function() {
-  ContactForm();
-};
-</script>

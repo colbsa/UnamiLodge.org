@@ -4,7 +4,7 @@ layout: index
 
 slides:
   img/slider/slide-sms-patches.png: /news/2019-Scout-Memorabilia-Show
-  img/slider/slide1.png: http://unamilodge.org/news/Updated-Brotherhood-Requirements.html
+  img/slider/slide1.png: /news/Updated-Brotherhood-Requirements.htm
 
 button-bar:
   Elected Candidates: /electedcandidates

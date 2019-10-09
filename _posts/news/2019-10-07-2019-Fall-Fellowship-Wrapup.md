@@ -3,7 +3,7 @@ layout: post
 title: 2019 Fall Fellowship Wrap-Up
 author:
 date: 2019-10-07
-banner:
+banner: 2019-Fall-Fellowship-Wrapup.png
 thumbnail: unami-plaid.png
 excerpt: Fall Fellowship was a blast! Check out some highlights from this past weekend.
 ---

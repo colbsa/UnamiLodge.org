@@ -78,8 +78,6 @@ Options All -Indexes
 ErrorDocument 404 /404/index.html
 ErrorDocument 403 /403/index.html
 
-RewriteRule ^news/index.html /news.html [L]
-
 Redirect /Trading-Post https://squareup.com/store/unami-lodge-one
 Redirect /trading-post https://squareup.com/store/unami-lodge-one
 Redirect /tradingpost https://squareup.com/store/unami-lodge-one

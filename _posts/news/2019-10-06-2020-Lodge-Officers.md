@@ -3,7 +3,7 @@ layout: post
 title: 2020 Lodge Officers
 author:
 date: 2019-10-06
-banner:
+banner: 2020-Lodge-Officers.png
 thumbnail: unami-red.png
 excerpt: Results for the 2020 Lodge Officer Elections are in. See who's planning the next lodge year!
 ---

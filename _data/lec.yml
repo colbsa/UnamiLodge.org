@@ -2,6 +2,7 @@ officers:
 - title: Lodge Chief
   name: Aidan Campbell
   email: chief
+  key3: true
 
 - title: Vice Chief 1
   name: Garrett Witherington
@@ -22,6 +23,7 @@ officers:
 - title: Lodge Adviser
   name: Dennis Abernethy
   email: lodgeadviser
+  key3: true
 
 - title: Associate Lodge Adviser
   name: Timothy English
@@ -38,6 +40,7 @@ officers:
 - title: Lodge Staff Adviser
   name: John Bickel
   email: staffadviser
+  key3: true
 
 - title: Supreme Chief of the Fire
   name: Daniel Templar
@@ -253,19 +256,19 @@ committees:
   name: Tom Tryon
   email: unitelections
 
-- title: Unit Representative  Chair
+- title: Unit Representative Chair
   name: PJ Weidman
   email: unitrep
 
-- title: Unit Representative  Vice-Chair
+- title: Unit Representative Vice-Chair
   name: Owen Boles
   email: unitrep
 
-- title: Unit Representative  Adviser
+- title: Unit Representative Adviser
   name: Larry Arinsberg
   email: unitrep
 
-- title: Unit Representative  Adviser
+- title: Unit Representative Adviser
   name: Ron Pleis
   email: unitrep
 

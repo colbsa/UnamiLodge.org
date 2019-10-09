@@ -33,12 +33,12 @@ layout: page
           </div>
         </div>
       </div>
-      <!-- <div class="card" id="contactform-card">
+      <div class="card" id="contactform-card">
         <div class="card-body">
           <h5 class="card-title" id="recipient-name">Select Recipient</h5>
           <p class="card-text" id="recipient-description">Select a recipient to learn how that committee may be able to help you!</p>
         </div>
-      </div>-->
+      </div>
     </div>
     <div class="col-md-6">
       <div class="form-group">
@@ -66,7 +66,7 @@ recipients = [
 {
 "name": "{{committee.committee-name}}",
 "email": "{{committee.email}}",
-"description": "{{committee.responsibilities}}"
+"description": "{{committee.responsibilities | capitalize}}"
 },
 {% endfor %}
 ];

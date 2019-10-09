@@ -29,7 +29,14 @@ $(function() {
 });
 
 $("#contactform-recipient").change(function () {
-  $("#recipient-name").text(this.value);
+  var selector_value = this.value;
+  $.each(recipients, function(i, v) {
+    if (v.email == selector_value) {
+      $("#recipient-name").text(v.name);
+      $("#recipient-description").text(v.description);
+      return;
+    }
+  });
 });
 
 function ContactUsAlert(alert_class, alert_headline, alert_text) {

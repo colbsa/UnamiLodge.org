@@ -18,7 +18,7 @@ The Charles J. &quot;Chuck&quot; Benshetler Spirit of Camp Leadership Award is u
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.awards-benshetler %}
+    {% for person in site.data.awards-benshetler reversed %}
       <tr>
         <td>{{person.year}}</td>
         <td>{{person.name}}</td>

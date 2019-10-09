@@ -27,3 +27,5 @@ Each year, Unami Lodge presents various awards at the annual banquet. Recipients
     {% endfor %}
   </tbody>
 </table>
+
+For a lists of former award recipients, visit us at [unamilodge.org/history](/history).

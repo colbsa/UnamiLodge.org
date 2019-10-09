@@ -11,7 +11,7 @@ permalink: /history/lodge-advisers
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.lodgeadvisers %}
+    {% for person in site.data.lodgeadvisers reversed %}
       <tr>
         <td>{{person.name}}</td>
         <td>{{person.start-year}} - {{person.end-year}}</td>

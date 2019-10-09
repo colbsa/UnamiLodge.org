@@ -19,7 +19,7 @@ The award is a handsome bronze medallion bearing the likenesses of E. Urner Good
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.awards-founders %}
+    {% for person in site.data.awards-founders reversed %}
       <tr>
         <td>{{person.year}}</td>
         <td>{{person.name}}</td>

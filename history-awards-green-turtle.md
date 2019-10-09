@@ -13,7 +13,7 @@ The Green Turtle Award was created by the Lodge Executive Committee in the sprin
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.awards-green-turtle %}
+    {% for person in site.data.awards-green-turtle reversed %}
       <tr>
         <td>{{person.year}}</td>
         <td>{{person.name}}</td>

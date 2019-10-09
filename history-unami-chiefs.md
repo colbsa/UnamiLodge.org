@@ -11,7 +11,7 @@ permalink: /history/unami-chiefs
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.history-unami_chiefs %}
+    {% for person in site.data.history-unami_chiefs reversed %}
       <tr>
         <td>{{person.name}}</td>
         <td>{{person.term}}</td>

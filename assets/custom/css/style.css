@@ -83,7 +83,7 @@ body {
   color: var(--page-text);
   background-color: var(--page-background);
   font-family: 'museo-sans', sans-serif;
-  padding-top: 70px;
+  padding-top: 65px;
 }
 p {
   line-height: 1.5;

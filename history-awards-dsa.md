@@ -17,7 +17,7 @@ The award is a sterling silver arrowhead bearing an arrow pointing up and to the
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.awards-dsa %}
+    {% for person in site.data.awards-dsa reversed %}
       <tr>
         <td>{{person.year}}</td>
         <td>{{person.name}}</td>

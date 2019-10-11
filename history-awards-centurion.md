@@ -12,7 +12,7 @@ The Centurion Award was a one-time recognition associated with the centennial an
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.awards-centurion %}
+    {% for person in site.data.awards-centurion reversed %}
       <tr>
         <td>{{person.name}}</td>
       </tr>

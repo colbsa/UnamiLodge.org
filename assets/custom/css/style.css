@@ -83,7 +83,7 @@ body {
   color: var(--page-text);
   background-color: var(--page-background);
   font-family: 'museo-sans', sans-serif;
-  padding-top: 70px;
+  padding-top: 65px;
 }
 p {
   line-height: 1.5;
@@ -222,7 +222,6 @@ iframe {
   width: auto !important;
   padding: 5px;
   margin: auto 0;
-  display: inline-block;
   vertical-align: middle;
 }
 /* toggle */
@@ -310,7 +309,7 @@ footer .list-inline {
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: #ffffff;
-  //padding-top: 25px;
+  /* padding-top: 25px; */
 }
 
 .footer h4 {
@@ -386,7 +385,7 @@ ul.footer-links li:hover * {
 }
 
 .footer-main {
-  //background-image: url('/themes/oabsa-theme/images/bsa_action_folio.svg');
+  /* background-image: url('/themes/oabsa-theme/images/bsa_action_folio.svg'); */
   background-repeat: no-repeat;
   background-position: bottom;
   background-attachment: scroll;

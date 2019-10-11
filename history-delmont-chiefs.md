@@ -11,7 +11,7 @@ permalink: /history/delmont-chiefs
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.history-delmont_chiefs %}
+    {% for person in site.data.history-delmont_chiefs reversed %}
       <tr>
         <td>{{person.name}}</td>
         <td>{{person.term}}</td>

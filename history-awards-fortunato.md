@@ -16,7 +16,7 @@ Originally presented to youth and adult arrowmen alike, beginning in 2010 the Fo
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.awards-adult-osa %}
+    {% for person in site.data.awards-adult-osa reversed %}
       <tr>
         <td>{{person.year}}</td>
         <td>{{person.name}}</td>

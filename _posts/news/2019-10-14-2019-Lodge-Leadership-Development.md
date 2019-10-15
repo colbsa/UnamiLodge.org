@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Lodge Leadership Development
-author: Eoghan Pleis
+author:
 date: 2019-10-14
 banner:
 thumbnail: sample.png

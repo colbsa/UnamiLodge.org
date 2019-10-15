@@ -15,7 +15,10 @@ The best way to find what chapter you belong to is learning from your troop. You
   </div>
 </form>
 
-<span id="alert-response"></span>
+<div class="alert alert-info fade" role="alert" id="alert-response" hidden>
+  The zipcode you entered aligns with the chapters below. Either use the map to see which chapter you are in or contact one of the leaders from your unit or chapter.
+  <ul id="findchapter-chapters"></ul>
+</div>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1cEJd5Fv4sfaouJ9mOJ66Hwj2l80&hl=en" width="100%" height="400" frameborder="0" class="mt-3"></iframe>
 
@@ -23,42 +26,39 @@ The best way to find what chapter you belong to is learning from your troop. You
 
 chapters = {{ site.data.chapters | jsonify }};
 
-const input = document.querySelector('input');
-input.addEventListener('input', updateValue);
+const input = document.getElementById("findchapterform-zip");
+const multiple_div = document.getElementById("alert-response");
+const chapters_ul = document.getElementById("findchapter-chapters");
+input.addEventListener('input', updateZip);
 
 var chapters_matched =[];
-var multiple_text = "The zipcode you entered aligns with the chapters below. Either use the map to see which chapter you are in or contact one of the leaders from your unit or chapter.";
+var multi_chapter_output = "";
 
-function updateValue(e) {
-  if(e.target.value.toString().length > 4)
+function updateZip(zip_input) {
+  if(zip_input.target.value.toString().length > 4)
   {
-    for (var i=0; i < chapters.length; i++)
-    {
-      for (var j=0; j < chapters[i]["zip"].length; j++)
-      {
-        if (chapters[i]["zip"][j] == e.target.value)
-        {
-          chapters_matched.push(chapters[i]);
-        }
-      }
-    }
+    chapters.forEach(function(chapter) {
+      chapter.zip.forEach(function(chapter_zip) {
+        if (chapter_zip == zip_input.target.value)
+          chapters_matched.push(chapter);
+      });
+    });
+
     if(chapters_matched.length === 1)
       window.location.href = "/chapters/" + chapters_matched[0]["email"];
+
     if(chapters_matched.length > 1)
     {
-      var alert_div = document.getElementById("alert-response");
-      alert_div.innerHTML = "<div class=\"alert alert-info hidden\" role=\"alert\" id=\"alert-response\">"
-      + multiple_text
-      + "<ul><li><a href=\"/chapters/"
-      + chapters_matched[0]["email"]
-      + "\">"
-      + chapters_matched[0]["chapter-name"]
-      + "</a></li><li><a href=\"/chapters/"
-      + chapters_matched[1]["email"]
-      + "\">"
-      + chapters_matched[1]["chapter-name"]
-      + "</a></li></ul></div>";
+      chapters_matched.forEach(function(match) {
+        multi_chapter_output += "<li><a href=\"/chapters/" + match["email"] + "\">" + match["chapter-name"] + "</a></li>";
+      });
+
+      chapters_ul.innerHTML = multi_chapter_output;
+      multiple_div.removeAttribute("hidden");
+      multiple_div.classList.add("show");
     }
+
+    chapters_matched = [];
   };
 }
 

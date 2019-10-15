@@ -3,8 +3,8 @@ layout: post
 title: 2019 New Members' Bash
 author: Eoghan Pleis
 date: 2019-10-14
-banner:
-thumbnail: unami-green.png
+banner: 2019-New-Members-Bash.png
+thumbnail: 2019-New-Members-Bash.png
 excerpt: Have a bash at the return of the New Members Bash.
 ---
 

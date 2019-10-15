@@ -4,7 +4,7 @@ title: 2019 Lodge Leadership Development
 author:
 date: 2019-10-14
 banner:
-thumbnail: sample.png
+thumbnail: 2019-Lodge-Leadership-Development.png
 excerpt: Develop your leadership skills while taking a leading role in developing the Lodge's future.
 ---
 

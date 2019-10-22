@@ -8,7 +8,7 @@ thumbnail: 2019-New-Members-Bash.png
 excerpt: Have a bash at the return of the New Members Bash.
 ---
 
-## Friday, Nov. 15th
+## Friday, Nov. 15th &nbsp;&nbsp;&nbsp; 7:00-9:30pm
 
 - Are you a new member?
 - Have you recently sealed the bond of Brotherhood?
@@ -21,7 +21,7 @@ The new members' bash will have food and activities to keep you warm on a Noveme
 
 Can't wait till then? Reach out to [anyone from our team](/contactlist) to see how you can get more involved.
 
-More information will be coming in shortly as plans are finalized, but mark your calendars and save the date!
+More information will be coming in shortly as plans are finalized, but mark your calendars and save the date! This event is **free**, but we would appreciate it if you [register to let us know you're coming](https://colbsa.doubleknot.com/event/2019-new-members-bash/2584306).
 
 ## Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12198.050759720843!2d-75.2205455!3d40.1531374!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xca8343ab59710ae!2sBorough%20of%20Ambler!5e0!3m2!1sen!2sus!4v1571096129575!5m2!1sen!2sus" width="100%" height="400" frameborder="0" class="mt-3" allowfullscreen></iframe>

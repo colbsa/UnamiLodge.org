@@ -4,6 +4,11 @@ layout: page
 permalink: /newmembers/
 ---
 
+<div class="alert alert-success">
+  <strong>Check it out!</strong> The <a href="/news/2019-New-Members-Bash">New Members' Bash</a> is quickly approaching!
+  <a class="btn btn-primary" href="https://colbsa.doubleknot.com/event/2019-new-members-bash/2584306">Register Now!</a>
+</div>
+
 Congratulations! You’ve completed your Ordeal and are now a full member in Order of the Arrow, entitled to all the rights and privileges of membership. However, your journey in the Order of the Arrow is only just beginning. A world of opportunity is now open to you as a member of Unami Lodge, One. This page will help you as take the next steps on your membership journey and explore the wonders of the Order of the Arrow.
 
 ## Join in the Fellowship – Come Out to a Lodge Activity

@@ -26,11 +26,11 @@
   date-end:
   location: Presidential Caterers
   location-url: https://www.google.com/maps/place/2912+Dekalb+Pike,+East+Norriton,+PA+19401/@40.1423705,-75.3142911,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6bd0bd71dab6f:0x468e5afe0abf549f!8m2!3d40.1423705!4d-75.3121024
-  link-text: Coming Soon!
-  link-url:
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/event/104th-annual-dinner/2588047
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Community Service Day
   date: 2020-03-21

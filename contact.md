@@ -1,6 +1,10 @@
 ---
 title: Contact Us
 layout: page
+scripts: |
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+  <script src="/assets/custom/js/contact.js"></script>
 
 ---
 
@@ -59,17 +63,5 @@ layout: page
     </div>
   </div>
 </form>
-
-<script type="text/javascript">
-recipients = [
-{% for committee in site.data.committees %}
-{
-"name": "{{committee.committee-name}}",
-"email": "{{committee.email}}",
-"description": "{{committee.responsibilities | capitalize}}"
-},
-{% endfor %}
-];
-</script>
 
 For more options, a complete list of Unami Lodge Leadership is available on our [Contact List Page](contactlist).

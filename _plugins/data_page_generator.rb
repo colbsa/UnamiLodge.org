@@ -49,7 +49,7 @@ module Jekyll
 
         self.process(@name)
         self.read_yaml(File.join(base, '_layouts'), template + ".html")
-        self.data['title'] = data[name]
+        self.data['title'] = data['chapter-name']
         # add all the information defined in _data for the current record to the
         # current page (so that we can access it with liquid tags)
         self.data.merge!(data)

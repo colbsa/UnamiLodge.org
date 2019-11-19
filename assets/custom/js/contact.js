@@ -95,6 +95,10 @@ function ContactUs() {
     method: 'POST',
     dataType: 'json',
     data: $("#contactform :input"),
+    cache: false,
+    headers: {
+      "cache-control": "no-cache"
+    },
     success: function(data) {
       if(data['success'] == true)
       {

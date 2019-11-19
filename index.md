@@ -3,7 +3,6 @@ title: Home
 layout: index
 
 slides:
-  img/slider/slide-nmb-sashes.png: /news/2019-New-Members-Bash
   img/slider/slide-lld.png: /news/2019-Lodge-Leadership-Development
   img/slider/slider-dinner.png: https://colbsa.doubleknot.com/event/104th-annual-dinner/2588047
 

@@ -1,0 +1,30 @@
+markup_presets:
+  default:
+    formats: [webp, original]
+    widths: [200, 400, 800, 1600]
+    link_source: true
+  thumb:
+    widths: [100, 200, 300, 350]
+    fallback_width: 400
+    link_source: true
+    noscript: true
+  post:
+    widths: [200, 300, 400, 750]
+    fallback_width: 800
+    link_source: true
+    noscript: true
+  slider:
+    widths: [800, 900, 1000, 1200]
+    fallback_width: 1500
+    link_source: true
+    noscript: true
+  banner:
+    widths: [800, 900, 1000, 1500]
+    fallback_width: 2000
+    link_source: true
+    noscript: true
+  logo:
+    widths: [100, 200, 300, 400]
+    fallback_width: 500
+    link_source: true
+    noscript: true

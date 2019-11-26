@@ -20,6 +20,17 @@
   brotherhood: false
   highlight: true
 
+- title: NE-5 Leadership Conference
+  date: 2020-01-11
+  date-end:
+  location: Raritan Valley Community College
+  location-url: https://www.google.com/maps/place/Raritan+Valley+Community+College/@40.6095299,-74.6910829,17z/data=!3m1!4b1!4m5!3m4!1s0x89c3937dc5acab1f:0x15e7f0de30681faa!8m2!3d40.6095258!4d-74.6888942
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSdzExWTn-tUNi0G3NPUDBrk6ohnSISQ6il2rIheHL290vqa9w/viewform
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Community Service Day
   date: 2020-03-21
   date-end:

@@ -38,7 +38,7 @@ $user_data['address'] = $_SERVER['REMOTE_ADDR'];
  * * * * * * * * * * * * * * * * * * */
 
 $hostname = gethostname();
-$hostname = strpos($hostname, "prod") ? $mailgun['domain'] : $hostname . "." . $mailgun['domain'];
+$hostname = stripos($hostname, "prod") >= 0 ? $mailgun['domain'] : $hostname . "." . $mailgun['domain'];
 
 if (empty($user_data['recaptcha']))
   $error_text = "reCAPTCHA was not received.";

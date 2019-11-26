@@ -48,7 +48,7 @@
 <body>
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" id="mainNav">
   <div class="container">
-      <a class="navbar-brand" href="{{ site.url }}"><img src="/img/logo.png" class="logo" alt="Unami Lodge"></a>
+      {% picture logo /img/logo.png --img class="logo" --alt Unami Lodge Logo --link {{ site.url }} --a class="navbar-brand" %}
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fa fa-bars"></i>
       </button>

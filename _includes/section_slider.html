@@ -6,9 +6,7 @@
       {% else %}
       <div class="carousel-item">
       {% endif %}
-        <a href={{slide[1]}}>
-            <img class="d-block w-100" src={{slide[0]}}>
-        </a>
+        {% picture slider {{slide[0]}} --img class="d-block w-100" --link {{slide[1]}} %}
       </div>
     {% endfor %}
   </div>

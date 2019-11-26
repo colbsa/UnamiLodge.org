@@ -9,7 +9,7 @@
       {% for post in paginator.posts %}
           <div class="col-md-4 col-sm-6 mb-3">
             <div class="card h-100">
-              <a href="{{post.url}}"><img class="card-img-top" src="/img/posts/thumbs/{{post.thumbnail}}" alt=""></a>
+              {% picture thumb /img/posts/thumbs/{{post.thumbnail}} --img class="card-img-top" --link {{post.url}} %}
               <div class="card-body">
                 <h4 class="card-title">
                   <a href="{{post.url}}">{{post.title}}</a>

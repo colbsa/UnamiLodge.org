@@ -10,7 +10,7 @@
   <div class="row">
       <div class="col-lg-8">
         {% if page.banner %}
-        <img class="img-fluid rounded" src="/img/posts/banners/{{page.banner}}" alt="">
+        {% picture post /img/posts/banners/{{page.banner}} --img class="img-fluid rounded" %}
         {% endif %}
         <hr>
             <i class="fa fa-clock-o"></i> {{ page.date | date: '%B %d, %Y' }}

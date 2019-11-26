@@ -37,13 +37,16 @@ $user_data['address'] = $_SERVER['REMOTE_ADDR'];
  *           VALIDATE DATA           *
  * * * * * * * * * * * * * * * * * * */
 
+$hostname = gethostname();
+$hostname = strpos($hostname, "prod") ? $mailgun['domain'] : $hostname . "." . $mailgun['domain'];
+
 if (empty($user_data['recaptcha']))
   $error_text = "reCAPTCHA was not received.";
 
 if(!isset($error_text))
 {
   $recaptcha = new \ReCaptcha\ReCaptcha($SECRET_recaptcha);
-  $resp = $recaptcha->setExpectedHostname(gethostname() . "." . $mailgun['domain'])
+  $resp = $recaptcha->setExpectedHostname($hostname)
                     ->verify($user_data['recaptcha'], $user_data['address']);
   if ($resp->isSuccess()) {
     // Verified!

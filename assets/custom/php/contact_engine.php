@@ -1,3 +1,6 @@
+---
+---
+
 <?php
 
 require '../../vendor/php/autoload.php';
@@ -43,7 +46,7 @@ if (empty($user_data['recaptcha']))
 if(!isset($error_text))
 {
   $recaptcha = new \ReCaptcha\ReCaptcha($SECRET_recaptcha);
-  $resp = $recaptcha->setExpectedHostname($mailgun['domain'])
+  $resp = $recaptcha->setExpectedHostname("{{site.url}}")
                     ->verify($user_data['recaptcha'], $user_data['address']);
   if ($resp->isSuccess()) {
     // Verified!

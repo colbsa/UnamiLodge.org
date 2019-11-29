@@ -16,7 +16,6 @@ $mailgun['domain'] = "unamilodge.org";
 $mailgun['from'] = "UnamiLodge.org Contact Form <contact_form@" . $mailgun['domain'] . ">";
 $mailgun['log_recipient'] = "communications";
 $mailgun['subject'] = "UnamiLodge.org Message To: "; // Is added to later in script
-$log_file = "../../../../arc_contactform.log";
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
@@ -122,21 +121,6 @@ else
   $return_data['success'] = false;
   $return_data['error'] = $error_text;
 }
-
-// Debug log all data to log file
-$user_agent =  $_SERVER['HTTP_USER_AGENT'];
-$timestamp = date("Y-m-d H:i:s", time());
-$user_log = PHP_EOL . 
-"Time: " . $timestamp . PHP_EOL . 
-"Remote IP: " . $user_data['address'] . PHP_EOL . 
-"UA: " . $user_agent . PHP_EOL . 
-"Recaptcha: " . $user_data['recaptcha'] . PHP_EOL . 
-"Name: " . $user_data['name'] . PHP_EOL . 
-"Email: " . $user_data['email'] . PHP_EOL . 
-"Recipient: " . $user_data['recipient'] . PHP_EOL . 
-"Message: " . $user_data['message'] . PHP_EOL . 
-"Return: " . json_encode($return_data) . PHP_EOL . PHP_EOL;
-file_put_contents($log_file, $user_log, FILE_APPEND | LOCK_EX);
 
 echo json_encode($return_data);
 

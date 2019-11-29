@@ -9,7 +9,8 @@ slides:
 button-bar:
   Elected Candidates: /electedcandidates
   Pay My Dues: /dues
-  Seal The Bond: /brotherhood     
+  Seal The Bond: /brotherhood
+  Turtle Power Pass: /news/2020-Dues-and-Power-Pass
 
 quick-links:
   Lodge Calendar: /calendar

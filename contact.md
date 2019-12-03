@@ -1,10 +1,11 @@
 ---
 title: Contact Us
 layout: page
-scripts: |
-  <script src='https://www.google.com/recaptcha/api.js'></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
-  <script src="/assets/custom/js/contact.js"></script>
+dependencies:
+- src: https://www.google.com/recaptcha/api.js
+- src: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js
+scripts: 
+- src: assets/custom/js/contact.js
 
 ---
 

@@ -2,7 +2,9 @@
 title: Find My Chapter
 layout: page
 permalink: /chapters/find
-scripts: <script src="/assets/custom/js/chapters-find.js"></script>
+scripts: 
+- src: assets/custom/js/chapters-find.js
+
 ---
 
 A chapter is a smaller organizational unit of the lodge, much like a patrol is a smaller part of a troop. There are 11 chapters in Unami Lodge, One, that currently align with the different Scouting districts of the Cradle of Liberty Council. Each chapter has their own officers and adviser who look to support units in their implementation of lodge programming, and who represent those units at larger meetings of the lodge. Chapters meet monthly to discuss the happenings of the lodge and for members to join in fellowship.

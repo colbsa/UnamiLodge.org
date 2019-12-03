@@ -49,8 +49,13 @@
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js" integrity="sha384-u/bQvRA/1bobcXlcEYpsEdFVK/vJs3+T+nXLsBYJthmdBuavHvAW6UsmqO2Gd/F9" crossorigin="anonymous"></script>
-<script src="/assets/custom/js/main.js"></script>
-{{page.scripts}}
+<script src="{% ministamp /assets/custom/js/main.js /assets/custom/js/main.js %}"></script>
+{% for dependency in page.dependencies -%}
+<script src="{{dependency.src}}"></script>
+{% endfor -%}
+{% for script in page.scripts -%}
+<script src="/{% ministamp { source_path: '{{ script.src }}', destination_path: '{{ script.src }}' } %}"></script>
+{% endfor -%}
 
 </body>
 </html>

@@ -21,3 +21,7 @@ The best way to find what chapter you belong to is learning from your troop. You
 <div class="alert alert-info" role="alert" id="alert-response" hidden></div>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1cEJd5Fv4sfaouJ9mOJ66Hwj2l80&hl=en" width="100%" height="400" frameborder="0" class="mt-3"></iframe>
+
+<script type="text/javascript">
+  chapters = {{ site.data.chapters | jsonify }};
+</script>

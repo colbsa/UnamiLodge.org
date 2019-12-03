@@ -66,3 +66,16 @@ scripts:
 </form>
 
 For more options, a complete list of Unami Lodge Leadership is available on our [Contact List Page](contactlist).
+
+<script type="text/javascript">
+  recipients = [
+    {% for committee in site.data.committees -%}
+    {
+    "name": "{{committee.committee-name}}",
+    "email": "{{committee.email}}",
+    "description": "{{committee.responsibilities | capitalize}}"
+    }
+    {%- unless forloop.last -%},{% endunless %}
+    {% endfor -%}
+  ];
+</script>

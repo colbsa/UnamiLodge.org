@@ -6,6 +6,7 @@ description: "As the founding lodge of the Order of the Arrow, Unami Lodge, One 
 plugins:
   - octopress-paginate
   - jekyll_picture_tag
+  - jekyll/minibundle
 
 url: http://127.0.0.1:4000
 baseurl:

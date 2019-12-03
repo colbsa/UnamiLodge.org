@@ -1,16 +1,3 @@
----
----
-
-recipients = [
-  {%- for committee in site.data.committees -%}
-  {
-  "name": "{{committee.committee-name}}",
-  "email": "{{committee.email}}",
-  "description": "{{committee.responsibilities | capitalize}}"
-  },
-  {% endfor %}
-  ];
-
 $(function() {
   var recipient = getUrlParams('recipient');
   var message = getUrlParams('message');

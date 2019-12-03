@@ -16,6 +16,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="title" content="Unami Lodge | Cradle of Liberty Council, BSA" />
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" />
 
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
@@ -41,7 +42,7 @@
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.typekit.net/awb5aoh.css">
-  <link rel="stylesheet" href="/assets/custom/css/style.css">
+  <link rel="stylesheet" href="/{% ministamp assets/custom/css/style.css assets/custom/css/style.css %}">
   <!-- Fav Icons -->
   <link rel="shortcut icon" href="/img/favicon.ico" />
 </head>

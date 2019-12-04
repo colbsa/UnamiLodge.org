@@ -39,6 +39,9 @@ Items we are still working on
 - Posts
   - Later posts with the same name as an earlier post get overwritten when the site is built. This will need to be fixed in the next year before a lot of our yearly topics begin to overlap.
   - We're looking to add tags to make it easier for Lodge Members to sort through our news posts and better present our posts.
+- Images
+  - Fine tune the quality of images displayed on the site - balance best compression, load times, and appearance.
+  - Add alt tags for better accessibility and SEO.
 - Search Feature
 - Asset management
   - We're currently using Jekyll Picture Tag to manage images and Jekyll Minibundle to manage versions of CSS and JS. We are currently looking to find plugins that are more feature rich to replace both of these.

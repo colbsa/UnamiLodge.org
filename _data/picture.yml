@@ -15,15 +15,17 @@ markup_presets:
     quality: 90
     noscript: true
   slider:
-    formats: [webp, original]
-    widths: [800, 900, 1000, 1200]
+    formats: [jpg, original]
+    widths: [600, 800, 1000, 1200, 1500]
     fallback_width: 1500
-    quality: 100
+    format_quality:
+      jpg: 90
+      png: 80
     noscript: true
   banner:
     formats: [webp, original]
-    widths: [800, 900, 1000, 1500]
-    fallback_width: 2000
+    widths: [600, 800, 1000, 1200, 1500, 1800]
+    fallback_width: 1500
     noscript: true
   logo:
     formats: [webp, original]

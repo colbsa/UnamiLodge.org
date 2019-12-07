@@ -1,14 +1,3 @@
-- title: Lodge Leadership Development
-  date: 2019-12-06
-  date-end: 2019-12-08
-  location: COL Council Office
-  location-url: https://www.google.com/maps/place/Boy+Scouts+of+America/@40.0811318,-75.4445363,17z/data=!3m1!4b1!4m5!3m4!1s0x89c693847a4aadf1:0xbf67efd138f1bb64!8m2!3d40.0811277!4d-75.4423476
-  link-text: More Information
-  link-url: /news/2019-Lodge-Leadership-Development
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: 104th Annual Dinner
   date: 2020-01-05
   date-end:
@@ -58,6 +47,17 @@
   date-end: 2020-05-17
   location: Resica Falls SR
   location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
+  link-text: Coming Soon!
+  link-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Pow-Wow in the Park
+  date: 2020-05-20
+  date-end:
+  location: Lorimer Park
+  location-url: https://goo.gl/maps/bc8NBgyN5wZ2XvkS9
   link-text: Coming Soon!
   link-url:
   ordeal: false

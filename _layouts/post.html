@@ -1,4 +1,7 @@
 {% include page_head.html %}
+{% if page.event %}
+  {% assign event = site.data.events | where_exp: "event", "event.title == page.event.title and event.date == page.event.date" | first %}
+{% endif %}
 
 <!-- Main Content -->
 <div class="container content mt-3">
@@ -21,7 +24,56 @@
         {{content}}
       </div>
       <div class="col-lg-4">
-        <div class="card">
+        {% if event %}
+        <div class="card mb-3">
+          <h5 class="card-header">Event Information</h5>
+          <div class="card-body">
+            <ul class="list-unstyled my-0">
+              <li>
+                <i class="fa fa-calendar pr-2 text-body"></i>
+                {%- if event.date-end %}
+                  {%- assign m = event.date | date: "%-m" -%}
+                  {%- assign n = event.date-end | date: "%-m" -%}
+                  {%- if m == n -%}
+                    {{event.date | date: "%B %-d"}}-{{ event.date-end | date: "%-d, %Y"}}
+                  {%- else -%}
+                    {{event.date | date: "%B %-d"}} - {{ event.date-end | date: "%B %-d, %Y"}}
+                  {%- endif -%}
+                {%- else -%}
+                  {{event.date | date: "%B %-d, %Y"}}
+                {% endif -%}
+              </li>
+              {% if event.time %}
+              <li>
+                <i class="fa fa-clock-o pr-2 text-body"></i>{{event.time}}
+              </li>
+              {% endif %}
+              <li>
+                <i class="fa fa-map-marker pr-2 text-body"></i>
+                {% if event.location-url %}
+                  <a href="{{event.location-url}}" target="_blank">{{event.location}}</a>
+                {% else %}
+                  {{event.location}}
+                {% endif %}
+              </li>
+              {% if event.price %}
+              {%- if event.price.adult == event.price.youth %}
+              <li>Price: &dollar;{{event.price.adult}}</li>
+              {%- else -%}
+              <li>Youth: &dollar;{{event.price.youth}}</li>
+              <li>Adult: &dollar;{{event.price.adult}}</li>
+              {% endif -%}
+              {% endif %}
+            </ul>
+          </div>
+          {% if event.link-url %}
+            <div class="card-footer"><a class="btn btn-primary btn-block" href="{{event.link-url}}" target="_blank">{{event.link-text}}</a></div>
+          {% else %}
+            <div class="card-footer">{{event.link-text}}</div>
+          {% endif %}
+        </div>
+        {% endif %}
+        <div class="card mb-3">
           <h5 class="card-header">Recent Posts</h5>
           <ul class="list-group list-group-flush">
             {% for post in site.posts limit:5 %}

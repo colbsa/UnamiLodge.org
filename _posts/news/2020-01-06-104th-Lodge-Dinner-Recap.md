@@ -4,7 +4,7 @@ title: 104th Lodge Dinner Recap
 author:
 date: 2020-01-06
 banner: 104th-Lodge-Dinner-Recap.jpg
-thumbnail: 104th-Lodge-Dinner.png
+thumbnail: 104th-Lodge-Dinner-Recap.jpg
 excerpt: Did you miss the Annual Lodge Dinner? Make sure to checkout the highlights!
 ---
 

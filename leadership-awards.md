@@ -1,5 +1,5 @@
 ---
-title: Leadership Awards
+title: Awards and Honors
 layout: page
 permalink: /awards/
 ---

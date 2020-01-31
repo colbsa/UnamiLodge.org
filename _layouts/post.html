@@ -1,6 +1,8 @@
 {% include page_head.html %}
 {% if page.event %}
   {% assign event = site.data.events | where_exp: "event", "event.title == page.event.title and event.date == page.event.date" | first %}
+{% else %}
+{% assign event = false %}
 {% endif %}
 
 <!-- Main Content -->
@@ -24,7 +26,7 @@
         {{content}}
       </div>
       <div class="col-lg-4">
-        {% if page.event %}
+        {% if event %}
         <div class="card mb-3">
           <h5 class="card-header">Event Information</h5>
           <div class="card-body">

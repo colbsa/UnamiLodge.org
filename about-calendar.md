@@ -16,7 +16,11 @@ permalink: /calendar/
     <tbody>
       {% for event in site.data.events %}
         <tr>
-          <td class="align-middle">{{event.title}}</td>
+          {% if event.post-url %}
+            <td class="align-middle"><a href="{{event.post-url}}">{{event.title}}</a></td>
+          {% else %}
+            <td class="align-middle">{{event.title}}</td>
+          {% endif %}
           <td class="align-middle">
           {% if event.date-end %}
             {% assign m = event.date | date: "%-m" %}

@@ -99,13 +99,13 @@
   date-end: 2020-06-07
   time:
   price:
-    youth:
-    adult:
+    youth: 45
+    adult: 45
   location: Goose Pond SR
   location-url: https://www.google.com/maps/place/Goose+Pond+Scout+Reservation/@41.404131,-75.276116,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4b9a06308c7f7:0x881ed9ffccee371!8m2!3d41.404127!4d-75.273922
-  link-text: Coming Soon!
-  link-url:
-  post-url:
+  link-text: Register Now
+  link-url: https://conclaveregistration.org/section/ne5
+  post-url: /news/2020-Conclave
   ordeal: false
   brotherhood: false
   highlight: false
@@ -137,8 +137,7 @@
   location-url: https://www.google.com/maps/place/Michigan+State+University/@42.7018519,-84.4843659,17z/data=!3m1!4b1!4m5!3m4!1s0x8822c259da888d63:0x6e9898ab05aa3b3f!8m2!3d42.701848!4d-84.4821719
   link-text: Register Now
   link-url: https://colbsa.doubleknot.com/event/2020-noac/2578650
-  post-url:
-  pst-url: /news/2020-NOAC
+  post-url: /news/2020-NOAC-Updates
   ordeal: false
   brotherhood: false
   highlight: true

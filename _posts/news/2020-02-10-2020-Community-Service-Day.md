@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020 NE-5 Conclave
+title: 2020 Community Service Day
 author: Arron Liebel
 date: 2020-02-10
 banner: 2020-CSD.png

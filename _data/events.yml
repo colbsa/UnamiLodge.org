@@ -17,7 +17,7 @@
 - title: Community Service Day
   date: 2020-03-21
   date-end:
-  time:
+  time: 8:30 AM
   price:
     youth: 0
     adult: 0
@@ -25,7 +25,7 @@
   location-url:
   link-text: No Registration Neccesary
   link-url:
-  post-url:
+  post-url: /news/2020-Community-Service-Day
   ordeal: false
   brotherhood: false
   highlight: false

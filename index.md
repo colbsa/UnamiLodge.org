@@ -3,7 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/slide-dues.png: /dues
+  /img/slider/slide-csd.png: /news/2020-Community-Service-Day
   /img/slider/slide-powerpass.png: /news/2020-Dues-and-Power-Pass
   /img/slider/slide-noac.png: /news/2020-NOAC
 

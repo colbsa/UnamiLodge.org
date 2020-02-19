@@ -6,6 +6,7 @@ slides:
   /img/slider/slide-csd.png: /news/2020-Community-Service-Day
   /img/slider/slide-ss1.png: /news/2020-Spring-Service-1
   /img/slider/slide-powerpass.png: /news/2020-Dues-and-Power-Pass
+  /img/slider/slide-conclave.png: /news/2020-Conclave
   /img/slider/slide-noac.png: /news/2020-NOAC
 
 button-bar:

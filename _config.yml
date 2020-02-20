@@ -4,7 +4,7 @@ logo: "/img/logo.png"
 description: "As the founding lodge of the Order of the Arrow, Unami Lodge, One serves as the chapter of Scouting’s National Honor Society for the Cradle of Liberty Council. Unami exists to serve the units, community, and camps of the Cradle of Liberty."
 
 plugins:
-  - octopress-paginate
+  - jekyll-paginate-v2
   - jekyll_picture_tag
   - jekyll/minibundle
 
@@ -19,9 +19,13 @@ recaptcha: 6LdlwroUAAAAAKKNaJmAUiIKTRFYNk_qVpy9b5Fo
 permalink: /news/:title
 
 pagination:
-  limit: false
+  enabled: true
   per_page: 6
-  title_suffix: " - Page :num"
+  permalink: '/:num/'
+  title: 'News - Page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 page_gen:
   - data: 'chapters'

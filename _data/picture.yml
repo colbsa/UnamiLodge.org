@@ -1,34 +1,59 @@
+media_presets:
+  large_desktop: 'min-width: 1200px'
+  desktop: 'min-width: 992px'
+  tablet: 'min-width: 768px'
+  landscape_mobile: 'min-width: 576px'
+  mobile: 'max-width: 575px'
+
 markup_presets:
+
   default:
-    formats: [webp, original]
-    widths: [200, 400, 800, 1600]
-  thumb:
-    formats: [webp, original]
-    widths: [100, 200, 300, 350]
-    fallback_width: 400
-    quality: 90
-    noscript: true
-  post:
-    formats: [webp, original]
-    widths: [200, 300, 400, 750]
+    markup: auto
+    formats: [webp, jpg, original]
+    widths: [600]
     fallback_width: 800
-    quality: 90
-    noscript: true
+    fallback_format: original
+    link-source: false
+
+  thumb:
+    markup: auto
+    formats: [webp, jpg, original]
+    widths: [600]
+    fallback_width: 800
+    fallback_format: original
+    link-source: false
+
+  post:
+    markup: auto
+    formats: [webp, jpg, original]
+    widths: [800]
+    fallback_width: 800
+    fallback_format: original
+    link-source: false
+
   slider:
-    formats: [jpg, original]
-    widths: [600, 800, 1000, 1200, 1500]
+    markup: auto
+    formats: [webp, jpg, original]
+    widths: [1250, 1500]
+    media_widths:
+      mobile: [450]
+      tablet: [1250]
     fallback_width: 1500
-    format_quality:
-      jpg: 90
-      png: 80
-    noscript: true
+    fallback_format: original
+    link-source: false
+
   banner:
-    formats: [webp, original]
-    widths: [600, 800, 1000, 1200, 1500, 1800]
+    markup: auto
+    formats: [webp, jpg, original]
+    widths: [1250, 1500]
+    media_widths:
+      tablet: [1250]
     fallback_width: 1500
-    noscript: true
+    fallback_format: original
+    link-source: false
+
   logo:
     formats: [webp, original]
-    widths: [100, 200, 300, 400]
-    fallback_width: 500
-    noscript: true
+    base_width: 300 # How wide the 1x image should be
+    pixel_ratios: [1]
+    fallback_width: 300

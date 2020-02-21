@@ -2,6 +2,7 @@
 title: News
 layout: post-list
 permalink: /news/
-paginate: true
+pagination: 
+  enabled: true
 
 ---

@@ -34,10 +34,11 @@ markup_presets:
   slider:
     markup: auto
     formats: [webp, jpg, original]
-    widths: [1250, 1500]
+    widths: [1250, 1500, 2000]
     media_widths:
       mobile: [450]
       tablet: [1250]
+      large_desktop: [2000]
     fallback_width: 1500
     fallback_format: original
     link-source: false

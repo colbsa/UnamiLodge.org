@@ -113,7 +113,8 @@ Redirect /AdultNominations https://docs.google.com/forms/d/e/1FAIpQLSc0PjhMStR5Q
 
 Redirect /lldsurvey https://docs.google.com/forms/d/1hox9Hvd39fUVuhEYT3iF70HyPl1qdeqh-9KA-FbMq8M/viewform?usp=send_form
 
-Redirect /conclave https://conclaveregistration.org/section/ne5
+Redirect /conclave /news/2020-Conclave
+Redirect /Conclave /news/2020-Conclave
 
 Redirect /InterestSurvey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form
 Redirect /interestsurvey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form

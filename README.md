@@ -31,8 +31,8 @@ All of our images are included, compressed, and resized by [Jekyll Picture Tag](
 We have standardized on using the PNG file format. Some standard sizes (in pixels) we designed around are:
 - Post Thumbnails: 800x800
 - Post Banners: 800x345
-- Homepage Sliders: 1500x500
-- Portals: 2000x400
+- Homepage Sliders: 4500x500
+- Portals: 4500x900
 
 ## TODO
 Items we are still working on

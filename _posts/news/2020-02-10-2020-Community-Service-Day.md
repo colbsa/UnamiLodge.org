@@ -17,7 +17,7 @@ As some of you know, the Lodge’s annual Community Service Day is coming up nex
 - [Mount Moriah Cemetery (1004 Cobbs Creek Pkwy, Yeadon, PA 19050)](https://goo.gl/maps/RXTWMzFVSZbZ75ou9)
 - [Nor Gwyn Baseball Association (145 Hancock Rd, North Wales, PA 19454)](https://goo.gl/maps/MqRqWA7otWeBSzhs5)
 
-Check-in for the service projects will be between 8:30 and 9:00 AM, with the projects being finished around 3:00 PM. Please wear appropriate attire for the work projects. Anyone is more than welcome to bring their own yard tools. Lunch will not be provided, so individuals may pack a lunch or snack, or units that are attending together may have members volunteer to bring snacks. It would be a great help for any registered scouts or scouters to attend, and make sure you spread the word in your Chapter, Troop, Ship, or Crew! Remember that the event is open to everyone so encourage them to attend as well.
+Check-in for the service projects will be between 8:30 and 9:00 AM, with the projects being finished around 3:00 PM. **Please wear appropriate attire for the work projects. Anyone is more than welcome to bring their own yard tools.** Lunch will not be provided, so individuals may pack a lunch or snack, or units that are attending together may have members volunteer to bring snacks. It would be a great help for any registered scouts or scouters to attend, and make sure you spread the word in your Chapter, Troop, Ship, or Crew! Remember that the event is open to everyone so encourage them to attend as well.
 
 WWW,  
 Arron Liebel  

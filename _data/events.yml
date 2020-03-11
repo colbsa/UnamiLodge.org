@@ -49,14 +49,14 @@
 - title: Trivia Night (Adult Only)
   date: 2020-05-09
   date-end:
-  time:
+  time: 6:45
   price:
     youth:
-    adult:
-  location: TBD
-  location-url:
-  link-text: Coming Soon!
-  link-url:
+    adult: 25
+  location: St. Catherine of Siena
+  location-url: https://goo.gl/maps/2BsrLfnybkJXB1927
+  link-text: Register Now
+  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2647209&orgkey=2793
   post-url:
   ordeal: false
   brotherhood: false

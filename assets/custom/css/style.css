@@ -138,19 +138,19 @@ iframe {
 /*alerts*/
 .alert-primary {
   color: var(--site-white);
-  background-color: var(--oa-blue);
-  border-color: var(--site-black);
+  background-color: var(--blue);
 }
 .alert-primary a {
-  color: var(--site-accent-light);
+  color: var(--site-accent-dark);
 }
 .alert-warning {
-  color: var(--site-black);
-  background-color: var(--cubscout-yellow);
-  border-color: var(--site-white);
+  color: var(--site-white);
+  background-color: var(--oa-red);
+  border-color: var(--site-black);
 }
 .alert-warning a {
-  color: var(--site-primary);
+  color: var(--site-white);
+  text-decoration: underline;
 }
 /*buttons*/
 .btn-primary {

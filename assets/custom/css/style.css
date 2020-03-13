@@ -135,6 +135,23 @@ iframe {
 .text-primary{
   color: var(--site-primary) !important;
 }
+/*alerts*/
+.alert-primary {
+  color: var(--site-white);
+  background-color: var(--blue);
+}
+.alert-primary a {
+  color: var(--site-accent-dark);
+}
+.alert-warning {
+  color: var(--site-white);
+  background-color: var(--oa-red);
+  border-color: var(--site-black);
+}
+.alert-warning a {
+  color: var(--site-white);
+  text-decoration: underline;
+}
 /*buttons*/
 .btn-primary {
   color: var(--site-white);

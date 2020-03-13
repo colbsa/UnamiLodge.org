@@ -2,6 +2,8 @@
 
 <!-- Main Content -->
 <div class="container content mt-3">
+  {% if site.alert %}{% include section_alert.html content=site.alert.text class=site.alert.class %}{% endif %}
+  {% if page.alert %}{% include section_alert.html content=page.alert.text class=page.alert.class %}{% endif %}
   <div class="row">
     <div class="col mx-auto">
       <h1>{{page.title}}</h1>

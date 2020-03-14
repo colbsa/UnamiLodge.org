@@ -15,7 +15,7 @@ Lodge Members,
 
 After careful consideration and in consultation with the service locations, we have come to a decision that postponing the 2020 Community Service Day is the best option for the safety and well-being of all who attend. 
 
-This decision did not come lightly, and with the growing concern of public safety amid this pandemic we feel it is the right step to take. For more information about Cradle of Liberty Council or Unami Lodge events during this time please visit [colbsa.org/coronavirus](https://colbsa.org/coronavirus). For updates on OA National functions, visit them at [oabsa.org/coronavirus](http://oabsa.org/coronavirus).
+This decision did not come lightly, and with the growing concern of public safety amid this pandemic we feel it is the right step to take. For more information about Cradle of Liberty Council or Unami Lodge events during this time please visit [colbsa.org/coronavirus](https://colbsa.org/coronavirus). For updates on OA National functions, visit them at [oa-bsa.org/coronavirus](http://oa-bsa.org/coronavirus).
 
 We hope that [Spring Service 1 at Musser Scout Reservation](/news/2020-Spring-Service-1) will continue as planned so we can provide cheerful service to camp, and we hope to see you there! Visit [colbsa.org/coronavirus](https://colbsa.org/coronavirus) for updates on events in the future.
 

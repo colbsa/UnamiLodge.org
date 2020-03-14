@@ -24,11 +24,11 @@
   location: Various Locations
   location-url:
   link-text: No Registration Neccesary
-  link-url: /news/2020-Community-Service-Day
-  post-url: /news/2020-Community-Service-Day
+  link-url: /news/2020-CSD-Coronavirus
+  post-url: /news/2020-CSD-Coronavirus
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Trivia Night (Adult Only)
   date: 2020-05-09

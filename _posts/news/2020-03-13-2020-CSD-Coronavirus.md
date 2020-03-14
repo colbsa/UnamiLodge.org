@@ -3,7 +3,7 @@ layout: post
 title: Community Service Day & Coronavirus
 author: Arron Liebel
 date: 2020-03-13
-banner: 2020-CSD.png
+banner:
 thumbnail: 2020-CSD-Postponed.png
 excerpt: Coronavirus has required us to make some alterations to our plans, and we want to keep you apprised.
 event:

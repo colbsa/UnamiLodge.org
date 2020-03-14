@@ -127,3 +127,5 @@ Redirect /noac https://colbsa.doubleknot.com/event/2020-noac/2578650
 Redirect /dinner https://colbsa.doubleknot.com/event/104th-annual-dinner/2588047
 
 Redirect /trivia http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2647209&orgkey=2793
+
+Redirect /coronavirus /news/2020-CSD-Coronavirus

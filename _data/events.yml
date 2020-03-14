@@ -1,35 +1,3 @@
-- title: Vigil Honor Selection Meeting
-  date: 2020-03-14
-  date-end:
-  time:
-  price:
-    youth: 0
-    adult: 0
-  location: COL Council Office
-  location-url: https://www.google.com/maps/place/Boy+Scouts+of+America/@40.0811318,-75.4445363,17z/data=!3m1!4b1!4m5!3m4!1s0x89c693847a4aadf1:0xbf67efd138f1bb64!8m2!3d40.0811277!4d-75.4423476
-  link-text: Invitation Only
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Community Service Day
-  date: 2020-03-21
-  date-end:
-  time: 8:30 AM
-  price:
-    youth: 0
-    adult: 0
-  location: Various Locations
-  location-url:
-  link-text: No Registration Neccesary
-  link-url: /news/2020-Community-Service-Day
-  post-url: /news/2020-Community-Service-Day
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Spring Service 1
   date: 2020-04-03
   date-end: 2020-04-05
@@ -44,6 +12,22 @@
   post-url: /news/2020-Spring-Service-1
   ordeal: true
   brotherhood: true
+  highlight: true
+
+- title: Community Service Day
+  date: TBD (Postponed)
+  date-end:
+  time: 8:30 AM
+  price:
+    youth: 0
+    adult: 0
+  location: Various Locations
+  location-url:
+  link-text: No Registration Neccesary
+  link-url: /news/2020-Community-Service-Day
+  post-url: /news/2020-Community-Service-Day
+  ordeal: false
+  brotherhood: false
   highlight: true
 
 - title: Trivia Night (Adult Only)

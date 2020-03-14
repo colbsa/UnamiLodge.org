@@ -8,7 +8,7 @@ thumbnail: 2020-CSD.png
 excerpt: Members of Unami Lodge, One, and Cradle of Liberty Council (Yes, it is open to non-OA members) are invited to attend community service projects at two locations within Cradle of Liberty Council.
 event:
   title: Community Service Day
-  date: 2020-03-21
+  date: TBD (Postponed)
 ---
 
 As some of you know, the Lodge’s annual Community Service Day is coming up next month! On Saturday, March 21st members of Unami Lodge, One, and Cradle of Liberty Council (Yes, it is open to non-OA members) are invited to attend community service projects at two locations within Cradle of Liberty Council. Service projects will consist of clearing brush, raking leaves, cutting branches, cleaning up trash, and setting up for spring season at the following locations...

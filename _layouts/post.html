@@ -21,9 +21,11 @@
         {% endif %}
         <hr>
             <i class="fa fa-clock-o"></i> {{ page.date | date: '%B %d, %Y' }}
-            {% if page.author %}
+            {% if page.updating %}
+            <i class="fa fa-refresh pl-5"></i> Updating Thread
+            {% elsif page.author %}
             <i class="fa fa-user-o pl-5"></i> {{page.author}}
-            {% endif %}
+            {% endif %} 
         <hr>
         {{content}}
       </div>

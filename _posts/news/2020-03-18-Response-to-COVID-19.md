@@ -27,6 +27,14 @@ Lodge Chief
 
 <hr>
 
+<strong>March 18, 2020 - 5:15PM EST - From the National Chief Regarding COVID-19</strong>
+
+Our world has experienced a lot of change in recent days, and I want to take a moment to address the current situation. While the change caused by the spread of COVID-19 may seem disconcerting, we cannot lose sight of the bigger picture and our overall mission...
+
+Read more at [oa-bsa.org/article/chiefly-speaking-national-chief-regarding-covid-19](https://oa-bsa.org/article/chiefly-speaking-national-chief-regarding-covid-19).
+
+<hr>
+
 <strong>March 18, 2020 - 8:00AM EST - Cradle of Liberty Events</strong>
 
 For the safety of our members, all Cradle of Liberty council-level events and camps will be closed until Thursday, April 30th. Summer Camp is still proceeding as planned! For the latest updates regarding council events and camps, please visit [colbsa.org/coronavirus](colbsa.org/coronavirus).

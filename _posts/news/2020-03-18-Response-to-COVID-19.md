@@ -54,7 +54,7 @@ All national, regional, and section OA events through May 2, 2020 have been post
 
 <strong>March 13, 2020 - 4:00PM EST - Community Service Day Postponed</strong>
 
-After careful consideration and in consultation with the service locations, we have come to the decision that postponing the 2020 Community Service Day is the best option for the safety and well-being of all who would attend.  Learn more at [unamilodge.org/news/2020-CSD-Coronavirus](https://dev.unamilodge.org/news/2020-CSD-Coronavirus).
+After careful consideration and in consultation with the service locations, we have come to the decision that postponing the 2020 Community Service Day is the best option for the safety and well-being of all who would attend.  Learn more at [unamilodge.org/news/2020-CSD-Coronavirus](https://unamilodge.org/news/2020-CSD-Coronavirus).
 
 <hr>
 

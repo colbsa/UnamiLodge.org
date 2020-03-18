@@ -35,10 +35,10 @@ For the safety of our members, all Cradle of Liberty council-level events and ca
 
 <strong>March 17, 2020 - 10:00AM EST - National, Regional, and Section OA Events</strong>
 
-All national, regional, and section OA events through May 2, 2020 have been postponed. More details can be found at [https://oa-bsa.org/coronavirus](https://oa-bsa.org/coronavirus).
+All national, regional, and section OA events through May 2, 2020 have been postponed. More details can be found at [oa-bsa.org/coronavirus](https://oa-bsa.org/coronavirus).
 
 <hr>
 
 <strong>March 12, 2020 - 4:00PM EST - Status of NOAC</strong>
 
-Currently, the National Order of the Arrow Conference is scheduled to be HELD AS PLANNED on August 3-8, 2020.  More details can be found at [https://oa-bsa.org/coronavirus](https://oa-bsa.org/coronavirus).
+Currently, the National Order of the Arrow Conference is scheduled to be HELD AS PLANNED on August 3-8, 2020.  More details can be found at [oa-bsa.org/coronavirus](https://oa-bsa.org/coronavirus).

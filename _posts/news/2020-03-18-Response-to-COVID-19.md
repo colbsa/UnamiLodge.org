@@ -39,6 +39,18 @@ All national, regional, and section OA events through May 2, 2020 have been post
 
 <hr>
 
+<strong>March 13, 2020 - 4:00PM EST - Community Service Day Postponed</strong>
+
+After careful consideration and in consultation with the service locations, we have come to the decision that postponing the 2020 Community Service Day is the best option for the safety and well-being of all who would attend.  Learn more at [unamilodge.org/news/2020-CSD-Coronavirus](https://dev.unamilodge.org/news/2020-CSD-Coronavirus).
+
+<hr>
+
 <strong>March 12, 2020 - 4:00PM EST - Status of NOAC</strong>
 
 Currently, the National Order of the Arrow Conference is scheduled to be HELD AS PLANNED on August 3-8, 2020.  More details can be found at [oa-bsa.org/coronavirus](https://oa-bsa.org/coronavirus).
+
+<hr>
+
+<strong>March 12, 2020 - 4:00PM EST - Order of the Arrow’s Response to COVID-19</strong>
+
+As always, your safety and the safety of all our members, volunteers, and employees is our top priority. We know there are questions and concerns about how COVID-19, commonly known as the coronavirus, could affect the National Order of the Arrow Conference and other upcoming Order of the Arrow events. Please visit [oa-bsa.org/coronavirus](https://oa-bsa.org/coronavirus) for more details.

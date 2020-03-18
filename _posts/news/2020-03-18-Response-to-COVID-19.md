@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unami Lodge's Response to COVID-19
+title: Unami Lodge, One's Response to COVID-19
 author: Luke Cihak
 date: 2020-03-18
 banner: Response-to-COVID-19.png
@@ -8,9 +8,12 @@ thumbnail: Response-to-COVID-19.png
 excerpt: Stay up to date with the steps Unami Lodge is taking to combat Coronavirus.
 updating: true
 ---
-<em>This page will be continue to be updated as we learn more about the COVID-19 and make changes accordingly. Please check back for the most recent information about Unami Lodge events and procedures moving forward.</em>
 
-<strong>March 18, 2020 - 7:00PM EST - Lodge-Wide Communication</strong>
+<em>This page will continue to be updated as we learn more about COVID-19, and as changes are made accordingly. Please check back for the most recent information about Unami Lodge events and procedures moving forward.</em>
+
+<hr>
+
+<strong>March 18, 2020 - 7:00PM EST - A Message from the Lodge Chief</strong>
 
 Due to the current health crisis, the Cradle of Liberty Council Program Committee has decided to postpone or cancel all in-person events until at least April 30th.
 

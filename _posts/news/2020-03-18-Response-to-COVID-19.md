@@ -6,10 +6,9 @@ date: 2020-03-18
 banner: Response-to-COVID-19.png
 thumbnail: Response-to-COVID-19.png
 excerpt: Stay up to date with the steps Unami Lodge is taking to combat Coronavirus.
-event:
-  title: Community Service Day
-  date: TBD (Postponed)
+updating: true
 ---
+<strong>March 18, 2020 - 7:00PM EST</strong>
 
 Due to the current health crisis, the Cradle of Liberty Council Program Committee has decided to postpone or cancel all in-person events until at least April 30th.
 

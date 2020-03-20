@@ -4,6 +4,7 @@ layout: index
 
 slides:
   /img/slider/slide-conclave.png: /news/2020-Conclave
+  /img/posts/banners/NOAC-LOVE-Fundraiser-Flap.png: /news/NOAC-LOVE-Fundraiser-Flap
   /img/slider/slide-noac.png: /news/2020-NOAC
   /img/slider/slide-powerpass.png: /news/2020-Dues-and-Power-Pass
 

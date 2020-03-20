@@ -138,10 +138,13 @@ iframe {
 /*alerts*/
 .alert-primary {
   color: var(--site-white);
-  background-color: var(--blue);
+  background-color: var(--oa-blue);
+  border-style: none;
 }
 .alert-primary a {
-  color: var(--site-accent-dark);
+  color: var(--site-white);
+  font-weight: bold;
+  font-style: italic;
 }
 .alert-warning {
   color: var(--site-white);

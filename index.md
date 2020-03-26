@@ -3,6 +3,7 @@ title: Home
 layout: index
 
 slides:
+  /img/slider/slide-ss2.png: https://colbsa.doubleknot.com/event/spring-service-2/2640889
   /img/slider/slide-conclave.png: /news/2020-Conclave
   /img/slider/slide-noac.png: /news/2020-NOAC
   /img/slider/slide-powerpass.png: /news/2020-Dues-and-Power-Pass

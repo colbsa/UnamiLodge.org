@@ -10,6 +10,19 @@ updating: true
 ---
 
 <em>This page will continue to be updated as we learn more about COVID-19, and as changes are made accordingly. Please check back for the most recent information about Unami Lodge events and procedures moving forward.</em>
+<hr>
+
+<strong>March 25, 2020 - 5:00PM EST - Unit Elections Update</strong>
+
+The National OA Director has approved lodges to hold virtual unit elections through July 1, 2020.  Due to the cancellation of many induction events, candidates that were elected February 1, 2019 through July 1, 2020 will have 24 months from the date of election to complete their ordeal. 
+
+Visit [oa-bsa.org/coronavirus/virtual-unit-elections-and-induction-date-extension](https://oa-bsa.org/coronavirus/virtual-unit-elections-and-induction-date-extension) to learn more.
+
+<hr>
+
+<strong>March 25, 2020 - 5:00PM EST - OA High Adventure</strong>
+
+OA High Adventure programs are happening as planned. Learn more at [oa-bsa.org/coronavirus](https://oa-bsa.org/coronavirus#oaha).
 
 <hr>
 

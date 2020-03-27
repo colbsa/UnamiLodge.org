@@ -3,7 +3,7 @@ layout: post
 title: NOAC Trivia Night
 author:
 date: 2020-03-26
-banner: NOAC-LOVE-Fundraiser-Flap.png
+banner: 2020-trivia-night.png
 thumbnail: 2020-NOAC-Trivia-Night.png
 excerpt: Join us for a fun night of trivia to benefit Unami Lodge, One’s youth program!
 event:

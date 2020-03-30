@@ -88,7 +88,7 @@
 
 - chapter-name: Roosevelt
   email: roosevelt
-  meeting-text: Make sure you check out all of the latest happenings with the Roosevelt Chapter on their <a href=http://www.facebook.com/rooseveltunami target_blank>Facebook Page</a>. The Roosevelt Chapter meets the second Wednesday of the month (from September until May) from 7:00pm to 8:30pm at The Philadelphia Protestant Home at 6500 Tabor Ave, Philadelphia, PA 19111.
+  meeting-text: Make sure you check out all of the latest happenings with the Roosevelt Chapter on their <a href=http://www.facebook.com/rooseveltunami target="_blank">Facebook Page</a>. The Roosevelt Chapter meets the second Wednesday of the month (from September until May) from 7:00pm to 8:30pm at The Philadelphia Protestant Home at 6500 Tabor Ave, Philadelphia, PA 19111.
   meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3054.2133289547073!2d-75.0922373481483!3d40.04833997930874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b6ea1a28be41%3A0xc87269d46591f7cd!2sThe+Philadelphia+Protestant+Home!5e0!3m2!1sen!2sus!4v1486262346116
   chief: Tristan Hunter
   vice-chief: Blaise Kearney
@@ -96,6 +96,9 @@
   adviser: Bob Deck
   assoc-adviser: Steven Leopold
   zip: [19111, 19114, 19115, 19116, 19122, 19124, 19125, 19133, 19134, 19135, 19136, 19137, 19149, 19152, 19154]
+  alert:
+    text: Roosevelt Chapter will hold its meeting virtually on April 8 at 7PM via Zoom. The link to join is&colon; <a href="https://zoom.us/j/5125574114" target="_blank">https://zoom.us/j/5125574114</a>.
+    class: alert-warning
 
 - chapter-name: Triune
   email: triune

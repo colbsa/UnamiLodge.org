@@ -5,6 +5,11 @@
   <div class="row">
     <div class="col mx-auto">
       <h1>{{page.chapter-name}}</h1>
+      {% if page.alert %}
+      <div class="col alert text-center alert-page {% if page.alert.class -%} {{page.alert.class}} {%- else -%} alert-primary {%- endif %}">
+        {{page.alert.text}}
+      </div>
+      {% endif %}
       <h2>Chapter Officers</h2>
       <table class="table table-responsive table-striped mt-3 mb-4">
         <thead>

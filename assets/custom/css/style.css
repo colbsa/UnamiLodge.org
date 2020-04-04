@@ -152,7 +152,7 @@ iframe {
 .alert-warning {
   color: var(--site-white);
   background-color: var(--oa-red);
-  border-color: var(--site-black);
+  border-style: none;
 }
 .alert-warning a {
   color: var(--site-white);

@@ -8,6 +8,9 @@
   adviser: Todd Malora
   assoc-adviser: Vacant
   zip: [19002, 19025, 19031, 19034, 19038, 19075, 19401, 19422, 19428, 19436, 19437, 19444, 19458, 19462, 19477, 19482]
+  alert:
+    text: Baden Powell will be meeting virtually on <a href="https://zoom.us/j/843608327" target="_blank">https://zoom.us/j/843608327</a> @7:00 on Wednesday April 8th. Please check your email for the required password and further details.
+    class: alert-warning
 
 - chapter-name: Conestoga
   email: conestoga
@@ -19,6 +22,9 @@
   adviser: Wayne Bickford
   assoc-adviser: George Lipchock Sr.
   zip: [19013, 19018, 19023, 19026, 19029, 19033, 19036, 19043, 19050, 19064, 19074, 19076, 19078, 19079, 19081, 19082, 19087, 19094, 19113, 19453]
+  alert:
+    text: Conestoga Chapter will be meeting virtually on <a href="https://zoom.us/j/343796308" target="_blank">https://zoom.us/j/343796308</a> @ 7:00 on April 14th. Please check your email for the required password and further details.
+    class: alert-warning
 
 - chapter-name: Constellation
   email: constellation
@@ -66,6 +72,9 @@
   adviser: Brian Darcas
   assoc-adviser: Michael Matusheski
   zip: [19005, 19403, 19405, 19406, 19407, 19408, 19409, 19426, 19431, 19456, 19468, 19473, 19474, 19478, 19479, 19481, 19490, 19492, 19072, 19331, 19401, 19428, 19453]
+  alert:
+    text: Lafayette Chapter will be hosting our meeting via Zoom this Wednesday. Check your email or reach out to <a href="/contact?recipient=lafayette" target="_blank">Lafayette@UnamiLodge.org</a> for more information.
+    class: alert-warning
 
 - chapter-name: Minquas
   email: minquas
@@ -88,6 +97,9 @@
   adviser: Edward Rigler
   assoc-adviser: Vacant
   zip: [19117, 19118, 19119, 19120, 19126, 19127, 19128, 19129, 19138, 19140, 19141, 19144, 19150]
+  alert:
+    text: Do to COVID-19, Northern Chapter will not be holding a meeting this month.
+    class: alert-warning
 
 - chapter-name: Roosevelt
   email: roosevelt
@@ -124,3 +136,6 @@
   adviser: Larry Arinsberg
   assoc-adviser: Jeffrey Klanderman
   zip: [19001, 19006, 19012, 19038, 19040, 19044, 19046, 19090, 19095, 19111, 19114, 19117]
+  alert:
+    text: Washington Chapter will be meeting virtually on <a href="https://zoom.us/j/501428908" target="_blank">https://zoom.us/j/501428908</a> @ 7:15 on April 8th. Please check your email for the required password and further details.
+    class: alert-warning

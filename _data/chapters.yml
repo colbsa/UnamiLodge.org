@@ -73,7 +73,7 @@
   assoc-adviser: Michael Matusheski
   zip: [19005, 19403, 19405, 19406, 19407, 19408, 19409, 19426, 19431, 19456, 19468, 19473, 19474, 19478, 19479, 19481, 19490, 19492, 19072, 19331, 19401, 19428, 19453]
   alert:
-  text: Lafayette Chapter will be hosting our meeting via Zoom this Wednesday. Check your email or reach out to <a href="/contact?recipient=lafayette" target="_blank">Lafayette@UnamiLodge.org</a> for more information.
+    text: Lafayette Chapter will be hosting our meeting via Zoom this Wednesday. Check your email or reach out to <a href="/contact?recipient=lafayette" target="_blank">Lafayette@UnamiLodge.org</a> for more information.
     class: alert-warning
 
 - chapter-name: Minquas

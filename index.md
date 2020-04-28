@@ -4,8 +4,6 @@ layout: index
 
 slides:
   /img/slider/slide-covid19.png: /coronavirus
-  /img/slider/slide-trivia.png: /news/2020-NOAC-Trivia-Night
-  /img/slider/slide-conclave.png: /news/2020-Conclave
   /img/slider/slide-noac.png: /news/2020-NOAC
 
 button-bar:

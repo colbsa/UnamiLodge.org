@@ -14,17 +14,17 @@
   brotherhood: false
   highlight: false
 
-- title: Trivia Night (Adult Only)
+- title: Virtual Trivia Night
   date: 2020-05-09
   date-end:
   time: 6:45 PM
   price:
     youth:
-    adult: 25
-  location: St. Catherine of Siena
-  location-url: https://goo.gl/maps/2BsrLfnybkJXB1927
-  link-text: Register Now
-  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2647209&orgkey=2793
+    adult:
+  location: Online
+  location-url:
+  link-text: Coming Soon!
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
@@ -62,22 +62,6 @@
   brotherhood: false
   highlight: false
 
-- title: Section NE-5 Conclave
-  date: 2020-06-05
-  date-end: 2020-06-07
-  time:
-  price:
-    youth: 45
-    adult: 45
-  location: Goose Pond SR
-  location-url: https://www.google.com/maps/place/Goose+Pond+Scout+Reservation/@41.404131,-75.276116,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4b9a06308c7f7:0x881ed9ffccee371!8m2!3d41.404127!4d-75.273922
-  link-text: Register Now
-  link-url: https://conclaveregistration.org/section/ne5
-  post-url: /news/2020-Conclave
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Summer Camp Inductions
   date: 2020-06-24
   date-end: 2020-08-06
@@ -106,6 +90,22 @@
   link-text: Register Now
   link-url: https://colbsa.doubleknot.com/event/2020-noac/2578650
   post-url: /news/2020-NOAC-Updates
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
+- title: Section NE-5 Conclave
+  date: 2020-08-28
+  date-end: 2020-08-30
+  time:
+  price:
+    youth: 45
+    adult: 45
+  location: Goose Pond SR
+  location-url: https://www.google.com/maps/place/Goose+Pond+Scout+Reservation/@41.404131,-75.276116,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4b9a06308c7f7:0x881ed9ffccee371!8m2!3d41.404127!4d-75.273922
+  link-text: Register Now
+  link-url: https://conclaveregistration.org/section/ne5
+  post-url: /news/2020-Conclave
   ordeal: false
   brotherhood: false
   highlight: true

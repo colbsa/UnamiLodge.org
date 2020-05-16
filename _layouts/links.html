@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<title>{{page.title}} | {{site.title}}</title>
+  	<link rel="stylesheet" href="/{% ministamp assets/custom/css/links.css assets/custom/css/links.css %}">
+	<script src="https://kit.fontawesome.com/8dd4382229.js" crossorigin="anonymous"></script>
+	<link rel="shortcut icon" href="/img/favicon.ico" />
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	{% if jekyll.environment == "prod" %}
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-96198154-3"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-96198154-3');
+		</script>
+	{% endif %}
+</head>
+<body>
+	<img id="logo" src="img/icon.svg" alt="Unami Lodge Logo">
+
+	<div id="name">@UnamiLodge</div>
+
+	<div id="socials">
+		<a href="https://www.facebook.com/unamilodge" target="_blank">
+			<i style="line-height: 38px;" class="fa fa-facebook-f circle" aria-hidden="true"></i>
+		</a>
+		<a href="https://www.instagram.com/unamilodge" target="_blank">
+			<i style="line-height: 38px;" class="fa fa-instagram circle" aria-hidden="true"></i>
+		</a>
+		<a href="https://www.unamilodge.org/" target="_blank">
+			<i style="line-height: 38px;" class="fa fa-link circle" aria-hidden="true"></i>
+		</a>
+	</div>
+
+	<div id="links">
+		{% for link in page.link-highlight %}
+			<a class="link link-highlight" href={{link[1]}} target="_blank">{{link[0]}}</a>
+	    {% endfor %}
+		{% for link in page.links %}
+			<a class="link" href={{link[1]}} target="_blank">{{link[0]}}</a>
+	    {% endfor %}
+	</div>
+</body>
+</html>

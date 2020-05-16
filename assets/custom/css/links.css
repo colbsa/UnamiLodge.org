@@ -1,0 +1,76 @@
+body {
+  color: #030006;
+  background-color: #FFF;
+  font-family: apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  background: #eceef0;
+}
+
+#logo {
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin: 30px auto 0px;
+  border-radius: 50%;
+}
+#name {
+  color: #000000;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  margin: 15px auto;
+}
+
+#socials {
+  text-align: center;
+}
+#socials a {
+  text-decoration:none;
+}
+
+.circle {
+  background: rgb(221, 221, 221);
+  border-radius: 52px;
+  width: 38px;
+  height: 38px;
+  text-align: center;
+  font-size: 14px;
+  color: rgb(32, 32, 32);
+  margin: 10px 6px;
+}
+.circle:hover {
+  background: rgb(32, 32, 32);
+  color: #fff;
+}
+
+#links {
+  max-width: 675px;
+  width: auto;
+  display: block;
+  margin: 15px auto;
+}
+.link {
+  display: block;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  padding: 17px;
+
+}
+.link-highlight{
+  background-color: #E31837;
+  color: #fff;
+}
+.link:hover {
+  background-color: #fff;
+  color: #000;
+}
+

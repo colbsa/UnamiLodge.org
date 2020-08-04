@@ -4,7 +4,7 @@ layout: index
 
 slides:
   /img/slider/slide-covid19.png: /coronavirus
-  /img/slider/slide-noac.png: /news/2020-NOAC
+  /img/slider/slide-momentum.png: https://momentum.oa-bsa.org/
 
 button-bar:
   Elected Candidates: /electedcandidates

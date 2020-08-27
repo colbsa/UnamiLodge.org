@@ -3,8 +3,8 @@ title: Home
 layout: index
 
 slides:
+  /img/slider/conclave-at-home.jpg: /news/Conclave-at-Home
   /img/slider/slide-covid19.png: /coronavirus
-  /img/slider/slide-noac.png: /news/2020-NOAC
 
 button-bar:
   Elected Candidates: /electedcandidates

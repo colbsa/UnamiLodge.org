@@ -12,3 +12,5 @@ event:
 ---
 
 Learn more about the section and the scouting world at this exciting event! For more information, visit the Section NE-5's website at [oane5.org](https://sites.google.com/view/oane5/conclave).
+
+Patch auctions are ongoing on Section NE-5's Facebook page at [facebook.com/sectionne5](https://www.facebook.com/sectionne5).

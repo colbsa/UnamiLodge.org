@@ -115,8 +115,8 @@
   date-end:
   time: 11AM - 4PM
   price:
-    youth:
-    adult:
+    youth: 0
+    adult: 0
   location: Online
   location-url: 
   link-text: Register Now

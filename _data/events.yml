@@ -112,7 +112,7 @@
 
 - title: Section NE-5 Conclave @ Home
   date: 2020-08-29
-  date-end: 2020-08-29
+  date-end:
   time:
   price:
     youth:
@@ -158,9 +158,9 @@
   brotherhood: false
   highlight: false
 
-- title: Fall Fellowship
-  date: 2020-10-02
-  date-end: 2020-10-04
+- title: Fall Service Day
+  date: 2020-10-03
+  date-end:
   time:
   price:
     youth:
@@ -175,8 +175,8 @@
   highlight: false
 
 - title: Scout Memorabilia Show
-  date: 2020-10-16
-  date-end: 2020-10-17
+  date: Canceled
+  date-end:
   time:
   price:
     youth: 0

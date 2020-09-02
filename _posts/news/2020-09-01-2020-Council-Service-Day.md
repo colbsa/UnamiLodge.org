@@ -3,8 +3,8 @@ layout: post
 title: Council Service Day
 author:
 date: 2020-09-01
-banner: back-to-camp.png
-thumbnail: back-to-camp.png
+banner: Back-to-Camp.png
+thumbnail: Back-to-Camp.png
 excerpt: Join us for a day of service at Musser Scout Reservation.
 event:
   title: Council Service Day

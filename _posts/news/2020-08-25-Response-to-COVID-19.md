@@ -14,7 +14,7 @@ updating: true
 
 <strong>August 25, 2020 - New Service Events</strong>
 
-The Lodge Executive Committee has approved an abridged service day to take the place of the Fall Fellowship this year! Stay tuned for more updates on that and make sure to sign up for the [Council's Service Day]at Musser Scout Reservation](/calendar), September 12!
+The Lodge Executive Committee has approved an abridged service day to take the place of the Fall Fellowship this year! Stay tuned for more updates on that and make sure to sign up for the [Council's Service Day at Musser Scout Reservation](/calendar), September 12!
 
 <hr>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Unami Lodge, One's Response to COVID-19
 author: Luke Cihak
-date: 2020-04-28
+date: 2020-08-25
 banner: Response-to-COVID-19.png
 thumbnail: Response-to-COVID-19.png
 excerpt: Stay up to date with the steps Unami Lodge is taking to combat Coronavirus.
@@ -10,6 +10,36 @@ updating: true
 ---
 
 <em>This page will continue to be updated as we learn more about COVID-19, and as changes are made accordingly. Please check back for the most recent information about Unami Lodge events and procedures moving forward.</em>
+<hr>
+
+<strong>August 25, 2020 - New Service Events</strong>
+
+The Lodge Executive Committee has approved an abridged service day to take the place of the Fall Fellowship this year! Stay tuned for more updates on that and make sure to sign up for the [Council's Service Day at Musser Scout Reservation](/calendar), September 12!
+
+<hr>
+
+<strong>August 21, 2020 - National Guidelines Update</strong>
+
+[New guidelines](https://oa-bsa.org/article/guidelines-conducting-virtual-lodge-officer-elections) have been released for conducting virtual lodge officer elections when local restrictions preclude in-person gatherings.
+
+<hr>
+
+<strong>August 5, 2020 - Induction Procedures Update</strong>
+
+At the National Council of Chiefs during Momentum Launch, new updates were announced regarding [in-person and virtual induction procedures](https://oa-bsa.org/article/induction-guidance-lodges-under-covid-19-restrictions-virtual-inductions).
+
+<hr>
+
+<strong>June 17, 2020 - Momentum Update</strong>
+
+It is with deep disappointment we announce the cancellation of the in-person Momentum event scheduled for next month at the Summit Bechtel Reserve. Please [view the full announcement](https://oa-bsa.org/article/in-person-momentum-event-update) for more details and FAQs. Momentum Launch, a fully virtual event, will still occur as planned.
+
+<hr>
+
+<strong>June 9, 2020 - Camping Night Policy Update</strong>
+
+The [virtual long-term camping authorization](https://oa-bsa.org/coronavirus/temporary-camping-night-policy-due-covid-19) policy has been updated.
+
 <hr>
 
 <strong>April 28, 2020 - 5:00PM EST - Unami Events Update</strong>

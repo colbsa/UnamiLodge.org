@@ -11,7 +11,7 @@ event:
   date: 2020-09-12
 ---
 
-We're all excited to get back to camp and there's no better way for members of the OA to go than in service! This event is free but please bring your own lunch, water bottles, work gloves, and face coverings to help keep us all safe. Families are welcome to come as well!
+We're all excited to get back to camp and there's no better way for members of the OA to go than in service! This event is <strong>free</strong> but please bring your own lunch, water bottles, work gloves, and face coverings to help keep us all safe. Families are welcome to come as well!
 
 Projects will range from picking up limbs, stacking wood, general campsite cleanup, and organizing things just to name a few.
 We have some tools at camp, but if you can bring your own as well as work gloves – that would help tremendously. Tools that could help would include shovels, rakes, strong backs and a helpful spirit to help complete the many projects as needed!

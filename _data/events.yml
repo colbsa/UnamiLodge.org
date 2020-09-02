@@ -124,7 +124,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Vigil Induction Weekend
   date: TBD
@@ -145,7 +145,7 @@
 - title: Council Service Day
   date: 2020-09-12
   date-end:
-  time:
+  time: 8AM - 4PM
   price:
     youth:
     adult:

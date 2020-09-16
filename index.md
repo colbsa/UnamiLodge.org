@@ -3,8 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/council-service-day.png: /news/2020-Council-Service-Day
-  /img/slider/conclave-at-home.jpg: /news/Conclave-at-Home
+  /img/slider/fall-service-day.png: /news/2020-Fall-Service-Day
   /img/slider/slide-covid19.png: /coronavirus
 
 button-bar:

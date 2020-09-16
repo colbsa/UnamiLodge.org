@@ -23,6 +23,6 @@ Check-in will be in the Camp Garrison Parking Lot at 4021 Upper Ridge Road
 * Newest BSA Physical Form with Parts A & B completed (bring a copy, NOT original)
 * Work Clothes and Gloves
 * Bag Lunch, Drinks, Water
-* COVID 19 Screening Questionnaire, please fill this out before coming to the event, click here for the form
+* COVID 19 Screening Questionnaire, [please fill this out before coming to the event](https://docs.google.com/forms/d/e/1FAIpQLSeJAB5L_9znxxKMjBFw0cjnlubXUZiFtKN4iF2ZiFPDOJFlww/viewform){:target="_blank"}
 
 Questions will be happily answered by either [events@UnamiLodge.org](/contact?recipient=events) or [service@UnamiLodge.org](/contact?recipient=service)

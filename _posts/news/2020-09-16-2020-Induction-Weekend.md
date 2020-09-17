@@ -5,7 +5,7 @@ author:
 date: 2020-09-16
 banner: 2020-Induction-Weekend.png
 thumbnail: 2020-Induction-Weekend.png
-excerpt: Join us for one more day of service before the snow comes.
+excerpt: Looking to join or know an elected candidate? We've got news!
 event:
   title: Ordeal Induction Weekend
   date: 2020-10-09
@@ -13,7 +13,7 @@ event:
 
 This is a new year for many of us including the Lodge! Join us (or invite an elected candidate) for the first induction event of the year! Our Lodge has battled the twists and turns of this year and we have finally found an opportunity for those members of our scouting community most worthy of joining Scouting's Honor Society to find the safest opportunity to join us.
 
-This event is extremely limited so please sign up fast! For more information about the ordeal and the Order of the Arrow, please see our [page for elected candidates](/electedcandidates/).
+This event is extremely limited so please sign up fast! There will be a wait list and we are still trying to schedule another induction weekend but the calendar is awfully tight. For more information about the ordeal and the Order of the Arrow, see our [page for elected candidates](/electedcandidates/).
 
 Any and all questions can be answered at [ordeal@UnamiLodge.org](/contact?recipient=ordeal).
 
@@ -26,4 +26,4 @@ Any and all questions can be answered at [ordeal@UnamiLodge.org](/contact?recipi
 
 ## Current Members of the Order of the Arrow
 
-While this event is even more limited to us, we still need elangomats! Please reach out to [ordeal@UnamiLodge.org](/contact?recipient=ordeal) if you are interested.
+We need help to make this unique induction a success!  All work will revolve around that.  Please take this opportunity to give service to the lodge. Please reach out to [ordeal@UnamiLodge.org](/contact?recipient=ordeal) if you are interested.

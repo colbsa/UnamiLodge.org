@@ -156,7 +156,7 @@
   post-url: /news/2020-Fall-Service-Day
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Ordeal Induction Weekend
   date: 2020-10-09

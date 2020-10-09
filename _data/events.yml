@@ -234,6 +234,6 @@
   link-text: Coming Soon (Tentatively!)
   link-url:
   post-url:
-  ordeal: true
+  ordeal: false
   brotherhood: false
   highlight: false

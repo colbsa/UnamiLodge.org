@@ -3,7 +3,6 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/fall-service-day.png: /news/2020-Fall-Service-Day
   /img/slider/induction-weekend.png: /news/2020-Induction-Weekend
   /img/slider/slide-covid19.png: /coronavirus
 

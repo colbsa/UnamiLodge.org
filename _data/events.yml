@@ -167,12 +167,12 @@
     adult: 40
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/event/fall-ordeal-induction/2736800
+  link-text: Registration Closed
+  link-url:
   post-url: /news/2020-Induction-Weekend
-  ordeal: true
+  ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Scout Memorabilia Show
   date: Canceled
@@ -190,6 +190,22 @@
   brotherhood: false
   highlight: false
 
+- title: Lodge Officer Elections Announced
+  date: 2020-10-13
+  date-end:
+  time:
+  price:
+    youth:
+    adult:
+  location: UnamiLodge.org
+  location-url: /news/2021-Officer-Elections
+  link-text: Learn More
+  link-url: /news/2021-Officer-Elections
+  post-url: /news/2021-Officer-Elections
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Vigil Induction Weekend
   date: 2020-10-23
   date-end: 2020-10-25
@@ -203,5 +219,21 @@
   link-url:
   post-url:
   ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Tentative Ordeal Induction Weekend
+  date: 2020-10-30
+  date-end: 2020-10-31
+  time: 6PM (Fri) - 7PM (Sat)
+  price:
+    youth: 40
+    adult: 40
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
+  link-text: Coming Soon (Tentatively!)
+  link-url:
+  post-url:
+  ordeal: true
   brotherhood: false
   highlight: false

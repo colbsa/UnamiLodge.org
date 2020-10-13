@@ -20,7 +20,7 @@ Lodge Operations Committee
 
 **Lodge Chief:** Monday, October 26th from 7AM to 7PM (Results will be announced Tuesday, October 27th)  
 **Vice Chief:** Wednesday, October 28th from 7AM to 7PM (Results will be announced on Thursday, October 29th)  
-**Treasure/Secretary:** Friday, October 30th from 7AM to 7PM (Results will be announced on Saturday, October 31st)
+**Treasurer/Secretary:** Friday, October 30th from 7AM to 7PM (Results will be announced on Saturday, October 31st)
 
 - If an email is not on lodgemaster then that vote will not be counted
   - An email will be sent only to the primary email in lodgemaster

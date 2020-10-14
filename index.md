@@ -3,7 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/induction-weekend.png: /news/2020-Induction-Weekend
+  /img/slider/officer-elections.png: /news/2021-Officer-Elections
   /img/slider/slide-covid19.png: /coronavirus
 
 button-bar:

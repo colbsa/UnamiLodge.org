@@ -3,8 +3,8 @@ layout: post
 title: Lodge Officer Elections
 author:
 date: 2020-10-13
-banner:
-thumbnail: unami-red.png
+banner: 2021-Officer-Elections.png
+thumbnail: 2021-Officer-Elections.png
 excerpt: Learn how Lodge Officer elections will work this year!
 updating: true
 ---
@@ -22,13 +22,13 @@ Lodge Operations Committee
 **Vice Chief:** Wednesday, October 28th from 7AM to 7PM (Results will be announced on Thursday, October 29th)  
 **Treasurer/Secretary:** Friday, October 30th from 7AM to 7PM (Results will be announced on Saturday, October 31st)
 
-- If an email is not on lodgemaster then that vote will not be counted
-  - An email will be sent only to the primary email in lodgemaster
+- If an email is not on LodgeMaster then that vote will not be counted
+  - An email will be sent only to the primary email in LodgeMaster
 - If duplicate emails appear they will not be counted
   - Unless it has been approved by the lodge operations (siblings have same email address)
   - In LodgeMaster you must have the same primary email address
 - Any voting that happens after the elections will not be accepted
-- If a member is not found to be in lodgemaster their vote will not be counted
+- If a member is not found to be in LodgeMaster their vote will not be counted
 - If a member tries to vote multiple times or on the behalf of another member, those votes will not be counted
 
 <hr>

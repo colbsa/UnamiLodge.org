@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lodge Officer Elections
-author:
+author: Michael Calliagas
 date: 2020-10-13
 banner: 2021-Officer-Elections.png
 thumbnail: 2021-Officer-Elections.png

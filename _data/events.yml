@@ -204,7 +204,7 @@
   post-url: /news/2021-Officer-Elections
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Vigil Induction Weekend
   date: 2020-10-23

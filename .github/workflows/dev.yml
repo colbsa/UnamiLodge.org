@@ -1,4 +1,4 @@
-name: Publish to Web
+name: Publish Development Branch to Web
 
 on:
   push:

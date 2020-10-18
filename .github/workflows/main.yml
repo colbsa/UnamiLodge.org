@@ -1,5 +1,11 @@
 name: Publish to Web
 
+env:
+  DEVURL: ${{ secrets.DEVURL}}
+  DEVDIR: ${{ secrets.DEVDIR }}
+  PRODURL: ${{ secrets.PRODURL }}
+  PRODDIR: ${{ secrets.PRODDIR }}
+
 on:
   push:
     branches: [ development ]

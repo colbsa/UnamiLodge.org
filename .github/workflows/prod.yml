@@ -1,0 +1,27 @@
+name: Publish Master Branch to Web
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  prod-deploy:
+    name: Deploys Master Branch to Production Website
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: executing remote ssh commands using key
+        uses: appleboy/ssh-action@master
+        env:
+          DEVDIR: ${{ secrets.PRODDIR }}
+        with:
+          host: ${{ secrets.PRODHOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.PRODKEY }}
+          port: ${{ secrets.PORT }}
+          envs: DEVDIR
+          script_stop: true
+          script: |
+            cd $PRODDIR
+            sudo -u www-data git reset --hard
+            sudo -u www-data git pull

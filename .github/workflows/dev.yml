@@ -1,0 +1,27 @@
+name: Publish Development Branch to Web
+
+on:
+  push:
+    branches: [ development ]
+
+jobs:
+  dev-deploy:
+    name: Deploys Development Branch to Development Website
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: executing remote ssh commands using key
+        uses: appleboy/ssh-action@master
+        env:
+          DEVDIR: ${{ secrets.DEVDIR }}
+        with:
+          host: ${{ secrets.DEVHOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.DEVKEY }}
+          port: ${{ secrets.PORT }}
+          envs: DEVDIR
+          script_stop: true
+          script: |
+            cd $DEVDIR
+            sudo -u www-data git reset --hard
+            sudo -u www-data git pull

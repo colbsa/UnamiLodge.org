@@ -13,13 +13,13 @@ jobs:
       - name: executing remote ssh commands using key
         uses: appleboy/ssh-action@master
         env:
-          DEVDIR: ${{ secrets.PRODDIR }}
+          PRODDIR: ${{ secrets.PRODDIR }}
         with:
           host: ${{ secrets.PRODHOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.PRODKEY }}
           port: ${{ secrets.PORT }}
-          envs: DEVDIR
+          envs: PRODDIR
           script_stop: true
           script: |
             cd $PRODDIR

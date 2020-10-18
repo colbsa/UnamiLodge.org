@@ -24,4 +24,7 @@ jobs:
           key: ${{ secrets.DEVKEY }}
           port: ${{ secrets.PORT }}
           script_stop: true
-          script: whoami
+          script: |
+            cd $DEVDIR
+            git reset --hard
+            git pull

@@ -23,5 +23,5 @@ jobs:
           script_stop: true
           script: |
             cd $DEVDIR
-            git reset --hard
-            git pull
+            sudo -u www-data git reset --hard
+            sudo -u www-data git pull

@@ -3,8 +3,6 @@
   dropdownitems:
   - title: Lodge History
     url: /history
-  - title: Reports & Minutes
-    url: /reports
   - title: Rules & Procedures
     url: /rules
   - title: Lodge Calendar

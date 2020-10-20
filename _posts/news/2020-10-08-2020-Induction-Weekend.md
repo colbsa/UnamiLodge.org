@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ordeal Induction Weekend (Updated)
+title: Ordeal Induction Weekend
 author:
 date: 2020-10-08
 banner: 2020-Induction-Weekend.png

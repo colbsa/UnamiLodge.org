@@ -7,6 +7,7 @@ link-highlight:
 
 links:
   October Ordeal Followup: https://unamilodge.org/news/2020-October-Ordeal
+  Award Nominations Close October 31: https://unamilodge.org/awards
   Pay Your Dues: https://unamilodge.org/dues/
   Elected Candidates: https://unamilodge.org/electedcandidates/
   Lodge Calendar: https://unamilodge.org/calendar/

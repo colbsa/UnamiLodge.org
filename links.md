@@ -3,9 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  Unami Lodge COVID-19 Updates: https://unamilodge.org/coronavirus
+  2021 Officer Elections: https://unamilodge.org/news/2021-Officer-Elections
 
 links:
+  October Ordeal Followup: https://unamilodge.org/news/2020-October-Ordeal
   Pay Your Dues: https://unamilodge.org/dues/
   Elected Candidates: https://unamilodge.org/electedcandidates/
   Lodge Calendar: https://unamilodge.org/calendar/

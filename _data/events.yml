@@ -295,7 +295,7 @@
     adult: 0
   location: Resica Falls SR
   location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Coming Soon!
+  link-text:
   link-url:
   post-url:
   ordeal: false
@@ -327,7 +327,7 @@
     adult:
   location: TBD
   location-url:
-  link-text: Coming Soon!
+  link-text:
   link-url:
   post-url:
   ordeal: false

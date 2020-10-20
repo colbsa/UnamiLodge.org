@@ -42,7 +42,7 @@ permalink: /calendar/
           {% if event.link-url %}
             <td class="align-middle"><a href="{{event.link-url}}" class="btn btn-primary">{{event.link-text}}</a></td>
           {% else %}
-            <td class="align-middle">{{event.link-text}}</td>
+            <td class="align-middle">{% if event.link-text %}{{event.link-text}}{% else %}Coming Soon{% endif %}</td>
           {% endif %}
         </tr>
       {% endfor %}

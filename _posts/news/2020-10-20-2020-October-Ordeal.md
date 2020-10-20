@@ -17,8 +17,8 @@ On October 10th, we celebrated the induction of our first new members in 2020! T
 
 Some opportunities and events for us to all keep an eye out for:
 - Learn about your Chapter and find out how you can get involved at [UnamiLodge.org/chapters/find](/chapters/find){:target="_blank"}
+  - If you know your Chapter already, you can use the menu at the top of this page
 - [Lodge Officer Elections October 26-31](/news/2021-Officer-Elections){:target="_blank"}
-  - if you know your Chapter already, you can use the menu at the top of this page
 - Stay tuned for a Service Day on November 14 at Resica Falls Scout Reservation
 - Stay tuned for an upcoming virtual fellowship event (Date TBD)
 - Stay tuned for another induction weekend (Elangomats are always wanted! Dates TBD)

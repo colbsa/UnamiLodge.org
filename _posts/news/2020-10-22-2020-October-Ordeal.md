@@ -2,13 +2,10 @@
 layout: post
 title: October Ordeal Followup
 author:
-date: 2020-10-20
+date: 2020-10-22
 banner: 2020-October-Ordeal.png
 thumbnail: Welcome-New-Members.png
 excerpt: Congratulations to our newest members! Here's what happened last weekend.
-event:
-  title: Ordeal Induction Weekend
-  date: 2020-10-09
 ---
 
 Congratulations to our 52 newest members!
@@ -21,6 +18,6 @@ Some opportunities and events for us to all keep an eye out for:
 - [Lodge Officer Elections October 26-31](/news/2021-Officer-Elections){:target="_blank"}
 - Stay tuned for a Service Day on November 14 at Resica Falls Scout Reservation
 - Stay tuned for an upcoming virtual fellowship event (Date TBD)
-- Stay tuned for another induction weekend (Elangomats are always wanted! Dates TBD)
+- Stay tuned for another induction weekend (Elangomats are always wanted! Dates: **November 13-14** [Click here to find out about being an Elangomat.](/contact?recipient=ordeal&message=I%20am%20interested%20in%20becoming%20an%20Elangomat%21%20Here%20is%20my%20contact%20information%3A))
 
 Updates will be made to this article as information about those events is finalized. Also stay tuned on our calendar at [UnamiLodge.org/calendar](/calendar){:target="_blank"}. Chapters often run their own events so make sure to reach out to your Chapter to learn more!

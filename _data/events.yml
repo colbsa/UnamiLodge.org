@@ -236,7 +236,7 @@
   post-url: /news/2021-Officer-Elections
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Lodge Vice-Chief Election
   date: 2020-10-28
@@ -268,7 +268,7 @@
   post-url: /news/2021-Officer-Elections
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Award Nominations Due
   date: 2020-10-31
@@ -284,7 +284,7 @@
   post-url: /awards
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Induction Weekend
   date: 2020-11-13
@@ -300,7 +300,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Brotherhood Blitz
   date: 2020-11-14
@@ -335,7 +335,7 @@
   highlight: false
 
 - title: Virtual Fellowship Event
-  date: TBD
+  date: 2020-11-21
   date-end:
   time:
   price:

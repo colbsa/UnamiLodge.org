@@ -4,8 +4,8 @@ layout: index
 
 slides:
   /img/slider/officer-elections.png: /news/2021-Officer-Elections
+  /img/slider/slide-awards.png: /news/2020-Award-Nominations-Due
   /img/slider/slide-newest-ordeal.png: /news/2020-October-Ordeal
-  /img/slider/slide-covid19.png: /coronavirus
 
 button-bar:
   Elected Candidates: /electedcandidates

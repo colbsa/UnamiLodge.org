@@ -18,6 +18,10 @@ Each year, Unami Lodge presents a series of awards to both member and non-member
 - [Founder's Award](/history/awards/founders)
 - [Green Turtle Award](/history/awards/green-turtle)
 
+
 <div class="text-center">
   <a href="/awards" class="btn btn-primary btn-lg">Submit an Award Nomination Now!</a>
 </div>
+
+Recogonize those who have served this year, even in the toughest of times. Sumbit an award nomination today!
+

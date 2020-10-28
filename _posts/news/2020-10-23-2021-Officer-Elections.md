@@ -2,12 +2,22 @@
 layout: post
 title: Lodge Officer Elections
 author: Michael Calliagas
-date: 2020-10-23
+date: 2020-10-27
 banner: 2021-Officer-Elections.png
 thumbnail: 2021-Officer-Elections.png
 excerpt: Learn how Lodge Officer elections will work this year!
 updating: true
 ---
+
+**October 27, 2020**
+
+<div class="row">
+  <div class="col">
+    <div class="embed-responsive embed-responsive-16by9 mb-3">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oFe3tv51GVU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
 
 **October 23, 2020**
 

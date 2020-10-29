@@ -295,10 +295,10 @@
     adult: 40
   location: Camp Delmont
   location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3538519,-75.4442166,17z/data=!4m5!3m4!1s0x89c69df9d40b7f27:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
-  link-text:
-  link-url:
+  link-text: Register Now!
+  link-url: https://colbsa.doubleknot.com/event/fall-ordeal-induction/2748873
   post-url:
-  ordeal: false
+  ordeal: true
   brotherhood: false
   highlight: true
 
@@ -311,11 +311,11 @@
     adult: 40
   location: Camp Delmont
   location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3538519,-75.4442166,17z/data=!4m5!3m4!1s0x89c69df9d40b7f27:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
-  link-text:
-  link-url:
+  link-text: Register Now!
+  link-url: https://colbsa.doubleknot.com/event/fall-brotherhood-induction/2749571
   post-url:
   ordeal: false
-  brotherhood: false
+  brotherhood: true
   highlight: false
 
 - title: Camp Service Day

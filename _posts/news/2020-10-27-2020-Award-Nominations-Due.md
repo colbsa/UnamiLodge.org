@@ -14,7 +14,7 @@ Each year, Unami Lodge presents a series of awards to both member and non-member
 
 - [Thomas J. Richards Outstanding Service Award](/history/awards/youth-osa)
 - [Dave Fortunato Outstanding Service Award](/history/awards/adult-osa)
-- [Charles J. "Chuck" Benshetler Spirit of Camp Leadership Award](history/awards/camp-leadership)
+- [Charles J. "Chuck" Benshetler Spirit of Camp Leadership Award](/history/awards/camp-leadership)
 - [Founder's Award](/history/awards/founders)
 - [Green Turtle Award](/history/awards/green-turtle)
 

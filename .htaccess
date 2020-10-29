@@ -83,7 +83,7 @@ Options All -Indexes
 
   # One hour for html, pdf, xml, and txt
   <filesMatch ".(html|htm|pdf|xml|txt)$">
-  Header set Cache-Control "max-age=3600, public"
+  Header set Cache-Control "max-age=600, public"
   </filesMatch>
 
   # No cache for php

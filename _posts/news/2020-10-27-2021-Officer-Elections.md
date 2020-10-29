@@ -9,6 +9,16 @@ excerpt: Learn how Lodge Officer elections will work this year!
 updating: true
 ---
 
+**October 29, 2020**
+
+<div class="row">
+  <div class="col">
+    <div class="embed-responsive embed-responsive-16by9 mb-3">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ETGDWLKxKgg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
 **October 27, 2020**
 
 <div class="row">

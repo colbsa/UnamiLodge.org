@@ -3,14 +3,14 @@ layout: post
 title: 2020 Vigil Honor Class
 author: Michael Calliagas
 date: 2020-10-25
-banner: 
+banner: 2020-Vigil-Honor-Class.png
 thumbnail: 2020-Vigil-Honor-Class.png
 excerpt: Congratulations to the 2020 Vigil Honor Class!
 ---
 
 This past weekend, 10 dedicated Unami Lodge members kept their vigil at Resica Falls. These model Arrowmen were selected due to their contributions to the lodge, their units, our camps, and the council.  Congratulations to all of the members of the 2020 Vigil Honor class!
 
-_Pictured Above, From Left to Right:_
+_Pictured Above, From Left to Right: Riley Metzler, Alex Ziemba, Melissa Sirken, Ted McDonald, Chris Smith, Anthony Glass, Luke Clancy, Heather Filer, Dan Lyons, Austin Groeber_
 
 **Luke Clancy - "To Be of Intention"**
 

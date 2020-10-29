@@ -10,6 +10,8 @@ excerpt: Congratulations to the 2020 Vigil Honor Class!
 
 This past weekend, 10 dedicated Unami Lodge members kept their vigil at Resica Falls. These model Arrowmen were selected due to their contributions to the lodge, their units, our camps, and the council.  Congratulations to all of the members of the 2020 Vigil Honor class!
 
+_Pictured Above, From Left to Right:_
+
 **Luke Clancy - "To Be of Intention"**
 
 Brother Clancy has been a familiar face at service weekends and Roosevelt Chapter meetings since his induction in the lodge. Luke was elected to serve Unami, One as its secretary in 2019 and has assisted in the planning of the Pow-Wow in the Park, but his real interest has been the annual Lodge Leadership Development event, which he has planned on two separate occasions as Leadership Development chairperson. Brother Clancy’s intention for Unami Lodge, One remains positive, and his presence is always unmistakable.

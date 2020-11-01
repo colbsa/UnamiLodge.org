@@ -2,12 +2,22 @@
 layout: post
 title: Lodge Officer Elections
 author: Michael Calliagas
-date: 2020-10-27
+date: 2020-11-01
 banner: 2021-Officer-Elections.png
 thumbnail: 2021-Officer-Elections.png
 excerpt: Learn how Lodge Officer elections will work this year!
 updating: true
 ---
+
+**November 1, 2020**
+
+Congratulations to all our 2021 Lodge Officers!
+
+**Chief** - Patrick Lynch  
+**Vice Chief 1** - William Beardsley  
+**Vice Chief 2** - Liam Lynch  
+**Secretary** - Riley Metzler  
+**Treasurer** - Patrick White  
 
 **October 29, 2020**
 

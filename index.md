@@ -3,8 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/officer-elections.png: /news/2021-Officer-Elections
-  /img/slider/slide-awards.png: /news/2020-Award-Nominations-Due
+  /img/slider/slide-join-the-order.png: /news/2020-November-Induction
+  /img/slider/slide-seal-the-bond.png: /news/2020-November-Brotherhood
   /img/slider/slide-newest-ordeal.png: /news/2020-October-Ordeal
 
 button-bar:

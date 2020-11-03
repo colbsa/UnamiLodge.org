@@ -22,7 +22,7 @@ Any and all questions can be answered at ordeal@UnamiLodge.org.
 - This event is a shine (no rain) event, so if the weather looks rough, this will be cancelled
   - All final updates on this event will be emailed and posted on the website, by the evening of Thursday, November 12 at the latest
 - Bring multiple face covering to help with the cold
-- [Fill out this form before leaving your house](https://docs.google.com/forms/d/e/1FAIpQLSeJAB5L_9znxxKMjBFw0cjnlubXUZiFtKN4iF2ZiFPDOJFlww/viewform){:target="_blank"}
+- [Fill out this form before leaving your house](https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit){:target="_blank"}
 
 ## Cold Specific Suggested Supplies
 

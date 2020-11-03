@@ -279,8 +279,8 @@
     adult:
   location: UnamiLodge.org
   location-url: /awards
-  link-text: Nominate Someone!
-  link-url: /awards
+  link-text: Nominations Closed
+  link-url:
   post-url: /awards
   ordeal: false
   brotherhood: false

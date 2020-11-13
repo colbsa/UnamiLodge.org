@@ -66,4 +66,8 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
     <td class="align-middle"><h5 class="my-0">Unami Lodge Flap History</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="#">Coming Soon!</a></td>
   </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Unami Lodge History Podcast</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/podcast">Listen Now</a></td>
+  </tr>
 </table>

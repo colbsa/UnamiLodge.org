@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Last Induction of the Year
+title: Last Induction of the Year - Updated
 author:
-date: 2020-11-02
+date: 2020-11-13
 banner:
 thumbnail: 2020-Induction-Weekend.png
 excerpt: One last Ordeal Induction of the year coming right on up!
@@ -10,6 +10,12 @@ event:
   title: Induction Weekend
   date: 2020-11-13
 ---
+
+## November 13, 2020
+
+If you didn't see it in your email, [please review this final update](/files/Fall-Ordeal-Weekend-Two-Communication.pdf){:target="_blank"} on this weekend.
+
+## November 2, 2020
 
 This is a new year for many of us including the Lodge! Join us for the second and last induction event of the year, November 13-14! Our Lodge has battled the twists and turns of this year and the last induction weekend was quite popular! Because of that popularity, we found an opportunity for those members of our scouting community most worthy of joining Scouting’s Honor Society to find the safest opportunity to join us.
 

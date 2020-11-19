@@ -295,12 +295,12 @@
     adult: 40
   location: Camp Delmont
   location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3538519,-75.4442166,17z/data=!4m5!3m4!1s0x89c69df9d40b7f27:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
-  link-text: Register Now!
-  link-url: https://colbsa.doubleknot.com/event/fall-ordeal-induction/2748873
+  link-text: Event Passed
+  link-url:
   post-url:
   ordeal: true
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Brotherhood Blitz
   date: 2020-11-14
@@ -311,12 +311,12 @@
     adult: 30
   location: Camp Delmont
   location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3538519,-75.4442166,17z/data=!4m5!3m4!1s0x89c69df9d40b7f27:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
-  link-text: Register Now!
-  link-url: https://colbsa.doubleknot.com/event/fall-brotherhood-induction/2749571
+  link-text: Event Passed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: true
-  highlight: true
+  highlight: false
 
 - title: Camp Service Day
   date: 2020-11-14
@@ -327,9 +327,9 @@
     adult: 0
   location: Resica Falls SR
   location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: More Information
-  link-url: https://resicafalls.org/service
-  post-url: https://resicafalls.org/service
+  link-text: Event Passed
+  link-url:
+  post-url:
   ordeal: false
   brotherhood: false
   highlight: true
@@ -337,11 +337,43 @@
 - title: Virtual Fellowship Event
   date: 2020-11-21
   date-end:
+  time: 9AM - 4PM
+  price:
+    youth: 0
+    adult: 0
+  location: UnamiLodge.org
+  location-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSddA7A5A3CdnZh42dUkQlWpB3GwYQTWhalrAQz2tiIr19_WMA/viewform?usp=sf_link
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
+- title: Lodge Leadership Development
+  date: 2020-12-05
+  date-end:
+  time:
+  price:
+    youth: 0
+    adult: 0
+  location: UnamiLodge.org
+  location-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSfVRUiCCgAGwFBFZDTEF74541DQI4q1khU_aDIhOtqrMOOVlQ/viewform
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
+- title: 105th Annual Dinner
+  date: 2021-01-03
+  date-end:
   time:
   price:
     youth:
     adult:
-  location: TBD
+  location: UnamiLodge.org
   location-url:
   link-text:
   link-url:

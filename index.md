@@ -3,9 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/slide-join-the-order.png: /news/2020-November-Induction
-  /img/slider/slide-seal-the-bond.png: /news/2020-November-Brotherhood
-  /img/slider/slide-newest-ordeal.png: /news/2020-October-Ordeal
+  /img/slider/slide-fellowship-saturday.png: /news/2020-Fellowship-Day
+  /img/slider/lodge-leadership-development.png: /news/2020-Lodge-Leadership-Development
 
 button-bar:
   Elected Candidates: /electedcandidates

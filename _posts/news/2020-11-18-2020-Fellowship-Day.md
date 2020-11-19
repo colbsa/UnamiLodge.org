@@ -44,7 +44,7 @@ Schedule:
       <td>Compete against other arrowmen to find the most items on our list without leaving the comfort of your own home</td>
     </tr>
     <tr>
-      <td><em>12 - 1</td>
+      <td><em>12 - 1</em></td>
       <td><em>Lunch Break</em></td>
       <td></td>
     </tr>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Virtual Fellowship Day
+title: Lodge Leadership Development
 author:
 date: 2020-11-18
 banner: 2020-Lodge-Leadership-Development.png

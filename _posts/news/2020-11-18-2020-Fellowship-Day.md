@@ -50,7 +50,7 @@ Schedule:
     </tr>
     <tr>
       <td>1 - 2</td>
-      <td>New Members Gathering </td>
+      <td>New Members Gathering</td>
       <td>If you have been inducted into the lodge within the past year this is for you! The ordeal committee will be running through ice breakers and a Q&amp;A</td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ Schedule:
     <tr>
       <td>2 - 3</td>
       <td>Live Cedar Log Podcast</td>
-      <td>Listen in to one of our history committee’s Cedar Log podcast. They will be interviewing past Unami lodge chiefs to get to know about the past of the lodge [youtu.be/iZXcCg3ydnY](https://youtu.be/iZXcCg3ydnY)</td>
+      <td>Listen in to one of our history committee’s Cedar Log podcast. They will be interviewing past Unami lodge chiefs to get to know about the past of the lodge youtu.be/iZXcCg3ydnY</td>
     </tr>
     <tr>
       <td>3 - 4</td>

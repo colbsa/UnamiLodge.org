@@ -30,8 +30,8 @@ Schedule:
   <tbody>
     <tr>
       <th>9 - 10</th>
-      <td>New Officer Q&amp;A</td>
-      <td>Ask the incoming and outgoing any dire questions you have about the OA or our lodge</td>
+      <th>New Officer Q&amp;A</th>
+      <th>Ask the incoming and outgoing any dire questions you have about the OA or our lodge</th>
     </tr>
     <tr>
       <th>10 - 11</th>

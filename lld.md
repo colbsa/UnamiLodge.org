@@ -168,22 +168,38 @@ If you have any questions please email the Leadership Development Committee at [
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Grab the Latest Virtual LLD Guide</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="#">Download Now</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://drive.google.com/file/d/1QOd5Fd6iHAIwSQMvP0Qo5SCVPLrTz_NO/view?usp=sharing">Download Now</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Download the Committee Breakout Handouts</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://drive.google.com/drive/folders/1pEatLbhkSvGY2pYmzHKuTySLcGFL5_Hp?usp=sharing">Download Now</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Save 15% at the Resica Falls TP using Coupon 'LLD15'</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://resicafalls.org/tradingpost">Shop Now</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Explore Unami's Vital Statistics</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://oa-bsa.org/lodge-reporting/?region=northeast&section=NE-5&lodge=525">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Watch Replays from Momentum: Launch and Momemtum: Spark</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="#">Watch Now</a></td>
+    <td class="align-middle"><h5 class="my-0">Watch Training Replays from Momentum: Launch</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://www.youtube.com/watch?v=u0Sjb3Ay9mo&list=PLYtaFve5J1_c7l9ZWFRIBb1T3FvC_HzTG">Watch Now</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Explore the OA Digital Engagement Toolkit </h5></td>
+    <td class="align-middle"><h5 class="my-0">Explore the OA Digital Engagement Toolkit</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://oa-bsa.org/resources/publications#online-engagement-toolkit">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Check out Unami's Rules & Procedures</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/rules">Read More</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Register for Section NE-5's Virtual Training Series</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSd2B8v9Xqussc5364BhiViiqncSGRB8ILuSBaiur1L4d7iJhQ/viewform?usp=sf_link">Register Now</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Learn About Your Leadership Style through Operation: Delta</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://www.youtube.com/watch?v=RCdVU5yyeuE">Watch Now</a></td>
   </tr>
 </table>

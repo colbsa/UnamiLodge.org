@@ -13,14 +13,12 @@ If you have any questions please email the Leadership Development Committee at [
   <tr>
     <td class="text-center">
       <strong>Zoom Room 1</strong><br />
-      Link Coming Soon
       <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Join The Room</a><br />
       Meeting ID: 890 8013 1653<br />
       Passcode: 042553<br />
     </td>
     <td class="text-center">
       <strong>Zoom Room 2</strong><br />
-      Link Coming Soon
       <a href="https://colbsa.zoom.us/j/89640261503?pwd=TzFWeElsZTY5aWVwUGtPWFd6aEZiZz09">Join The Room</a><br />
       Meeting ID: 896 4026 1503<br />
       Passcode: 366536<br />

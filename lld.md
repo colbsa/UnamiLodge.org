@@ -11,13 +11,13 @@ If you have any questions please email the Leadership Development Committee at [
 <h1 class="text-center text-primary">Zoom Links</h1>
 <table class="table table-bordered">
   <tr>
-    <td class="text-center">
+    <td class="text-center" name="zoom1">
       <strong>Zoom Room 1</strong><br />
       <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Join The Room</a><br />
       Meeting ID: 890 8013 1653<br />
       Passcode: 042553<br />
     </td>
-    <td class="text-center">
+    <td class="text-center" name="zoom2">
       <strong>Zoom Room 2</strong><br />
       <a href="https://colbsa.zoom.us/j/89640261503?pwd=TzFWeElsZTY5aWVwUGtPWFd6aEZiZz09">Join The Room</a><br />
       Meeting ID: 896 4026 1503<br />
@@ -44,6 +44,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">9:30 AM</td>
       <td colspan="2" width="600">
         <strong>Opening/Welcome/Connection Before Content</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Leadership Development Committee</em>
       </td>
     </tr>
@@ -51,6 +52,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">10: 00 AM</td>
       <td colspan="2" width="600">
         <strong>Your Commitment &amp; Unami Lodge&rsquo;s 2021 Vision</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Pat Lynch &amp; Dennis Abernethy</em>
       </td>
     </tr>
@@ -58,6 +60,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">10:30 AM</td>
       <td colspan="2" width="600">
         <strong>Setting Goals</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Tom Gilbert</em>
       </td>
     </tr>
@@ -65,6 +68,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">11:00 AM</td>
       <td colspan="2" width="600">
         <strong>Break / Fellowship</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Liam Lynch</em>
       </td>
     </tr>
@@ -72,6 +76,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">11:30 AM</td>
       <td colspan="2" width="600">
         <strong>A Message from the Cradle of Liberty Council</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Mark Chilutti</em>
       </td>
     </tr>
@@ -79,6 +84,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">12:00 Noon</td>
       <td colspan="2" width="600">
         <strong>Building Relationships Between Youth &amp; Advisers</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Anthony Glass &amp; Steve Mach</em>
       </td>
     </tr>
@@ -90,28 +96,28 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">1:00 PM</td>
       <td colspan="2" width="600">
         <strong>Leading vs Serving</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Aidan Campbell &amp; Michael Calliagas</em>
       </td>
     </tr>
     <tr>
       <td width="120">1:30 PM</td>
-      <td width="300">
+      <td colspan="2" width="300">
         <strong>Public Speaking</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Derek Porter</em>
-      </td>
-      <td width="300">
-        <strong>TBD</strong><br />
-        <em>TBD</em>
       </td>
     </tr>
     <tr>
       <td width="120">2:00 PM</td>
       <td width="300">
         <strong>Welcoming Women to the OA</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Michaela Donnelly &amp; Melissa Sirken</em>
       </td>
       <td width="300">
         <strong>Lodge Communications 101</strong><br />
+        <a href="https://colbsa.zoom.us/j/89640261503?pwd=TzFWeElsZTY5aWVwUGtPWFd6aEZiZz09">Zoom Room 2</a><br />
         <em>Matt Luke &amp; Dave Gibbons</em>
       </td>
     </tr>
@@ -119,6 +125,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">2:30 PM</td>
       <td colspan="2" width="600">
         <strong>Break / Fellowship</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Liam Lynch</em>
       </td>
     </tr>
@@ -126,6 +133,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">3:00 PM</td>
       <td colspan="2" width="600">
         <strong>Time Management</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Luke Clancy</em>
       </td>
     </tr>
@@ -133,6 +141,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">3:30 PM</td>
       <td colspan="2" width="600">
         <strong>Committee Operations &ndash; General Session</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Rhys Wallace &amp; Dave King</em>
       </td>
     </tr>
@@ -140,6 +149,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">4:00 PM</td>
       <td colspan="2" width="600">
         <strong>Chapter Operations &ndash; General Session</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Andrew Geer &amp; Todge Sutkowski</em>
       </td>
     </tr>
@@ -147,10 +157,12 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">4:30 PM</td>
       <td rowspan="2" width="300">
         <strong>Committee Operations &ndash; Breakouts</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Lodge Officers</em>
       </td>
       <td rowspan="2" width="300">
         <strong>Chapter Operations &ndash; Breakouts</strong><br />
+        <a href="https://colbsa.zoom.us/j/89640261503?pwd=TzFWeElsZTY5aWVwUGtPWFd6aEZiZz09">Zoom Room 2</a><br />
         <em>Lodge Officers</em>
       </td>
     </tr>
@@ -161,6 +173,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">5:30 PM</td>
       <td colspan="2" width="600">
         <strong>Wrap Up &amp; Moving Forward</strong><br />
+        <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Pat Lynch &amp; Leadership Development Committee</em>
       </td>
     </tr>

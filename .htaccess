@@ -130,3 +130,5 @@ Redirect /trivia http://colbsa.doubleknot.com/registration/calendardetail.aspx?a
 
 Redirect /coronavirus /news/Response-to-COVID-19
 Redirect /covid19 /news/Response-to-COVID-19
+
+Redirect /ldd /lld

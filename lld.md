@@ -13,11 +13,15 @@ If you have any questions please email the Leadership Development Committee at [
   <tr>
     <td class="text-center">
       <strong>Zoom Room 1</strong><br />
-      Link Coming Soon
+      <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Join The Room</a><br />
+      Meeting ID: 890 8013 1653<br />
+      Passcode: 042553<br />
     </td>
     <td class="text-center">
       <strong>Zoom Room 2</strong><br />
-      Link Coming Soon
+      <a href="https://colbsa.zoom.us/j/89640261503?pwd=TzFWeElsZTY5aWVwUGtPWFd6aEZiZz09">Join The Room</a><br />
+      Meeting ID: 896 4026 1503<br />
+      Passcode: 366536<br />
     </td>
   </tr>
 </table>
@@ -93,7 +97,7 @@ If you have any questions please email the Leadership Development Committee at [
       <td width="120">1:30 PM</td>
       <td width="300">
         <strong>Public Speaking</strong><br />
-        <em>TBD</em>
+        <em>Derek Porter</em>
       </td>
       <td width="300">
         <strong>TBD</strong><br />
@@ -103,12 +107,12 @@ If you have any questions please email the Leadership Development Committee at [
     <tr>
       <td width="120">2:00 PM</td>
       <td width="300">
-        <strong>Lodge Communications 101</strong><br />
-        <em>Matt Luke &amp; Dave Gibbons</em>
-      </td>
-      <td width="300">
         <strong>Welcoming Women to the OA</strong><br />
         <em>Michaela Donnelly &amp; Melissa Sirken</em>
+      </td>
+      <td width="300">
+        <strong>Lodge Communications 101</strong><br />
+        <em>Matt Luke &amp; Dave Gibbons</em>
       </td>
     </tr>
     <tr class="table-secondary">

@@ -192,7 +192,7 @@ If you have any questions please email the Leadership Development Committee at [
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://drive.google.com/drive/folders/1pEatLbhkSvGY2pYmzHKuTySLcGFL5_Hp?usp=sharing">Download Now</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Download Additional Handouts From the Day</h5></td>
+    <td class="align-middle"><h5 class="my-0">Download The Youth-Adviser Relationship Slides</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/presentation/d/1acmSUyAN53rlqTKgtqHWA2stNErs1hEaV4h7ICKRsPs/edit?usp=sharing">Download Now</a></td>
   </tr>
   <tr>

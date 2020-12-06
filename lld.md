@@ -122,7 +122,7 @@ If you have any questions please email the Leadership Development Committee at [
       </td>
     </tr>
     <tr class="table-secondary">
-      <td width="120">2:30 PM</td>
+      <td width="120">3:15 PM</td>
       <td colspan="2" width="600">
         <strong>Break / Fellowship</strong><br />
         <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
@@ -130,7 +130,7 @@ If you have any questions please email the Leadership Development Committee at [
       </td>
     </tr>
     <tr>
-      <td width="120">3:00 PM</td>
+      <td width="120">3:30 PM</td>
       <td colspan="2" width="600">
         <strong>Time Management</strong><br />
         <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
@@ -138,7 +138,7 @@ If you have any questions please email the Leadership Development Committee at [
       </td>
     </tr>
     <tr>
-      <td width="120">3:30 PM</td>
+      <td width="120">4:00 PM</td>
       <td colspan="2" width="600">
         <strong>Committee Operations &ndash; General Session</strong><br />
         <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
@@ -146,7 +146,7 @@ If you have any questions please email the Leadership Development Committee at [
       </td>
     </tr>
     <tr>
-      <td width="120">4:00 PM</td>
+      <td width="120">4:30 PM</td>
       <td colspan="2" width="600">
         <strong>Chapter Operations &ndash; General Session</strong><br />
         <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
@@ -154,20 +154,17 @@ If you have any questions please email the Leadership Development Committee at [
       </td>
     </tr>
     <tr>
-      <td width="120">4:30 PM</td>
-      <td rowspan="2" width="300">
+      <td width="120">5:00 PM</td>
+      <td width="300">
         <strong>Committee Operations &ndash; Breakouts</strong><br />
         <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Zoom Room 1</a><br />
         <em>Lodge Officers</em>
       </td>
-      <td rowspan="2" width="300">
+      <td width="300">
         <strong>Chapter Operations &ndash; Breakouts</strong><br />
         <a href="https://colbsa.zoom.us/j/89640261503?pwd=TzFWeElsZTY5aWVwUGtPWFd6aEZiZz09">Zoom Room 2</a><br />
         <em>Lodge Officers</em>
       </td>
-    </tr>
-    <tr>
-      <td width="120">5:00 PM</td>
     </tr>
     <tr>
       <td width="120">5:30 PM</td>
@@ -190,6 +187,10 @@ If you have any questions please email the Leadership Development Committee at [
   <tr>
     <td class="align-middle"><h5 class="my-0">Download the Committee Breakout Handouts</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://drive.google.com/drive/folders/1pEatLbhkSvGY2pYmzHKuTySLcGFL5_Hp?usp=sharing">Download Now</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Download The Youth-Adviser Relationship Slides</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/presentation/d/1acmSUyAN53rlqTKgtqHWA2stNErs1hEaV4h7ICKRsPs/edit?usp=sharing">Download Now</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Save 15% at the Resica Falls TP using Coupon 'LLD15'</h5></td>

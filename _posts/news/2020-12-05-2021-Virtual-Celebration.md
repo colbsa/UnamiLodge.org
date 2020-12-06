@@ -8,7 +8,7 @@ thumbnail: 2021-Virtual-Celebration.png
 excerpt: Join us for a night of celebrating what we have accomplished this year.
 event:
   title: Virtual Celebration
-  date: 2020-01-03
+  date: 2021-01-03
 ---
 
 Formerly the 105th Annual Lodge Dinner, the challenges of this past year gave us reason to seek a new opportunity to celebrate the accomplishments of our Lodge and its members.

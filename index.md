@@ -3,8 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/slide-fellowship-saturday.png: /news/2020-Fellowship-Day
-  /img/slider/lodge-leadership-development.png: /news/2020-Lodge-Leadership-Development
+  /img/slider/virtual-celebration.png: /news/2021-Virtual-Celebration
 
 button-bar:
   Elected Candidates: /electedcandidates

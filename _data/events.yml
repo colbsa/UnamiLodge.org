@@ -1,5 +1,21 @@
+- title: Virtual Celebration
+  date: 2021-01-03
+  date-end:
+  time: 5PM
+  price:
+    youth: 0
+    adult: 0
+  location: UnamiLodge.org
+  location-url:
+  link-text: More Information
+  link-url: /news/2021-Virtual-Celebration
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Community Service Day
-  date: Canceled
+  date: 2021-03-20
   date-end:
   time: 8:30 AM
   price:
@@ -7,23 +23,39 @@
     adult: 0
   location: Various Locations
   location-url:
-  link-text: Canceled
+  link-text:
   link-url: 
   post-url:
   ordeal: false
   brotherhood: false
   highlight: false
 
-- title: Virtual Trivia Night
-  date: Canceled
+- title: Turtle Pass Due
+  date: 2021-03-31
   date-end:
-  time: 
+  time: 11:59 PM
   price:
-    youth:
-    adult:
-  location: Online
+    youth: 75
+    adult: 75
+  location: UnamiLodge.org
   location-url:
-  link-text: Canceled
+  link-text: Register Now!
+  link-url: https://colbsa.doubleknot.com/event/2021-turtle-pass/2589408
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Spring Service 1
+  date: 2021-04-16
+  date-end: 2021-04-18
+  time:
+  price:
+    youth: 30
+    adult: 30
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
+  link-text:
   link-url:
   post-url:
   ordeal: false
@@ -31,95 +63,47 @@
   highlight: false
 
 - title: Spring Service 2
-  date: Canceled
-  date-end:
+  date: 2021-05-14
+  date-end: 2021-05-16
   time:
   price:
     youth: 30
     adult: 30
   location: Resica Falls SR
   location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Canceled
+  link-text:
   link-url:
   post-url:
   ordeal: false
   brotherhood: false
   highlight: false
 
-- title: Pow-Wow in the Park
-  date: Canceled
+- title: Section NE-5 Conclave
+  date: 2021-06-04
+  date-end: 2021-06-06
+  time:
+  price:
+    youth:
+    adult:
+  location: Goose Pond SR
+  location-url: https://www.google.com/maps/place/Goose+Pond+Scout+Reservation/@41.404131,-75.2761107,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4b9a06308c7f7:0x881ed9ffccee371!8m2!3d41.404127!4d-75.273922
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Vigil Honor Weekend
+  date: TBD
   date-end:
   time:
   price:
     youth:
     adult:
-  location: Lorimer Park
-  location-url: 
-  link-text: Canceled
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Summer Camp Inductions
-  date: Canceled
-  date-end:
-  time:
-  price:
-    youth:
-    adult:
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Canceled
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: National Order of the Arrow Conference
-  date: Canceled
-  date-end: 
-  time:
-  price:
-    youth: 
-    adult: 
-  location: Michigan State University
-  location-url: 
-  link-text: Canceled
-  link-url: 
-  post-url: 
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Momentum - Launch
-  date: 2020-08-04
-  date-end: 2020-08-06
-  time:
-  price:
-    youth: 
-    adult: 
-  location: Online
-  location-url: 
-  link-text: No Registration Necessary
-  link-url: https://momentum.oa-bsa.org/
-  post-url: 
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Section NE-5 Conclave @ Home
-  date: 2020-08-29
-  date-end:
-  time: 11AM - 4PM
-  price:
-    youth: 0
-    adult: 0
-  location: Online
-  location-url: 
-  link-text: Event Passed
+  location: TBD
+  location-url:
+  link-text:
   link-url:
   post-url:
   ordeal: false
@@ -127,253 +111,61 @@
   highlight: false
 
 - title: Council Service Day
-  date: 2020-09-12
+  date: 2021-09-25
   date-end:
-  time: 8AM - 4PM
+  time:
   price:
-    youth: 0
-    adult: 0
+    youth:
+    adult:
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
-  link-text: Event Passed
+  link-text:
   link-url:
-  post-url: /news/2020-Council-Service-Day
+  post-url:
   ordeal: false
   brotherhood: false
   highlight: false
 
-- title: Fall Service Day
-  date: 2020-10-03
-  date-end:
-  time: 8AM - 4PM
+- title: Fall Fellowship
+  date: 2021-10-01
+  date-end: 2021-10-03
+  time:
   price:
-    youth: 0
-    adult: 0
-  location: Musser SR
-  location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3715731,-75.4390276,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.371569!4d-75.4368389
-  link-text: Event Passed
-  link-url:
-  post-url: /news/2020-Fall-Service-Day
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Ordeal Induction Weekend
-  date: 2020-10-09
-  date-end: 2020-10-10
-  time: 6PM (Fri) - 7PM (Sat)
-  price:
-    youth: 40
-    adult: 40
+    youth:
+    adult:
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
-  link-text: Registration Closed
+  link-text:
   link-url:
-  post-url: /news/2020-Induction-Weekend
+  post-url:
   ordeal: false
   brotherhood: false
   highlight: false
 
 - title: Scout Memorabilia Show
-  date: Canceled
-  date-end:
+  date: 2021-10-15
+  date-end: 2021-10-16
   time:
   price:
-    youth: 0
+    youth:
     adult:
   location: TBD
   location-url:
-  link-text: Canceled
+  link-text:
   link-url:
   post-url:
   ordeal: false
   brotherhood: false
   highlight: false
-
-- title: Lodge Officer Elections Announced
-  date: 2020-10-13
-  date-end:
-  time:
-  price:
-    youth:
-    adult:
-  location: UnamiLodge.org
-  location-url: /news/2021-Officer-Elections
-  link-text: Learn More
-  link-url: /news/2021-Officer-Elections
-  post-url: /news/2021-Officer-Elections
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Vigil Induction Weekend
-  date: 2020-10-23
-  date-end: 2020-10-25
-  time:
-  price:
-    youth:
-    adult:
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Invite Only
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Lodge Chief Election
-  date: 2020-10-26
-  date-end:
-  time: 7AM - 7PM
-  price:
-    youth:
-    adult:
-  location: UnamiLodge.org
-  location-url: /news/2021-Officer-Elections
-  link-text: Learn More
-  link-url: /news/2021-Officer-Elections
-  post-url: /news/2021-Officer-Elections
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Lodge Vice-Chief Election
-  date: 2020-10-28
-  date-end:
-  time: 7AM - 7PM
-  price:
-    youth:
-    adult:
-  location: UnamiLodge.org
-  location-url: /news/2021-Officer-Elections
-  link-text: Learn More
-  link-url: /news/2021-Officer-Elections
-  post-url: /news/2021-Officer-Elections
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Lodge Treasurer/Secretary Election
-  date: 2020-10-30
-  date-end:
-  time: 7AM - 7PM
-  price:
-    youth:
-    adult:
-  location: UnamiLodge.org
-  location-url: /news/2021-Officer-Elections
-  link-text: Learn More
-  link-url: /news/2021-Officer-Elections
-  post-url: /news/2021-Officer-Elections
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Award Nominations Due
-  date: 2020-10-31
-  date-end:
-  time:
-  price:
-    youth:
-    adult:
-  location: UnamiLodge.org
-  location-url: /awards
-  link-text: Nominations Closed
-  link-url:
-  post-url: /awards
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Induction Weekend
-  date: 2020-11-13
-  date-end: 2020-11-14
-  time: 6PM (Fri) - 7PM (Sat)
-  price:
-    youth: 40
-    adult: 40
-  location: Camp Delmont
-  location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3538519,-75.4442166,17z/data=!4m5!3m4!1s0x89c69df9d40b7f27:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
-  link-text: Event Passed
-  link-url:
-  post-url:
-  ordeal: true
-  brotherhood: false
-  highlight: false
-
-- title: Brotherhood Blitz
-  date: 2020-11-14
-  date-end:
-  time: 9AM - 7PM
-  price:
-    youth: 30
-    adult: 30
-  location: Camp Delmont
-  location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3538519,-75.4442166,17z/data=!4m5!3m4!1s0x89c69df9d40b7f27:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
-  link-text: Event Passed
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: true
-  highlight: false
-
-- title: Camp Service Day
-  date: 2020-11-14
-  date-end:
-  time:
-  price:
-    youth: 0
-    adult: 0
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Event Passed
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: Virtual Fellowship Event
-  date: 2020-11-21
-  date-end:
-  time: 9AM - 4PM
-  price:
-    youth: 0
-    adult: 0
-  location: UnamiLodge.org
-  location-url:
-  link-text: Register Now
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSddA7A5A3CdnZh42dUkQlWpB3GwYQTWhalrAQz2tiIr19_WMA/viewform?usp=sf_link
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
 
 - title: Lodge Leadership Development
-  date: 2020-12-05
-  date-end:
-  time:
-  price:
-    youth: 0
-    adult: 0
-  location: UnamiLodge.org
-  location-url:
-  link-text: Register Now
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSfVRUiCCgAGwFBFZDTEF74541DQI4q1khU_aDIhOtqrMOOVlQ/viewform
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: 105th Annual Dinner
-  date: 2021-01-03
-  date-end:
+  date: 2021-12-03
+  date-end: 2021-12-05
   time:
   price:
     youth:
     adult:
-  location: UnamiLodge.org
+  location: TBD
   location-url:
   link-text:
   link-url:

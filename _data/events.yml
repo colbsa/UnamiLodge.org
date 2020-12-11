@@ -14,6 +14,22 @@
   brotherhood: false
   highlight: true
 
+- title: Dues Early Bird Ends
+  date: 2021-01-31
+  date-end:
+  time: 11:59 PM
+  price:
+    youth: 15
+    adult: 15
+  location: UnamiLodge.org
+  location-url:
+  link-text: Retain Your Membership!
+  link-url: /dues
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Community Service Day
   date: 2021-03-20
   date-end:
@@ -29,6 +45,22 @@
   ordeal: false
   brotherhood: false
   highlight: false
+
+- title: Turtle Power Pass Closes
+  date: 2021-03-31
+  date-end:
+  time: 11:59 PM
+  price:
+    youth: 75
+    adult: 75
+  location: UnamiLodge.org
+  location-url:
+  link-text: Get Yours Today!
+  link-url: https://colbsa.doubleknot.com/event/2021-turtle-pass/2589408
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
 
 - title: Turtle Pass Due
   date: 2021-03-31

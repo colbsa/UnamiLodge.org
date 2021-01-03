@@ -11,10 +11,12 @@ event:
   date: 2021-01-03
 ---
 
-<div class='text-center'><a href="#" class="btn btn-primary mt-3">Live Stream Link Coming Soon</a></div>
+<div class='text-center'><a href="#" class="btn btn-primary m-3">Live Stream Link Coming Soon</a></div>
+
+<div class='alert alert-primary'>Due to technical difficulties, today's event will be delayed until 6:00 PM. Check out <a href="https://www.youtube.com/watch?v=AjdRQTPW9RI">the latest edition of the Cedar Log</a> while you wait!</div>
 
 Formerly the 105th Annual Lodge Dinner, the challenges of this past year gave us reason to seek a new opportunity to celebrate the accomplishments of our Lodge and its members.
 
-This year's "dinner" will be an at home feature premiering on YouTube at 5PM. A link will be shared out a bit closer to this event. We have already begun filming portions of the classic favorites such as the State of the Lodge, Award Recognitions, the Induction of the 2021 Officers, and as always the most exciting news!
+This year's "dinner" will be an at home feature premiering on YouTube at 6:00 PM. A link will be shared out a bit closer to this event. We have already begun filming portions of the classic favorites such as the State of the Lodge, Award Recognitions, the Induction of the 2021 Officers, and as always the most exciting news!
 
 Stay tuned for more details! Dues notices, turtle power passes, and many more opportunities will be coming soon!

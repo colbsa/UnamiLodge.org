@@ -11,9 +11,9 @@ event:
   date: 2021-01-03
 ---
 
-<div class='text-center'><a href="#" class="btn btn-primary m-3">Live Stream Link Coming Soon</a></div>
+<div class='text-center'><a href="https://www.youtube.com/watch?v=7NH0xMd3veM" class="btn btn-primary m-3">Watch Live Now!</a></div>
 
-<div class='alert alert-primary'>Due to technical difficulties, today's event will be delayed until 6:00 PM. Check out <a href="https://www.youtube.com/watch?v=AjdRQTPW9RI">the latest edition of the Cedar Log</a> while you wait!</div>
+<div class='alert alert-primary'>Due to technical difficulties, today's event was delayed until 6:00 PM. The stream is now live at the link above! Thank you for your patience.</div>
 
 Formerly the 105th Annual Lodge Dinner, the challenges of this past year gave us reason to seek a new opportunity to celebrate the accomplishments of our Lodge and its members.
 

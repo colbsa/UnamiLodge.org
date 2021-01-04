@@ -17,4 +17,6 @@ Formerly the 105th Annual Lodge Dinner, the challenges of this past year gave us
 
 This year's "dinner" was an at home feature that premiered on YouTube.  If you didn't get a chance to watch live, be sure to check out the recording for classic favorites such as the State of the Lodge, Award Recognitions, the Induction of the 2021 Officers, and as always the most exciting news!
 
+For some photos from this momentous occasion, [join us on Flickr!](https://www.flickr.com/gp/unamilodge/pz5787)
+
 Dues notices, turtle power passes, and many more opportunities will be coming soon!

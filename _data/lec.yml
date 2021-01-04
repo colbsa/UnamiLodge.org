@@ -1,11 +1,11 @@
 officers:
 - title: Lodge Chief
-  name: Luke Cihak
+  name: Patrick Lynch
   email: chief
   key3: true
 
 - title: Vice Chief 1
-  name: Patrick Lynch
+  name: William Beardsley
   email: vc1
 
 - title: Vice Chief 2
@@ -13,7 +13,7 @@ officers:
   email: vc2
 
 - title: Treasurer
-  name: Eoghan Pleis
+  name: Patrick White
   email: treasurer
 
 - title: Secretary

@@ -12,7 +12,7 @@ Originally presented to youth and adult arrowmen alike, beginning in 2010 the Fo
     <tr>
       <th scope="col">Year</th>
       <th scope="col">Name</th>
-      <th scope="col">Age</th>
+      <th scope="col">Youth/Adult</th>
     </tr>
   </thead>
   <tbody>

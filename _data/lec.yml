@@ -1,28 +1,28 @@
 officers:
 - title: Lodge Chief
   name: Patrick Lynch
-  email: chief
+  email: patrick.lynch
   key3: true
 
 - title: Vice Chief 1
   name: William Beardsley
-  email: vc1
+  email: william.beardsley
 
 - title: Vice Chief 2
   name: Liam Lynch
-  email: vc2
+  email: liam.lynch
 
 - title: Treasurer
   name: Patrick White
-  email: treasurer
+  email: patrick.white
 
 - title: Secretary
   name: Riley Metzler
-  email: secretary
+  email: riley.metzler
 
 - title: Lodge Adviser
   name: Craig Cless
-  email: lodgeadviser
+  email: craig.cless
   key3: true
 
 - title: Associate Lodge Adviser
@@ -53,7 +53,7 @@ advisoryboard:
 
 - title: Immediate Past Chief
   name: Luke Cihak
-  email: pastchief
+  email: luke.cihak
 
 - title: Lodgemaster Adviser
   name: Lawrence Neibauer
@@ -117,7 +117,7 @@ committees:
   email: brotherhood
 
 - title: Camp Promotions Chair
-  name: Patrick White
+  name: Anthony Glass
   email: camppromotions
 
 - title: Camp Promotions Adviser
@@ -209,15 +209,11 @@ committees:
   email: lodgeoperations
 
 - title: Membership Chair
-  name: Anthony Glass
+  name: Michaela Donnelly
   email: membership
 
 - title: Membership Adviser
-  name: Steven Mach
-  email: membership
-
-- title: Membership Assoc. Adviser
-  name: Chris Smith
+  name: Todge Sutkowski
   email: membership
 
 - title: Membership Assoc. Adviser

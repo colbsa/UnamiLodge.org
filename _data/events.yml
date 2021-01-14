@@ -30,6 +30,22 @@
   brotherhood: false
   highlight: true
 
+- title: Section NE-5 Cracker Barrel
+  date: 2021-01-31
+  date-end:
+  time: TBD
+  price:
+    youth: 0
+    adult: 0
+  location: oane5.org
+  location-url: http://oane5.org
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Community Service Day
   date: 2021-03-20
   date-end:
@@ -39,6 +55,22 @@
     adult: 0
   location: Various Locations
   location-url:
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Section NE-5 Cracker Barrel
+  date: 2021-03-28
+  date-end:
+  time: TBD
+  price:
+    youth: 0
+    adult: 0
+  location: oane5.org
+  location-url: http://oane5.org
   link-text:
   link-url:
   post-url:

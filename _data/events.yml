@@ -39,8 +39,8 @@
     adult: 0
   location: oane5.org
   location-url: http://oane5.org
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSd9mnwkkgY9QFeP5uQoznwk9RJ7Ia0DWfp36FArYiaAi64OMQ/viewform
   post-url:
   ordeal: false
   brotherhood: false
@@ -71,8 +71,8 @@
     adult: 0
   location: oane5.org
   location-url: http://oane5.org
-  link-text: Register Now
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSd9mnwkkgY9QFeP5uQoznwk9RJ7Ia0DWfp36FArYiaAi64OMQ/viewform
+  link-text:
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false

@@ -46,6 +46,22 @@
   brotherhood: false
   highlight: false
 
+- title: Vigil Nominations Close
+  date: 2021-02-28
+  date-end:
+  time: Midnight
+  price:
+    youth: 0
+    adult: 0
+  location: UnamiLodge.org
+  location-url: /awards
+  link-text: Submit Nomination
+  link-url: /awards
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Community Service Day
   date: 2021-03-20
   date-end:
@@ -92,7 +108,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Turtle Pass Due
   date: 2021-03-31

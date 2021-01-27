@@ -44,7 +44,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title:   Hart Grounds Work Day
   date: 2021-02-13
@@ -76,7 +76,7 @@
   post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Vigil Nominations Close
   date: 2021-02-28
@@ -108,7 +108,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Section NE-5 Cracker Barrel
   date: 2021-03-28

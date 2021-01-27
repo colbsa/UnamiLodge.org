@@ -13,12 +13,10 @@ event:
 
 Brothers,
 
-We have a couple work days coming up to start restoration on the Hart Ceremonial grounds. The first two dates are going to be Saturday Feb 13th and 27th.
+We have a couple work days coming up to start restoration on the Hart Ceremonial grounds. The first two dates are going to be February 13th and 27th. Projects are expected to from from 9 AM to 4 PM. 
 
-- Arrival on work days is 9am and will run until 3 or 4pm
-- Meet in Camp Hart parking lot after checking in at Camp Delmont
 
-The first weekend will ONLY be adults weekend only due to us taking down big trees.  The second weekend, both youth and adults, anyone who wants to attend will have register with the link below. This event will be limited to 30 people so if you are interested, register right away. If you do not register for the work day you will NOT be allowed at camp.
+The first weekend will be for adults only due to us taking down big trees.  The second weekend is open to any lodge member who registers with the link below. Each event will be limited to 30 people so if you are interested, register right away. If you do not register for the work day you will NOT be allowed at camp.
 
 - Bring water
 - Work Gloves

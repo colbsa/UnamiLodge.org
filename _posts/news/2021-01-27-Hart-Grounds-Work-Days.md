@@ -2,7 +2,7 @@
 layout: post
 title: Hart Grounds Work Days
 author: Austin Groeber
-date: 2021-01-02
+date: 2021-01-27
 banner: Hart-Grounds-Work-Days.png
 thumbnail: Hart-Grounds-Work-Days.png
 excerpt: Join us one of these two days to get dirty and help rebuild these grounds.

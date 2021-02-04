@@ -142,22 +142,6 @@
   brotherhood: false
   highlight: false
 
-- title: Turtle Pass Due
-  date: 2021-03-31
-  date-end:
-  time: 11:59 PM
-  price:
-    youth: 75
-    adult: 75
-  location: UnamiLodge.org
-  location-url:
-  link-text: Register Now!
-  link-url: https://colbsa.doubleknot.com/event/2021-turtle-pass/2589408
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Spring Service 1
   date: 2021-04-16
   date-end: 2021-04-18
@@ -170,6 +154,22 @@
   link-text:
   link-url:
   post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: "Momentum: Discover"
+  date: 2021-04-23
+  date-end: 2021-04-25
+  time:
+  price:
+    youth:
+    adult:
+  location: oa-bsa.org
+  location-url: https://oa-bsa.org
+  link-text: More Information
+  link-url: https://oa-bsa.org/article/momentum-discover
+  post-url: https://oa-bsa.org/article/momentum-discover
   ordeal: false
   brotherhood: false
   highlight: false

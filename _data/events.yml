@@ -71,12 +71,12 @@
     adult: 0
   location: Musser SR
   location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: Contact Us
-  link-url: /contact?recipient=communications&message=I%27m%20interested%20in%20the%20Musser%20Work%20Day%20on%20February%2013.%20
-  post-url: 
+  link-text: More Information
+  link-url: /news/2021-Winter-Musser-Work-Days
+  post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Hart Grounds Work Day
   date: 2021-02-27
@@ -119,9 +119,9 @@
     adult: 0
   location: Musser SR
   location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: Contact Us
-  link-url: /contact?recipient=communications&message=I%27m%20interested%20in%20the%20Musser%20Work%20Day%20on%20March%2013.%20
-  post-url: 
+  link-text: More Information
+  link-url: /news/2021-Winter-Musser-Work-Days
+  post-url:
   ordeal: false
   brotherhood: false
   highlight: false

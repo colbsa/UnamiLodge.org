@@ -25,7 +25,7 @@ The first weekend will be for adults only due to us taking down big trees.  The
 Everyone has to check in at Camp Delmont, and then meet at the Camp Hart lot.  Youth must bring medical forms A and B.
 
 - Address 5505 Upper Ridge Road, small building on the left when pulling into Camp Delmont. The road continues around so pull in.
-- COVID questionnaires must be completed by each scout and scouter prior to arrival. 
+- [COVID questionnaires must be completed by each scout and scouter prior to arrival.](https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit){:target="_blank"} 
 - Temperatures will be taken for everyone that is coming onto the property at check-in. If anyone arrives at the reservation with a temperature above 100 degrees F, no one from that vehicle will be permitted to stay on the reservation. 
 - Face covering will be always required on property, except for during eating, and drinking during these times, physical distancing of at least 6 feet will be maintained. 
 - Maintain a physical distance of at least 6 feet when possible.
@@ -33,5 +33,5 @@ Everyone has to check in at Camp Delmont, and then meet at the Camp Hart lot.  
 If you have any other questions please reach out to me at [austin.groeber@UnamiLodge.org](/contact?recipient=austin.groeber).
 
 <div class="text-center">
-  <a href="https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2776323,2776322" class="btn btn-primary btn-lg">Register Now</a>
+  <a href="https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2776323,2776322" class="btn btn-primary btn-lg mb-4">Register Now</a>
 </div>

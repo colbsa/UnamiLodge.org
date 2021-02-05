@@ -17,3 +17,11 @@ We are a brotherhood of cheerful service, and the Council is completing work at 
 - February 13
 - March 13
 - [March 27 (Beaver Work Day)](http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2767020&orgkey=541){:target="_blank"}
+
+## Please Bring
+- Water
+- Work Gloves
+- Face coverings
+- Lunch
+- Medical Forms *youth only*
+- [Council COVID Questionnaire](https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit){:target="_blank"}

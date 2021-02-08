@@ -78,6 +78,22 @@
   brotherhood: false
   highlight: true
 
+- title: Venturing Game Night & Open House
+  date: 2021-02-20
+  date-end:
+  time: 7-10PM
+  price:
+    youth: 0
+    adult: 0
+  location: Zoom
+  location-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSdvEJ115s60p23SYrwcm9ETyWIOHm-hTcv-Sm1eauApyo6fkw/viewform
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Hart Grounds Work Day
   date: 2021-02-27
   date-end:

@@ -55,8 +55,8 @@
     adult: 0
   location: Musser SR
   location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2776323,2776322
+  link-text: Cancelled (Weather)
+  link-url:
   post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
@@ -71,12 +71,12 @@
     adult: 0
   location: Musser SR
   location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: More Information
-  link-url: /news/2021-Winter-Musser-Work-Days
+  link-text: Event Passed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Venturing Game Night & Open House
   date: 2021-02-20
@@ -87,12 +87,12 @@
     adult: 0
   location: Zoom
   location-url:
-  link-text: Register Now
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSdvEJ115s60p23SYrwcm9ETyWIOHm-hTcv-Sm1eauApyo6fkw/viewform
+  link-text: Event Passed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Hart Grounds Work Day
   date: 2021-02-27
@@ -126,6 +126,22 @@
   brotherhood: false
   highlight: true
 
+- title: Hart Grounds Work Day
+  date: 2021-02-27
+  date-end:
+  time: 9AM - 3PM
+  price:
+    youth: 0
+    adult: 0
+  location: Musser SR
+  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2776323,2776322
+  post-url: /news/Hart-Grounds-Work-Days
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Musser SR Work Day
   date: 2021-03-13
   date-end:
@@ -140,7 +156,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Community Service Day
   date: 2021-03-20
@@ -154,6 +170,22 @@
   link-text:
   link-url:
   post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Hart Grounds Work Day
+  date: 2021-02-27
+  date-end:
+  time: 9AM - 3PM
+  price:
+    youth: 0
+    adult: 0
+  location: Musser SR
+  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2776323,2776322
+  post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
   highlight: false

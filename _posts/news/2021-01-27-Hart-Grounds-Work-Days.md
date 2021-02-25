@@ -13,10 +13,10 @@ event:
 
 Brothers,
 
-We have a couple work days coming up to start restoration on the Hart Ceremonial grounds. The first three dates are going to be <s>February 13th and 27th</s> February 27th, March 6th, and 27th. Projects are expected to from from 9 AM to 4 PM. 
+We have a couple work days coming up to start restoration on the Hart Ceremonial grounds. The first two dates are going to be <s>February 13th and 27th</s> March 6th, and 27th. Projects are expected to from from 9 AM to 4 PM. 
 
 
-The first weekend will be for adults only due to us taking down big trees.  The second weekend is open to any lodge member who registers with the link below. Each event will be limited to 30 people so if you are interested, register right away. If you do not register for the work day you will NOT be allowed at camp.
+The first weekend, March 6th, will be for adults only due to us taking down big trees.  The second weekend is open to any lodge member who registers with the link below. Each event will be limited to 30 people so if you are interested, register right away. If you do not register for the work day you will NOT be allowed at camp.
 
 - Bring water
 - Work Gloves

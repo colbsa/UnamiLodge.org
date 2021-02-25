@@ -103,12 +103,12 @@
     adult: 0
   location: Musser SR
   location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2776323,2776322
+  link-text: Cancelled (Weather)
+  link-url:
   post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Vigil Nominations Close
   date: 2021-02-28
@@ -140,7 +140,7 @@
   post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Musser SR Work Day
   date: 2021-03-13

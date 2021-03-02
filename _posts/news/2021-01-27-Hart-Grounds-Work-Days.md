@@ -8,7 +8,7 @@ thumbnail: Hart-Grounds-Work-Days.png
 excerpt: Join us one of these two days to get dirty and help rebuild these grounds.
 event:
   title: Hart Grounds Work Day
-  date: 2021-02-27
+  date: 2021-03-06
 ---
 
 Brothers,

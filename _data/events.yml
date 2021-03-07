@@ -135,12 +135,12 @@
     adult: 0
   location: Musser SR
   location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/event/work-day-at-camp-hart/2787764
+  link-text: Event Passed
+  link-url:
   post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Musser SR Work Day
   date: 2021-03-13
@@ -188,7 +188,7 @@
   post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Musser Beaver Work Day
   date: 2021-03-27

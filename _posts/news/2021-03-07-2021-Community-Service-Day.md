@@ -22,7 +22,7 @@ Scouts and scouters will be limited to 22 individuals per site. Three sites, Cov
 
 Scouts and scouter should dress for the weather, bring work gloves and wear class B uniforms and Register with BOTH of these links.
 
-Sign up genius Link Minquas Service Day - CRC Creek Clean Up
+[Sign up genius Link Minquas Service Day - CRC Creek Clean Up](https://www.signupgenius.com/go/10C0E45AFA82EAAFF2-minquas)
 
 CRC Watershed Sign up https://www.crcwatersheds.org/what-we-do/streams-cleanup/
 

@@ -1,19 +1,3 @@
-- title: Musser SR Work Day
-  date: 2021-03-13
-  date-end:
-  time: 8AM - 4PM
-  price:
-    youth: 0
-    adult: 0
-  location: Musser SR
-  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: More Information
-  link-url: /news/2021-Winter-Musser-Work-Days
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Community Service Day
   date: 2021-03-20
   date-end:
@@ -57,6 +41,22 @@
   location-url: https://goo.gl/maps/TwXdgJLTzPeg4PPL6
   link-text: Register Now
   link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2767020&orgkey=541
+  post-url: 
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Resica Falls Service Day
+  date: 2021-03-27
+  date-end:
+  time:
+  price:
+    youth: 0
+    adult: 0
+  location: Resica Falls SR
+  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
+  link-text: Learn More
+  link-url: https://resicafalls.org/volunteer
   post-url: 
   ordeal: false
   brotherhood: false
@@ -126,6 +126,22 @@
   brotherhood: false
   highlight: false
 
+- title: Resica Falls Service Day
+  date: 2021-04-24
+  date-end:
+  time:
+  price:
+    youth: 0
+    adult: 0
+  location: Resica Falls SR
+  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
+  link-text: Learn More
+  link-url: https://resicafalls.org/volunteer
+  post-url: 
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Spring Service 2
   date: 2021-05-14
   date-end: 2021-05-16
@@ -154,6 +170,22 @@
   link-text: Register Now
   link-url: https://conclaveregistration.org/section/ne5
   post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Resica Falls Service Day
+  date: 2021-06-12
+  date-end:
+  time:
+  price:
+    youth: 0
+    adult: 0
+  location: Resica Falls SR
+  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
+  link-text: Learn More
+  link-url: https://resicafalls.org/volunteer
+  post-url: 
   ordeal: false
   brotherhood: false
   highlight: false

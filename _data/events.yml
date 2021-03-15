@@ -65,14 +65,14 @@
 - title: Section NE-5 Cracker Barrel
   date: 2021-03-28
   date-end:
-  time: TBD
+  time: 6 PM
   price:
     youth: 0
     adult: 0
   location: oane5.org
   location-url: http://oane5.org
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSdclQzoy0XuccaMFCxr4zx_gPtLG6B8DFapehVduT07YLm39Q/viewform
   post-url:
   ordeal: false
   brotherhood: false

@@ -4,7 +4,6 @@ layout: index
 
 slides:
   /img/slider/hart-grounds-work-days.png: /news/Hart-Grounds-Work-Days
-  /img/slider/musser-work-days.png: /news/2021-Winter-Musser-Work-Days
   /img/slider/slide-powerpass.png: https://colbsa.doubleknot.com/event/2021-turtle-pass/2589408
 
 button-bar:

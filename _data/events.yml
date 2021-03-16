@@ -24,7 +24,7 @@
   location: Musser SR
   location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
   link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/event/work-day-at-camp-hart/2787794
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2796746,2787794,2800356,2796745
   post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
@@ -126,6 +126,22 @@
   brotherhood: false
   highlight: false
 
+- title: Hart Grounds Work Day
+  date: 2021-04-24
+  date-end:
+  time: 9AM - 3PM
+  price:
+    youth: 0
+    adult: 0
+  location: Musser SR
+  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2796746,2787794,2800356,2796745
+  post-url: /news/Hart-Grounds-Work-Days
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Resica Falls Service Day
   date: 2021-04-24
   date-end:
@@ -138,6 +154,38 @@
   link-text: Learn More
   link-url: https://resicafalls.org/volunteer
   post-url: 
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Hart Grounds Work Day
+  date: 2021-05-01
+  date-end:
+  time: 9AM - 3PM
+  price:
+    youth: 0
+    adult: 0
+  location: Musser SR
+  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2796746,2787794,2800356,2796745
+  post-url: /news/Hart-Grounds-Work-Days
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Hart Grounds Work Day
+  date: 2021-05-08
+  date-end:
+  time: 9AM - 3PM
+  price:
+    youth: 0
+    adult: 0
+  location: Musser SR
+  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2796746,2787794,2800356,2796745
+  post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
   highlight: false

@@ -3,6 +3,7 @@ title: Home
 layout: index
 
 slides:
+  /img/slider/ss1-earthseasky.png: /news/2021-Spring-Service-1
   /img/slider/hart-grounds-work-days.png: /news/Hart-Grounds-Work-Days
   /img/slider/slide-powerpass.png: https://colbsa.doubleknot.com/event/2021-turtle-pass/2589408
 

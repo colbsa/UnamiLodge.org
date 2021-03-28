@@ -1,51 +1,3 @@
-- title: Hart Grounds Work Day
-  date: 2021-03-27
-  date-end:
-  time: 9AM - 3PM
-  price:
-    youth: 0
-    adult: 0
-  location: Musser SR
-  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2796746,2787794,2800356,2796745
-  post-url: /news/Hart-Grounds-Work-Days
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: Musser Beaver Work Day
-  date: 2021-03-27
-  date-end:
-  time: 8AM - 4PM
-  price:
-    youth: 0
-    adult: 0
-  location: Musser SR
-  location-url: https://goo.gl/maps/TwXdgJLTzPeg4PPL6
-  link-text: Register Now
-  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2767020&orgkey=541
-  post-url: 
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Resica Falls Service Day
-  date: 2021-03-27
-  date-end:
-  time:
-  price:
-    youth: 0
-    adult: 0
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Learn More
-  link-url: https://resicafalls.org/volunteer
-  post-url: 
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Section NE-5 Cracker Barrel
   date: 2021-03-28
   date-end:
@@ -60,7 +12,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Turtle Power Pass Closes
   date: 2021-03-31
@@ -76,7 +28,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Spring Service 1
   date: 2021-04-16
@@ -108,7 +60,7 @@
   post-url: https://oa-bsa.org/article/momentum-discover
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Hart Grounds Work Day
   date: 2021-04-24

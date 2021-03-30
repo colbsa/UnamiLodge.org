@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Section Cracker Barrel: https://docs.google.com/forms/d/e/1FAIpQLSdclQzoy0XuccaMFCxr4zx_gPtLG6B8DFapehVduT07YLm39Q/viewform
+  Turtle Power Pass: https://colbsa.doubleknot.com/event/2021-turtle-pass/2589408
 
 links:
   Spring Service 1: /news/2021-Spring-Service-1

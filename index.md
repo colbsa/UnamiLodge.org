@@ -9,7 +9,6 @@ slides:
 
 button-bar:
   Elected Candidates: /electedcandidates
-  Turtle Power Pass: https://colbsa.doubleknot.com/event/2021-turtle-pass/2589408
   Pay My Dues: /dues
   Seal The Bond: /brotherhood
 

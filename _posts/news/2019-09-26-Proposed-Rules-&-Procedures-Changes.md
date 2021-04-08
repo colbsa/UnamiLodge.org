@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Proposed Rules and Procedures Changes
+title: Proposed Rules & Procedures Changes
 author:
-date: 2021-04-08
+date: 2019-09-26
 banner:
 thumbnail: sample.png
-excerpt: Proposed rules and procedures changes to be voted upon during Spring Service 1.
+excerpt: Proposed rules and procedures changes to be voted upon during Fall Fellowship 2019.
 ---
 
-The following proposed Rules & Procedures changes shall be voted upon by general lodge membership at Spring Service 1:
+The following proposed Rules & Procedures changes shall be voted upon by general lodge membership at Fall Fellowship 2019:
 
 - [Readability and National Changes](/files/rules/proposed_sept19/readablity_and_national_changes.pdf){:target="_blank"}
 - [Budget Approval Change](/files/rules/proposed_sept19/budget_approval_changes.pdf){:target="_blank"}
-- *Motion:* Change Article 3 Section 2 Clause D of Rules and procedures to “A Scout troop, Venturing Crew, or Sea Scout ship may request one election at any point during the months of January through September”
-    - *Why this change:* by implementing a change in an election time frame, units will be unable to continually push elections off, and will better allow for inductions to take place close to inductees Elections.
+
+**Update:** The general members meeting did not include a vote on the rules and procedures due to a procedural mistake with the required LEC vote. The lodge operations committee apologizes for this mistake and will take steps to ensure it will not happen again. A vote on these changes will happen at a later date. Thank you.  
+*- Lodge Operations Committee*

@@ -12,7 +12,5 @@ The following proposed Rules & Procedures changes shall be voted upon by general
 
 - [Readability and National Changes](/files/rules/proposed_sept19/readablity_and_national_changes.pdf){:target="_blank"}
 - [Budget Approval Change](/files/rules/proposed_sept19/budget_approval_changes.pdf){:target="_blank"}
-
-*Motion:* Change Article 3 Section 2 Clause D of RUles and procedures to “A Scout troop, Venturing Crew, or Sea Scout ship may request one election at any point during the months of January through September”
-
-*Why this change:* by implementing a change in an election time frame, units will be unable to continually push elections off, and will better allow for inductions to take place close to inductees Elections.
+- *Motion:* Change Article 3 Section 2 Clause D of Rules and procedures to “A Scout troop, Venturing Crew, or Sea Scout ship may request one election at any point during the months of January through September”
+    - *Why this change:* by implementing a change in an election time frame, units will be unable to continually push elections off, and will better allow for inductions to take place close to inductees Elections.

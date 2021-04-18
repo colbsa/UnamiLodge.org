@@ -28,7 +28,7 @@
   post-url: /news/Hart-Grounds-Work-Days
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Resica Falls Service Day
   date: 2021-04-24
@@ -108,7 +108,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Resica Falls Service Day
   date: 2021-06-12

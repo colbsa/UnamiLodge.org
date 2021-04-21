@@ -62,6 +62,22 @@
   brotherhood: false
   highlight: false
 
+- title: Unami University
+  date: 2021-05-02
+  date-end:
+  time: 9:30 AM
+  price:
+    youth: 0
+    adult: 0
+  location: UnamiLodge.org
+  location-url:
+  link-text: Register Now
+  link-url: https://forms.gle/vuuiGqUT2qf4wF4W8 
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Hart Grounds Work Day
   date: 2021-05-08
   date-end:

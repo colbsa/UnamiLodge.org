@@ -8,6 +8,14 @@ thumbnail: sample.png
 excerpt: Proposed rules and procedures changes to be voted upon during Spring Service 1.
 ---
 
+<strong>Updated April 21, 2021</strong>
+
+Only the third of these proposed changes passed at the General Members Meeting on April 18, 2021. For the latest copy of the Rules and Procedures, [please join us on our Rules & Procedures page](/rules).
+
+<hr>
+
+<strong>April 8, 2021</strong>
+
 The following proposed Rules & Procedures changes shall be voted upon by general lodge membership at Spring Service 1:
 
 - [Readability and National Changes](/files/rules/proposed_sept19/readablity_and_national_changes.pdf){:target="_blank"}

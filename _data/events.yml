@@ -51,8 +51,8 @@
   date-end: 2021-06-13
   time:
   price:
-    youth:
-    adult:
+    youth: 45
+    adult: 45
   location: Goose Pond SR
   location-url: https://www.google.com/maps/place/Goose+Pond+Scout+Reservation/@41.404131,-75.2761107,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4b9a06308c7f7:0x881ed9ffccee371!8m2!3d41.404127!4d-75.273922
   link-text: Register Now

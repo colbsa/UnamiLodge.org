@@ -14,22 +14,6 @@
   brotherhood: false
   highlight: true
 
-- title: Unami University
-  date: 2021-05-02
-  date-end:
-  time: 9:30 AM
-  price:
-    youth: 0
-    adult: 0
-  location: UnamiLodge.org
-  location-url:
-  link-text: Register Now
-  link-url: https://forms.gle/vuuiGqUT2qf4wF4W8 
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Hart Grounds Work Day
   date: 2021-05-08
   date-end:
@@ -67,8 +51,8 @@
   date-end: 2021-06-13
   time:
   price:
-    youth:
-    adult:
+    youth: 45
+    adult: 45
   location: Goose Pond SR
   location-url: https://www.google.com/maps/place/Goose+Pond+Scout+Reservation/@41.404131,-75.2761107,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4b9a06308c7f7:0x881ed9ffccee371!8m2!3d41.404127!4d-75.273922
   link-text: Register Now

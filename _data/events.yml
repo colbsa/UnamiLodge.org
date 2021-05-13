@@ -1,35 +1,3 @@
-- title: Hart Grounds Work Day
-  date: 2021-05-01
-  date-end:
-  time: 9AM - 3PM
-  price:
-    youth: 0
-    adult: 0
-  location: Musser SR
-  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2796746,2787794,2800356,2796745
-  post-url: /news/Hart-Grounds-Work-Days
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: Hart Grounds Work Day
-  date: 2021-05-08
-  date-end:
-  time: 9AM - 3PM
-  price:
-    youth: 0
-    adult: 0
-  location: Musser SR
-  location-url: https://goo.gl/maps/yftg4YqrqnrMQwVD9
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2796746,2787794,2800356,2796745
-  post-url: /news/Hart-Grounds-Work-Days
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Spring Service 2
   date: 2021-05-14
   date-end: 2021-05-16
@@ -39,12 +7,12 @@
     adult: 30
   location: Resica Falls SR
   location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/event/oa-spring-service-2-at-resica/2796747
+  link-text: Registration Closed
+  link-url:
   post-url:
-  ordeal: true
-  brotherhood: true
-  highlight: true
+  ordeal: false
+  brotherhood: false
+  highlight: false
 
 - title: Section NE-5 Conclave
   date: 2021-06-11
@@ -76,7 +44,23 @@
   post-url: 
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
+
+- title: Summer Camp Opportunities
+  date: 2021-06-27
+  date-end: 2021-08-31
+  time:
+  price:
+    youth: 45
+    adult: 45
+  location: Resica Falls SR
+  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
+  link-text: Learn More
+  link-url: https://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2819105&OrgKey=2794
+  post-url: 
+  ordeal: true
+  brotherhood: true
+  highlight: true
 
 - title: Vigil Honor Weekend
   date: TBD
@@ -103,8 +87,8 @@
     adult:
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
-  link-text:
-  link-url:
+  link-text: Learn More
+  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2767021&orgkey=541
   post-url:
   ordeal: false
   brotherhood: false
@@ -119,11 +103,11 @@
     adult:
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2819831&OrgKey=2794
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Scout Memorabilia Show

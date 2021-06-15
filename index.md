@@ -3,7 +3,6 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/conclave.png: https://conclaveregistration.org/section/ne5
   /img/slider/slide-join-the-order.png: /electedcandidates/
   /img/slider/slide-seal-the-bond.png: /brotherhood/
 

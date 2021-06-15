@@ -1,35 +1,3 @@
-- title: Section NE-5 Conclave
-  date: 2021-06-11
-  date-end: 2021-06-13
-  time:
-  price:
-    youth: 45
-    adult: 45
-  location: Goose Pond SR
-  location-url: https://www.google.com/maps/place/Goose+Pond+Scout+Reservation/@41.404131,-75.2761107,17z/data=!3m1!4b1!4m5!3m4!1s0x89c4b9a06308c7f7:0x881ed9ffccee371!8m2!3d41.404127!4d-75.273922
-  link-text: Register Now
-  link-url: https://conclaveregistration.org/section/ne5
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: Resica Falls Service Day
-  date: 2021-06-12
-  date-end:
-  time:
-  price:
-    youth: 0
-    adult: 0
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Learn More
-  link-url: https://resicafalls.org/volunteer
-  post-url: 
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Summer Camp Opportunities
   date: 2021-06-27
   date-end: 2021-08-31
@@ -76,7 +44,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Fall Fellowship
   date: 2021-10-01
@@ -92,7 +60,7 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: false
+  highlight: true
 
 - title: Scout Memorabilia Show
   date: 2021-10-15

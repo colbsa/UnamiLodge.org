@@ -1,17 +1,49 @@
-- title: Summer Camp Opportunities
-  date: 2021-06-27
-  date-end: 2021-08-31
-  time:
+- title: Musser Work Day
+  date: 2021-08-21
+  date-end:
+  time: 9AM - 4PM
   price:
-    youth: 45
-    adult: 45
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Learn More
-  link-url: https://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2819105&OrgKey=2794
-  post-url: 
-  ordeal: true
-  brotherhood: true
+    youth:
+    adult:
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2844303,2844296,2844302
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Musser Work Day
+  date: 2021-08-28
+  date-end:
+  time: 9AM - 4PM
+  price:
+    youth:
+    adult:
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2844303,2844296,2844302
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Musser Work Day
+  date: 2021-09-18
+  date-end:
+  time: 9AM - 4PM
+  price:
+    youth:
+    adult:
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/openrosters/ViewActivitySpaceAvailable.aspx?orgkey=2794&activitykey=2844303,2844296,2844302
+  post-url:
+  ordeal: false
+  brotherhood: false
   highlight: true
 
 - title: Vigil Honor Weekend
@@ -23,8 +55,8 @@
     adult:
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3512202,-75.4431166,14.91z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/event/vigil-honor-induction/2843755
   post-url:
   ordeal: false
   brotherhood: false

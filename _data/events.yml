@@ -51,8 +51,8 @@
   date-end: 2021-09-12
   time:
   price:
-    youth:
-    adult:
+    youth: $30
+    adult: $30
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3512202,-75.4431166,14.91z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
   link-text: Register Now
@@ -81,10 +81,10 @@
 - title: Fall Fellowship
   date: 2021-10-01
   date-end: 2021-10-03
-  time:
+  time: 6PM - 11AM
   price:
-    youth:
-    adult:
+    youth: $35
+    adult: $35
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
   link-text: Register Now

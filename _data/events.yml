@@ -189,3 +189,19 @@
   ordeal: false
   brotherhood: false
   highlight: false
+
+- title: National Order of the Arrow Conference
+  date: 2022-07-25
+  date-end: 2022-07-30
+  time:
+  price:
+    youth:
+    adult:
+  location: University of Tennessee
+  location-url: https://www.google.com/maps/place/University+of+Tennessee/@35.9544056,-83.9316451,17z/data=!3m1!4b1!4m5!3m4!1s0x885c17e0aa4a6f21:0xa4914a748b5294c!8m2!3d35.9544013!4d-83.9294564
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false

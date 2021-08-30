@@ -110,22 +110,6 @@
   brotherhood: false
   highlight: false
 
-- title: Scout Memorabilia Show
-  date: 2021-10-15
-  date-end: 2021-10-16
-  time:
-  price:
-    youth:
-    adult:
-  location: TBD
-  location-url:
-  link-text:
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Resica Falls Service Day
   date: 2021-10-23
   date-end:
@@ -153,6 +137,22 @@
   location-url: https://www.google.com/maps/place/Camp+Delmont/@40.3512202,-75.4431166,14.91z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0x4397e3b6ca64c813!8m2!3d40.353717!4d-75.445783
   link-text:
   link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Award Nominations Due
+  date: 2021-10-31
+  date-end:
+  time:
+  price:
+    youth:
+    adult:
+  location: UnamiLodge.org
+  location-url:
+  link-text: Submit a Nomination
+  link-url: /awards
   post-url:
   ordeal: false
   brotherhood: false

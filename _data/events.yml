@@ -127,8 +127,8 @@
   highlight: true
 
 - title: Lodge Leadership Development
-  date: TBD
-  date-end:
+  date: 2021-12-17
+  date-end: 2021-12-19
   time:
   price:
     youth:
@@ -142,15 +142,15 @@
   brotherhood: false
   highlight: false
 
-- title: Lodge Leadership Development
-  date: TBD
+- title: 106th Annual Lodge Dinner
+  date: 2022-01-08
   date-end:
   time:
   price:
     youth:
     adult:
-  location: TBD
-  location-url:
+  location: VE Club
+  location-url: https://goo.gl/maps/Qj2t7Wico6GV7yQu7
   link-text:
   link-url:
   post-url:
@@ -160,7 +160,7 @@
 
 - title: National Order of the Arrow Conference
   date: 2022-07-24
-  date-end: 2022-08-01
+  date-end: 2022-07-31
   time:
   price:
     youth:

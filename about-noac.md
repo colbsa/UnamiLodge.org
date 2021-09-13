@@ -33,13 +33,13 @@ A few reminders on why you should join us for this exciting event:
   <li>Spend a week living in an air-conditioned college dorm room at the University of Tennessee.Our lodge contingent will be housed together during the conference.</li>
 </ul>
 
-<p>Also remember that the lodge is selling NOAC Fundraiser Flaps.  You can purchase at our online trading post which can be found at this link. Proceeds from this flap will help support the cost for the lodge NOAC contingent.</p>
+<p>Also remember that the lodge is selling NOAC Fundraiser Flaps.  You can purchase at our online trading post <a href="https://unami-lodge-one.square.site/" target="_blank">which can be found at this link</a>. Proceeds from this flap will help support the cost for the lodge NOAC contingent.</p>
 <p>We hope to see you join us for NOAC 2022!</p>
 
 
 <div class="row justify-content-center">
   <div class="col-md-4 text-center">
-    <a href="https://colbsa.doubleknot.com/event/2849155" class="btn btn-primary btn-block my-3">Register Now!</a>
+    <a href="https://colbsa.doubleknot.com/event/2849155" class="btn btn-primary btn-block my-3" target="_blank">Register Now!</a>
   </div>
 </div>
 

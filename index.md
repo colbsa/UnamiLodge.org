@@ -3,7 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2022-lodge-officers.png: \#
+  /img/slider/2022-lodge-officers.png: /news/Meet-Our-2022-Officers
+  /img/slider/noac-register-flaps.png: /noac
   /img/slider/slide-awards.png: /awards
   /img/slider/resica-service-days.png: https://resicafalls.org/volunteer
 

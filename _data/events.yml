@@ -1,20 +1,4 @@
 - title: Resica Falls Service Day
-  date: 2021-10-09
-  date-end:
-  time:
-  price:
-    youth: 0
-    adult: 0
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Learn More
-  link-url: https://resicafalls.org/volunteer
-  post-url: 
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Resica Falls Service Day
   date: 2021-10-23
   date-end:
   time:
@@ -30,6 +14,22 @@
   brotherhood: false
   highlight: false
 
+- title: Light the Fire - Public Speaking
+  date: 2021-10-24
+  date-end:
+  time: 7PM
+  price:
+    youth: 0
+    adult: 0
+  location: Online
+  location-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLScIs6qJqGLBcL49PZguqZYeLUsryRR49aspklwrB7-wxTjmXw/viewform
+  post-url: 
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Award Nominations Due
   date: 2021-10-31
   date-end:
@@ -44,7 +44,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Resica Falls Service Day
   date: 2021-11-20

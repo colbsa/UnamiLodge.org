@@ -3,9 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2022-lodge-officers.png: /news/Meet-Our-2022-Officers
-  /img/slider/noac-register-flaps.png: /noac
   /img/slider/slide-awards.png: /awards
+  /img/slider/noac-register-flaps.png: /noac
   /img/slider/resica-service-days.png: https://resicafalls.org/volunteer
 
 button-bar:
@@ -14,6 +13,7 @@ button-bar:
   Seal The Bond: /brotherhood
 
 quick-links:
+  NOAC: /noac
   Lodge Calendar: /calendar
   Lodge Trading Post: /tradingpost
   Contact Us: /contact

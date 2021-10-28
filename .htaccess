@@ -113,16 +113,14 @@ Redirect /AdultNominations https://docs.google.com/forms/d/e/1FAIpQLSc0PjhMStR5Q
 
 Redirect /lldsurvey https://docs.google.com/forms/d/1hox9Hvd39fUVuhEYT3iF70HyPl1qdeqh-9KA-FbMq8M/viewform?usp=send_form
 
-Redirect /conclave /news/2020-Conclave
-Redirect /Conclave /news/2020-Conclave
+Redirect /conclave https://conclaveregistration.org/section/ne5
+Redirect /Conclave https://conclaveregistration.org/section/ne5
 
 Redirect /InterestSurvey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form
 Redirect /interestsurvey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form
 Redirect /Interest-Survey https://docs.google.com/forms/d/1-9Q1EYtRr4SbrYX39T_fn7gjo3EK58W5VGXI79wfYlU/viewform?usp=send_form
 
 Redirect /show /news/2019-Scout-Memorabilia-Show
-
-Redirect /noac https://colbsa.doubleknot.com/event/2020-noac/2578650
 
 Redirect /dinner https://www.youtube.com/watch?v=7NH0xMd3veM
 

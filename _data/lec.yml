@@ -1,28 +1,28 @@
 officers:
 - title: Lodge Chief
-  name: Luke Cihak
-  email: chief
+  name: Patrick Lynch
+  email: patrick.lynch
   key3: true
 
 - title: Vice Chief 1
-  name: Patrick Lynch
-  email: vc1
+  name: William Beardsley
+  email: william.beardsley
 
 - title: Vice Chief 2
   name: Liam Lynch
-  email: vc2
+  email: liam.lynch
 
 - title: Treasurer
-  name: Eoghan Pleis
-  email: treasurer
+  name: Patrick White
+  email: patrick.white
 
 - title: Secretary
   name: Riley Metzler
-  email: secretary
+  email: riley.metzler
 
 - title: Lodge Adviser
-  name: Dennis Abernethy
-  email: lodgeadviser
+  name: Craig Cless
+  email: craig.cless
   key3: true
 
 - title: Associate Lodge Adviser
@@ -52,16 +52,16 @@ advisoryboard:
   email: finance
 
 - title: Immediate Past Chief
-  name: Aidan Campbell
-  email: pastchief
+  name: Luke Cihak
+  email: luke.cihak
 
 - title: Lodgemaster Adviser
   name: Lawrence Neibauer
   email: lneibauer
 
 - title: Memorabilia Show Chair
-  name: Rhys Wallace
-  email: rwallace
+  name: Kyle Rothbell
+  email: kyle.rothbell
 
 - title: Memorabilia Show Adviser
   name: Paul Bowman
@@ -71,35 +71,15 @@ advisoryboard:
   name: Lee Faden
   email: lfaden
 
-- title: Conclave Chair
-  name: Sean Plunkett
-  email: conclave
-
 - title: Conclave Adviser
-  name: Larry Neibauer
-  email: conclave
-
-- title: Conclave Assoc. Adviser
   name: Fred Lynch
   email: conclave
 
-- title: NOAC Chair
-  name: Anthony Glass
-  email: noac
-
-- title: NOAC Adviser
-  name: Todge Sutkowski
-  email: noac
-
-- title: NOAC Assoc. Adviser
-  name: Tom Luke
-  email: noac
+- title: Conclave Assoc. Adviser
+  name: Lawrence Neibauer
+  email: conclave
 
 committees:
-- title: American Indian Affairs Chair
-  name: Matthew Horan
-  email: aia
-
 - title: American Indian Affairs Adviser
   name: Scott Mann
   email: aia
@@ -109,15 +89,23 @@ committees:
   email: brotherhood
 
 - title: Brotherhood Vice Chair
-  name: Noah Goldberg
+  name: Griffen O'Brien
   email: brotherhood
 
 - title: Brotherhood Adviser
   name: Brian Lewis
   email: brotherhood
 
+- title: Brotherhood Assoc. Adviser
+  name: Fred Lynch
+  email: brotherhood
+
 - title: Camp Promotions Chair
-  name: Patrick White
+  name: Anthony Glass
+  email: camppromotions
+
+- title: Camp Promotions Vice Chair
+  name: Griffen O'Brien
   email: camppromotions
 
 - title: Camp Promotions Adviser
@@ -125,7 +113,11 @@ committees:
   email: camppromotions
 
 - title: Ceremonies Chair
-  name: Austin Groeber
+  name: Noah Goldberg
+  email: ceremonies
+
+- title: Ceremonies Vice Chair
+  name: Neal Brounce
   email: ceremonies
 
 - title: Ceremonies Adviser
@@ -141,7 +133,7 @@ committees:
   email: communications
 
 - title: Communications Vice Chair
-  name: Alexander Ziemba
+  name: Luke Lo Sasso
   email: communications
 
 - title: Communications Adviser
@@ -149,31 +141,23 @@ committees:
   email: communications
 
 - title: Events Chair
-  name: Michaela Donnelly
+  name: Jason Abiuso
   email: events
 
 - title: Events Vice-Chair
-  name: Michael Calliagas
+  name: Benson Davis
   email: events
 
 - title: Events Adviser
-  name: Patrick Campbell
+  name: Heather Filer
   email: events
 
 - title: Events Assoc. Adviser
   name: Robert Deck
   email: events
 
-- title: Events Assoc. Adviser
-  name: Heather Filer
-  email: events
-
 - title: History Chair
-  name: Rhys Wallace
-  email: history
-
-- title: History Vice Chair
-  name: Spencer Lavelle
+  name: Kyle Rothbell
   email: history
 
 - title: History Adviser
@@ -184,20 +168,20 @@ committees:
   name: Phil Hittner
   email: history
 
-- title: Leadership Development Co-Chair
+- title: History Assoc. Adviser
+  name: Rhys Wallace
+  email: history
+
+- title: Leadership Development Chair
   name: Luke Clancy
   email: leadershipdevelopment
 
-- title: Leadership Development Co-Chair
-  name: Andrew Geer
-  email: leadershipdevelopment
-
 - title: Leadership Development Adviser
-  name: Matthew Gutterman
+  name: Matt Gutterman
   email: leadershipdevelopment
 
 - title: Lodge Operations Chair
-  name: Terence Lindsay
+  name: Eoghan Pleis
   email: lodgeoperations
 
 - title: Lodge Operations Adviser
@@ -209,15 +193,11 @@ committees:
   email: lodgeoperations
 
 - title: Membership Chair
-  name: Anthony Glass
+  name: Michaela Donnelly
   email: membership
 
 - title: Membership Adviser
-  name: Steven Mach
-  email: membership
-
-- title: Membership Assoc. Adviser
-  name: Chris Smith
+  name: Todge Sutkowski
   email: membership
 
 - title: Membership Assoc. Adviser
@@ -226,6 +206,10 @@ committees:
 
 - title: Ordeal Chair
   name: Philip Weidman
+  email: ordeal
+
+- title: Ordeal Vice Chair
+  name: Zach Kline
   email: ordeal
 
 - title: Ordeal Adviser
@@ -244,6 +228,10 @@ committees:
   name: Arron Liebel
   email: service
 
+- title: Service Vice Chair
+  name: Matt Hejnar
+  email: service
+
 - title: Service Co-Adviser
   name: Robert Burkhart
   email: service
@@ -253,11 +241,11 @@ committees:
   email: service
 
 - title: Unit Election Chair
-  name: Brendan Flanagan
+  name: Luke Cihak
   email: unitelections
 
 - title: Unit Election Vice-Chair
-  name: Will Beardsley
+  name: Victor Kowalski
   email: unitelections
 
 - title: Unit Election Adviser
@@ -269,7 +257,7 @@ committees:
   email: unitelections
 
 - title: Unit Representative Chair
-  name: Owen Boles
+  name: Andrew Geer
   email: unitrep
 
 - title: Unit Representative Adviser

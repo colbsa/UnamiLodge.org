@@ -4,31 +4,27 @@ layout: page
 permalink: /lld/
 ---
 
-A Lodge needs leaders and leaders need to hone their skills. Join us this year at the annual Lodge Leadership Development! Whether you are an active member on the Lodge Executive Board or an Arrowmen with interest in becoming more involved in the Order of the Arrow, this program is for you.
+A Lodge needs leaders and leaders need to hone their skills. Join us this year at the annual Lodge Leadership Development! All members of the Lodge Executive Committee and chapter officers are invited. This year's conference will focus on Unit Elections, Inductions, and Activation.
 
 If you have any questions please email the Leadership Development Committee at [leadershipdevelopment@UnamiLodge.org](/contact?recipient=leadershipdevelopment)
 
-<h1 class="text-center text-primary">Zoom Links</h1>
-<table class="table table-bordered">
-  <tr>
-    <td class="text-center" name="zoom1">
-      <strong>Zoom Room 1</strong><br />
-      <a href="https://colbsa.zoom.us/j/89080131653?pwd=dlpwdTVDS0dNZjNYNkZDNHB5K043UT09">Join The Room</a><br />
-      Meeting ID: 890 8013 1653<br />
-      Passcode: 042553<br />
-    </td>
-    <td class="text-center" name="zoom2">
-      <strong>Zoom Room 2</strong><br />
-      <a href="https://colbsa.zoom.us/j/89640261503?pwd=TzFWeElsZTY5aWVwUGtPWFd6aEZiZz09">Join The Room</a><br />
-      Meeting ID: 896 4026 1503<br />
-      Passcode: 366536<br />
-    </td>
-  </tr>
-</table>
+<h1 class="text-center text-primary mt-5">Event Details</h1>
+
+<div class="text-center">
+  <strong>December 18th & 19th</strong><br/>
+  Cradle of Liberty Council Office<br/>
+  Registration Coming Soon!
+</div>
+
+
 
 <h1 class="text-center text-primary mt-5">Event Schedule</h1>
 
-<table class="table table-bordered table-hover">
+<div class="text-center">
+  Coming Soon!
+</div>
+
+<!-- <table class="table table-bordered table-hover">
   <thead class="thead-dark">
     <tr>
       <th scope="col" width="120">
@@ -175,27 +171,11 @@ If you have any questions please email the Leadership Development Committee at [
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <h1 class="text-center text-primary mt-5">Links</h1>
 
 <table class="table">
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Grab the Latest Virtual LLD Guide</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://drive.google.com/file/d/1QOd5Fd6iHAIwSQMvP0Qo5SCVPLrTz_NO/view?usp=sharing">Download Now</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Download the Committee Breakout Handouts</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://drive.google.com/drive/folders/1pEatLbhkSvGY2pYmzHKuTySLcGFL5_Hp?usp=sharing">Download Now</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Download The Youth-Adviser Relationship Slides</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/presentation/d/1acmSUyAN53rlqTKgtqHWA2stNErs1hEaV4h7ICKRsPs/edit?usp=sharing">Download Now</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Save 15% at the Resica Falls TP using Coupon 'LLD15'</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://resicafalls.org/tradingpost">Shop Now</a></td>
-  </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Explore Unami's Vital Statistics</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://oa-bsa.org/lodge-reporting/?region=northeast&section=NE-5&lodge=525">Read More</a></td>
@@ -203,18 +183,6 @@ If you have any questions please email the Leadership Development Committee at [
   <tr>
     <td class="align-middle"><h5 class="my-0">Watch Training Replays from Momentum: Launch</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://www.youtube.com/watch?v=u0Sjb3Ay9mo&list=PLYtaFve5J1_c7l9ZWFRIBb1T3FvC_HzTG">Watch Now</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Explore the OA Digital Engagement Toolkit</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://oa-bsa.org/resources/publications#online-engagement-toolkit">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Check out Unami's Rules & Procedures</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/rules">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Register for Section NE-5's Virtual Training Series</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSd2B8v9Xqussc5364BhiViiqncSGRB8ILuSBaiur1L4d7iJhQ/viewform?usp=sf_link">Register Now</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Learn About Your Leadership Style through Operation: Delta</h5></td>

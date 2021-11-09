@@ -3,7 +3,6 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/slide-awards.png: /awards
   /img/slider/noac-register-flaps.png: /noac
   /img/slider/resica-service-days.png: https://resicafalls.org/volunteer
 

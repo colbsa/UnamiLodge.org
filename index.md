@@ -4,7 +4,6 @@ layout: index
 
 slides:
   /img/slider/noac-register-flaps.png: /noac
-  /img/slider/resica-service-days.png: https://resicafalls.org/volunteer
 
 button-bar:
   Elected Candidates: /electedcandidates

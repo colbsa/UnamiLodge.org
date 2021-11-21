@@ -33,10 +33,10 @@
 - title: 106th Annual Lodge Dinner
   date: 2022-01-08
   date-end:
-  time:
+  time: 4:30PM
   price:
-    youth:
-    adult:
+    youth: 40
+    adult: 45
   location: VE Club
   location-url: https://goo.gl/maps/Qj2t7Wico6GV7yQu7
   link-text:

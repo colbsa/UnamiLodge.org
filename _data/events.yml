@@ -1,3 +1,19 @@
+- title: Light the Fire - Unit Elections
+  date: 2021-12-12
+  date-end:
+  time: 7PM
+  price:
+    youth: 0
+    adult: 0
+  location: Online
+  location-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSciL_Z54gm3-BbM-MGQv_C8t14Y128mM8ofgZ4yY2fc-Yw-FQ/viewform
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Lodge Leadership Development
   date: 2021-12-17
   date-end: 2021-12-19
@@ -5,8 +21,8 @@
   price:
     youth:
     adult:
-  location: TBD
-  location-url:
+  location: Firestone Service Center
+  location-url: https://goo.gl/maps/XPA2FJK9Yevcumhf7
   link-text:
   link-url:
   post-url:

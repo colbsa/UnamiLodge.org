@@ -1,15 +1,15 @@
-- title: Resica Falls Service Day
-  date: 2021-11-20
+- title: Light the Fire - Unit Elections
+  date: 2021-12-12
   date-end:
-  time:
+  time: 7PM
   price:
     youth: 0
     adult: 0
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.111192,-75.0971207,17z/data=!3m1!4b1!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.111192!4d-75.094932
-  link-text: Learn More
-  link-url: https://resicafalls.org/volunteer
-  post-url: 
+  location: Online
+  location-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSciL_Z54gm3-BbM-MGQv_C8t14Y128mM8ofgZ4yY2fc-Yw-FQ/viewform
+  post-url:
   ordeal: false
   brotherhood: false
   highlight: true
@@ -21,8 +21,8 @@
   price:
     youth:
     adult:
-  location: TBD
-  location-url:
+  location: Firestone Service Center
+  location-url: https://goo.gl/maps/XPA2FJK9Yevcumhf7
   link-text:
   link-url:
   post-url:
@@ -39,12 +39,12 @@
     adult: 45
   location: VE Club
   location-url: https://goo.gl/maps/Qj2t7Wico6GV7yQu7
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://colbsa.doubleknot.com/event/106th-unami-lodge-one-annual-dinner/2869530
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Community Service Day
   date: 2022-03-26

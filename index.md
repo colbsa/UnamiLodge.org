@@ -8,6 +8,7 @@ slides:
 button-bar:
   Elected Candidates: /electedcandidates
   Pay My Dues: /dues
+  Turtle Power Pass: https://scoutingevent.com/525-22TP
   Seal The Bond: /brotherhood
 
 quick-links:

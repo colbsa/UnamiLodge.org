@@ -14,8 +14,9 @@ The lodge's Communications committee endeavors to provide easy access to useful 
 
 <table class="table">
   <tr>
-    <td class="align-middle"><h5 class="my-0">Google Workspace</h5>
-      <p>Email, file sharing, and most everything else you need to get things done.<p>
+    <td class="align-middle">
+      <h5 class="my-0">Google Workspace</h5>
+      <p>Email, file sharing, and most everything else you need to get things done.</p>
     </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>

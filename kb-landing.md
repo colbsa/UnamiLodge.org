@@ -26,6 +26,7 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
 
 
 <h3 class="mt-5">Documentation</h3>
+<p></p>
 
 <table class="table">
   <tr>
@@ -38,21 +39,21 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Slack</h5>
-      <p>Messaging app for general LEC business, sub-committee collaboration, and Chapters.  Available for both your computer and phone.</p>
+      Messaging app for general LEC business, sub-committee collaboration, and Chapters.  Available for both your computer and phone.
     </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Zoom & Google Meet</h5>
-      <p>Video conferencing solutions for fully remote meetings and hybrid "call-in" scenarios.  Great for big planned events, as well as small "on the fly" use.</p>
+      Video conferencing solutions for fully remote meetings and hybrid "call-in" scenarios.  Great for big planned events, as well as small "on the fly" use.
     </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">
       <h5 class="my-0">MailChimp</h5>
-      <p>Email marketing platform.  The only way to send email to large segments of Unami Lodge members (Ex. Chapters).</p>
+      Email marketing platform.  The only way to send email to large segments of Unami Lodge members (Ex. Chapters).
     </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>

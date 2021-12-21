@@ -4,6 +4,8 @@ layout: page
 permalink: /kb/
 ---
 
+<h3 class="mt-5">Welcome!</h3>
+
 Unami Lodge maintains a suite of tools intended to facilitate communication at the Lodge Executive Committee (LEC), Chapter, and General Membership levels.  Many of these tools are well documented household names, and as a result, generally require little introduction.  The following knowledge-base content is designed to provide Unami Lodge specific context for each tool's expected use case(s), and link to platform specific documentation where appropriate.
 
 Whether you've been linked to this landing as a part of lodge leadership position on-boarding, or found it organically - thank you for your interest, and service.
@@ -11,6 +13,15 @@ Whether you've been linked to this landing as a part of lodge leadership positio
 The lodge's Communications committee endeavors to provide easy access to useful information on the tools we provide.  As such, please do not hesitate to reach out [communications@unamilodge.org](/contact?recipient=communications) with any questions or suggestions for further development.
 
 
+<h3 class="mt-5">Frequently Asked Questions</h3>
+**I'm new here, how does all this fit together?**
+Lorem Ipsum
+
+**Can you help me recover my login details?**
+Absolutely!  Please do not hesitate to reach out [communications@unamilodge.org](/contact?recipient=communications) and we would be happy to help.
+
+
+<h3 class="mt-5">Documentation</h3>
 
 <table class="table">
   <tr>

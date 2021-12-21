@@ -16,20 +16,29 @@ The lodge's Communications committee endeavors to provide easy access to useful 
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Google Workspace</h5>
-      <p>Email, file sharing, and most everything else you need to get things done.</p>
+      <p>Email, file sharing, and most everything else you need to get things done.  This account is the basis for your @UnamiLodge.org collaboration needs.</p>
     </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Slack</h5></td>
+    <td class="align-middle">
+      <h5 class="my-0">Slack</h5>
+      <p>Messaging app for general LEC business, sub-committee collaboration, and Chapters.  Available for both your computer and phone.</p>
+    </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Zoom & Google Meet</h5></td>
+    <td class="align-middle">
+      <h5 class="my-0">Zoom & Google Meet</h5>
+      <p>Video conferencing solutions for fully remote meetings and hybrid "call-in" scenarios.  Great for big planned events, as well as small "on the fly" use.</p>
+    </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">MailChimp</h5></td>
+    <td class="align-middle">
+      <h5 class="my-0">MailChimp</h5>
+      <p>Email marketing platform.  The only way to send email to large segments of Unami Lodge members (Ex. Chapters).</p>
+    </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>
 </table>

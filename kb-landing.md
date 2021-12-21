@@ -10,7 +10,7 @@ Unami Lodge maintains a suite of tools intended to facilitate communication at t
 
 Whether you've been linked to this landing as a part of lodge leadership position on-boarding, or found it organically - thank you for your interest, and service.
 
-The lodge's Communications committee endeavors to provide easy access to useful information on the tools we provide.  As such, please do not hesitate to reach out ([communications@unamilodge.org](/contact?recipient=communications)) with any questions or suggestions for further development.
+The lodge's Communications committee endeavors to provide easy access to useful information on the tools we provide.  As such, please do not hesitate to reach out ([communications@unamilodge.org](/contact?recipient=communications)) with any questions or suggestions for further content development.
 
 
 <h3 class="mt-5">Frequently Asked Questions</h3>
@@ -31,7 +31,7 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Google Workspace</h5>
-      <p>Email, file sharing, and most everything else you need to get things done.  This account is the basis for your @UnamiLodge.org collaboration needs.</p>
+      Email, file sharing, and most everything else you need to get things done.  This account is the basis for your @UnamiLodge.org collaboration needs.
     </td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb/">Read More</a></td>
   </tr>

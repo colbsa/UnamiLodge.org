@@ -1,35 +1,3 @@
-- title: Light the Fire - Unit Elections
-  date: 2021-12-12
-  date-end:
-  time: 7PM
-  price:
-    youth: 0
-    adult: 0
-  location: Online
-  location-url:
-  link-text: Register Now
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSciL_Z54gm3-BbM-MGQv_C8t14Y128mM8ofgZ4yY2fc-Yw-FQ/viewform
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: Lodge Leadership Development
-  date: 2021-12-17
-  date-end: 2021-12-19
-  time:
-  price:
-    youth:
-    adult:
-  location: Firestone Service Center
-  location-url: https://goo.gl/maps/XPA2FJK9Yevcumhf7
-  link-text:
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: 106th Annual Lodge Dinner
   date: 2022-01-08
   date-end:
@@ -41,6 +9,22 @@
   location-url: https://goo.gl/maps/Qj2t7Wico6GV7yQu7
   link-text: Register Now
   link-url: https://colbsa.doubleknot.com/event/106th-annual-dinner/2871521
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
+- title: Dues Early Bird Ends
+  date: 2022-01-31
+  date-end:
+  time: 11:59 PM
+  price:
+    youth: 18
+    adult: 18
+  location: Online
+  location-url:
+  link-text: Pay Dues
+  link-url: /dues
   post-url:
   ordeal: false
   brotherhood: false

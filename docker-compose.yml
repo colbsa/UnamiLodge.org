@@ -1,8 +1,0 @@
-services:
-  jekyll:
-    build: ./
-    command: jekyll serve --drafts --watch --incremental
-    ports:
-        - 4000:4000
-    volumes:
-        - .:/srv/jekyll

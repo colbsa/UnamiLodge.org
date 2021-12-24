@@ -29,21 +29,21 @@ When you create a new campaign, be sure to pick a meaningful name.  It's only fo
 
 Once you've got the name squared away, there will be four major things to set up as you see fit:
 
-{% picture thumb /img/kb/mailchimp-campaign_overview.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign creation screen, detailing Campaign To, From, Subject, and Content. %}
+{% picture /img/kb/mailchimp-campaign_overview.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign creation screen, detailing Campaign To, From, Subject, and Content. %}
 
 1. **Edit Recipients:** The `To: ` line will typically be a segment of the Lodge's full email list.  
 
-{% picture thumb /img/kb/mailchimp-campaign_to.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign To screen, detailing how to select a single Chapter's members from the full list. %}
+{% picture default /img/kb/mailchimp-campaign_to.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign To screen, detailing how to select a single Chapter's members from the full list. %}
 
 Use the `Chapters` group as pictured to select all members of a given chapter.  For other list segmentation needs, feel free to apply one of more filters as you see fit.  Alternatively, individual email addresses may be pasted in if desired.
 
 No matter how you build your list, be sure to spot check your final list by clicking the the recipient count link (Ex. [104 recipients](#)) once you hit save:
 
-{% picture thumb /img/kb/mailchimp-campaign_recipients.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign To screen, detailing number of recipients. %}
+{% picture default /img/kb/mailchimp-campaign_recipients.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign To screen, detailing number of recipients. %}
 
 2. **From Email:** This can be any person or committee, and their associated @UnamiLodge.org email address.  Good options include communications, your committee / chapter, or just yourself.
 
-{% picture thumb /img/kb/mailchimp-campaign_from.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign From screen. %}
+{% picture default /img/kb/mailchimp-campaign_from.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign From screen. %}
 
 3. **Subject:** This one's pretty self explanatory, just like any other email:
 
@@ -53,13 +53,13 @@ No matter how you build your list, be sure to spot check your final list by clic
 
 Select `Saved Templates` and pick a Unami Lodge themed base for your email body:
 
-{% picture thumb /img/kb/mailchimp-campaign_templates.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign saved Unami templates screen. %}
+{% picture default /img/kb/mailchimp-campaign_templates.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign saved Unami templates screen. %}
 
 If you're not sure which one to pick, `General Lodge Emails without Button` is generally a good place to start.
 
 Then, you'll be taken to a "what you see is what you get" code editor.  That means you can just click on any part of the email that you want to edit, type your content on on the right - and watch it appear nicely formatted on the left!
 
-{% picture thumb /img/kb/mailchimp-campaign_WYSIWYG.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign WYSIWYG editor. %}
+{% picture default /img/kb/mailchimp-campaign_WYSIWYG.png --img class="img-fluid rounded mb-2" --alt MailChimp campaign WYSIWYG editor. %}
 
 As you edit, the `Preview` drop down menu can be used to see exactly what your email will look like once it hits inboxes.
 

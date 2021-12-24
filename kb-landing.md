@@ -26,6 +26,7 @@ For more detailed information, check out the **Documentation** heading below, an
 **Who can have an account?**
 All those who hold a formal [position](/contactlist) in the lodge are automatically provided with Google Workspace & Slack accounts.  Other accounts (ex. MailChimp) are provided by request, so don't hesitate to ask!  Outside of that, anyone with interest in using these tools to be active on the LEC or a Chapter level are encouraged to request an account.  Account requests may be sent via email or posted on someone's behalf in the [#Communications](https://unamilodge.slack.com/archives/C4RN3NCTS) Slack channel.
 
+
 **Can you help me recover my login details?**
 Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.org](/contact?recipient=communications) and we'll be happy to help.
 

@@ -12,7 +12,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Dues Early Bird Ends
   date: 2022-01-31

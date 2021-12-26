@@ -64,3 +64,11 @@ markup_presets:
     base_width: 300 # How wide the 1x image should be
     pixel_ratios: [1]
     fallback_width: 300
+
+  screenshot:
+    markup: auto
+    formats: [webp, jpg, original]
+    widths: [1200]
+    fallback_width: original
+    fallback_format: original
+    link-source: false

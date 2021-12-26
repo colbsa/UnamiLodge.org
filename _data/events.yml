@@ -46,7 +46,7 @@
   brotherhood: false
   highlight: false
 
-- title: Turtle Power Pass Due
+- title: Turtle Power Pass Ends
   date: 2022-03-31
   date-end:
   time:
@@ -60,7 +60,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Spring Service 1
   date: 2022-04-08

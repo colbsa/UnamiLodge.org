@@ -3,10 +3,9 @@ title: Home
 layout: links
 
 link-highlight:
-  106th Annual Dinner: https://unamilodge.org/dinner
+  2022 Dues: https://unamilodge.org/dues
 
 links:
-  2022 Dues: https://unamilodge.org/dues
   Turtle Power Pass: https://scoutingevent.com/525-22TP
   National Order of the Arrow Conference: https://unamilodge.org/noac
   Lodge Calendar: https://unamilodge.org/calendar/

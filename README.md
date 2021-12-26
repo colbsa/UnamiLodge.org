@@ -34,6 +34,16 @@ We have standardized on using the PNG file format. Some standard sizes (in pixel
 - Homepage Sliders: 4500x1500
 - Portals: 4500x900
 
+### Docker
+The easiest way at the moment to run this locally is using the Dockerfile located in this repo. It can be used by running the following to build an image:
+```
+docker build . -t YOUR-USERNAME/jekyll
+```
+and then the following to start a container. Note the first time running the following with take a few minutes.
+```
+docker run --rm --label=jekyll --volume=${PWD}:/srv/jekyll  -it -p 4000:4000 YOUR-USERNAME/jekyll jekyll serve
+```
+
 ## TODO
 Items we are still working on
 - Posts

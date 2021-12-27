@@ -69,6 +69,6 @@ markup_presets:
     markup: auto
     formats: [webp, jpg, original]
     widths: [1200]
-    fallback_width: original
+    fallback_width: 1200
     fallback_format: original
     link-source: false

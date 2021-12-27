@@ -31,4 +31,8 @@ If you need help with creating a group, managing it's members, or any other admi
 <h3 class="mt-5">Docs & Drive</h3>
 Google Docs & Drive is a great way to collaborate on shared documents, and share files of all types.
 
+Everything is web based, which makes sharing and collaboration as simple as sending a link!  However, keep in mind that by default, things will only be shared with other [@UnamiLodge.org](#) accounts.  If you wish to share with others, feel free edit sharing permissions as necessary:
+
+[Share files from Google Drive](https://support.google.com/docs/answer/2494822?hl=en&co=GENIE.Platform%3DDesktop#zippy=)
+
 [File storage, collaboration & docs](https://support.google.com/a/users/answer/10005650?visit_id=637758266043996939-1915948844&hl=en&rd=1)

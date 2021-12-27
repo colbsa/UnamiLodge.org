@@ -68,6 +68,8 @@ markup_presets:
   screenshot:
     markup: auto
     formats: [webp, jpg, original]
+    format_quality:
+      webp: 90
     widths: [1200]
     fallback_width: 1200
     fallback_format: original

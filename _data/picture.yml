@@ -1,11 +1,11 @@
-media_presets:
+media_queries:
   large_desktop: 'min-width: 1200px'
   desktop: 'min-width: 992px'
   tablet: 'min-width: 768px'
   landscape_mobile: 'min-width: 576px'
   mobile: 'max-width: 575px'
 
-markup_presets:
+presets:
 
   default:
     markup: auto
@@ -34,8 +34,9 @@ markup_presets:
   slider:
     markup: auto
     formats: [webp, jpg, original]
-    format_quality:
-      webp: 90
+    image_options:
+      webp:
+        lossless: true
     widths: [1250, 1500, 2000]
     media_widths:
       mobile: [450]
@@ -48,8 +49,9 @@ markup_presets:
   banner:
     markup: auto
     formats: [webp, jpg, original]
-    format_quality:
-      webp: 90
+    image_options:
+      webp:
+        lossless: true
     widths: [1250, 1500, 2000]
     media_widths:
       mobile: [450]
@@ -68,8 +70,9 @@ markup_presets:
   screenshot:
     markup: auto
     formats: [webp, jpg, original]
-    format_quality:
-      webp: 90
+    image_options:
+      webp:
+        lossless: true
     widths: [1200]
     fallback_width: 1200
     fallback_format: original

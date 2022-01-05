@@ -14,6 +14,22 @@
   brotherhood: false
   highlight: false
 
+- title: Virtual Game Night
+  date: 2022-01-18
+  date-end:
+  time: 7PM
+  price:
+    youth:
+    adult:
+  location: Online
+  location-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSdlJJRRo3FMUo1oNAHQEGS4A_KF_Ql_6chwvTECgxgDDujdJQ/viewform
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Dues Early Bird Ends
   date: 2022-01-31
   date-end:
@@ -25,6 +41,22 @@
   location-url:
   link-text: Pay Dues
   link-url: /dues
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
+- title: Vigil Honor Nominations Close
+  date: 2022-02-28
+  date-end:
+  time: 11:59 PM
+  price:
+    youth:
+    adult:
+  location: Online
+  location-url:
+  link-text: Submit a Nomination
+  link-url: /awards
   post-url:
   ordeal: false
   brotherhood: false
@@ -60,7 +92,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Spring Service 1
   date: 2022-04-08

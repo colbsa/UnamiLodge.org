@@ -2,7 +2,7 @@
 layout: post
 title: 106th Lodge Dinner Recap
 author:
-date: 2021-01-10
+date: 2022-01-10
 banner:
 thumbnail: 106th-Lodge-Dinner-Recap.png
 excerpt: Unami Lodge's oldest tradition! Wondering what happened this year?

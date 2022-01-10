@@ -4,21 +4,21 @@ officers:
   email: patrick.lynch
   key3: true
 
-- title: Vice Chief 1
-  name: William Beardsley
-  email: william.beardsley
+- title: 1st Vice Chief
+  name: Jason Abiuso
+  email: jason.abiuso
 
-- title: Vice Chief 2
+- title: 2nd Vice Chief
   name: Liam Lynch
   email: liam.lynch
 
 - title: Treasurer
-  name: Patrick White
-  email: patrick.white
+  name: Griffen O’Brien
+  email: griffen.obrien
 
 - title: Secretary
-  name: Riley Metzler
-  email: riley.metzler
+  name: Mara Strauss
+  email: mara.strauss
 
 - title: Lodge Adviser
   name: Craig Cless

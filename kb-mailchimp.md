@@ -35,7 +35,7 @@ Once you've got the name squared away, there will be four major things to set up
 <img src="/img/kb/mailchimp-campaign_overview.png" class="img-fluid" alt="MailChimp campaign creation screen, detailing Campaign To, From, Subject, and Content.">
 
 
-1. **Edit Recipients:** The `To: ` line will typically be a segment of the Lodge's full email list.  
+**Edit Recipients:** The `To: ` line will typically be a segment of the Lodge's full email list.  
 
 {% picture screenshot /img/kb/mailchimp-campaign_to.png --img class="img-fluid" --alt MailChimp campaign To screen, detailing how to select a single Chapter's members from the full list. %}
 
@@ -46,17 +46,17 @@ No matter how you build your list, be sure to spot check your final list by clic
 <img src="/img/kb/mailchimp-campaign_recipients.png" class="img-fluid" alt="MailChimp campaign To screen, detailing number of recipients.">
 
 
-2. **From Email:** This can be any person or committee, and their associated @UnamiLodge.org email address.  Good options include communications, your committee / chapter, or just yourself.
+**From Email:** This can be any person or committee, and their associated @UnamiLodge.org email address.  Good options include communications, your committee / chapter, or just yourself.
 
 <img src="/img/kb/mailchimp-campaign_from.png" class="img-fluid" alt="MailChimp campaign From screen.">
 
 
-3. **Subject:** This one's pretty self explanatory, just like any other email:
+**Subject:** This one's pretty self explanatory, just like any other email:
 
 <img src="/img/kb/mailchimp-campaign_subject.png" class="img-fluid" alt="MailChimp campaign Subject screen.">
 
 
-4. **Design Email:** Now things get interesting!
+**Design Email:** Now things get interesting!
 
 Select `Saved Templates` and pick a Unami Lodge themed base for your email body:
 

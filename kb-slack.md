@@ -5,6 +5,7 @@ permalink: /kb-slack/
 ---
 
 <h3 class="mt-5">Getting Started</h3>
+
 To access Unami Lodge's Slack workspace, simply visit [UnamiLodge.Slack.com](https://unamilodge.slack.com).
 
 

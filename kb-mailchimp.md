@@ -37,7 +37,7 @@ Once you've got the name squared away, there will be four major things to set up
 
 **Edit Recipients:** The `To: ` line will typically be a segment of the Lodge's full email list.  
 
-{% picture screenshot /img/kb/mailchimp-campaign_to.png --img class="img-fluid" --alt MailChimp campaign To screen, detailing how to select a single Chapter's members from the full list. %}
+<img src="/img/kb/mailchimp-campaign_to.png" class="img-fluid" alt="MailChimp campaign To screen, detailing how to select a single Chapter's members from the full list.">
 
 Use the `Chapters` group as pictured to select all members of a given chapter.  For other list segmentation needs, feel free to apply one of more filters as you see fit.  Alternatively, individual email addresses may be pasted in if desired.
 

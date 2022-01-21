@@ -13,3 +13,4 @@ Outside of the base workspace link, Slack's documentation is really awesome, so 
 1. [Sign in to Slack](https://slack.com/help/articles/212681477-Sign-in-to-Slack)
 2. [Getting started for new Slack users](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users)
 3. [How to use Slack: your quick start guide](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)
+4. [Troubleshooting Slack Notifications](https://slack.com/help/articles/360001559367-Troubleshoot-Slack-notifications)

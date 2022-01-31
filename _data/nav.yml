@@ -1,3 +1,4 @@
+# In Development - Does not (yet) actually impact site nav bar generation.
 
 - title: About
   dropdownitems:
@@ -19,6 +20,8 @@
     url: /awards
   - title: OA High Adventure Scholarship
     url: /scholarship
+  - title: LEC Communication Tools KB
+    url: /kb
 - title: Membership
   dropdownitems:
   - title: Pay My Dues

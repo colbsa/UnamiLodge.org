@@ -14,6 +14,23 @@
   brotherhood: false
   highlight: true
 
+- title: Lodge Leadership Development
+  date: 2022-02-26
+  date-end:
+  time: 08:30 AM
+  price:
+    youth:
+    adult:
+  location: COL Council Office
+  location-url: https://goo.gl/maps/X2hTA9BByztxoMoy5
+  link-text: Register Now
+  link-url: https://forms.gle/4t2kSUtLTWqGCyCd8
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
+
 - title: Vigil Honor Nominations Close
   date: 2022-02-28
   date-end:

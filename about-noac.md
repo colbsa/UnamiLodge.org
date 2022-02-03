@@ -39,7 +39,7 @@ A few reminders on why you should join us for this exciting event:
 
 <div class="row justify-content-center">
   <div class="col-md-4 text-center">
-    <a href="https://colbsa.doubleknot.com/event/2849155" class="btn btn-primary btn-block my-3" target="_blank">Register Now!</a>
+    <a href="https://scoutingevent.com/525-22noac" class="btn btn-primary btn-block my-3" target="_blank">Register Now!</a>
   </div>
 </div>
 

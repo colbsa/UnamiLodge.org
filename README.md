@@ -41,7 +41,7 @@ docker build . -t YOUR-USERNAME/jekyll
 ```
 and then the following to start a container. Note the first time running the following with take a few minutes.
 ```
-docker run --rm --label=jekyll --volume=${PWD}:/srv/jekyll  -it -p 4000:4000 YOUR-USERNAME/jekyll jekyll serve
+docker run --rm --label=jekyll -v ${PWD}:/srv/jekyll -v jekyll-cache:/usr/local/bundle -v jekyll-gems:/usr/gem -it -p 4000:4000 YOUR-USERNAME/jekyll jekyll serve
 ```
 
 ## TODO

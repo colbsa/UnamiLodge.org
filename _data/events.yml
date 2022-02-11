@@ -62,6 +62,22 @@
   brotherhood: false
   highlight: true
 
+- title: Pinewood Derby
+  date: 2022-04-02
+  date-end: 
+  time:
+  price:
+    youth:
+    adult:
+  location: Constitution Center
+  location-url: https://goo.gl/maps/qoGRWk8XXEeTaRuVA
+  link-text: Learn More
+  link-url: https://colbsa.org/500
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Spring Service 1
   date: 2022-04-08
   date-end: 2022-04-10
@@ -153,22 +169,6 @@
   location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.1113046,-75.0974357,16.74z/data=!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.1112078!4d-75.094943
   link-text:
   link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Pinewood Derby
-  date: 2022-04-02
-  date-end: 
-  time:
-  price:
-    youth:
-    adult:
-  location: Constitution Center
-  location-url: https://goo.gl/maps/qoGRWk8XXEeTaRuVA
-  link-text:
-  link-url: https://colbsa.org/500
   post-url:
   ordeal: false
   brotherhood: false

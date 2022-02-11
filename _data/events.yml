@@ -158,14 +158,14 @@
   brotherhood: false
   highlight: false
 
-title: Pinewood Derby
+- title: Pinewood Derby
   date: 2022-04-02
   date-end: 
   time:
   price:
     youth:
     adult:
-  location: Constitution center
+  location: Constitution Center
   location-url: https://goo.gl/maps/qoGRWk8XXEeTaRuVA
   link-text:
   link-url: https://colbsa.org/500

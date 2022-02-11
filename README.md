@@ -52,6 +52,4 @@ Items we are still working on
 - Images
   - Fine tune the quality of images displayed on the site - balance best compression, load times, and appearance.
   - Add alt tags for better accessibility and SEO.
-- Search Feature
-- Asset management
-  - We're currently using Jekyll Picture Tag to manage images and Jekyll Minibundle to manage versions of CSS and JS. We are currently looking to find plugins that are more feature rich to replace both of these.
+ 

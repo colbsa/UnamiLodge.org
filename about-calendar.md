@@ -50,4 +50,4 @@ permalink: /calendar/
   </table>
 </div>
 
-Unami Lodge also makes available a [long range calendar](/files/UnamiLodgeCalendar_2019-2022.pdf). Please note that dates and locations listed in the long range calendar are subject to change.
+Unami Lodge also makes available a [long range calendar](/files/UnamiLodgeCalendar_2022-2025.pdf) [*Updated: February 26, 2022*]. Please note that dates and locations listed in the long range calendar are subject to change.

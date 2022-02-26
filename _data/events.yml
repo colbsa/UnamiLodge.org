@@ -1,19 +1,3 @@
-- title: Lodge Leadership Development
-  date: 2022-02-26
-  date-end:
-  time: 08:30 AM
-  price:
-    youth:
-    adult:
-  location: COL Council Office
-  location-url: https://goo.gl/maps/X2hTA9BByztxoMoy5
-  link-text: Register Now
-  link-url: https://forms.gle/4t2kSUtLTWqGCyCd8
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Vigil Honor Nominations Close
   date: 2022-02-28
   date-end:
@@ -86,13 +70,13 @@
     youth:
     adult:
   location: Musser SR
-  location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
+  location-url: https://www.google.com/maps/place/Camp+Hart/@40.3631635,-75.4329924,16.25z/data=!4m12!1m6!3m5!1s0x89c420ac82d3546b:0xa38e6ad377c99bd5!2sMusser+Scout+Reservation!8m2!3d40.3598596!4d-75.4322867!3m4!1s0x0:0xd43e933c91eae10!8m2!3d40.3642356!4d-75.4247582
   link-text: Register Now
   link-url: https://scoutingevent.com/525-56518
   post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
+  ordeal: true
+  brotherhood: true
+  highlight: true
 
 - title: Spring Service 2
   date: 2022-05-13
@@ -106,9 +90,9 @@
   link-text: Register Now
   link-url: https://scoutingevent.com/525-56518
   post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
+  ordeal: true
+  brotherhood: true
+  highlight: true
 
 - title: NE-5 Conclave
   date: 2022-06-10

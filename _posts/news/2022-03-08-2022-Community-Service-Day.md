@@ -19,10 +19,10 @@ The Community Service Day is our Lodge's paramount way to give back to our local
 - Contact: Tim English (timengbsa@yahoo.com)
 
 ## Chester Creek Trail
-- Location: [249 Knowlton Rd, Media, PA 19063](https://goo.gl/maps/hXKmHew2DGDJeWE16)
+- Location: [298 E Elkington Blvd, Chester, PA 19013](https://goo.gl/maps/TejBx8ieHNbfNeKT9)
 - What: Creek Clearing
 - Contact: Jack McLaughin (jack@mclaughincounsel.com)
-- Note: This project is being organized by CRC Watersheds Association. They have asked that all attendees [register on their website](https://www.crcwatersheds.org/what-we-do/streams-cleanup/).
+- Note: This project is being organized by CRC Watersheds Association. They have asked that all attendees [register on their website](https://www.crcwatersheds.org/what-we-do/streams-cleanup/). *Select Location 260 when you register*
 
 ## Central Perkiomen Valley Park
 - Location: [1 Plank Rd, Schwenksville, PA 19473](https://goo.gl/maps/5x9fnuUAuqiRi1Zq6)

@@ -24,7 +24,7 @@ permalink: /news/:title
 
 pagination:
   enabled: true
-  per_page: 6
+  per_page: 9
   permalink: '/:num/'
   title: 'News - Page :num'
   limit: 0

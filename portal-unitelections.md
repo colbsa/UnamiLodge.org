@@ -3,7 +3,8 @@ title: Unit Elections
 layout: page
 permalink: /unitelections/
 ---
-Thank you for your interest in completing a unit election in Unami Lodge, One. New members are vital to the continued success of our organization. All units are encouraged to hold an visitation each year, even if there are no eligible candidates. Learn more about the different parts of an election below.
+
+Thank you for your interest in completing a unit election in Unami Lodge, One. New members are vital to the continued success of our organization. All units are encouraged to hold a visitation each year, even if there are no eligible candidates. Learn more about the different parts of an election below.
 
 ## Requesting an Election/Visitation
 All Troops, Ships, and Crews within the Cradle of Liberty Council are eligible to hold one unit election per calendar year. Beginning in April of 2022, all units who have not been marked as having completed an election will begin receiving an automated email from Lodgemaster, our membership tracking system. Elections in 2022 must be completed and reported by September 30th. 
@@ -17,7 +18,7 @@ Once you've requested an election, a team from Unami Lodge will work with you to
 <div class="alert alert-secondary">
   <strong>Election Teams:</strong>
   <p class='my-3'>
-    Please note - you may not complete an election for your own unit. Please continue to attend your unit meeting and participate in the election, but the visitation must be completed by another Arrowmen.
+    Please note - you may not complete an election for your own unit. Please continue to attend your unit meeting and participate in the election, but the visitation must be completed by other Arrowmen.
   </p>
   <p class='my-3'>
     The Unit Elections committee has assembled some useful materials for those completing unit elections. Materials can be found in the <a href="https://drive.google.com/drive/u/1/folders/0AKCkQheUkudwUk9PVA">UL - Lodge Executive Committee Google Drive</a>, shared with all members of the LEC. If you need access, please contact either the Unit Elections or Communications committees.
@@ -25,9 +26,9 @@ Once you've requested an election, a team from Unami Lodge will work with you to
 </div>
 
 ## Recording Election Results & Nominating Adults
-Upon the completion of your unit election, election teams will confirm the results with the unit leader. Results can either be announced that night, or held for future announcement at a call-out. If held, a date must be chose as to when results can be announced. ***Keep in mind - the clock on the candidate's induction opportunity starts at the time of election, not announcement.***
+Upon the completion of your unit election, election teams will confirm the results with the unit leader. Results can either be announced that night, or held for future announcement at a call-out. If held, a date must be chosen as to when results can be announced. ***Keep in mind - the clock on the candidate's induction opportunity starts at the time of election, not announcement.***
 
-Once the unit elections makes a report, you'll receive a copy of the election results for your records. Included in that email will be a link to nominate any adults in your unit. The number of adult you can nominate will be based on how many youth were elected. Adult nominees are notified immediately upon approval.
+Once the unit elections' team makes a report, you'll receive a copy of the election results for your records. Included in that email will be a link to nominate any adults in your unit. The number of adults you can nominate will be based on how many youth were elected. Adult nominees are notified immediately upon approval.
 
 Elected candidates, both youth and adult, will receive further information from Unami Lodge about completing their ordeal. Additional information for elected candidates can be found [here](https://unamilodge.org/electedcandidates/). Candidates have up to 24 months from election to complete their induction.
 

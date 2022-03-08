@@ -3,7 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/slide-dues.png: /dues
+  /img/slider/2022-csd.png: /news/2022-Community-Service-Day
   /img/slider/slide-powerpass.png: https://scoutingevent.com/525-22TP
   /img/slider/noac-register-flaps.png: /noac
 

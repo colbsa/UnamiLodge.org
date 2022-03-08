@@ -7,12 +7,12 @@
     adult:
   location: Various Locations
   location-url:
-  link-text:
-  link-url:
+  link-text: Learn More
+  link-url: /news/2022-Community-Service-Day
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Turtle Power Pass Ends
   date: 2022-03-31

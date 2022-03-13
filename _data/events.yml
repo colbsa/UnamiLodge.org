@@ -94,6 +94,22 @@
   brotherhood: false
   highlight: false
 
+- title: Summer Camp Opportunities
+  date: 2022-06-29
+  date-end: 2022-08-11
+  time:
+  price:
+    youth:
+    adult:
+  location: Resica Falls SR
+  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.1113046,-75.0974357,16.74z/data=!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.1112078!4d-75.094943
+  link-text: Register now
+  link-url: https://scoutingevent.com/525-57192
+  post-url:
+  ordeal: true
+  brotherhood: true
+  highlight: false
+
 - title: National Order of the Arrow Conference
   date: 2022-07-24
   date-end: 2022-07-31
@@ -135,9 +151,9 @@
     adult:
   location: Resica Falls SR
   location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.1113046,-75.0974357,16.74z/data=!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.1112078!4d-75.094943
-  link-text:
-  link-url:
+  link-text: Register now
+  link-url: https://scoutingevent.com/525-57192
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false

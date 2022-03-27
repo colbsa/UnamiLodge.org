@@ -1,19 +1,3 @@
-- title: Community Service Day
-  date: 2022-03-26
-  date-end:
-  time: 9AM - Noon
-  price:
-    youth: 0
-    adult: 0
-  location: Various Locations
-  location-url:
-  link-text: Learn More
-  link-url: /news/2022-Community-Service-Day
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Turtle Power Pass Ends
   date: 2022-03-31
   date-end:
@@ -76,6 +60,22 @@
   post-url:
   ordeal: true
   brotherhood: true
+  highlight: true
+
+- title: Trivia Night (21+)
+  date: 2022-05-21
+  date-end:
+  time: 6-10 PM
+  price:
+    youth:
+    adult: 25
+  location: St Catherine of Siena
+  location-url: https://goo.gl/maps/1G4t6ebpfrAgzXq88
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-57562
+  post-url:
+  ordeal: false
+  brotherhood: false
   highlight: true
 
 - title: NE-5 Conclave

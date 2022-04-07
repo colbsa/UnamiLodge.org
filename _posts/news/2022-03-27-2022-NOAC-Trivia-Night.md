@@ -5,7 +5,7 @@ author:
 date: 2022-03-27
 banner: 2020-trivia-night.png
 thumbnail: 2020-NOAC-Trivia-Night.png
-excerpt: This event has been canceled but stay tuned for our Virtual Trivia Night on the same time and day!
+excerpt: Leave the kids at home for this wonderfully mind-twisting fellowship event!
 event:
   title: Trivia Night (21+)
   date: 2022-05-21

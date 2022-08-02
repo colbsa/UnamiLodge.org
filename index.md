@@ -5,7 +5,6 @@ layout: index
 slides:
   /img/slider/slide-join-the-order.png: /electedcandidates/
   /img/slider/slide-seal-the-bond.png: /brotherhood/
-  /img/slider/noac-register-flaps.png: /noac
 
 button-bar:
   Elected Candidates: /electedcandidates

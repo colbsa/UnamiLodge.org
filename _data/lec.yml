@@ -66,12 +66,16 @@ advisoryboard:
   email: larry.neibauer
 
 - title: Memorabilia Show Chair
-  name: Kyle Rothbell
-  email: kyle.rothbell
+  name: Aidan Sutkowski
+  email: aidan.sutkowski
 
-- title: Memorabilia Show Adviser
+- title: Memorabilia Show Co-Adviser
   name: Paul Bowman
   email: paul.bowman
+
+- title: Memorabilia Show Co-Adviser
+  name: Rhys Wallace
+  email: rhys.wallace
 
 - title: Medical Records Chair
   name: Ethan Mitchell

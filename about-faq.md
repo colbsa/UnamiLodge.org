@@ -25,7 +25,7 @@ The OA has different procedures for youth and adults becoming members. Youth mem
 To be considered for election, a youth must be a registered member of a troop, crew, or ship. Scouts BSA members must have achieved the rank of First Class, Venturers must have been recognized with the Discovery Award, and Sea Scouts must have reached the Ordinary rank. Each candidate must have unit leader approval and have a minimum of 15 days and nights of Scouting camping under the auspices of the Boy Scouts of America, including one long term camping experience within the two years prior to the election. With the exception of the rank requirement, and adult nominee must meet the same camping and membership requirements.
 
 **How many elections can my unit have per year?**
-Each unit is entitled to one election each year. The lodge calendar runs from January 1st through December 31st, and each troop, crew, or ship may have only one election during that time period.
+Each unit is entitled to one election each year. The lodge calendar runs from January 1st through September 30th, and each troop, crew, or ship may have only one election during that time period.
 
 **How do I arrange a unit election?**
 Each year, the chapter election teams will start contacting each unit leader in their district to set up an election. If your unit is not contacted about scheduling an election, you are encouraged to contact your chapter adviser of the lodge adviser to schedule one immediately.

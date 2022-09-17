@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Fall Fellowship: https://scoutingevent.com/525-57192
+  Fall Fellowship: /news/2022-Fall-Fellowship
 
 links:
   New Members Bash: https://docs.google.com/forms/d/e/1FAIpQLSeHveWZDfcyp0gwkBl7keUyoBKJhRHCOVqFKT88jkLQK2LNNA/viewform

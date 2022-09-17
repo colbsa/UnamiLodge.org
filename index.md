@@ -3,6 +3,7 @@ title: Home
 layout: index
 
 slides:
+  /img/slider/2022-fall-fellowship.png: /news/2022-Fall-Fellowship
   /img/slider/slide-join-the-order.png: /electedcandidates/
   /img/slider/slide-seal-the-bond.png: /brotherhood/
 

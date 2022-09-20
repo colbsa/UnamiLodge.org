@@ -3,9 +3,9 @@ title: Unami Lodge, One
 logo: "/img/logo.png"
 description: "As the founding lodge of the Order of the Arrow, Unami Lodge, One serves as the chapter of Scouting’s National Honor Society for the Cradle of Liberty Council. Unami exists to serve the units, community, and camps of the Cradle of Liberty."
 
-alert:
-  text: Please visit <a href="https://unamilodge.org/coronavirus">unamilodge.org/coronavirus</a> and <a href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a> for the most up-to-date event and activity guidance regarding Coronavirus.
-  class: alert-primary
+# alert:
+#   text: # (Here's a place you can put text for a site wide alert)
+#   class: alert-primary # (Default is alert-primary)
 
 plugins:
   - jekyll-paginate-v2

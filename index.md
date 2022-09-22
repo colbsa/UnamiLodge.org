@@ -4,6 +4,7 @@ layout: index
 
 slides:
   /img/slider/2022-fall-fellowship.png: /news/2022-Fall-Fellowship
+  /img/slider/2022-new-members-bash.jpg: https://forms.gle/A79KUMghf9uyxiLz9
   /img/slider/slide-join-the-order.png: /electedcandidates/
   /img/slider/slide-seal-the-bond.png: /brotherhood/
 

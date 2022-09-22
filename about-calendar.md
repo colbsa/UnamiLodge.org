@@ -50,4 +50,4 @@ permalink: /calendar/
   </table>
 </div>
 
-Unami Lodge is working on some change's to the long range calendar. Please check back again for updates to the 2023-2025 Lodge years.
+Unami Lodge is working on some changes to the long range calendar. Please check back again for updates to the 2023-2025 Lodge years.

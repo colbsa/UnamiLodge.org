@@ -49,7 +49,7 @@ No. The Ordeal must be completed within the lodge in which you were elected. How
 You will be notified in the mail by the lodge within one month of the election confirming your selection for membership in the Order of the Arrow.
 
 **Are there yearly dues for the Order of the Arrow?**
-In order to be considered a member in good standing, members of Unami Lodge, One must pay their lodge dues annually. Yearly dues help support the lodge operating budget, give each member the right to wear a lodge flap, and allow you the ability to participate in lodge activies. If paid before February 1st of each lodge year, dues will be a discounted rate of $15.00. Dues paid on or after February 1st will be $20.00. Check out Pay My Dues (link) for more information and to pay your 2019 lodge dues.
+In order to be considered a member in good standing, members of Unami Lodge, One must pay their lodge dues annually. Yearly dues help support the lodge operating budget, give each member the right to wear a lodge flap, and allow you the ability to participate in lodge activies. If paid before February 1st of each lodge year, dues will be a discounted rate of $18.00. Dues paid on or after February 1st will be $20.00. Check out Pay My Dues (link) for more information and to pay your 2019 lodge dues.
 
 **Once I pay my dues, will I get a membership card?**
 A membership card will be mailed to you once your payment is received and your record is updated. This may take up to 2-6 weeks for you to receive your card.

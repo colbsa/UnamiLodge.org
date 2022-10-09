@@ -76,7 +76,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Lodge Leadership Development
   date: 2022-12-16
@@ -103,6 +103,22 @@
     adult:
   location: VE Club
   location-url: https://goo.gl/maps/Qj2t7Wico6GV7yQu7
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Section E17 Leadership Training
+  date: 2023-01-14
+  date-end: 2023-01-15
+  time:
+  price:
+    youth:
+    adult:
+  location: Citta SR
+  location-url: https://goo.gl/maps/y4HfQCXGmB4DZxkE6
   link-text:
   link-url:
   post-url:

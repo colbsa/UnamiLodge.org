@@ -37,7 +37,7 @@
         <div class="card-body">
           {% assign highlighted_events = site.data.events | where:"highlight", "true" %}
           {% for event in highlighted_events %}
-            <a href="{{ event.link-url }}"><i class="fa fa-calendar pr-2 text-body"></i>{{ event.title }}</a></br>
+            <a href="{{ event.link-url }}" target="_blank"><i class="fa fa-calendar pr-2 text-body"></i>{{ event.title }}</a></br>
           {% endfor %}
         </div>
       </div>

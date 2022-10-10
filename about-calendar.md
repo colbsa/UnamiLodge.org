@@ -35,12 +35,12 @@ permalink: /calendar/
           {% endif %}
           </td>
           {% if event.location-url %}
-            <td class="align-middle"><a href="{{event.location-url}}">{{event.location}}</a></td>
+            <td class="align-middle"><a href="{{event.location-url}}" target="_blank">{{event.location}}</a></td>
           {% else %}
             <td class="align-middle">{{event.location}}</td>
           {% endif %}
           {% if event.link-url %}
-            <td class="align-middle"><a href="{{event.link-url}}" class="btn btn-primary">{{event.link-text}}</a></td>
+            <td class="align-middle"><a href="{{event.link-url}}" class="btn btn-primary" target="_blank">{{event.link-text}}</a></td>
           {% else %}
             <td class="align-middle">{% if event.link-text %}{{event.link-text}}{% else %}Coming Soon{% endif %}</td>
           {% endif %}

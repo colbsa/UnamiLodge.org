@@ -3,10 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  Fall Fellowship: /news/2022-Fall-Fellowship
+  Award Nominations: /awards
 
 links:
-  New Members Bash: https://docs.google.com/forms/d/e/1FAIpQLSeHveWZDfcyp0gwkBl7keUyoBKJhRHCOVqFKT88jkLQK2LNNA/viewform
+  Polestar: /news/2022-Polestar
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood
   2022 Dues: https://unamilodge.org/dues

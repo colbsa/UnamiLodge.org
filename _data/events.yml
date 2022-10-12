@@ -7,12 +7,12 @@
     adult:
   location: Freddy Hill Farms
   location-url: https://g.page/freddyhillfarms?share
-  link-text: Register Now
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSeHveWZDfcyp0gwkBl7keUyoBKJhRHCOVqFKT88jkLQK2LNNA/viewform
+  link-text: Registration Closed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Scout Memorabilia Show
   date: 2022-10-21

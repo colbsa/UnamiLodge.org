@@ -3,9 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  Award Nominations: /awards
+  New Members Bash: https://forms.gle/5y6xXjMakY5RpCDk9
 
 links:
+  Award Nominations: /awards
   Polestar: /news/2022-Polestar
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood

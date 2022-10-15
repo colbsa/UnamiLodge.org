@@ -1,5 +1,5 @@
 - title: New Members Bash
-  date: 2022-10-13
+  date: 2022-10-20
   date-end:
   time: 6 to 8pm
   price:
@@ -7,12 +7,12 @@
     adult:
   location: Freddy Hill Farms
   location-url: https://g.page/freddyhillfarms?share
-  link-text: Registration Closed
-  link-url:
+  link-text: Register Now
+  link-url: https://forms.gle/5y6xXjMakY5RpCDk9
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Scout Memorabilia Show
   date: 2022-10-21

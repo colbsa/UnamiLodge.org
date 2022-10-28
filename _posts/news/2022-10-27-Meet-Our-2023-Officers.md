@@ -12,13 +12,13 @@ At this past Fall Fellowship our members chose who they wish to represent them a
 
 **Liam Lynch** is an Eagle Scout and Vigil member of Unami, One, and is about to succeed his brother as *Lodge Chief*. Liam has received the Chuck Benshetler Spirit of Camp Leadership Award, and has served as Camp Promotions Chair, chapter officer, and Lodge Vice Chief.
 
-**Terence Lindsay** is a Life Scout and Brotherhood member of Unami, One and will be serving as the 2023 *Lodge First Vice Chief*. Terence has brought a new energy to our lodge in his previous work as Lodge Operations and Brotherhood Chairman.
+**Terence Lindsay** is a Brotherhood member of Unami, One and will be serving as the 2023 *Lodge First Vice Chief*. Terence continues his dedicated efforts to our Lodge from his previous work as Lodge Operations and Brotherhood Chairman.
 
-**Zach Kline** is an Eagle Scout and Brotherhood member of Unami, One and will be serving as 2023 *Lodge Second Vice Chief*. Zach has served multiple roles on the Ordeal Committee as well as Chief of General Nash Chapter.
+**Zach Kline** is an Eagle Scout and Brotherhood member of Unami, One and will be serving as 2023 *Lodge Second Vice Chief*. Zach has served multiple roles on the Ordeal Committee as well as Chief of General Nash Chapter. Zach is a proud Fall Fest Volunteer as well as a ceremonialist.
 
-**Skye Kramer** is a Brotherhood member of Unami Lodge and will serve as our 2023 *Lodge Secretary*. Skye has served as a chapter officer, and chaired the Camp Promotions Committee this past year.
+**Skye Kramer** is a Brotherhood member of Unami Lodge and will serve as our 2023 *Lodge Secretary*. Skye has served as a chapter officer, and chaired the Camp Promotions Committee this past year. Skye is an NYLT staffer as  well as a Fall Fest Volunteer.
 
-**Paul Siminuk** is a Brotherhood member of our Lodge and will be serving as the 2023 *Lodge Treasurer*. Paul has served as a chapter officer, and is a member of the Resica Falls Camp Staff.
+**Paul Siminuk** is a Life Scout and Brotherhood member of our Lodge and will be serving as the 2023 *Lodge Treasurer*. Paul has served as a chapter officer, and joined the Resica Falls Camp Staff as a faithful OA Ceremonies volunteer.
 
 These officers will be inducted to their positions at the 107th Annual Lodge Dinner, January 7, 2023. [Stay tuned at UnamiLodge.org/calendar](/calendar) for when registration becomes available.
 

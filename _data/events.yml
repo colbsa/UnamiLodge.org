@@ -1,19 +1,3 @@
-- title: "Polestar: Induction Leadership Training"
-  date: 2022-10-30
-  date-end:
-  time: 11:30AM - 4PM
-  price:
-    youth: 0
-    adult: 0
-  location: COL Council Office
-  location-url: https://goo.gl/maps/X2hTA9BByztxoMoy5
-  link-text: RSVP
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSc6qgNS0pb0h3Tq3x7k8_TeWjU592Y-LLZX6YrWWsMyPK2HRQ/viewform?usp=sf_link
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Award Nominations Due
   date: 2022-10-31
   date-end:
@@ -101,7 +85,7 @@
   price:
     youth: 0
     adult: 0
-  location:
+  location: TBD
   location-url:
   link-text:
   link-url:
@@ -120,6 +104,38 @@
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
   link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Vigil Honor Nominations Due
+  date: 2023-04-30
+  date-end:
+  time:
+  price:
+    youth:
+    adult:
+  location: UnamiLodge.org
+  location-url:
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Vigil Honor Selection Meeting
+  date: 2023-05-06
+  date-end:
+  time:
+  price:
+    youth:
+    adult:
+  location: COL Council Office
+  location-url: https://goo.gl/maps/X2hTA9BByztxoMoy5
+  link-text: Invite Only
   link-url:
   post-url:
   ordeal: false
@@ -151,6 +167,22 @@
     adult:
   location: Citta SR
   location-url: https://goo.gl/maps/y4HfQCXGmB4DZxkE6
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Vigil Honor Induction
+  date: 2023-09-15
+  date-end: 2023-09-17
+  time:
+  price:
+    youth:
+    adult:
+  location: Musser SR
+  location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
   link-text:
   link-url:
   post-url:

@@ -6,6 +6,7 @@ link-highlight:
   Polestar: /news/2022-Polestar
 
 links:
+  2023 Lodge Officers: /news/Meet-Our-2023-Officers
   Award Nominations: /awards
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood

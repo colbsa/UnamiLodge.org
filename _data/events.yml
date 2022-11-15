@@ -1,5 +1,5 @@
 - title: "Polestar: Induction Leadership Training"
-  date: 2022-11-20
+  date: TBD
   date-end:
   time: 8:30AM - 1PM
   price:
@@ -7,12 +7,12 @@
     adult: 0
   location: COL Council Office
   location-url: https://goo.gl/maps/X2hTA9BByztxoMoy5
-  link-text: RSVP
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSc6qgNS0pb0h3Tq3x7k8_TeWjU592Y-LLZX6YrWWsMyPK2HRQ/viewform?usp=sf_link
+  link-text: Postponed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Lodge Leadership Development
   date: 2022-12-16

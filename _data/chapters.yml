@@ -55,13 +55,13 @@
 
 - chapter-name: Lafayette
   email: lafayette
-  meeting-text: The Lafayette Chapter meets every second Wednesday of the month at J.P. Mascaro building (2650 Audubon Rd, Audubon, PA 19403) at 7:15pm.
-  meeting-url: https://www.google.com/maps/embed?pb=!1m1pb=!1m18!1m12!1m3!1d3051.1534356437146!2d-75.42288599999979!3d40.11658398429283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c696a89764ce5f%3A0x79583aa28346ddf5!2sJ.P.+Mascaro+%26+Sons-Corporate!5e0!3m2!1sen!2sus!4v1421657385434
-  chief: Ian Brumm
-  vice-chief: Jim Wynne
-  secretary: Kyle Rothbell
+  meeting-text: The Lafayette Chapter meets every second Wednesday of the month at Cradle of Liberty Council Office (1485 Valley Forge Rd, Wayne, PA 19087) at 7:00pm.
+  meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3052.743619068021!2d-75.44389523322393!3d40.08113059202139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c693847a4aadf1%3A0xbf67efd138f1bb64!2sBoy%20Scouts%20of%20America%20Cradle%20of%20Liberty%20Council!5e0!3m2!1sen!2sus!4v1668518759181!5m2!1sen!2sus
+  chief: Colin Darcas
+  vice-chief: Michael Kawczynski Jr
+  secretary: Zach Gilinger
   adviser: Brian Darcas
-  assoc-adviser: Michael Matusheski
+  assoc-adviser:
   zip: [19005, 19403, 19405, 19406, 19407, 19408, 19409, 19426, 19431, 19456, 19468, 19473, 19474, 19478, 19479, 19481, 19490, 19492, 19072, 19331, 19401, 19428, 19453]
 
 - chapter-name: Minquas
@@ -86,12 +86,12 @@
   assoc-adviser: Vacant
   zip: [19117, 19118, 19119, 19120, 19126, 19127, 19128, 19129, 19138, 19140, 19141, 19144, 19150]
   alert:
-    text: Please reach out to Paul Dallatore (Paul.Dallatore@UanmiLodge.org) for more information on how and when Northern Chapter meets.
+    text: Please reach out to Paul Dallatore (Paul.Dallatore@UnamiLodge.org) for more information on how and when Northern Chapter meets.
     class: alert-warning
 
 - chapter-name: Roosevelt
   email: roosevelt
-  meeting-text: Make sure you check out all of the latest happenings with the Roosevelt Chapter on their <a href=http://www.facebook.com/rooseveltunami target="_blank">Facebook Page</a>. The Roosevelt Chapter meets the first Wednesday of the month (except July & August) at 7:15PM.  Meetings are held at Deer Meadows Retirement Community (8301 Roosevelt Blvd, Philadelphia, PA 19152).
+  meeting-text: Make sure you check out all of the latest happenings with the Roosevelt Chapter on their <a href=http://www.facebook.com/rooseveltunami target="_blank">Facebook Page</a>. The Roosevelt Chapter meets at the same time and location as District Roudtable. For the latest information, check out the Facebook page or reach out to <a href=/contact?recipient=roosevelt target="_blank">Roosevelt@UnamiLodge.org</a>.
   meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3053.6269157983256!2d-75.04432018387834!3d40.06142608509388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b40bb52bd8fb%3A0x94164604e2af7bd2!2sDeer%20Meadows%20Retirement%20Community!5e0!3m2!1sen!2sus!4v1642650635141!5m2!1sen!2sus
   chief: Tristan Hunter
   vice-chief: Martin Stacey
@@ -111,7 +111,7 @@
   assoc-adviser: Vacant
   zip: [19101, 19102, 19103, 19104, 19106, 19110, 19112, 19113, 19121, 19122, 19123, 19130, 19131, 19132, 19133, 19139, 19142, 19143, 19145, 19146, 19147, 19148, 19151, 19153]
   alert:
-    text: Please reach out to Paul Dallatore (Paul.Dallatore@UanmiLodge.org) for more information on how and when Triune Chapter meets.
+    text: Please reach out to Paul Dallatore (Paul.Dallatore@UnamiLodge.org) for more information on how and when Triune Chapter meets.
     class: alert-warning
 
 - chapter-name: Washington

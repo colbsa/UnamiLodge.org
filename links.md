@@ -3,11 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  Polestar: /news/2022-Polestar
+  Lodge Leadership Development: /news/2022-LLD
 
 links:
   2023 Lodge Officers: /news/Meet-Our-2023-Officers
-  Award Nominations: /awards
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood
   2022 Dues: https://unamilodge.org/dues

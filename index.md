@@ -3,8 +3,9 @@ title: Home
 layout: index
 
 slides:
+  /img/slider/2022-lld.png: /news/2022-LLD
   /img/slider/2023-lodge-officers.png: /news/Meet-Our-2023-Officers
-  /img/slider/2022-polestar.png: /news/2022-Polestar
+  
 
 button-bar:
   Elected Candidates: /electedcandidates

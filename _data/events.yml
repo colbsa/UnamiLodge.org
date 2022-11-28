@@ -3,16 +3,16 @@
   date-end: 2022-12-17
   time:
   price:
-    youth:
-    adult:
+    youth: 0
+    adult: 0
   location: Camp Jarvis
   location-url: https://goo.gl/maps/71yufxHY1YZKz2SDA
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://forms.gle/U7QddhFwbovx6kHv6
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: 107th Annual Lodge Dinner
   date: 2023-01-07

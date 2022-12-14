@@ -2,7 +2,7 @@
 layout: post
 title: 107th Lodge Dinner
 author:
-date: 2021-12-14
+date: 2022-12-14
 banner:
 thumbnail: 107th-Lodge-Dinner.png
 excerpt: Unami Lodge's oldest tradition! Come join us to celebrate the new year.

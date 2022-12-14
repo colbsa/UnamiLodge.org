@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  107th Annual Lodge Dinner: https://scoutingevent.com/525-64601
+  107th Annual Lodge Dinner: /news/107th-Lodge-Dinner
 
 links:
   Lodge Leadership Development: /news/2022-LLD

@@ -3,7 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2023-dinner.png: https://scoutingevent.com/525-64601
+  /img/slider/2023-dinner.png: /news/107th-Lodge-Dinner
   /img/slider/slide-dues.png: /dues
   /img/slider/2022-lld.png: /news/2022-LLD
   /img/slider/2023-lodge-officers.png: /news/Meet-Our-2023-Officers

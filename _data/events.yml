@@ -87,12 +87,12 @@
     adult:
   location: UnamiLodge.org
   location-url:
-  link-text:
-  link-url:
+  link-text: Nominate Today
+  link-url: /awards
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Vigil Honor Selection Meeting
   date: 2023-05-06

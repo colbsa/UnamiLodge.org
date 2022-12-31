@@ -7,12 +7,12 @@
     adult: 48
   location: VE Club
   location-url: https://goo.gl/maps/Qj2t7Wico6GV7yQu7
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-64601
+  link-text: Registration Closed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Section E17 Leadership Training
   date: 2023-01-14

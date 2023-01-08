@@ -186,6 +186,6 @@
   link-text:
   link-url:
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false

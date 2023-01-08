@@ -21,7 +21,17 @@ Election is only the first step in the membership journey of the Order of the Ar
     <ul>
       {% assign highlighted_events = site.data.events | where:"ordeal", "true" %}
       {% for event in highlighted_events %}
-        <li><a href="{{ event.link-url }}">{{ event.title }}</a></li>
+        {% if event.date-end %}
+          {% assign m = event.date | date: "%-m" %}
+          {% assign n = event.date-end | date: "%-m" %}
+          {% if m == n %}
+            <li><a href="{{ event.link-url }}">{{ event.title }} <i>({{event.date | date: "%B %-d"}}-{{ event.date-end | date: "%-d, %Y"}})</i></a></li>
+          {% else %}
+            <li><a href="{{ event.link-url }}">{{ event.title }} <i>({{event.date | date: "%B %-d"}} - {{ event.date-end | date: "%B %-d, %Y"}})</i></a></li>
+          {% endif %}
+        {% else %}
+          <li><a href="{{ event.link-url }}">{{ event.title }} <i>({{event.date | date: "%B %-d, %Y"}})</i></a></li>
+        {% endif %}
       {% endfor %}
     </ul>
   </div>

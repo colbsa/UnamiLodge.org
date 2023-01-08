@@ -13,10 +13,19 @@ The Order of the Arrow is Scouting’s National Honor Society. Each local BSA co
 Beyond recognizing your Scout exemplifying the Scout Oath and Scout Law, the Order of the Arrow also has the purpose of promoting outdoor adventure, developing leaders of character, and serving others throughout Scouting. Each of these ideas is further instilled at lodge activities that your son and daughter can participate in throughout the year, including service and fellowship weekends, and leadership training. The Order of the Arrow will also give them the opportunity to interact with Scouts from other troops, districts, councils, and even across the country, sharing ideas and learning from each other. Check out the [New Members Page](/newmembers) or the [Lodge Calendar](/calendar) for information about the next exciting event they can be a part of. 
 
 ## When can my son or daughter complete their Ordeal?
-Election is only the first step in the membership journey of the Order of the Arrow. Next, elected candidates must complete their Ordeal to become a full member in the Order of the Arrow. From the time of their election, your son or daughter has one year to complete their Ordeal. There are multiple opportunities offered throughout the year for your Scout to complete their Ordeal. 
-- There are three lodge weekends each year – one in April, one in May, and the last one in October – where they can join Unami Lodge, One. 
-- They can complete their Ordeal at Resica Falls Scout Reservation with their unit during their week at summer camp.
-- Your son or daughter can also travel to Resica Falls during the summer and complete their Ordeal provisionally on Wednesday & Thursday during any week of summer camp.
+Election is only the first step in the membership journey of the Order of the Arrow. Next, elected candidates must complete their Ordeal to become a full member in the Order of the Arrow. From the time of their election, your son or daughter has 18 months to complete their Ordeal. There are multiple opportunities offered throughout the year for your Scout to complete their Ordeal. 
+
+<div class="card mb-3">
+  <div class="card-body">
+    <h5>Upcoming Ordeal Opportunities</h5>
+    <ul>
+      {% assign highlighted_events = site.data.events | where:"ordeal", "true" %}
+      {% for event in highlighted_events %}
+        <li><a href="{{ event.link-url }}">{{ event.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
 
 ## Why is the Ordeal such a big secret?
 Unami Lodge, One does not intend to keep any information from its newly elected candidates or their parents. However, any secrecy around the Ordeal is meant for a single purpose: the Experience. Revealing too much information before the Ordeal would hurt the full experience of the membership journey. The Ordeal is meant to be a chance for your son or daughter to reflect on Scouting and grow in their service to others. If there are any questions or concerns regarding the nature of the Ordeal, you can reach out to the Lodge Adviser, Craig Cless, to alleviate any issues you may have.

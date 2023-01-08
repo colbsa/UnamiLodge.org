@@ -28,14 +28,8 @@ helpfulness into a life purpose of leadership in cheerful service to others.
 
 <h2>When can I complete my Ordeal?</h2>
 As a newly elected candidate, completing your Ordeal and becoming a full member in the Order of the Arrow is the
-next step in your membership journey. From the time of your election, you have two years to complete your Ordeal;
-There are multiple opportunities offered throughout the year for you complete your Ordeal.
-- There are three lodge weekends each year – one in April, one in May, and the last one in October – where
-you can join Unami Lodge, One.
-- You can complete your Ordeal at Resica Falls Scout Reservation with your unit during your week at
-summer camp.
-- You can also travel to Resica Falls during the summer and complete your Ordeal provisionally on
-Wednesday &amp; Thursday during any week of summer camp.
+next step in your membership journey. From the time of your election, you have 18 months to complete your Ordeal;
+There are multiple opportunities offered throughout the year for you complete your Ordeal. Please see the list below for the most up-to-date ordeal opportunities.
 
 <div class="card mb-3">
   <div class="card-body">

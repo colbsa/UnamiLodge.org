@@ -1,35 +1,3 @@
-- title: 107th Annual Lodge Dinner
-  date: 2023-01-07
-  date-end:
-  time:
-  price:
-    youth: 45
-    adult: 48
-  location: VE Club
-  location-url: https://goo.gl/maps/Qj2t7Wico6GV7yQu7
-  link-text: Registration Closed
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Section E17 Leadership Training
-  date: 2023-01-14
-  date-end: 2023-01-15
-  time:
-  price:
-    youth: 25
-    adult: 25
-  location: Citta SR
-  location-url: https://goo.gl/maps/y4HfQCXGmB4DZxkE6
-  link-text: Register Now
-  link-url: https://forms.gle/aFEBAEPxLXEYJb4H6
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Dues Early-Bird Discount Ends
   date: 2023-01-31
   date-end:
@@ -124,7 +92,7 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: false
+  highlight: true
 
 - title: Section E17 Conclave
   date: 2023-06-09

@@ -1,24 +1,24 @@
 officers:
 - title: Lodge Chief
-  name: Patrick Lynch
-  email: patrick.lynch
+  name: Liam Lynch
+  email: liam.lynch
   key3: true
 
 - title: 1st Vice Chief
-  name: Jason Abiuso
-  email: jason.abiuso
+  name: "Terence \"T.K.\" Lindsay"
+  email: terence.lindsay
 
 - title: 2nd Vice Chief
-  name: Liam Lynch
-  email: liam.lynch
+  name: Zach Kline
+  email: zachary.kline
 
 - title: Secretary
-  name: Mara Strauss
-  email: mara.strauss
+  name: Skye Kramer
+  email: skye.kramer
 
 - title: Treasurer
-  name: Griffen O’Brien
-  email: griffen.obrien
+  name: Paul Siminuk
+  email: paul.siminuk
 
 - title: Lodge Adviser
   name: Craig Cless
@@ -54,12 +54,12 @@ officers:
 
 advisoryboard:
 - title: Immediate Past Chief
-  name: Luke Cihak
-  email: luke.cihak
+  name: Patrick Lynch
+  email: patrick.lynch
 
 - title: Strategic Plan Chair
-  name: Aidan Campbell
-  email: aidan.campbell
+  name: Vacant
+  email:
 
 - title: Lodgemaster Adviser
   name: Lawrence (Larry) Neibauer
@@ -69,11 +69,11 @@ advisoryboard:
   name: Aidan Sutkowski
   email: aidan.sutkowski
 
-- title: Memorabilia Show Co-Adviser
+- title: Memorabilia Adviser
   name: Paul Bowman
   email: paul.bowman
 
-- title: Memorabilia Show Co-Adviser
+- title: Memorabilia Assoc. Adviser
   name: Rhys Wallace
   email: rhys.wallace
 
@@ -86,46 +86,25 @@ advisoryboard:
   email: lfaden
 
 - title: Conclave Chair
-  name: Luke Clancy
+  name: Angel Sims
   email: conclave
 
 - title: Conclave Adviser
   name: Thomas Luke
   email: conclave
 
-- title: Conclave Assocaite Adviser
+- title: Conclave Assoc. Adviser
   name: Lawrence Neibauer
   email: conclave
-
-- title: 2022 NOAC Chair
-  name: Jason Abiuso
-  email: noac
-
-- title: 2022 NOAC Co-Chair
-  name: Griffen O’Brien
-  email: noac
-
-- title: 2022 NOAC Adviser
-  name: Todge Sutkowski
-  email: noac
-
-- title: 2022 NOAC Associate Adviser
-  name: Alicia Tryon
-  email: noac
-
-- title: 2022 NOAC Associate Adviser
-  name: Anthony Glass
-  email: noac
-
 
 
 committees:
 - title: Ordeal Co-Chair
-  name: Zach Kline
+  name: Alex Braun
   email: ordeal
 
 - title: Ordeal Co-Chair
-  name: Alex Braun
+  name: Tristan Hunter
   email: ordeal
 
 - title: Ordeal Adviser
@@ -146,11 +125,11 @@ committees:
 
 
 - title: Brotherhood Chair
-  name: Terence Lindsay
+  name: Luke Smallberger
   email: brotherhood
 
-- title: Brotherhood Vice Chair
-  name: Brendan Bolte
+- title: Brotherhood Vice-Chair
+  name: Griffen O'Brien
   email: brotherhood
 
 - title: Brotherhood Adviser
@@ -166,12 +145,12 @@ committees:
   name: Noah Goldberg
   email: ceremonies
 
-- title: Ceremonies Vice Chair
+- title: Ceremonies Vice-Chair
   name: Andrew Smallberger
   email: ceremonies
 
 - title: Ceremonies Adviser
-  name: Austin Groeber
+  name: Matt Horan
   email: ceremonies
 
 - title: Ceremonies Assoc. Adviser
@@ -180,7 +159,11 @@ committees:
 
 
 - title: Unit Election Chair
-  name: Matt Luke
+  name: Nathan Schooler
+  email: unitelections
+
+- title: Unit Election Vice-Chair
+  name: Zarrina Damavandi
   email: unitelections
 
 - title: Unit Election Adviser
@@ -188,20 +171,24 @@ committees:
   email: unitelections
 
 - title: Unit Election Assoc. Adviser
-  name: Tom Tryon
+  name: Vacant
   email: unitelections
 
 
 - title: Membership Chair
-  name: Michaela Donnelly
+  name: Katherine Schaffer
   email: membership
 
 - title: Membership Vice-Chair
-  name: Max Getty
+  name: Emmie Menna
   email: membership
 
 - title: Membership Adviser
   name: Jerry Reed
+  email: membership
+
+- title: Membership Assoc. Adviser
+  name: Michaela Donnelly
   email: membership
 
 - title: Membership Assoc. Adviser
@@ -210,7 +197,11 @@ committees:
 
 
 - title: Events Chair
-  name: Benson Davis
+  name: Mara Strauss
+  email: events
+
+- title: Events Vice-Chair
+  name: Sarah Heath
   email: events
 
 - title: Events Adviser
@@ -227,11 +218,11 @@ committees:
 
 
 - title: Service Chair
-  name: Jack Ashton
+  name: Dan McDougald
   email: service
 
-- title: Service Vice Chair
-  name: Dan McDougald
+- title: Service Vice-Chair
+  name: John Hegarty
   email: service
 
 - title: Service Co-Adviser
@@ -239,16 +230,16 @@ committees:
   email: service
 
 - title: Service Co-Adviser
-  name: Ethan Youse
+  name: "Ethan \"Nudge\" Youse"
   email: service
 
 
 - title: Camp Promotions Chair
-  name: Skye Kramer
+  name: Anton Meyer
   email: camppromotions
 
 - title: Camp Promotions Vice-Chair
-  name: Anton Meyer
+  name: Jules Flanagan
   email: camppromotions
 
 - title: Camp Promotions Adviser
@@ -264,12 +255,16 @@ committees:
   name: Aidan Sutkowski
   email: history
 
+- title: History Vice-Chair
+  name: Shane Carty
+  email: history
+
 - title: History Adviser
-  name: Phil Hittner
+  name: Rhys Wallace
   email: history
 
 - title: History Assoc. Adviser
-  name: Rhys Wallace
+  name: Phil Hittner
   email: history
 
 - title: History Assoc. Adviser
@@ -278,11 +273,11 @@ committees:
 
 
 - title: American Indian Affairs Chair
-  name: Andrew Smallberger
+  name: Jack Ashton
   email: aia
 
 - title: American Indian Affairs Vice-Chair
-  name: Noah Goldberg
+  name: Andrew Smallberger
   email: aia
 
 - title: American Indian Affairs Adviser
@@ -290,12 +285,12 @@ committees:
   email: aia
 
 - title: American Indian Affairs Assoc. Adviser
-  name: Austin Groeber
+  name: Matt Horan
   email: aia
 
 
 - title: Lodge Operations Chair
-  name: Vacant
+  name: Martin Stacey
   email: lodgeoperations
 
 - title: Lodge Operations Vice-Chair
@@ -315,7 +310,7 @@ committees:
   name: Ethan Mitchell
   email: communications
 
-- title: Communications Vice Chair
+- title: Communications Vice-Chair
   name: Vacant
   email: communications
 
@@ -329,7 +324,11 @@ committees:
 
 
 - title: Leadership Development Chair
-  name: Will Beardsley
+  name: Matt Rouleau
+  email: leadershipdevelopment
+
+- title: Leadership Development Vice-Chair
+  name: Vacant
   email: leadershipdevelopment
 
 - title: Leadership Development Adviser
@@ -341,12 +340,12 @@ committees:
   email: leadershipdevelopment
 
 
-- title: Vigil Honor Chair
-  name: Eoghan Pleis
+- title: Vigil Honor Co-Chair
+  name: Jason Abuiso
   email: vigil
 
-- title: Vigil Honor Vice-Chair
-  name: Aidan Campbell
+- title: Vigil Honor Co-Chair
+  name: Patrick Lynch
   email: vigil
 
 - title: Vigil Honor Adviser

@@ -297,7 +297,7 @@
   year: 2020
   camp: Resica Falls
   lodge: Unami Lodge, One
-  age: Youth
+  age: Adult
 - name: Tristan Hunter
   year: 2021
   camp: Resica Falls
@@ -317,4 +317,35 @@
   year: 2021
   camp: Treasure Island / Resica Falls
   lodge: Unami Lodge, One
+  age: Adult
+- name: Bryce Camarotta
+  year: 2022
+  camp: Resica Falls
+  lodge: Unami Lodge, One
   age: Youth
+- name: Danielle Scott
+  year: 2022
+  camp: Resica Falls
+  lodge: Unami Lodge, One
+  age: Youth
+- name: Dom Tomasetti
+  year: 2022
+  camp: Resica Falls
+  lodge: Unami Lodge, One
+  age: Youth
+- name: Bobby Burkhart
+  year: 2022
+  camp: Resica Falls
+  lodge: Unami Lodge, One
+  age: Adult
+- name: Dan Gottschalk
+  year: 2022
+  camp: Resica Falls
+  lodge: Unami Lodge, One
+  age: Adult
+- name: Chris Smith
+  year: 2022
+  camp: Resica Falls
+  lodge: Unami Lodge, One
+  age: Adult
+

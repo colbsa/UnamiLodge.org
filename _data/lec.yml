@@ -4,11 +4,11 @@ officers:
   email: liam.lynch
   key3: true
 
-- title: 1st Vice Chief
+- title: First Vice Chief
   name: "Terence \"T.K.\" Lindsay"
   email: terence.lindsay
 
-- title: 2nd Vice Chief
+- title: Second Vice Chief
   name: Zach Kline
   email: zachary.kline
 
@@ -61,7 +61,7 @@ advisoryboard:
   name: Vacant
   email:
 
-- title: Lodgemaster Adviser
+- title: LodgeMaster Administrator
   name: Lawrence (Larry) Neibauer
   email: larry.neibauer
 
@@ -341,7 +341,7 @@ committees:
 
 
 - title: Vigil Honor Co-Chair
-  name: Jason Abuiso
+  name: Jason Abiuso
   email: vigil
 
 - title: Vigil Honor Co-Chair

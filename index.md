@@ -4,12 +4,14 @@ layout: index
 
 slides:
   /img/slider/slide-dues.png: /dues
+  /img/slider/slide-powerpass.png: https://scoutingevent.com/525-68262
   /img/slider/2023-lodge-officers.png: /news/Meet-Our-2023-Officers
   
 
 button-bar:
   Elected Candidates: /electedcandidates
   Pay My Dues: /dues
+  Turtle Power Pass: https://scoutingevent.com/525-68262
   Seal The Bond: /brotherhood
 
 quick-links:

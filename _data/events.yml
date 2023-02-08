@@ -1,5 +1,5 @@
 - title: Dues Early-Bird Discount Ends
-  date: 2023-01-31
+  date: 2023-02-11
   date-end:
   time: 11:59 PM
   price:
@@ -29,6 +29,22 @@
   ordeal: false
   brotherhood: false
   highlight: false
+
+- title: Turtle Power Pass Due
+  date: 2023-03-31
+  date-end:
+  time: 11:59 PM
+  price:
+    youth: 120
+    adult: 120
+  location: UnamiLodge.org
+  location-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-68262
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
 
 - title: Spring Service 1
   date: 2023-04-21
@@ -92,7 +108,7 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: true
+  highlight: false
 
 - title: Section E17 Conclave
   date: 2023-06-09

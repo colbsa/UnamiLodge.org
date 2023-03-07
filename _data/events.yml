@@ -5,14 +5,14 @@
   price:
     youth: 0
     adult: 0
-  location: TBD
+  location: Various
   location-url:
-  link-text:
-  link-url:
+  link-text: More Info
+  link-url: /news/2023-Community-Service-Day
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Turtle Power Pass Due
   date: 2023-03-31

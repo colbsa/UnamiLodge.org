@@ -13,10 +13,7 @@ event:
 
 The Community Service Day is our Lodge's paramount way to give back to our local neighborhoods. Arrowmen, friends and family are all invited to join us March 25 at each of the following sites.
 
-## Mount Moriah Cemetery
-- Location: [6201 Kingsessing Ave, Philadelphia, PA 19142](https://goo.gl/maps/hvsEdEa955uP6qs28)
-- What: Clearing of cemetery grounds
-- Contact: Tim English (timengbsa@yahoo.com)
+## Mount Moriah Cemetery - *Cancelled*
 
 ## Chester Park Nature Trail
 - Location: [298 E Elkington Blvd, Chester, PA 19013](https://goo.gl/maps/TejBx8ieHNbfNeKT9)

@@ -3,9 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  2023 Dues: https://unamilodge.org/dues
+  Spring Service 1: https://scoutingevent.com/525-62372
 
 links:
+  2023 Dues: https://unamilodge.org/dues
   Turtle Power Pass: https://scoutingevent.com/525-68262
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood

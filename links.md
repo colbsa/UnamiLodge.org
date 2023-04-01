@@ -7,7 +7,6 @@ link-highlight:
 
 links:
   2023 Dues: https://unamilodge.org/dues
-  Turtle Power Pass: https://scoutingevent.com/525-68262
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood
   Lodge Calendar: https://unamilodge.org/calendar/

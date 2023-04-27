@@ -3,14 +3,13 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2023-ss1.png: https://scoutingevent.com/525-62372
-  /img/slider/slide-dues.png: /dues
-  /img/slider/2023-lodge-officers.png: /news/Meet-Our-2023-Officers
+  /img/slider/2023-conclave.png: /news/2023-Conclave
+  /img/slider/2023-spring-services.png: /news/2023-Spring-Services
+  /img/slider/2023-operation-arrow.png: https://oa-bsa.org/jamboree
 
 button-bar:
   Elected Candidates: /electedcandidates
   Pay My Dues: /dues
-  Turtle Power Pass: https://scoutingevent.com/525-68262
   Seal The Bond: /brotherhood
 
 quick-links:

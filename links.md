@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Spring Service 1: https://scoutingevent.com/525-62372
+  Section E17 Conclave: https://conclaveregistration.org/section/e17
 
 links:
   2023 Dues: https://unamilodge.org/dues

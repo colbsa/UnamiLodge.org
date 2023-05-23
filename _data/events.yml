@@ -71,9 +71,9 @@
     adult:
   location: Musser SR
   location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-62372
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: false
+  highlight: true

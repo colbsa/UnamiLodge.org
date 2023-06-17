@@ -3,7 +3,6 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2023-conclave.png: /news/2023-Conclave
   /img/slider/slide-join-the-order.png: /electedcandidates/
   /img/slider/slide-seal-the-bond.png: /brotherhood/
 

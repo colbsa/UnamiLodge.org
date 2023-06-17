@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Section E17 Conclave: https://conclaveregistration.org/section/e17
+  Summer Induction Weekend: https://scoutingevent.com/525-62372
 
 links:
   2023 Dues: https://unamilodge.org/dues

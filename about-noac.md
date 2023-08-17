@@ -28,7 +28,7 @@ banner: /img/portals/noac-2024-portal.png
     </p>
     <div class="row justify-content-center">
       <div class="col-md-4 text-center">
-        <a href="#" class="btn btn-primary btn-block my-3 disabled">Registration Coming Soon</a>
+        <a href="#" class="btn btn-primary btn-block my-3">Registration Coming Soon</a>
       </div>
     </div>
     <!-- <div class="row">

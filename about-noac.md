@@ -26,11 +26,11 @@ banner: /img/portals/noac-2024-portal.png
     <p>
       We hope you’ll join our lodge at the conference as we engage with more than 200 other lodge contingents in competitions, fellowship, and stadium shows! Registration opens on September 1st and requires a $200 deposit to lock-in your spot.
     </p>
-    <div class="row justify-content-center">
+    <!-- <div class="row justify-content-center">
       <div class="col-md-4 text-center">
         <a href="#" class="btn btn-primary btn-block my-3">Registration Coming Soon</a>
       </div>
-    </div>
+    </div> -->
     <!-- <div class="row">
       <div class="col">
         <div class="embed-responsive embed-responsive-16by9 mb-3">

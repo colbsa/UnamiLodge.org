@@ -3,9 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  Summer Induction Weekend: https://scoutingevent.com/525-62372
+  Unami Phillies Night: https://unamilodge.org/phillies
 
 links:
+  Fall Fellowship: https://scoutingevent.com/525-62372
   2023 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood

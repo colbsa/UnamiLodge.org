@@ -12,7 +12,7 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: true
+  highlight: false
 
 - title: Scout Memorabilia Show
   date: 2023-08-25
@@ -21,14 +21,14 @@
   price:
     youth:
     adult:
-  location: TBD
-  location-url:
+  location: Emmanuel Lutheran Church
+  location-url: https://goo.gl/maps/FPY995FRAz5kDx8u6
   link-text:
   link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Vigil Honor Induction
   date: 2023-09-08
@@ -44,7 +44,23 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
+
+- title: Unami Lodge Friends & Family Night at the Phillies
+  date: 2023-09-12
+  date-end: 2023-09-12
+  time:
+  price:
+    youth:
+    adult:
+  location: Citizens Bank Park
+  location-url: https://goo.gl/maps/p6aemeV2Q71JstjcA
+  link-text: Buy Tickets Now
+  link-url: https://unamilodge.org/phillies
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
 
 - title: Fall Fellowship
   date: 2023-10-06

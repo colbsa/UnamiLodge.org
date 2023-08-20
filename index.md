@@ -3,6 +3,7 @@ title: Home
 layout: index
 
 slides:
+  /img/slider/phillies.png: /phillies
   /img/slider/slide-join-the-order.png: /electedcandidates/
   /img/slider/slide-seal-the-bond.png: /brotherhood/
 

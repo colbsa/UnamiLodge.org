@@ -1,35 +1,3 @@
-- title: Summer Inductions Weekend
-  date: 2023-08-04
-  date-end: 2023-08-06
-  time:
-  price:
-    youth:
-    adult:
-  location: Resica Falls SR
-  location-url: https://www.google.com/maps/place/Resica+Falls+Scout+Reservation/@41.1113046,-75.0974357,16.74z/data=!4m5!3m4!1s0x89c484e0c4004cf5:0xa6a105ee2d4750e0!8m2!3d41.1112078!4d-75.094943
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-62372
-  post-url:
-  ordeal: true
-  brotherhood: true
-  highlight: false
-
-- title: Scout Memorabilia Show
-  date: 2023-08-25
-  date-end: 2023-08-26
-  time:
-  price:
-    youth:
-    adult:
-  location: Emmanuel Lutheran Church
-  location-url: https://goo.gl/maps/FPY995FRAz5kDx8u6
-  link-text:
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Vigil Honor Induction
   date: 2023-09-08
   date-end: 2023-09-10
@@ -38,7 +6,7 @@
     youth:
     adult:
   location: Musser SR
-  location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
+  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
   link-text: Register Now
   link-url: https://scoutingevent.com/525-64600
   post-url:
@@ -70,7 +38,7 @@
     youth:
     adult:
   location: Musser SR
-  location-url: https://www.google.com/maps/place/Camp+Garrison,+Musser+Scout+Reservation/@40.3706028,-75.4360596,16.23z/data=!4m5!3m4!1s0x89c4274b0d29e3c5:0xa4f744d2ca5c3da9!8m2!3d40.3708267!4d-75.4350509
+  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
   link-text: Register Now
   link-url: https://scoutingevent.com/525-62372
   post-url:
@@ -86,10 +54,138 @@
     youth:
     adult:
   location: Musser SR
-  location-url:
+  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
   link-text:
   link-url:
   post-url:
   ordeal: false
   brotherhood: true
+  highlight: false
+
+- title: 108th Annual Lodge Dinner
+  date: 2024-01-06
+  date-end:
+  time:
+  price:
+    youth:
+    adult:
+  location: The Alloy (KoP)
+  location-url: https://goo.gl/maps/GdQo99pfzEWyWY3H9
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Community Service Day
+  date: 2024-03-23
+  date-end:
+  time:
+  price:
+    youth:
+    adult:
+  location: TBD
+  location-url:
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Spring Service 1
+  date: 2024-04-05
+  date-end: 2024-04-07
+  time:
+  price:
+    youth:
+    adult:
+  location: Musser SR
+  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Spring Service 2
+  date: 2024-05-17
+  date-end: 2024-05-19
+  time:
+  price:
+    youth:
+    adult:
+  location: Resica Falls SR
+  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Section E17 Conclave
+  date: 2024-06-07
+  date-end: 2024-06-09
+  time:
+  price:
+    youth:
+    adult:
+  location: Camp NoBeBoSco
+  location-url: https://goo.gl/maps/evLakmJ9L7VsZD458
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: NOAC
+  date: 2024-07-29
+  date-end: 2024-08-03
+  time:
+  price:
+    youth:
+    adult:
+  location: University of Colorado Boulder
+  location-url: https://goo.gl/maps/RyqKEfSrGz35WgcF7
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Vigil Weekend
+  date: 2024-09-13
+  date-end: 2024-09-15
+  time:
+  price:
+    youth:
+    adult:
+  location: Resica Falls SR
+  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Fall Fellowship
+  date: 2024-10-04
+  date-end: 2024-10-06
+  time:
+  price:
+    youth:
+    adult:
+  location: Resica Falls SR
+  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
   highlight: false

@@ -50,4 +50,4 @@ permalink: /calendar/
   </table>
 </div>
 
-Unami Lodge is working on some changes to the long range calendar. Please check back again for updates to the 2023-2025 Lodge years.
+Unami Lodge also makes available a [long range calendar](/files/UnamiLodgeCalendar_2022-2025.pdf) [*Updated: August 27, 2023*]. Please note that dates and locations listed in the long range calendar are subject to change.

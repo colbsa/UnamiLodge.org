@@ -4,6 +4,7 @@ layout: index
 
 slides:
   /img/slider/phillies.png: /phillies
+  /img/slider/2023-fall-fellowship.png: https://scoutingevent.com/525-62372
   /img/slider/slide-join-the-order.png: /electedcandidates/
   /img/slider/slide-seal-the-bond.png: /brotherhood/
 

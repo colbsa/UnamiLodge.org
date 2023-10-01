@@ -135,12 +135,12 @@
     adult:
   location: University of Colorado Boulder
   location-url: https://goo.gl/maps/RyqKEfSrGz35WgcF7
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: /noac
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Vigil Weekend
   date: 2024-09-13

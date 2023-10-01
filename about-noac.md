@@ -21,13 +21,13 @@ banner: /img/portals/noac-2024-portal.png
       </ul>
     </p>
     <p>
-      This NOAC will be the first conference west of Iowa since 1988! The lodge is still working out our travel plans, but we expect the cost of the event will be $1,325.00 for both youth and adult members. This cost includes your conference fee, airfair, meals, a set of Unami patches, Unami t-shirts, and a limited edition duffle bag.
+      This NOAC will be the first conference west of Iowa since 1988! The lodge is still working out our travel plans, but we expect the cost of the event will be $1,325.00 for both youth and adult members. This cost includes your conference fee, airfare, meals, a set of Unami patches, Unami t-shirts, and a limited edition duffle bag.
     </p>
     <p>
       We hope you’ll join our lodge at the conference as we engage with more than 200 other lodge contingents in competitions, fellowship, and stadium shows! Registration opens on October 1st and requires a $200 deposit to lock-in your spot.
     </p>
     <div class="text-center my-5">
-      <a href="#" class="btn btn-primary">Register Now!</a>
+      <a href="https://scoutingevent.com/525-NOAC2024" class="btn btn-primary">Register Now!</a>
     </div>
     <!-- --------------------------------------------------------------------------------- -->
     <h2>Key Dates</h2>
@@ -36,7 +36,7 @@ banner: /img/portals/noac-2024-portal.png
       <ul>
         <li><strong>October 1</strong> - Contingent Registration Opens</li>
         <li><strong>April 1</strong> - Contingent Registration Closes</li>
-        <li><strong>April 7</strong> - Contingent Meeting #1</li>
+        <li><strong>April TBD</strong> - Contingent Meeting #1</li>
         <li><strong>April 22</strong> - Activity Registration and Roommate Requests Opens</li>
         <li><strong>June TBD</strong> - Contingent Meeting #2</li>
         <li><strong>July 22</strong> - Medical Forms Due</li>
@@ -44,7 +44,7 @@ banner: /img/portals/noac-2024-portal.png
     </p>
     <h2>Payment Schedule</h2>
     <p>
-      Unami Lodge will be implimenting the following payment schedule for NOAC 2024. Everyone registering for the event is expected to meet these payment deadlines. If you register after a payment deadline has passed, you will automatically be charged for the total amount due to date.
+      Unami Lodge will be implementing the following payment schedule for NOAC 2024. Everyone registering for the event is expected to meet these payment deadlines. If you register after a payment deadline has passed, you will automatically be charged for the total amount due to date.
       <div class="table-responsive">
         <table class="table table-striped">
           <thead>
@@ -69,13 +69,13 @@ banner: /img/portals/noac-2024-portal.png
               <td>$575</td>
             </tr>
             <tr>
-              <td>Payment 3</td>
+              <td>Payment 2</td>
               <td>February 1</td>
               <td>$375</td>
               <td>$950</td>
             </tr>
             <tr>
-              <td>Payment 4</td>
+              <td>Payment 3</td>
               <td>April 1</td>
               <td>$375</td>
               <td>$1,325</td>
@@ -97,10 +97,10 @@ banner: /img/portals/noac-2024-portal.png
     <p>
       Unami Lodge must commit financial resources to book travel, pay national conference fees, and purchase supplies for the trip. Please notify the <a href="mailto:noac@unamilodge.org">NOAC Committee</a> immediately if you are no longer able to attend NOAC. If there is a replacement available to fill your spot, all monies paid will be refunded. Otherwise, the following guidelines will be used.
       <ul>
-        <li>Before January 1 - 100% of monies paid will be refunded</li>
-        <li>After January 1 - 100% of <i>unspent</i> monies paid will be refunded, less the $200 deposit</li>
+        <li>Before February 1 - 100% of monies paid will be refunded</li>
+        <li>After February 1 - 100% of <i>unspent</i> monies paid will be refunded, less the $200 deposit</li>
       </ul>
-      Partipants removed from the contingent due to violation of the conference policies will not receive a refund and may be responsible for their own housing and transportation home.
+      Participants removed from the contingent due to violation of the conference or BSA policies will not receive a refund and may be responsible for their own housing and transportation home.
     </p>
     <h2>BSA Registration & Lodge Membership</h2>
     <p>

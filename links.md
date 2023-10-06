@@ -3,9 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  Fall Fellowship: https://scoutingevent.com/525-62372
+  Brotherhood Blitz: https://scoutingevent.com/525-71026
 
 links:
+  NOAC: /noac
   2023 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood

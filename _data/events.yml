@@ -12,23 +12,23 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: true
+  highlight: false
 
 - title: Brotherhood Blitz
   date: 2023-11-11
   date-end:
-  time:
+  time: 8AM - 5PM
   price:
     youth:
     adult:
   location: Musser SR
-  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
-  link-text:
-  link-url:
+  location-url: https://maps.app.goo.gl/KRth7dmifMHBtGoS6
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-71026
   post-url:
   ordeal: false
   brotherhood: true
-  highlight: false
+  highlight: true
 
 - title: Lodge Leadership Development
   date: 2023-12-09

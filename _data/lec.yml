@@ -99,12 +99,8 @@ advisoryboard:
 
 
 committees:
-- title: Ordeal Co-Chair
+- title: Ordeal Chair
   name: Alex Braun
-  email: ordeal
-
-- title: Ordeal Co-Chair
-  name: Tristan Hunter
   email: ordeal
 
 - title: Ordeal Adviser

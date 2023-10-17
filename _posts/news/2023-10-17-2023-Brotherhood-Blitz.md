@@ -4,7 +4,7 @@ title: Brotherhood Blitz
 author:
 date: 2023-10-17
 banner:
-thumbnail: 2023-Brotherhood-Blitz.png
+thumbnail: 2023-Brotherhood-Blitz.jpg
 excerpt: Seal your Bond of Brotherhood at Musser Scout Reservation on Saturday November 11th!
 event:
   title: Brotherhood Blitz

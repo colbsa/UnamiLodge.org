@@ -1,18 +1,18 @@
-- title: Fall Fellowship
-  date: 2023-10-06
-  date-end: 2023-10-08
+- title: Award Nominations Due
+  date: 2023-10-31
+  date-end:
   time:
   price:
     youth:
     adult:
-  location: Musser SR
-  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-62372
+  location: UnamiLodge.org
+  location-url:
+  link-text: Nominate Now
+  link-url: /awards
   post-url:
-  ordeal: true
-  brotherhood: true
-  highlight: false
+  ordeal: false
+  brotherhood: false
+  highlight: true
 
 - title: Brotherhood Blitz
   date: 2023-11-11

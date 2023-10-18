@@ -5,7 +5,7 @@ author:
 date: 2023-10-16
 banner:
 thumbnail: award-nominations.png
-excerpt: Submit your 2020 award nominations before this year's deadline!
+excerpt: Submit your award nominations before the deadline!
 event:
   title: Award Nominations Due
   date: 2023-10-31

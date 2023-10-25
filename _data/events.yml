@@ -78,6 +78,22 @@
   brotherhood: false
   highlight: false
 
+- title: Vigil Nominations Due
+  date: 2024-03-31
+  date-end:
+  time:
+  price:
+    youth:
+    adult:
+  location: UnamiLodge.org
+  location-url:
+  link-text: Nominate Now
+  link-url: /awards
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Spring Service 1
   date: 2024-04-05
   date-end: 2024-04-07

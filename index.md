@@ -4,7 +4,6 @@ layout: index
 
 slides:
   /img/slider/2024-NOAC.png: /noac/
-  /img/slider/slide-awards.png: /awards
   /img/slider/slide-seal-the-bond.png: /news/2023-Brotherhood-Blitz
 
 button-bar:

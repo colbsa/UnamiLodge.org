@@ -1,26 +1,10 @@
-- title: Brotherhood Blitz
-  date: 2023-11-11
-  date-end:
-  time: 8AM - 5PM
-  price:
-    youth:
-    adult:
-  location: Musser SR
-  location-url: https://maps.app.goo.gl/KRth7dmifMHBtGoS6
-  link-text: Registration Closed
-  link-url:
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: New Members Bash
   date: 2023-11-30
   date-end:
   time: 7-9PM
   price:
-    youth:
-    adult:
+    youth: 5
+    adult: 5
   location: Gravity Vault
   location-url: https://maps.app.goo.gl/Ct7BodxGda377YKj9
   link-text: Register Now

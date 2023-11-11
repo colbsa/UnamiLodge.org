@@ -1,34 +1,18 @@
-- title: Brotherhood Blitz
-  date: 2023-11-11
-  date-end:
-  time: 8AM - 5PM
-  price:
-    youth:
-    adult:
-  location: Musser SR
-  location-url: https://maps.app.goo.gl/KRth7dmifMHBtGoS6
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-71026
-  post-url:
-  ordeal: false
-  brotherhood: true
-  highlight: true
-
 - title: New Members Bash
   date: 2023-11-30
   date-end:
   time: 7-9PM
   price:
-    youth:
-    adult:
+    youth: 5
+    adult: 5
   location: Gravity Vault
   location-url: https://maps.app.goo.gl/Ct7BodxGda377YKj9
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-77408
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Lodge Leadership Development
   date: 2023-12-09
@@ -39,12 +23,12 @@
     adult:
   location: Oscar Lasko Program Activity Resource Campus
   location-url: https://goo.gl/maps/6susT3QgX5tpDbXz6
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://docs.google.com/forms/d/e/1FAIpQLSdLttbs0i-WjLAaO3DSGTrz9a7W7A6FJxj-JZfkPDncgL-IPA/viewform
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: 108th Annual Lodge Dinner
   date: 2024-01-06

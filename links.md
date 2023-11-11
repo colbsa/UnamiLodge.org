@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Brotherhood Blitz: https://scoutingevent.com/525-71026
+  New Members Bash: /news/2023-New-Members-Bash
 
 links:
   NOAC: /noac

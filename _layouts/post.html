@@ -47,6 +47,9 @@
                   {{event.date | date: "%B %-d, %Y"}}
                 {% endif -%}
               </li>
+              {% if event.r-closes %}
+              <li>Registration Closes: {{event.r-closes | date: "%B %-d, %Y"}}</li>
+              {% endif %}
               {% if event.time %}
               <li>
                 <i class="fa fa-clock-o pr-2 text-body"></i>{{event.time}}
@@ -61,12 +64,7 @@
                 {% endif %}
               </li>
               {% if event.price %}
-              {%- if event.price.adult == event.price.youth %}
-              <li>Price: &dollar;{{event.price.adult}}</li>
-              {%- else -%}
-              <li>Youth: &dollar;{{event.price.youth}}</li>
-              <li>Adult: &dollar;{{event.price.adult}}</li>
-              {% endif -%}
+              <li>Price: &dollar;{{event.price}}</li>
               {% endif %}
             </ul>
           </div>

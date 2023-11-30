@@ -47,9 +47,6 @@
                   {{event.date | date: "%B %-d, %Y"}}
                 {% endif -%}
               </li>
-              {% if event.r-closes %}
-              <li>Registration Closes: {{event.r-closes | date: "%B %-d, %Y"}}</li>
-              {% endif %}
               {% if event.time %}
               <li>
                 <i class="fa fa-clock-o pr-2 text-body"></i>{{event.time}}
@@ -65,6 +62,9 @@
               </li>
               {% if event.price %}
               <li>Price: &dollar;{{event.price}}</li>
+              {% endif %}
+              {% if event.r-closes %}
+              <li>Registration Closes: {{event.r-closes | date: "%B %-d, %Y"}}</li>
               {% endif %}
             </ul>
           </div>

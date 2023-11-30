@@ -3,9 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  New Members Bash: /news/2023-New-Members-Bash
+  Lodge Leadership Development: /news/2023-Lodge-Leadership-Development
 
 links:
+  108th Lodge Dinner: /news/108th-Lodge-Dinner
   NOAC: /noac
   2023 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates

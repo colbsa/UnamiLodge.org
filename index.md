@@ -3,7 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2023-new-members-bash.png: /news/2023-New-Members-Bash
+  /img/slider/2023-lld.png: /news/2023-Lodge-Leadership-Development
+  /img/slider/2024-dinner.png: /news/108th-Lodge-Dinner
   /img/slider/2024-NOAC.png: /noac/
 
 button-bar:

@@ -2,7 +2,7 @@
 layout: post
 title: 108th Lodge Dinner
 author:
-date: 2022-11-29
+date: 2023-11-29
 banner:
 thumbnail: 108th-Lodge-Dinner.png
 excerpt: Unami Lodge's oldest tradition! Come join us to celebrate the new year.

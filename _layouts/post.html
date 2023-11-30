@@ -64,7 +64,7 @@
               <li>Price: &dollar;{{event.price}}</li>
               {% endif %}
               {% if event.r-closes %}
-              <li>Registration Closes: {{event.r-closes | date: "%B %-d, %Y"}}</li>
+              <li>Registration Closes: {{event.r-closes | date: "%m/%-d/%Y"}}</li>
               {% endif %}
             </ul>
           </div>

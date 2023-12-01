@@ -35,7 +35,7 @@ banner: /img/portals/noac-2024-portal.png
       Mark your calendars with the following important dates. Contingent members are expected to attend all contingent meetings.
       <ul>
         <li><strong>October 1</strong> - Contingent Registration Opens</li>
-        <li><strong>April 1</strong> - Contingent Registration Closes</li>
+        <li><strong>January 31</strong> - Contingent Registration Closes</li>
         <li><strong>April TBD</strong> - Contingent Meeting #1</li>
         <li><strong>April 22</strong> - Activity Registration and Roommate Requests Opens</li>
         <li><strong>June TBD</strong> - Contingent Meeting #2</li>
@@ -64,7 +64,7 @@ banner: /img/portals/noac-2024-portal.png
             </tr>
             <tr>
               <td>Payment 1</td>
-              <td>December 1</td>
+              <td>December 5</td>
               <td>$375</td>
               <td>$575</td>
             </tr>
@@ -90,7 +90,7 @@ banner: /img/portals/noac-2024-portal.png
       <ul>
         <li><strong>Unami Lodge</strong> - <a href="/scholarship/">OA High Adventure Scholarship</a></li>
         <li><strong>Section E17</strong> - <a href="https://sectione17.oa-bsa.org/scholarships/bhs-scholarship/">Brian H. Swatt Memorial National Events Scholarship</a></li>
-        <li><strong>National OA</strong> - Trailblazer Scholarship </li>
+        <li><strong>National OA</strong> - <a href="https://surveys.qualtrics.charlotte.edu/jfe/form/SV_bmvRrppiB4x2H7U">Trailblazer Scholarship</a></li>
       </ul>
     </p>
     <h2>Refund Policy</h2>

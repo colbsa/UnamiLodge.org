@@ -43,6 +43,21 @@
   brotherhood: false
   highlight: true
 
+- title: Section Leadership Conference
+  date: 2024-01-14
+  date-end:
+  r-closes:
+  time:
+  price:
+  location: The College of New Jersey
+  location-url: https://maps.app.goo.gl/ZSZFmV1dTktgkyjm7
+  link-text: More Info
+  link-url: https://sectione17.oa-bsa.org/program/slc/
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Dues Early Bird Ends
   date: 2024-01-31
   date-end:

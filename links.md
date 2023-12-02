@@ -3,10 +3,9 @@ title: Home
 layout: links
 
 link-highlight:
-  Lodge Leadership Development: /news/2023-Lodge-Leadership-Development
+  108th Lodge Dinner: /news/108th-Lodge-Dinner
 
 links:
-  108th Lodge Dinner: /news/108th-Lodge-Dinner
   NOAC: /noac
   2023 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates

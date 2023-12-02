@@ -1,18 +1,3 @@
-- title: New Members Bash
-  date: 2023-11-30
-  date-end:
-  r-closes: 2023-11-24
-  time: 7-9PM
-  price: 5
-  location: Gravity Vault
-  location-url: https://maps.app.goo.gl/Ct7BodxGda377YKj9
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-77408
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Lodge Leadership Development
   date: 2023-12-09
   date-end:
@@ -21,12 +6,12 @@
   price: 0
   location: Oscar Lasko Program Activity Resource Campus
   location-url: https://goo.gl/maps/6susT3QgX5tpDbXz6
-  link-text: Register Now
-  link-url: https://docs.google.com/forms/d/e/1FAIpQLSdLttbs0i-WjLAaO3DSGTrz9a7W7A6FJxj-JZfkPDncgL-IPA/viewform
+  link-text: Registration Closed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: 108th Annual Lodge Dinner
   date: 2024-01-06
@@ -56,7 +41,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Dues Early Bird Ends
   date: 2024-01-31

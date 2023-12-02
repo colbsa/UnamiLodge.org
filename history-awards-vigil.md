@@ -4,7 +4,7 @@ layout: page
 permalink: /history/awards/vigil
 ---
 
-<table class="table table-striped my-3 ">
+<table class="table table-responsive table-striped my-3 ">
   <thead>
     <tr>
       <th scope="col">Year</th>

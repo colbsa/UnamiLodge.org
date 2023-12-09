@@ -4,7 +4,7 @@ layout: page
 permalink: /kb/
 ---
 
-<h3 class="mt-5">Welcome!</h3>
+<h2 class="text-primary pl-2">Welcome!</h2>
 
 Unami Lodge maintains a suite of tools intended to facilitate communication at the Lodge Executive Committee (LEC), Chapter, and General Membership levels.  Many of these tools are well documented household names, and as a result, generally require little introduction.  The following knowledge-base content is designed to provide Unami Lodge specific context for each tool's expected use case(s), and link to platform specific documentation where appropriate.
 
@@ -13,7 +13,7 @@ Whether you've been linked to this landing as a part of lodge leadership positio
 The lodge's Communications committee endeavors to provide easy access to useful information on the tools we provide.  As such, please do not hesitate to reach out ([communications@unamilodge.org](/contact?recipient=communications)) with any questions or suggestions for further content development.
 
 
-<h3 class="mt-5">Frequently Asked Questions</h3>
+<h2 class="text-primary pl-2">Frequently Asked Questions</h2>
 
 **I'm new here, how does all this fit together?**
 All the tools listed on this page are provided to members of Unami Lodge for lodge business.  Google Workspace is the largest, and most essential, of the bunch.  Though email and file sharing are probably the most common needs that Workspace fills, your @UnamiLodge.org account grants you access to nearly the full portfolio of Google services.
@@ -63,10 +63,15 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
   </tr>
 </table>
 
+<h2 class="text-primary pl-2">Membership</h2>
+<table class="table">
+  <tr>
+    <td class="align-middle"><h5 class="my-0">OA LodgeMaster</h5>Manage members, events, and chapter communication all from one place!</td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://lodgemaster-client.oa-bsa.org">Link</a></td>
+  </tr>
+</table>
 
-<h3 class="mt-5">Documentation</h3>
-<p></p>
-
+<h2 class="text-primary pl-2">Documentation</h2>
 <table class="table">
   <tr>
     <td class="align-middle">
@@ -91,9 +96,9 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
   </tr>
   <tr>
     <td class="align-middle">
-      <h5 class="my-0">MailChimp</h5>
-      Email marketing platform.  The only way to send email to large segments of Unami Lodge members (Ex. Chapters).
+      <h5 class="my-0">LodgeMaster Email</h5>
+      Email your chapter or relatively small segment of the Lodge from the platform we all know and love.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb-mailchimp/">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://confluence.oa-bsa.org/display/OALMLC4/Send+email+to+all+of+your+chapter+members">Read More</a></td>
   </tr>
 </table>

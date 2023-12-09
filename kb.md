@@ -4,7 +4,7 @@ layout: page
 permalink: /kb/
 ---
 
-<h2 class="text-primary pl-2">Welcome!</h2>
+<h2 class="text-primary pt-3">Welcome!</h2>
 
 Unami Lodge maintains a suite of tools intended to facilitate communication at the Lodge Executive Committee (LEC), Chapter, and General Membership levels.  Many of these tools are well documented household names, and as a result, generally require little introduction.  The following knowledge-base content is designed to provide Unami Lodge specific context for each tool's expected use case(s), and link to platform specific documentation where appropriate.
 
@@ -13,7 +13,7 @@ Whether you've been linked to this landing as a part of lodge leadership positio
 The lodge's Communications committee endeavors to provide easy access to useful information on the tools we provide.  As such, please do not hesitate to reach out ([communications@unamilodge.org](/contact?recipient=communications)) with any questions or suggestions for further content development.
 
 
-<h2 class="text-primary pl-2">Frequently Asked Questions</h2>
+<h2 class="text-primary">Frequently Asked Questions</h2>
 
 **I'm new here, how does all this fit together?**
 All the tools listed on this page are provided to members of Unami Lodge for lodge business.  Google Workspace is the largest, and most essential, of the bunch.  Though email and file sharing are probably the most common needs that Workspace fills, your @UnamiLodge.org account grants you access to nearly the full portfolio of Google services.

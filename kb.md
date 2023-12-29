@@ -35,11 +35,11 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">LEC Meeting Minutes</h5>Check out approved minutes from previous LEC meetings</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/document/d/17o2Ewc3amz6609SfpCDsekjRGbioYwKKRxhLeBPdkG8/edit">Link</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://docs.google.com/document/d/17o2Ewc3amz6609SfpCDsekjRGbioYwKKRxhLeBPdkG8/edit">Link</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">LEC Report</h5>Sign-in & submit your official committee report for this month's LEC meeting</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/forms/d/1sVbIUVSb-pmGEMsAlag_qxFJmA3FdOe_wqD_0VyOtds/edit">Link</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://docs.google.com/forms/d/1sVbIUVSb-pmGEMsAlag_qxFJmA3FdOe_wqD_0VyOtds/edit">Link</a></td>
   </tr>
 </table>
 
@@ -47,19 +47,19 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Lodge Email</h5>Individual and committee emails</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="http://mail.unamilodge.org">Link</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="http://mail.unamilodge.org">Link</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Slack</h5>A chat and collaboration platform used for committee communication</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://unamilodge.slack.com">Link</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://unamilodge.slack.com">Link</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Email Marketing Request</h5>Send mass emails to members of Unami Lodge.  Notify #communications or communications@UnamiLodge.org after submitting this form.</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSflhpM7VYiAR6zthjv5-p276ZyywH64k_NB9Dx2S5Q44HY6Kw/viewform?usp=sf_link">Link</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSflhpM7VYiAR6zthjv5-p276ZyywH64k_NB9Dx2S5Q44HY6Kw/viewform?usp=sf_link">Link</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Social Media Marketing Request</h5>Share social media with members of Unami Lodge.  Notify #communications or communications@UnamiLodge.org after submitting this form.</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSeA7eJPf6zPwzrVJ2syjAc20lIyNIvducVQMhip6kKAQb8_ow/viewform?usp=sf_link">Link</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeA7eJPf6zPwzrVJ2syjAc20lIyNIvducVQMhip6kKAQb8_ow/viewform?usp=sf_link">Link</a></td>
   </tr>
 </table>
 
@@ -67,7 +67,7 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">OA LodgeMaster</h5>Manage members, events, and chapter communication all from one place!</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://lodgemaster-client.oa-bsa.org">Link</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://lodgemaster-client.oa-bsa.org">Link</a></td>
   </tr>
 </table>
 
@@ -78,27 +78,40 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
       <h5 class="my-0">Google Workspace</h5>
       Email, file sharing, and most everything else you need to get things done.  This account is the basis for your @UnamiLodge.org collaboration needs.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb-google/">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb-google/">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Slack</h5>
       Messaging app for general LEC business, sub-committee collaboration, and Chapters.  Available for both your computer and phone.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb-slack/">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb-slack/">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Zoom & Google Meet</h5>
       Video conferencing solutions for fully remote meetings and hybrid "call-in" scenarios.  Great for big planned events, as well as small "on the fly" use.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/kb-videoconferencing/">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb-videoconferencing/">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">
       <h5 class="my-0">LodgeMaster Email</h5>
       Email your chapter or relatively small segment of the Lodge from the platform we all know and love.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://confluence.oa-bsa.org/display/OALMLC4/Send+email+to+all+of+your+chapter+members">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://confluence.oa-bsa.org/display/OALMLC4/Send+email+to+all+of+your+chapter+members">Read More</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle">
+      <h5 class="my-0">Branding</h5>
+      Resources published by national on how we should present ourselves online.
+      <ul>
+        <li><a target="_blank" href="https://scoutingwire.org/BSA-Brand-Center/">BSA Brand Center</a></li>
+        <li><a target="_blank" href="https://www.scouting.org/resources/los/">BSA Lanuage of Scouting</a></li>
+        <li><a target="_blank" href="https://oa-bsa.org/resources/branding">National OA Branding Guide</a></li>
+        <li><a target="_blank" href="https://oa-bsa.org/resources/looa">National OA Language of the OA</a></li>
+      </ul>
+    </td>
+    <td class="align-middle text-md-right"></td>
   </tr>
 </table>

@@ -104,7 +104,7 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Branding</h5>
-      Resources published by national on how we should present ourselves online.
+      Resources published by national BSA and OA on how we should present ourselves online.
       <ul>
         <li><a target="_blank" href="https://scoutingwire.org/BSA-Brand-Center/">BSA Brand Center</a></li>
         <li><a target="_blank" href="https://www.scouting.org/resources/los/">BSA Lanuage of Scouting</a></li>

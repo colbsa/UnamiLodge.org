@@ -6,12 +6,12 @@
   price: 40-45
   location: The Alloy (KoP)
   location-url: https://goo.gl/maps/GdQo99pfzEWyWY3H9
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-68807
+  link-text: Registration Closed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Section Leadership Conference
   date: 2024-01-14
@@ -71,7 +71,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Vigil Nominations Due
   date: 2024-03-31

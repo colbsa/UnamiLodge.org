@@ -1,24 +1,24 @@
 officers:
 - title: Lodge Chief
-  name: Liam Lynch
-  email: liam.lynch
+  name: T.K. Lindsay
+  email: chief
   key3: true
 
 - title: First Vice Chief
-  name: "Terence \"T.K.\" Lindsay"
-  email: terence.lindsay
+  name: Martin S.
+  email: first-vc
 
 - title: Second Vice Chief
-  name: Zach Kline
-  email: zachary.kline
+  name: Griffen O.
+  email: second-vc
 
 - title: Secretary
-  name: Skye Kramer
-  email: skye.kramer
+  name: Nathan S.
+  email: secretary
 
 - title: Treasurer
-  name: Paul Siminuk
-  email: paul.siminuk
+  name: Paul S.
+  email: treasurer
 
 - title: Lodge Adviser
   name: Craig Cless
@@ -30,12 +30,12 @@ officers:
   email: todge.sutkowski
 
 - title: Associate Lodge Adviser
-  name: Fred Lynch
-  email: fred.lynch
+  name: Heather McConnville
+  email: heather.mcconnville
 
 - title: Associate Lodge Adviser
-  name: Paul Dallatore
-  email: paul.dallatore
+  name: Brian Darcas
+  email: brian.darcas
 
 - title: Finance Adviser
   name: Gregg Slocum
@@ -54,8 +54,8 @@ officers:
 
 advisoryboard:
 - title: Immediate Past Chief
-  name: Patrick Lynch
-  email: patrick.lynch
+  name: Liam Lynch
+  email: liam.lynch
 
 - title: Strategic Plan Chair
   name: Vacant
@@ -66,27 +66,23 @@ advisoryboard:
   email: larry.neibauer
 
 - title: Memorabilia Show Chair
-  name: Aidan Sutkowski
-  email: aidan.sutkowski
+  name: Aidan S.
+  email: memorabilia-show
 
 - title: Memorabilia Adviser
   name: Paul Bowman
-  email: paul.bowman
+  email: memorabilia-show
 
 - title: Memorabilia Assoc. Adviser
   name: Rhys Wallace
-  email: rhys.wallace
-
-- title: Medical Records Chair
-  name: Ethan Mitchell
-  email: ethan.mitchell
+  email: memorabilia-show
 
 - title: Medical Records Adviser
   name: Lee Faden
-  email: lfaden
+  email: lee.faden
 
 - title: Conclave Chair
-  name: Angel Sims
+  name: Skye K.
   email: conclave
 
 - title: Conclave Adviser
@@ -94,13 +90,21 @@ advisoryboard:
   email: conclave
 
 - title: Conclave Assoc. Adviser
-  name: Lawrence Neibauer
+  name: Fred Lynch
   email: conclave
+
+- title: NOAC Chair
+  name: Will B.
+  email: noac
+
+- title: NOAC Adviser
+  name: Matt Gutterman
+  email: noac
 
 
 committees:
 - title: Ordeal Chair
-  name: Alex Braun
+  name: Andrew S.
   email: ordeal
 
 - title: Ordeal Adviser
@@ -112,7 +116,7 @@ committees:
   email: ordeal
 
 - title: Ordeal Assoc. Adviser
-  name: Todd Malora
+  name: Meghan Luke
   email: ordeal
 
 - title: Ordeal Assoc. Adviser
@@ -121,28 +125,24 @@ committees:
 
 
 - title: Brotherhood Chair
-  name: Luke Smallberger
-  email: brotherhood
-
-- title: Brotherhood Vice-Chair
-  name: Griffen O'Brien
+  name: Luke S.
   email: brotherhood
 
 - title: Brotherhood Adviser
-  name: Brian Lewis
+  name: Fred Lynch
   email: brotherhood
 
 - title: Brotherhood Assoc. Adviser
-  name: Fred Lynch
+  name: Alex Horan
   email: brotherhood
 
 
 - title: Ceremonies Chair
-  name: Noah Goldberg
+  name: Noah G.
   email: ceremonies
 
 - title: Ceremonies Vice-Chair
-  name: Andrew Smallberger
+  name: Andrew S.
   email: ceremonies
 
 - title: Ceremonies Adviser
@@ -155,32 +155,24 @@ committees:
 
 
 - title: Unit Elections Chair
-  name: Nathan Schooler
-  email: unitelections
-
-- title: Unit Elections Vice-Chair
-  name: Zarrina Damavandi
+  name: Samuel E.
   email: unitelections
 
 - title: Unit Elections Adviser
-  name: Matt Gutterman
+  name: "David \"Doc\" Sirken"
   email: unitelections
 
-- title: Unit Elections Assoc. Adviser
-  name: Vacant
+- title: Unit Elections Adviser
+  name: Paul Dallatore
   email: unitelections
 
 
 - title: Membership Chair
-  name: Katherine Schaffer
-  email: membership
-
-- title: Membership Vice-Chair
-  name: Emmie Menna
+  name: Katherine S.
   email: membership
 
 - title: Membership Adviser
-  name: Jerry Reed
+  name: Jeffery Aster
   email: membership
 
 - title: Membership Assoc. Adviser
@@ -193,15 +185,15 @@ committees:
 
 
 - title: Events Chair
-  name: Mara Strauss
+  name: Mara S.
   email: events
 
 - title: Events Vice-Chair
-  name: Sarah Heath
+  name: Sarah H.
   email: events
 
 - title: Events Adviser
-  name: Heather Filer
+  name: Jason Abiuso
   email: events
 
 - title: Events Assoc. Adviser
@@ -214,45 +206,45 @@ committees:
 
 
 - title: Service Chair
-  name: Dan McDougald
+  name: Ian B.
   email: service
 
 - title: Service Vice-Chair
-  name: John Hegarty
+  name: John H.
   email: service
 
 - title: Service Co-Adviser
-  name: Robert Burkhart
+  name: Jerry Reed
   email: service
 
 - title: Service Co-Adviser
-  name: "Ethan \"Nudge\" Youse"
+  name: Dan McDougald
   email: service
 
 
 - title: Camp Promotions Chair
-  name: Anton Meyer
+  name: Matt Y.
   email: camppromotions
 
 - title: Camp Promotions Vice-Chair
-  name: Jules Flanagan
+  name: Jules F.
   email: camppromotions
 
 - title: Camp Promotions Adviser
-  name: Meghan Luke
+  name: Vacant
   email: camppromotions
 
 - title: Camp Promotions Assoc. Adviser
-  name: Anthony Glass
+  name: Vacant
   email: camppromotions
 
 
 - title: History Chair
-  name: Aidan Sutkowski
+  name: Aidan S.
   email: history
 
 - title: History Vice-Chair
-  name: Shane Carty
+  name: Shane C.
   email: history
 
 - title: History Adviser
@@ -269,11 +261,11 @@ committees:
 
 
 - title: American Indian Affairs Chair
-  name: Jack Ashton
+  name: Leah C.
   email: aia
 
 - title: American Indian Affairs Vice-Chair
-  name: Andrew Smallberger
+  name: Andrew S.
   email: aia
 
 - title: American Indian Affairs Adviser
@@ -286,11 +278,7 @@ committees:
 
 
 - title: Lodge Operations Chair
-  name: Martin Stacey
-  email: lodgeoperations
-
-- title: Lodge Operations Vice-Chair
-  name: Matthew Rouleau
+  name: Sophia C.
   email: lodgeoperations
 
 - title: Lodge Operations Adviser
@@ -303,7 +291,7 @@ committees:
 
 
 - title: Communications Chair
-  name: Zach Gilinger
+  name: Zach G.
   email: communications
 
 - title: Communications Vice-Chair
@@ -320,28 +308,16 @@ committees:
 
 
 - title: Leadership Development Chair
-  name: Matt Rouleau
-  email: leadershipdevelopment
-
-- title: Leadership Development Vice-Chair
-  name: Vacant
+  name: Matt R.
   email: leadershipdevelopment
 
 - title: Leadership Development Adviser
   name: Mark Chilutti
   email: leadershipdevelopment
 
-- title: Leadership Development Assoc. Adviser
-  name: Luke Clancy
-  email: leadershipdevelopment
 
-
-- title: Vigil Honor Co-Chair
-  name: Jason Abiuso
-  email: vigil
-
-- title: Vigil Honor Co-Chair
-  name: Patrick Lynch
+- title: Vigil Honor Chair
+  name: Zach K.
   email: vigil
 
 - title: Vigil Honor Adviser
@@ -353,23 +329,18 @@ committees:
   email: vigil
 
 - title: Vigil Honor Assoc. Adviser
-  name: Michael Calliagas
+  name: Jason Abiuso
   email: vigil
 
 
 - title: Unit Representative Chair
-  name: Chris Hartley
-  email: unitrep
-
-- title: Unit Representative Vice-Chair
-  name: Vacant
+  name: Robert R.
   email: unitrep
 
 - title: Unit Representative Adviser
-  name: Andrew Geer
+  name: Vacant
   email: unitrep
 
 - title: Unit Representative Assoc. Adviser
-  name: Larry Arinsberg
+  name: Vacant
   email: unitrep
-

@@ -53,14 +53,6 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
     <td class="align-middle"><h5 class="my-0">Slack</h5>A chat and collaboration platform used for committee communication</td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://unamilodge.slack.com">Link</a></td>
   </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Email Marketing Request</h5>Send mass emails to members of Unami Lodge.  Notify #communications or communications@UnamiLodge.org after submitting this form.</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSflhpM7VYiAR6zthjv5-p276ZyywH64k_NB9Dx2S5Q44HY6Kw/viewform?usp=sf_link">Link</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Social Media Marketing Request</h5>Share social media with members of Unami Lodge.  Notify #communications or communications@UnamiLodge.org after submitting this form.</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeA7eJPf6zPwzrVJ2syjAc20lIyNIvducVQMhip6kKAQb8_ow/viewform?usp=sf_link">Link</a></td>
-  </tr>
 </table>
 
 <h2 class="text-primary pl-2">Membership</h2>
@@ -103,8 +95,8 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
   </tr>
   <tr>
     <td class="align-middle">
-      <h5 class="my-0">Branding</h5>
-      Resources published by national BSA and OA on how we should present ourselves online.
+      <h5 class="my-0">National OA Communications Toolkit</h5>
+      The National OA Committee publishes a guide on how to best present ourselves online. Additional links to both OA and BSA branding and language guides are below.
       <ul>
         <li><a target="_blank" href="https://scoutingwire.org/BSA-Brand-Center/">BSA Brand Center</a></li>
         <li><a target="_blank" href="https://www.scouting.org/resources/los/">BSA Lanuage of Scouting</a></li>
@@ -112,6 +104,6 @@ Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.o
         <li><a target="_blank" href="https://oa-bsa.org/resources/looa">National OA Language of the OA</a></li>
       </ul>
     </td>
-    <td class="align-middle text-md-right"></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://oa-bsa.org/resources/communications-toolkit">Read More</a></td>
   </tr>
 </table>

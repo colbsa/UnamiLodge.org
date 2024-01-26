@@ -348,11 +348,16 @@
   camp: Resica Falls
   lodge: Unami Lodge, One
   age: Adult
-- name: Dennis Abernethy
+- name: Patrick Lynch
   year: 2023
   camp: 
   lodge: Unami Lodge, One
-  age: Adult
+  age: Youth
+- name: Anton Meyer
+  year: 2023
+  camp: 
+  lodge: Unami Lodge, One
+  age: Youth
 - name: Andrew Smallberger
   year: 2023
   camp: 
@@ -363,18 +368,13 @@
   camp: 
   lodge: Unami Lodge, One
   age: Youth
-- name: Patrick Lynch
+- name: Dennis Abernethy
   year: 2023
   camp: 
   lodge: Unami Lodge, One
-  age: Youth
+  age: Adult
 - name: Theodore (Ted) McDonald
   year: 2023
   camp: 
   lodge: Unami Lodge, One
   age: Adult
-- name: Anton Meyer
-  year: 2023
-  camp: 
-  lodge: Unami Lodge, One
-  age: Youth

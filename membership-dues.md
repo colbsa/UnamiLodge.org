@@ -14,7 +14,7 @@ While you are always considered a member of the Order of the Arrow from the time
 
 <hr>
 
-## Accessing the OA Member Portal
+# Accessing the OA Member Portal
 
 The Order of the Arrow has recently introduced a Member Portal, though which you can do the
 following:
@@ -30,12 +30,12 @@ You must be 13 years of age or older to get a Member Portal account. Currently t
 
 Currently, new portal accounts are automatically issued to newly-elected candidates after their election results have been announced, or to newly-inducted members after they pass their ordeal, whichever happens first, provided that their election was reported via the new LodgeMaster Inductions module which became available for the entire lodge in the upcoming election cycle.
 
-### Already have access the Member Portal
+## Already have access the Member Portal
 
 Once you’ve linked your account, you can get to the member portal by going to [portal.oa-bsa.org](https://portal.oa-bsa.org/)
 
-### Do not have a Member Portal account, see below
-#### Get an Arrow ID account
+## Do not have a Member Portal account, see below
+### Get an Arrow ID account
 
 The Order of the Arrow has a single-sign-on system called Arrow ID which is used to access any official Order of the Arrow resources (such as the national registration system used for NOAC and NLS/DYLC, LodgeMaster, and the Member Portal). If you’ve ever attended NOAC or NLS, you probably already have an account. You will need an Arrow ID account first before you can access the Member Portal.
 
@@ -44,12 +44,12 @@ The Order of the Arrow has a single-sign-on system called Arrow ID which is used
 3. Click **Register**.
 4. Follow any directions given to complete your registration.
 
-### Get a Member Portal Invitation
+## Get a Member Portal Invitation
 
 You will need an invitation from your lodge to get a portal account. If you haven’t previously received a portal invitation, you can send an email to membership@unamilodge.org to request one. The invitation will include a code you can use to link your Arrow ID to your OA member record.
 
 Click the link in the invitation email. If you get prompted to log in, then do so using your Arrow ID login. After you’ve logged in, go back to the email and click the link again. If it doesn’t automatically link your account, click the red “Have an invite?” button near the top, choose “Member Portal” for the application. Our council is #525 Cradle of Liberty. Then paste in the code from the email and click “Add”.
 
-### Questions / Need Help?
+## Questions / Need Help?
 
 Contact [membership@unamilodge.org](/contact?recipient=membership)

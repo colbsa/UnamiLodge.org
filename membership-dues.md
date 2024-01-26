@@ -12,6 +12,7 @@ While you are always considered a member of the Order of the Arrow from the time
   </div>
 </div>
 
+<hr>
 
 ## Accessing the OA Member Portal
 

@@ -3,6 +3,7 @@ title: Home
 layout: index
 
 slides:
+  /img/slider/2024-NOAC.png: /noac/
   /img/slider/slide-dues.png: /dues
   /img/slider/slide-powerpass.png: https://scoutingevent.com/525-68803
 

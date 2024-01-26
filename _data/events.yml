@@ -133,6 +133,37 @@
   brotherhood: false
   highlight: false
 
+- title: Summer Inductions Weekend
+  date: 2024-08-09
+  date-end: 2024-08-11
+  time:
+  price:
+    youth:
+    adult:
+  location: Musser SR
+  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Scout Memorabilia Show
+  date: 2024-08-23
+  date-end: 2024-08-24
+  r-closes:
+  time:
+  price: 5
+  location: Emmanuel Lutheran Church
+  location-url: https://maps.app.goo.gl/mfo9Wxyh3LJSQ2L56
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-80505
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Vigil Weekend
   date: 2024-09-13
   date-end: 2024-09-15

@@ -7,6 +7,9 @@ banner: /img/portals/noac-2024-portal.png
 
 <div class="row">
   <div class="col-md-8">
+    <div class="col alert text-center alert-page alert-primary mb-0">
+      The National Order of the Arrow Conference has officially hit capacity. A waitlist has been implemented for all further registrations. Unami will continue to offer a waitlist until January 31, however participation is not guaranteed.
+    </div>
     <p>
       Do you want to meet thousands of Arrowmen from across the country? Are you interested in learning about the future of the OA? Are you an avid patch collector? Interested in more training? Then join us for the National Order of the Arrow Conference (NOAC)! NOAC is the premier event of the Order of the Arrow and is Scouting’s second-largest national event. In 2024, several thousand Arrowmen from across our nation will gather at the University of Colorado - Boulder from July 29th to August 3rd, 2024 to participate in this once in a lifetime event.
     </p>

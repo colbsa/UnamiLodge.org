@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2019 Scout Memorabilia Show
+title: 2024 Scout Memorabilia Show
 author: Rhys Wallace
 date: 2024-01-26
-banner:
-thumbnail: unami-green.png
+banner: 2024-Scout-Memorabilia-Show.png
+thumbnail: 2024-Scout-Memorabilia-Show.png
 excerpt: The upcoming Scout Memorabilia Show will certainly collect some attention!
 event:
   title: Scout Memorabilia Show

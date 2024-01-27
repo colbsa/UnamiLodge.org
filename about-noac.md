@@ -5,6 +5,10 @@ permalink: /noac/
 banner: /img/portals/noac-2024-portal.png
 ---
 
+<div class="col alert text-center alert-page alert-primary mb-0">
+  The National Order of the Arrow Conference has officially hit capacity. A waitlist has been implemented for all further registrations. Unami will continue to offer a waitlist until January 31, however participation is not guaranteed.
+</div>
+
 <div class="row">
   <div class="col-md-8">
     <p>

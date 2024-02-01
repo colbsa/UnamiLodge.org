@@ -28,7 +28,11 @@ event:
 - You do not need a table to attend
 
 ## Merit Badges!!  
-The Unami Lodge History Committee will be teaching collections merit badge at 9 am and Scouting Heritage at 11 am. *Registration Opening Soon*
+The Unami Lodge History Committee will be teaching collections merit badge at 9 am and Scouting Heritage at 11 am.
+
+<div class="text-center">
+  <a href="https://scoutingevent.com/525-80946" class="btn btn-primary">Register for Collections MB!</a>
+</div>
 
 ## Location:
 Emmanuel Lutheran Church  

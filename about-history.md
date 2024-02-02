@@ -9,6 +9,8 @@ Unami Lodge, One and the Order of the Arrow were founded at Treasure Island Camp
 
 As the first lodge, Unami has a long and storied past that we love to share. Take a minute to explore the lists of our past lodge chiefs, lodge advisers, Vigil Honor members, and lodge award recipients below. A history of Unami Lodge (1915-Present) and Delmont Lodge 43 (1929-1996) is also located on this page. If you have questions or wish to contribute information or pictures about the history of our lodge, please contact [history@unamilodge.org](/contact?recipient=history)
 
+## General History
+
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Unami Lodge Historical Narrative</h5></td>
@@ -18,6 +20,19 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
     <td class="align-middle"><h5 class="my-0">Delmont Lodge Historical Narrative</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/delmont">Read More</a></td>
   </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Unami Lodge Flap History</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://patchvault.org/lodges/1a-unami/issues">Visit PatchVault</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Unami Lodge History Podcast</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/podcast">Listen Now</a></td>
+  </tr>
+</table>
+
+## Key Leadership
+
+<table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Past Unami Lodge Chiefs</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/unami-chiefs">Read More</a></td>
@@ -30,6 +45,11 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
     <td class="align-middle"><h5 class="my-0">Past Lodge Advisers</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/lodge-advisers">Read More</a></td>
   </tr>
+</table>
+
+## Awards & Recognitions
+
+<table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Vigil Honor Members</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/vigil">Read More</a></td>
@@ -61,13 +81,5 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
   <tr>
     <td class="align-middle"><h5 class="my-0">Distinguished Service Award Recipients</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/dsa">Read More</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Unami Lodge Flap History</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://patchvault.org/lodges/1a-unami/issues">Visit PatchVault</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Unami Lodge History Podcast</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/podcast">Listen Now</a></td>
   </tr>
 </table>

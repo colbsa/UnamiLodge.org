@@ -1,28 +1,13 @@
-- title: Dues Early Bird Ends
-  date: 2024-01-31
+- title: Merit Badge College
+  date: 2024-02-24
   date-end:
-  r-closes:
-  time:
-  price: 20
-  location: UnamiLodge.org
-  location-url:
-  link-text: Pay My Dues
-  link-url: /dues
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: NOAC Registration Closes
-  date: 2024-01-31
-  date-end:
-  r-closes:
-  time:
-  price: 1325
-  location: University of Colorado Boulder
-  location-url: https://goo.gl/maps/RyqKEfSrGz35WgcF7
+  r-closes: 2024-02-21
+  time: 8 a.m. - 4 p.m.
+  price: 25
+  location: Archbishop Wood High School
+  location-url: https://maps.app.goo.gl/J4hUe8N4jsNmT5Y78
   link-text: Register Now
-  link-url: /noac
+  link-url: https://scoutingevent.com/525-80827
   post-url:
   ordeal: false
   brotherhood: false
@@ -71,7 +56,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Spring Service 1
   date: 2024-04-05
@@ -126,8 +111,8 @@
   price: 1325
   location: University of Colorado Boulder
   location-url: https://goo.gl/maps/RyqKEfSrGz35WgcF7
-  link-text: Register Now
-  link-url: /noac
+  link-text: Registration Closed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false

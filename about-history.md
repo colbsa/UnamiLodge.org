@@ -9,8 +9,7 @@ Unami Lodge, One and the Order of the Arrow were founded at Treasure Island Camp
 
 As the first lodge, Unami has a long and storied past that we love to share. Take a minute to explore the lists of our past lodge chiefs, lodge advisers, Vigil Honor members, and lodge award recipients below. A history of Unami Lodge (1915-Present) and Delmont Lodge 43 (1929-1996) is also located on this page. If you have questions or wish to contribute information or pictures about the history of our lodge, please contact [history@unamilodge.org](/contact?recipient=history)
 
-## General History
-
+<h3 class="mt-4">General History</h3>
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Unami Lodge Historical Narrative</h5></td>
@@ -30,8 +29,7 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
   </tr>
 </table>
 
-## Key Leadership
-
+<h3 class="mt-4">Key Leadership</h3>
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Past Unami Lodge Chiefs</h5></td>
@@ -47,8 +45,7 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
   </tr>
 </table>
 
-## Awards & Recognitions
-
+<h3 class="mt-4">Awards &</h3> Recognitions
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Vigil Honor Members</h5></td>

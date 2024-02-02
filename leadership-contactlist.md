@@ -71,8 +71,10 @@ permalink: /contactlist/
   </thead>
   <tbody>
     {% for chapter in site.data.chapters %}
-      <tr colspan="3" class="table-active">{{chapter.chapter-name}}</tr>
       {% for officer in chapter.officers %}
+        {% if forloop.first %}
+          <tr colspan="3" class="table-active">{{chapter.chapter-name}}</tr>
+        {% endif %}
         <tr>
           <td>{{officer.title}}</td>
           <td>{{officer.name}}</td>

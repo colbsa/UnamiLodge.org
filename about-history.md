@@ -45,7 +45,7 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
   </tr>
 </table>
 
-<h3 class="mt-4">Awards &</h3> Recognitions
+<h3 class="mt-4">Awards &amp; Recognitions</h3>
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Vigil Honor Members</h5></td>

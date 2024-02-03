@@ -52,7 +52,7 @@ permalink: /contactlist/
   </thead>
   <tbody>
     {% for committee in site.data.lec.committees %}
-      <tr class="table-active"><td colspan="3">{{committee.committee-name}}</td></tr>
+      <tr class="table-active"><td colspan="3"><h5 class="my-0">{{committee.committee-name}}</h5></td></tr>
       {% for member in committee.members %}
         <tr>
           <td>{{member.title}}</td>
@@ -74,7 +74,7 @@ permalink: /contactlist/
   </thead>
   <tbody>
     {% for chapter in site.data.chapters %}
-      <tr class="table-active"><td colspan="3">{{chapter.chapter-name}}</td></tr>
+      <tr class="table-active"><td colspan="3"><h5 class="my-0">{{chapter.chapter-name}}</h5></td></tr>
       {% for officer in chapter.officers %}
         <tr>
           <td>{{officer.title}}</td>

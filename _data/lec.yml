@@ -103,244 +103,177 @@ advisoryboard:
 
 
 committees:
-- title: Ordeal Chair
-  name: Andrew S.
-  email: ordeal
 
-- title: Ordeal Adviser
-  name: PJ Weidman
-  email: ordeal
-
-- title: Ordeal Assoc. Adviser
-  name: Phil Weidman
-  email: ordeal
-
-- title: Ordeal Assoc. Adviser
-  name: Meghan Luke
-  email: ordeal
-
-- title: Ordeal Assoc. Adviser
-  name: Felicia Menna
-  email: ordeal
-
-
-- title: Brotherhood Chair
-  name: Luke S.
-  email: brotherhood
-
-- title: Brotherhood Adviser
-  name: Fred Lynch
-  email: brotherhood
-
-- title: Brotherhood Assoc. Adviser
-  name: Alex Horan
-  email: brotherhood
-
-
-- title: Ceremonies Chair
-  name: Noah G.
-  email: ceremonies
-
-- title: Ceremonies Vice-Chair
-  name: Andrew S.
-  email: ceremonies
-
-- title: Ceremonies Adviser
-  name: Matt Horan
-  email: ceremonies
-
-- title: Ceremonies Assoc. Adviser
-  name: Scott Mann
-  email: ceremonies
-
-
-- title: Unit Elections Chair
-  name: Samuel E.
-  email: unitelections
-
-- title: Unit Elections Adviser
-  name: "David \"Doc\" Sirken"
-  email: unitelections
-
-- title: Unit Elections Adviser
-  name: Paul Dallatore
-  email: unitelections
-
-
-- title: Membership Chair
-  name: Katherine S.
-  email: membership
-
-- title: Membership Adviser
-  name: Jeffery Aster
-  email: membership
-
-- title: Membership Assoc. Adviser
-  name: Michaela Donnelly
-  email: membership
-
-- title: Membership Assoc. Adviser
-  name: Lee Faden
-  email: membership
-
-
-- title: Events Chair
-  name: Mara S.
-  email: events
-
-- title: Events Vice-Chair
-  name: Sarah H.
-  email: events
-
-- title: Events Adviser
-  name: Jason Abiuso
-  email: events
-
-- title: Events Assoc. Adviser
-  name: Robert Deck
-  email: events
-
-- title: Events Assoc. Adviser
-  name: Alicia Tryon
-  email: events
-
-
-- title: Service Chair
-  name: Ian B.
-  email: service
-
-- title: Service Vice-Chair
-  name: John H.
-  email: service
-
-- title: Service Co-Adviser
-  name: Jerry Reed
-  email: service
-
-- title: Service Co-Adviser
-  name: Dan McDougald
-  email: service
-
-
-- title: Camp Promotions Chair
-  name: Matt Y.
-  email: camppromotions
-
-- title: Camp Promotions Vice-Chair
-  name: Jules F.
-  email: camppromotions
-
-- title: Camp Promotions Adviser
-  name: Vacant
-  email: camppromotions
-
-- title: Camp Promotions Assoc. Adviser
-  name: Vacant
-  email: camppromotions
-
-
-- title: History Chair
-  name: Aidan S.
-  email: history
-
-- title: History Vice-Chair
-  name: Shane C.
-  email: history
-
-- title: History Adviser
-  name: Rhys Wallace
-  email: history
-
-- title: History Assoc. Adviser
-  name: Phil Hittner
-  email: history
-
-- title: History Assoc. Adviser
-  name: Mike Comfort
-  email: history
-
-
-- title: American Indian Affairs Chair
-  name: Leah C.
-  email: aia
-
-- title: American Indian Affairs Vice-Chair
-  name: Andrew S.
-  email: aia
-
-- title: American Indian Affairs Adviser
-  name: Scott Mann
-  email: aia
-
-- title: American Indian Affairs Assoc. Adviser
-  name: Matt Horan
-  email: aia
-
-
-- title: Lodge Operations Chair
-  name: Sophia C.
-  email: lodgeoperations
-
-- title: Lodge Operations Adviser
-  name: Paul Bowman
-  email: lodgeoperations
-
-- title: Lodge Operations Assoc. Adviser
-  name: Stuart Bowman
-  email: lodgeoperations
-
-
-- title: Communications Chair
-  name: Zach G.
-  email: communications
-
-- title: Communications Vice-Chair
-  name: Vacant
-  email: communications
-
-- title: Communications Adviser
-  name: David Gibbons
-  email: communications
-
-- title: Communications Assoc. Adviser
-  name: Zach Cross
-  email: communications
-
-
-- title: Leadership Development Chair
-  name: Matt R.
-  email: leadershipdevelopment
-
-- title: Leadership Development Adviser
-  name: Mark Chilutti
-  email: leadershipdevelopment
-
-
-- title: Vigil Honor Chair
-  name: Zach K.
-  email: vigil
-
-- title: Vigil Honor Adviser
-  name: Brett Montich
-  email: vigil
-
-- title: Vigil Honor Assoc. Adviser
-  name: Steve Mach
-  email: vigil
-
-- title: Vigil Honor Assoc. Adviser
-  name: Jason Abiuso
-  email: vigil
-
-
-- title: Unit Representative Chair
-  name: Robert R.
-  email: unitrep
-
-- title: Unit Representative Adviser
-  name: Vacant
-  email: unitrep
-
-- title: Unit Representative Assoc. Adviser
-  name: Vacant
-  email: unitrep
+- committee-name: Ordeal
+  - email: ordeal
+  - members:
+    - title: Chair
+      name: Andrew S.
+    - title: Adviser
+      name: PJ Weidman
+    - title: Assoc. Adviser
+      name: Phil Weidman
+    - title: Assoc. Adviser
+      name: Meghan Luke
+    - title: Assoc. Adviser
+      name: Felicia Menna
+
+- committee-name: Brotherhood
+  - email: brotherhood
+  - members:
+    - title: Chair
+      name: Luke S.
+    - title: Adviser
+      name: Fred Lynch
+    - title: Assoc. Adviser
+      name: Alex Horan
+
+- committee-name: Ceremonies
+  - email: ceremonies
+  - members:
+    - title: Chair
+      name: Noah G.
+    - title: Vice-Chair
+      name: Andrew S.
+    - title: Adviser
+      name: Matt Horan
+    - title: Assoc. Adviser
+      name: Scott Mann
+
+- committee-name: Unit Elections
+  - email: unitelections
+  - members:
+    - title: Chair
+      name: Samuel E.
+    - title: Adviser
+      name: "David \"Doc\" Sirken"
+    - title: Adviser
+      name: Paul Dallatore
+
+- committee-name: Membership
+  - email: membership
+  - members:
+    - title: Chair
+      name: Katherine S.
+    - title: Adviser
+      name: Jeffery Aster
+    - title: Assoc. Adviser
+      name: Michaela Donnelly
+    - title: Assoc. Adviser
+      name: Lee Faden
+
+- committee-name: Events
+  - email: events
+  - members:
+    - title: Chair
+      name: Mara S.
+    - title: Vice-Chair
+      name: Sarah H.
+    - title: Adviser
+      name: Jason Abiuso
+    - title: Assoc. Adviser
+      name: Robert Deck
+    - title: Assoc. Adviser
+      name: Alicia Tryon
+
+- committee-name: Service
+  - email: service
+  - members:
+    - title: Chair
+      name: Ian B.
+    - title: Vice-Chair
+      name: John H.
+    - title: Co-Adviser
+      name: Jerry Reed
+    - title: Co-Adviser
+      name: Dan McDougald
+
+- committee-name: Camp Promotions
+  - email: camppromotions
+  - members:
+    - title: Chair
+      name: Matt Y.
+    - title: Vice-Chair
+      name: Jules F.
+    - title: Adviser
+      name: Vacant
+    - title: Assoc. Adviser
+      name: Vacant
+
+- committee-name: History
+  - email: history
+  - members:
+    - title: Chair
+      name: Aidan S.
+    - title: Vice-Chair
+      name: Shane C.
+    - title: Adviser
+      name: Rhys Wallace
+    - title: Assoc. Adviser
+      name: Phil Hittner
+    - title: Assoc. Adviser
+      name: Mike Comfort
+
+- committee-name: American Indian Affairs
+  - email: aia
+  - members:
+    - title: Chair
+      name: Leah C.
+    - title: Vice-Chair
+      name: Andrew S.
+    - title: Adviser
+      name: Scott Mann
+    - title: Assoc. Adviser
+      name: Matt Horan
+
+- committee-name: Lodge Operations
+  - email: lodgeoperations
+  - members:
+    - title: Chair
+      name: Sophia C.
+    - title: Adviser
+      name: Paul Bowman
+    - title: Assoc. Adviser
+      name: Stuart Bowman
+
+- committee-name: Communications
+  - email: communications
+  - members:
+    - title: Chair
+      name: Zach G.
+    - title: Vice-Chair
+      name: Vacant
+    - title: Adviser
+      name: David Gibbon
+    - title: Assoc. Adviser
+      name: Zach Cross
+
+- committee-name: Leadership Development
+  - email: leadershipdevelopment
+  - members:
+    - title: Chair
+      name: Matt R.
+    - title: Adviser
+      name: Mark Chilutti
+
+- committee-name: Vigil Honor
+  - email: vigilhonor
+  - members:
+    - title: Chair
+      name: Zach K.
+    - title: Adviser
+      name: Brett Montich
+    - title: Assoc. Adviser
+      name: Steve Mach
+    - title: Assoc. Adviser
+      name: Jason Abiuso
+
+- committee-name: Unit Representative
+  - email: unitrep
+  - members:
+    - title: Chair
+      name: Robert R.
+    - title: Adviser
+      name: Vacant
+    - title: Assoc. Adviser
+      name: Vacant

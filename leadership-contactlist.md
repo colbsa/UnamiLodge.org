@@ -51,12 +51,15 @@ permalink: /contactlist/
     </tr>
   </thead>
   <tbody>
-    {% for person in site.data.lec.committees %}
-      <tr>
-        <td>{{person.title}}</td>
-        <td>{{person.name}}</td>
-        <td><a href="/contact?recipient={{person.email}}">{{person.email}}@unamilodge.org</a></td>
-      </tr>
+    {% for committee in site.data.lec.committees %}
+      <tr class="table-active"><td colspan="3">{{committee.committee-name}}</td></tr>
+      {% for member in committee.members %}
+        <tr>
+          <td>{{member.title}}</td>
+          <td>{{member.name}}</td>
+          <td><a href="/contact?recipient={{committee.email}}">{{committee.email}}@unamilodge.org</a></td>
+        </tr>
+      {% endfor %}
     {% endfor %}
   </tbody>
 </table>

@@ -42,7 +42,7 @@ permalink: /contactlist/
   </tbody>
 </table>
 <h3 class="mt-5">Committees</h3>
-<table class="table table-responsive table-striped mt-3">
+<table class="table table-responsive mt-3">
   <thead>
     <tr>
       <th scope="col">Positon</th>

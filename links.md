@@ -7,6 +7,7 @@ link-highlight:
 
 links:
   2024 Turtle Power Pass: https://scoutingevent.com/525-68803
+  Section E17 Conclave: https://conclaveregistration.org/section/e17/
   2024 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood

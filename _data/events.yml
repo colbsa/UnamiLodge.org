@@ -76,17 +76,17 @@
 - title: Section E17 Conclave
   date: 2024-06-07
   date-end: 2024-06-09
-  r-closes:
+  r-closes: 2024-06-04
   time:
-  price:
+  price: 40
   location: Camp NoBeBoSco
   location-url: https://goo.gl/maps/evLakmJ9L7VsZD458
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://conclaveregistration.org/section/e17/
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: NOAC
   date: 2024-07-29

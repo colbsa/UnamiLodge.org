@@ -37,19 +37,30 @@ There are multiple opportunities offered throughout the year for you complete yo
     <ul>
       {% assign highlighted_events = site.data.events | where:"ordeal", "true" %}
       {% for event in highlighted_events %}
-        {% if event.date-end %}
-          {% assign m = event.date | date: "%-m" %}
-          {% assign n = event.date-end | date: "%-m" %}
-          {% if m == n %}
-            <li><a href="{{ event.link-url }}">{{ event.title }} <i>({{event.date | date: "%B %-d"}}-{{ event.date-end | date: "%-d, %Y"}})</i></a></li>
-          {% else %}
-            <li><a href="{{ event.link-url }}">{{ event.title }} <i>({{event.date | date: "%B %-d"}} - {{ event.date-end | date: "%B %-d, %Y"}})</i></a></li>
+        <li>
+          {% if event.link-url %}
+            <a href="{{ event.link-url }}">
           {% endif %}
-        {% else %}
-          <li><a href="{{ event.link-url }}">{{ event.title }} <i>({{event.date | date: "%B %-d, %Y"}})</i></a></li>
-        {% endif %}
+          {% if event.date-end %}
+            {% assign m = event.date | date: "%-m" %}
+            {% assign n = event.date-end | date: "%-m" %}
+            {% if m == n %}
+              {{ event.title }} <i>({{event.date | date: "%B %-d"}}-{{ event.date-end | date: "%-d, %Y"}})</i>
+            {% else %}
+              {{ event.title }} <i>({{event.date | date: "%B %-d"}} - {{ event.date-end | date: "%B %-d, %Y"}})</i>
+            {% endif %}
+          {% else %}
+            {{ event.title }} <i>({{event.date | date: "%B %-d, %Y"}})</i>
+          {% endif %}
+          {% if event.link-url %}
+            </a>
+          {% else %}
+            &nbsp;- <em>Registration Coming Soon!</em>
+          {% endif %}
+        </li>
       {% endfor %}
     </ul>
+    Visit our calendar at <a href="/calendar">UnamiLodge.org/calendar</a> to see all other upcoming events!
   </div>
 </div>
 

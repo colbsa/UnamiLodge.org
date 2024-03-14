@@ -30,3 +30,9 @@ Questions? Reach out to the contact person for your service project or [service@
 
 Thank you,  
 Service Committee
+
+## Locations
+
+<div class="embed-responsive embed-responsive-4by3 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.google.com/maps/d/embed?mid=1aFw1-GGa8FFSwb8nodlqNr-cGaY05tA&ehbc=2E312F" frameborder="0" style="border:0;" allowfullscreen></iframe>
+</div>

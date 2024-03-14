@@ -3,15 +3,15 @@
   date-end:
   r-closes:
   time:
-  price:
-  location: TBD
+  price: 0
+  location: Multiple Locations
   location-url:
-  link-text:
-  link-url:
+  link-text: More Information
+  link-url: /news/2024-Community-Service-Day
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Turtle Power Pass Closes
   date: 2024-03-31

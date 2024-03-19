@@ -3,6 +3,7 @@ title: Home
 layout: index
 
 slides:
+  /img/slider/2024-csd.png: /news/2024-Community-Service-Day
   /img/slider/2024-vigil-nominations.png: /2024-Vigil-Nominations-Open
   /img/slider/slide-dues.png: /dues
   /img/slider/slide-powerpass.png: https://scoutingevent.com/525-68803

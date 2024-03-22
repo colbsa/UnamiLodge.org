@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Community Service Day: /news/2024-Community-Service-Day
+  Spring Service 1: https://scoutingevent.com/525-68803
 
 links:
   Nominate for Vigil: /awards

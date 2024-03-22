@@ -8,8 +8,16 @@ thumbnail: unami-green.png
 excerpt: The Community Service Day is our Lodge’s paramount way to give back to our local neighborhoods...
 event:
   title: Community Service Day
-  date: 2024-03-23
+  date: TBD (Postponed)
 ---
+
+The Service Committee has made the decision to postpone the Community Service Day due to the inclement weather conditions this coming Saturday. The committee will review the feasibility of rescheduling this event sometime in 2024.  The committee extends our gratitude to Pennypack Park and the Friends of Mount Moriah for partnering with the lodge’s Community Service Day.
+
+Yours in the Brotherhood  
+Service Committee  
+Unami Lodge, One
+
+<hr>
 
 The Community Service Day is our Lodge’s paramount way to give back to our local neighborhoods. Arrowmen, friends and family are all invited to join us March 23rd at each of the following sites.
 

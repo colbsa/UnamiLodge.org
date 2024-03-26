@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Spring Service 1: https://scoutingevent.com/525-68803
+  Spring Service 1: /news/2024-Spring-Service-1
 
 links:
   Nominate for Vigil: /awards

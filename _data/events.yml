@@ -1,52 +1,7 @@
-- title: Turtle Power Pass Closes
-  date: 2024-03-31
-  date-end:
-  r-closes:
-  time:
-  price: 110
-  location: UnamiLodge.org
-  location-url:
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-68803
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: Vigil Nominations Due
-  date: 2024-03-31
-  date-end:
-  r-closes:
-  time:
-  price:
-  location: UnamiLodge.org
-  location-url:
-  link-text: Nominate Now
-  link-url: /awards
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: Spring Service 1
-  date: 2024-04-05
-  date-end: 2024-04-07
-  r-closes: 2024-04-03
-  time:
-  price: 40
-  location: Musser SR
-  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-68803
-  post-url:
-  ordeal: true
-  brotherhood: true
-  highlight: true
-
 - title: Spring Service 2
   date: 2024-05-17
   date-end: 2024-05-19
-  r-closes: 2024-05-15
+  r-closes: 2024-05-14
   time:
   price: 40
   location: Resica Falls SR

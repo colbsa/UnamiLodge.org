@@ -3,10 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2024-ss1.png: /news/2024-Spring-Service-1
-  /img/slider/2024-vigil-nominations.png: /2024-Vigil-Nominations-Open
-  /img/slider/slide-dues.png: /dues
-  /img/slider/slide-powerpass.png: https://scoutingevent.com/525-68803
+  /img/slider/2024-ss2.png: /news/2024-Spring-Service-2
+  /img/slider/2024-conclave.png: /news/2024-Conclave
 
 button-bar:
   Elected Candidates: /electedcandidates

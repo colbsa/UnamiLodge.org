@@ -128,6 +128,16 @@ committees:
   - title: Assoc. Adviser
     name: Alex Horan
 
+- committee-name: Inductions
+  email: inductions
+  members:
+  - title: Chair
+    name: Star M.
+  - title: Vice-Chair
+    name: Jaclyn K.
+  - title: Adviser
+    name: Vacant
+
 - committee-name: Ceremonies
   email: ceremonies
   members:
@@ -231,6 +241,8 @@ committees:
   members:
   - title: Chair
     name: Sophia C.
+  - title: Vice-Chair
+    name: Matt R.
   - title: Adviser
     name: Paul Bowman
   - title: Assoc. Adviser

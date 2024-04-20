@@ -28,5 +28,3 @@ Unami Lodge, One and the Order of the Arrow have a rich history. What better way
     </a>
   </div>
 </div>
-
-<iframe frameborder="0" height="200" scrolling="no" src="https://embed.radiopublic.com/e?if=the-cedar-log-Wz0mzK" width="100%"></iframe>

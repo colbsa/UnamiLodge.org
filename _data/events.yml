@@ -102,6 +102,21 @@
   brotherhood: false
   highlight: false
 
+- title: Community Service Day
+  date: 2024-09-21
+  date-end:
+  r-closes:
+  time:
+  price:
+  location: Mount Moriah Cemetery
+  location-url: https://maps.app.goo.gl/zjERVwojTT1G59Qq6
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Fall Fellowship
   date: 2024-10-04
   date-end: 2024-10-06

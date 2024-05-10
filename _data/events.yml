@@ -16,17 +16,17 @@
 - title: Summer Kickoff Picnic
   date: 2024-06-01
   date-end:
-  r-closes:
+  r-closes: 2024-05-25
   time: 3-6 PM
   price: 5
   location: Fort Washington State Park
   location-url: https://maps.app.goo.gl/UqJLutU7n3cpoX5v6
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-84415
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Section E17 Conclave
   date: 2024-06-07

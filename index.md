@@ -5,7 +5,7 @@ layout: index
 slides:
   /img/slider/2024-ss2.png: /news/2024-Spring-Service-2
   /img/slider/2024-conclave.png: /news/2024-Conclave
-  /img/slider/2024-summer-kickoff.png: "#"
+  /img/slider/2024-summer-kickoff.png: https://scoutingevent.com/525-84415
 
 button-bar:
   Elected Candidates: /electedcandidates

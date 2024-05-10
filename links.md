@@ -7,6 +7,7 @@ link-highlight:
 
 links:
   Section E17 Conclave: /news/2024-Conclave
+  Summer Kickoff Picnic: https://scoutingevent.com/525-84415
   2024 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood

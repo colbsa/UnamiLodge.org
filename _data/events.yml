@@ -1,18 +1,3 @@
-- title: Spring Service 2
-  date: 2024-05-17
-  date-end: 2024-05-19
-  r-closes: 2024-05-14
-  time:
-  price: 40
-  location: Resica Falls SR
-  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-68803
-  post-url:
-  ordeal: true
-  brotherhood: true
-  highlight: true
-
 - title: Summer Kickoff Picnic
   date: 2024-06-01
   date-end:
@@ -36,12 +21,12 @@
   price: 40
   location: Camp NoBeBoSco
   location-url: https://goo.gl/maps/evLakmJ9L7VsZD458
-  link-text: Register Now
-  link-url: https://conclaveregistration.org/section/e17/
+  link-text: Sold Out
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: NOAC
   date: 2024-07-29
@@ -51,7 +36,7 @@
   price: 1325
   location: University of Colorado Boulder
   location-url: https://goo.gl/maps/RyqKEfSrGz35WgcF7
-  link-text: Registration Closed
+  link-text: Sold Out
   link-url:
   post-url:
   ordeal: false
@@ -85,7 +70,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Vigil Weekend
   date: 2024-09-13
@@ -130,4 +115,19 @@
   post-url:
   ordeal: true
   brotherhood: true
+  highlight: false
+
+- title: Lodge Leadership Development
+  date: 2024-12-14
+  date-end:
+  r-closes:
+  time:
+  price: 40
+  location: Oscar Lasko Program Activity Resource Campus
+  location-url: https://goo.gl/maps/6susT3QgX5tpDbXz6
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
   highlight: false

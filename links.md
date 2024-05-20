@@ -3,11 +3,10 @@ title: Home
 layout: links
 
 link-highlight:
-  Spring Service 2: /news/2024-Spring-Service-2
+  Summer Kickoff Picnic: https://scoutingevent.com/525-84415
 
 links:
-  Section E17 Conclave: /news/2024-Conclave
-  Summer Kickoff Picnic: https://scoutingevent.com/525-84415
+  Summer Inductions Weekend: https://scoutingevent.com/525-68803
   2024 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates
   Seal the Bond: https://unamilodge.org/brotherhood

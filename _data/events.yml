@@ -117,6 +117,21 @@
   brotherhood: true
   highlight: false
 
+- title: Brotherhood Blitz
+  date: 2024-11-09
+  date-end:
+  r-closes: 2024-10-02
+  time:
+  price: 30
+  location: Musser SR
+  location-url:
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: true
+  highlight: false
+
 - title: Lodge Leadership Development
   date: 2024-12-14
   date-end:

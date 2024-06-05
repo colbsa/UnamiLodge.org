@@ -21,7 +21,7 @@ picture:
 
 recaptcha: 6LdlwroUAAAAAKKNaJmAUiIKTRFYNk_qVpy9b5Fo
 
-permalink: /news/:title
+permalink: /news/:title/index.html
 
 pagination:
   enabled: true

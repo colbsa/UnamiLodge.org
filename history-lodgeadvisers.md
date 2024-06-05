@@ -1,7 +1,7 @@
 ---
 title: Lodge Advisers
 layout: page
-permalink: /history/lodge-advisers
+permalink: /history/lodge-advisers/
 ---
 <table class="table table-striped my-3">
   <thead>

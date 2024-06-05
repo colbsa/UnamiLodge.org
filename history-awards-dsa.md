@@ -1,7 +1,7 @@
 ---
 title: The Distinguished Service Award
 layout: page
-permalink: /history/awards/dsa
+permalink: /history/awards/dsa/
 ---
 The Distinguished Service Award (DSA) was created in 1940 to honor those who rendered service to the Order beyond the lodge level. The award is presented to Arrowmen, youth and adult, who have rendered distinguished and outstanding service to the Order on a sectional, regional, or national basis. The award is presented at National Order of the Arrow Conferences. Since the time the first awards were presented, 1019 Distinguished Service Awards have been awarded.
 

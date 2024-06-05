@@ -1,7 +1,7 @@
 ---
 title: 404 - Page Not Found
 layout: error
-permalink: /404/
+permalink: /404
 
 head: Have you seen the arrow?
 ---

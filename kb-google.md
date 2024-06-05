@@ -1,7 +1,7 @@
 ---
 title: Knowledgebase | Google Workspace
 layout: page
-permalink: /kb-google/
+permalink: /kb/google/
 ---
 
 <h3 class="mt-5">Signing In</h3>

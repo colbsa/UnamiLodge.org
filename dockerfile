@@ -1,8 +1,13 @@
+# Revised from: https://github.com/rockstorm101/jekyll-docker/tree/master
+# Modified extra packages command
+# Modified build command to work with DO App Platform
+
 FROM ruby:3.3.1-alpine3.20
 
 ENV SETUPDIR=/setup
 WORKDIR ${SETUPDIR}
 ARG GEMFILE_DIR=.
+ARG JEKYLL_BASEURL=''
 COPY $GEMFILE_DIR/Gemfile* $GEMFILE_DIR/packages* .
 
 # Install build dependencies
@@ -37,3 +42,6 @@ RUN set -eux; \
 EXPOSE 4000
 ENTRYPOINT ["bundler", "exec", "jekyll"]
 CMD ["--version"]
+
+COPY . /srv/jekyll
+RUN jekyll build -b ${JEKYLL_BASEURL}

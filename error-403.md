@@ -1,7 +1,7 @@
 ---
 title: 403 - Access Denied
 layout: error
-permalink: /403/
+permalink: /403.html
 
 head: Woooah there!
 ---

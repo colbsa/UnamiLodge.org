@@ -21,7 +21,7 @@ picture:
 
 recaptcha: 6LdlwroUAAAAAKKNaJmAUiIKTRFYNk_qVpy9b5Fo
 
-permalink: /news/:title/index.html
+permalink: /news/:title/
 
 pagination:
   enabled: true
@@ -33,7 +33,8 @@ pagination:
   sort_reverse: true
 
 page_gen:
-  - data: 'chapters'
-    template: 'chapters'
-    name: 'email'
-    dir: 'chapters'
+- data: 'chapters'
+  template: 'chapters'
+  name: 'email'
+  dir: 'chapters'
+  index_files: true

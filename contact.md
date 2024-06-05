@@ -1,11 +1,12 @@
 ---
 title: Contact Us
 layout: page
+permalink: /contact/
 dependencies:
 - src: https://www.google.com/recaptcha/api.js
 - src: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js
 scripts: 
-- src: assets/custom/js/contact.js
+- src: /assets/custom/js/contact.js
 
 ---
 

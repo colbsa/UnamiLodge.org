@@ -1,7 +1,7 @@
 ---
 title: Search
 layout: page
-permalink: /search
+permalink: /search/
 excerpt: Find what you are looking for at Musser Scout Reservation. We are bound to have it.
 dependencies:
 - src: https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js

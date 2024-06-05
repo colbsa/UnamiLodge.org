@@ -1,7 +1,7 @@
 ---
 title: Knowledgebase | Slack
 layout: page
-permalink: /kb-slack/
+permalink: /kb/slack/
 ---
 
 <h3 class="mt-5">Getting Started</h3>

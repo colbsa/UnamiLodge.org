@@ -1,7 +1,7 @@
 ---
 title: Knowledgebase | Video Conferencing
 layout: page
-permalink: /kb-videoconferencing/
+permalink: /kb/videoconferencing/
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Knowledgebase | MailChimp
 layout: page
-permalink: /kb-mailchimp/
+permalink: /kb/mailchimp/
 ---
 
 <h3 class="mt-5">Overview</h3>

@@ -1,7 +1,7 @@
 ---
 title: The Founder&#39;s Award
 layout: page
-permalink: /history/awards/founders
+permalink: /history/awards/founders/
 ---
 Introduced at the 1981 National Order of the Arrow Conference, the Founder&#39;s Award recognizes Arrowmen who have given outstanding service to their lodge. The award is reserved for an Arrowman who demonstrates that he or she personifies the spirit of selfless service, as advocated by founder E. Urner Goodman and cofounder Carroll A. Edson.
 

@@ -6,7 +6,7 @@ permalink: /lld/
 
 A Lodge needs leaders and leaders need to hone their skills. Join us this year at the annual Lodge Leadership Development! All members of the Lodge Executive Committee and chapter officers are invited. This year's conference will focus on Unit Elections, Inductions, and Activation.
 
-If you have any questions please email the Leadership Development Committee at [leadershipdevelopment@UnamiLodge.org](/contact?recipient=leadershipdevelopment)
+If you have any questions please email the Leadership Development Committee at leadershipdevelopment@UnamiLodge.org.
 
 <h1 class="text-center text-primary mt-5">Event Details</h1>
 

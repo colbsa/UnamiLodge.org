@@ -19,8 +19,6 @@ picture:
   nomarkdown: false
   suppress_warnings: true
 
-recaptcha: 6LdlwroUAAAAAKKNaJmAUiIKTRFYNk_qVpy9b5Fo
-
 permalink: /news/:title/
 
 pagination:

@@ -19,4 +19,4 @@ Let us know you are interested by signing up now. There is no cost, other than y
 
 [More information on LLD and other OA Trainings can be found at oa-bsa.org](https://oa-bsa.org/training)
 
-If you have any questions please email the Leadership Development Committee at [leadershipdevelopment@UnamiLodge.org](/contact?recipient=leadershipdevelopment). We look forward to seeing you soon!
+If you have any questions please email the Leadership Development Committee at leadershipdevelopment@UnamiLodge.org. We look forward to seeing you soon!

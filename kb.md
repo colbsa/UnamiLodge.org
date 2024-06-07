@@ -10,7 +10,7 @@ Unami Lodge maintains a suite of tools intended to facilitate communication at t
 
 Whether you've been linked to this landing as a part of lodge leadership position on-boarding, or found it organically - thank you for your interest, and service.
 
-The lodge's Communications committee endeavors to provide easy access to useful information on the tools we provide.  As such, please do not hesitate to reach out ([communications@unamilodge.org](/contact?recipient=communications)) with any questions or suggestions for further content development.
+The lodge's Communications committee endeavors to provide easy access to useful information on the tools we provide.  As such, please do not hesitate to reach out communications@unamilodge.org with any questions or suggestions for further content development.
 
 
 <h2 class="text-primary">Frequently Asked Questions</h2>
@@ -28,7 +28,7 @@ All those who hold a formal [position](/contactlist) in the lodge are automatica
 
 
 **Can you help me recover my login details?**
-Absolutely!  Please do not hesitate to reach out to [communications@unamilodge.org](/contact?recipient=communications) and we'll be happy to help.
+Absolutely!  Please do not hesitate to reach out to communications@unamilodge.org and we'll be happy to help.
 
 
 <h2 class="text-primary pl-2">Meetings</h2>

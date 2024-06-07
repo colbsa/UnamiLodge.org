@@ -33,5 +33,5 @@ Questions? Head over to the [contact form](/contact) and ask one of our lodge co
 
 {% assign key3_person = site.data.lec.officers | where:"key3", "true" %}
 {% for person in key3_person %}
-{{person.name}} - {{person.title}} - [{{person.email}}@unamilodge.org](/contact?recipient={{person.email}})
+{{person.name}} - {{person.title}} - {{person.email}}@unamilodge.org
 {% endfor %}

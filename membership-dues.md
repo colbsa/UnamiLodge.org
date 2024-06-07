@@ -52,4 +52,4 @@ Click the link in the invitation email. If you get prompted to log in, then do s
 
 ## Questions / Need Help?
 
-Contact [membership@unamilodge.org](/contact?recipient=membership)
+Contact membership@unamilodge.org

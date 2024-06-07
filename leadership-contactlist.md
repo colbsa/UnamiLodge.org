@@ -17,7 +17,7 @@ permalink: /contactlist/
       <tr>
         <td>{{person.title}}</td>
         <td>{{person.name}}</td>
-        <td><a href="/contact?recipient={{person.email}}">{{person.email}}@unamilodge.org</a></td>
+        <td>{{person.email}}@unamilodge.org</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -36,7 +36,7 @@ permalink: /contactlist/
       <tr>
         <td>{{person.title}}</td>
         <td>{{person.name}}</td>
-        <td><a href="/contact?recipient={{person.email}}">{{person.email}}@unamilodge.org</a></td>
+        <td>{{person.email}}@unamilodge.org</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -57,7 +57,7 @@ permalink: /contactlist/
         <tr>
           <td>{{member.title}}</td>
           <td>{{member.name}}</td>
-          <td><a href="/contact?recipient={{committee.email}}">{{committee.email}}@unamilodge.org</a></td>
+          <td>{{committee.email}}@unamilodge.org</td>
         </tr>
       {% endfor %}
     {% endfor %}
@@ -79,7 +79,7 @@ permalink: /contactlist/
         <tr>
           <td>{{officer.title}}</td>
           <td>{{officer.name}}</td>
-          <td><a href="mailto:{{chapter.email}}@unamilodge.org">{{chapter.email}}@unamilodge.org</a></td>
+          <td>{{chapter.email}}@unamilodge.org</td>
         </tr>
       {% endfor %}
     {% endfor %}

@@ -23,7 +23,7 @@ To access Gmail, visit [Google.com/Gmail](https://www.google.com/gmail/).
 
 
 <h3 class="mt-5">Groups</h3>
-Google Groups are what make Unami Lodge's "email forwarder" system work.  For example, all members of the Communications committee receive a copy of every message sent to [Communications@UnamiLodge.org](https://dev.unamilodge.org/contact?recipient=communications).
+Google Groups are what make Unami Lodge's "email forwarder" system work.  For example, all members of the Communications committee receive a copy of every message sent to communications@UnamiLodge.org.
 
 If you need help with creating a group, managing it's members, or any other administrative task, please drop the [#Communications](https://unamilodge.slack.com/archives/C4RN3NCTS) committee a line.  Otherwise, visit [Groups.Google.com](https://groups.google.com) or check out [Google's documentation](https://support.google.com/groups/answer/46601?hl=en) to lean how your committee can use Groups as more then a way to shuffle emails around!
 

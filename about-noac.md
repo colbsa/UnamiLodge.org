@@ -98,7 +98,7 @@ banner: /img/portals/noac-2024-portal.png
     </p>
     <h2>Refund Policy</h2>
     <p>
-      Unami Lodge must commit financial resources to book travel, pay national conference fees, and purchase supplies for the trip. Please notify the <a href="mailto:noac@unamilodge.org">NOAC Committee</a> immediately if you are no longer able to attend NOAC. If there is a replacement available to fill your spot, all monies paid will be refunded. Otherwise, the following guidelines will be used.
+      Unami Lodge must commit financial resources to book travel, pay national conference fees, and purchase supplies for the trip. Please notify the NOAC Committee at noac@unamilodge.org immediately if you are no longer able to attend NOAC. If there is a replacement available to fill your spot, all monies paid will be refunded. Otherwise, the following guidelines will be used.
       <ul>
         <li>Before February 1 - 100% of monies paid will be refunded</li>
         <li>After February 1 - 100% of <i>unspent</i> monies paid will be refunded, less the $200 deposit</li>

@@ -107,3 +107,5 @@ Absolutely!  Please do not hesitate to reach out to communications@unamilodge.or
     <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://oa-bsa.org/resources/communications-toolkit">Read More</a></td>
   </tr>
 </table>
+
+Website Last Published: {{ site.time | date: "%Y-%m-%d %H:%M" }} UTC

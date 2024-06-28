@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  {% if jekyll.environment == "production" %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  {% if jekyll.environment == "prod" %}
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96198154-3"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -11,6 +11,8 @@
 
     gtag('config', 'UA-96198154-3');
   </script>
+  {% else %}
+  <!-- This site is in "development" mode; otherwise, Google Analytics would appear here -->
   {% endif %}
 
   <meta charset="utf-8">

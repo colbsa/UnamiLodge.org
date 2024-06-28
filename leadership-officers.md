@@ -16,7 +16,7 @@ permalink: /officers/
       <tr>
         <td>{{person.title}}</td>
         <td>{{person.name}}</td>
-        <td><a href="/contact?recipient={{person.email}}">{{person.email}}@unamilodge.org</a></td>
+        <td>{{person.email}}@unamilodge.org</td>
       </tr>
     {% endfor %}
   </tbody>

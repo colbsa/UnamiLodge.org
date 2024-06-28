@@ -1,11 +1,11 @@
-media_presets:
+media_queries:
   large_desktop: 'min-width: 1200px'
   desktop: 'min-width: 992px'
   tablet: 'min-width: 768px'
   landscape_mobile: 'min-width: 576px'
   mobile: 'max-width: 575px'
 
-markup_presets:
+presets:
 
   default:
     markup: auto

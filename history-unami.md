@@ -1,7 +1,7 @@
 ---
 title: Lodge History
 layout: page
-permalink: /history/unami
+permalink: /history/unami/
 ---
 
 Unami Lodge, One and the Order of the Arrow were founded at Treasure Island Camp in the summer of 1915 by E. Urner Goodman - the camp director - and Carroll A. Edson - the associate camp director in charge of the commissary - to recognize campers and  staff members for dedication and service beyond the responsibilities of their positions of responsibility. Originally known as the Wimachtendienk Society, and later as the Wimachtendienk W.W. (translated in the original Unami Constitution as “a Brotherhood of those who serve cheerfully”), the organization was to be based on the traditions of the Delaware Indians. On July 16, 1915, Robert Craig and Gilpin Allen were inducted as the first members of the Wimachtendienk; by the end of the summer, twenty-five members had been inducted, including Goodman and Edson. At the end of the summer, Goodman was recognized by the other members of the society with what we today consider to be the first Vigil Honor and was given the Indian name Nuwingi, interpreted as The Willing. 

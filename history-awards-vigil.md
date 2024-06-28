@@ -1,7 +1,7 @@
 ---
 title: The Vigil Honor
 layout: page
-permalink: /history/awards/vigil
+permalink: /history/awards/vigil/
 ---
 
 <table class="table table-responsive table-striped my-3 ">

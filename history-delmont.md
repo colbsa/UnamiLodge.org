@@ -1,7 +1,7 @@
 ---
 title: Delmont Lodge History
 layout: page
-permalink: /history/delmont
+permalink: /history/delmont/
 ---
 
 *Information taken from We Who Bear the Obligation…the 50th Anniversary History of Delmont Lodge #43 by Michael G. Comfort, c. 1979.*

@@ -1,7 +1,7 @@
 ---
 title: Unami Lodge Chiefs
 layout: page
-permalink: /history/unami-chiefs
+permalink: /history/unami-chiefs/
 ---
 <table class="table table-striped my-3">
   <thead>

@@ -1,7 +1,7 @@
 ---
 title: LEC Portal
 layout: page
-permalink: /portal-lec
+permalink: /portal-lec/
 ---
 
 Thank you for being a dedicated member of the lodge executive committee. Below you will find links to some our commonly used resources.

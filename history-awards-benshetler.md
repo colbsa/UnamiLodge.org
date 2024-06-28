@@ -1,7 +1,7 @@
 ---
 title: The Charles J. &quot;Chuck&quot; Benshetler Spirit of Camp Leadership Award
 layout: page
-permalink: /history/awards/camp-leadership
+permalink: /history/awards/camp-leadership/
 ---
 Charles J. &quot;Chuck&quot; Benshetler was a Vigil Honor member of Unami Lodge, One, serving for decades on the staffs of Philadelphia and Cradle of Liberty Council camps. Chuck served in a multitude of positions during that time, including as both camp director and camp ranger at Treasure Island Scout Reservation. Chuck always set an example to the staff and tried to improve the camp in any way that he could. It is in his memory and legacy that Unami Lodge, One recognizes members of the Order of the Arrow and camp staff which exemplify the same spirit of camp leadership.
 

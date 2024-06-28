@@ -1,7 +1,7 @@
 ---
 title: Find My Chapter
 layout: page
-permalink: /chapters/find
+permalink: /chapters/find/
 scripts: 
 - src: assets/custom/js/chapters-find.js
 

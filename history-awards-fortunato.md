@@ -1,7 +1,7 @@
 ---
 title: The Dave Fortunato Outstanding Service Award     
 layout: page
-permalink: /history/awards/adult-osa
+permalink: /history/awards/adult-osa/
 ---
 The Dave Fortunato Outstanding Service Award was established by the Lodge Executive Committee in the fall of 1996. Dave was a long-time Scouter in the Valley Forge Council, an active campmaster, chapter adviser, and lodge adviser of Delmont Lodge #43. Following the merger of Unami 1 with Delmont Lodge, Dave was chosen as the first lodge adviser of the new lodge. Unfortunately, this Vigil Honor member and Founder’s Award recipient passed away on September 27, 1996. As someone who believed firmly in living by the Scout Oath and Law, and who abided by the Obligation in his daily life, Dave saw great promise in the new Unami Lodge, One.
 

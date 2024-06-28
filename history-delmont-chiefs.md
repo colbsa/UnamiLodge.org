@@ -1,7 +1,7 @@
 ---
 title: Delmont Lodge Chiefs
 layout: page
-permalink: /history/delmont-chiefs
+permalink: /history/delmont-chiefs/
 ---
 <table class="table table-striped my-3">
   <thead>

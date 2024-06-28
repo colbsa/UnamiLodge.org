@@ -25,6 +25,14 @@
             <i class="fa fa-user-o pl-5"></i> {{page.author}}
             {% endif %} 
         <hr>
+        {% assign ten_months = site.time | date: '%s' | minus: 26282880 %}
+        {% assign pagetime = page.date | date: '%s' | plus: 0 %}
+        {% if pagetime < ten_months %}
+        <div class="alert alert-secondary" role="alert">
+          You're viewing an article from the Unami Lodge news archives that was published over 10 months ago. Please note that this content
+          is presented for reference purposes only. Some links may no longer function and the information below may be outdated.
+        </div>
+        {% endif %}
         {{content}}
       </div>
       <div class="col-lg-4">

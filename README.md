@@ -35,14 +35,15 @@ We have standardized on using the PNG file format. Some standard sizes (in pixel
 - Portals: 4500x900
 
 ### Docker
-The easiest way at the moment to run this locally is using the Dockerfile located in this repo. It can be used by running the following to build an image:
+The easiest way to run this locally is using the Dockerfile located in this repo. It can be used by running the following to build an image:
 ```
-docker build . -t YOUR-USERNAME/jekyll
+docker build -t jekyll .
 ```
-and then the following to start a container. Note the first time running the following with take a few minutes.
+and then the following to serve the website at [127.0.0.1:4000](http://127.0.0.1).
 ```
-docker run --rm --label=jekyll -v ${PWD}:/srv/jekyll -v jekyll-cache:/usr/local/bundle -v jekyll-gems:/usr/gem -it -p 4000:4000 YOUR-USERNAME/jekyll jekyll serve
+docker run --rm -v ${PWD}:/srv/jekyll -p 4000:4000 jekyll serve --host 0.0.0.0
 ```
+***Note:** Updates to the Gemfile and Gemfile.lock will require rebuilding the Docker image*
 
 ## TODO
 Items we are still working on

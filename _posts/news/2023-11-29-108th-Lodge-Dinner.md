@@ -17,4 +17,4 @@ Join us this new year at the Lodge's 107th Annual Dinner! This is one of the old
 
 Join us in thanking our past officers and LEC as well as say 'hello' to our future! Don't forget to be the first to congratulate the winners of this years Oustanding Service Awards, Spirit of Camp Leadership Awards, Founder's Award and more!
 
-If you have any questions, let the dinner committee know at [dinner@unamilodge.org](/contact?recipient=dinner).
+If you have any questions, let the dinner committee know at dinner@unamilodge.org.

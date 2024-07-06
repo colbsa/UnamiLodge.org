@@ -70,21 +70,21 @@ Absolutely!  Please do not hesitate to reach out to communications@unamilodge.or
       <h5 class="my-0">Google Workspace</h5>
       Email, file sharing, and most everything else you need to get things done.  This account is the basis for your @UnamiLodge.org collaboration needs.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb-google/">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb/google/">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Slack</h5>
       Messaging app for general LEC business, sub-committee collaboration, and Chapters.  Available for both your computer and phone.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb-slack/">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb/slack/">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">
       <h5 class="my-0">Zoom & Google Meet</h5>
       Video conferencing solutions for fully remote meetings and hybrid "call-in" scenarios.  Great for big planned events, as well as small "on the fly" use.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb-videoconferencing/">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="/kb/videoconferencing/">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">

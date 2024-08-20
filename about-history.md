@@ -9,6 +9,26 @@ Unami Lodge, One and the Order of the Arrow were founded at Treasure Island Camp
 
 As the first lodge, Unami has a long and storied past that we love to share. Take a minute to explore the lists of our past lodge chiefs, lodge advisers, Vigil Honor members, and lodge award recipients below. A history of Unami Lodge (1915-Present) and Delmont Lodge 43 (1929-1996) is also located on this page. If you have questions or wish to contribute information or pictures about the history of our lodge, please contact history@unamilodge.org.
 
+<h3 class="mt-4">History Committee Communications</h3>
+<table class="table">
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Unami Lodge History Newsletter</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://lp.constantcontactpages.com/su/qrw8jmk">Sign Up</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Delmont Lodge History Facebook</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://www.facebook.com/unamilodgehistorycommittee">Like</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Unami Lodge History Instagram</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://www.instagram.com/unamilodgehistory">Follow</a></td>
+  </tr>
+  <tr>
+    <td class="align-middle"><h5 class="my-0">Unami Lodge History Podcast</h5></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/podcast">Listen Now</a></td>
+  </tr>
+</table>
+
 <h3 class="mt-4">General History</h3>
 <table class="table">
   <tr>
@@ -22,10 +42,6 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
   <tr>
     <td class="align-middle"><h5 class="my-0">Unami Lodge Flap History</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://patchvault.org/lodges/1a-unami/issues">Visit PatchVault</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">Unami Lodge History Podcast</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/podcast">Listen Now</a></td>
   </tr>
 </table>
 
@@ -52,7 +68,7 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/vigil">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Thomas J. Richards Outstanding Service Award Recipients</h5></td>
+    <td class="align-middle"><h5 class="my-0">Thomas J. Richards Outstanding Service Award</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/youth-osa">Read More</a></td>
   </tr>
   <tr>
@@ -60,23 +76,23 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/adult-osa">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Charles J. "Chuck" Benshetler Spirit of Camp Leadership Award Recipients</h5></td>
+    <td class="align-middle"><h5 class="my-0">Charles J. "Chuck" Benshetler Spirit of Camp Leadership Award</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/camp-leadership">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Founder's Award Recipients</h5></td>
+    <td class="align-middle"><h5 class="my-0">Founder's Award</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/founders">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Green Turtle Award Recipients</h5></td>
+    <td class="align-middle"><h5 class="my-0">Green Turtle Award</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/green-turtle">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Centurion Award Recipients</h5></td>
+    <td class="align-middle"><h5 class="my-0">Centurion Award</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/centurion">Read More</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Distinguished Service Award Recipients</h5></td>
+    <td class="align-middle"><h5 class="my-0">Distinguished Service Award</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="/history/awards/dsa">Read More</a></td>
   </tr>
 </table>

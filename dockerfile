@@ -45,5 +45,6 @@ EXPOSE 4000
 ENTRYPOINT ["bundler", "exec", "jekyll"]
 CMD ["--version"]
 
+# DELETE THESE TWO LINES TO BUILD LOCALLY BUT DO NOT COMMIT
 COPY . /srv/jekyll
 RUN jekyll build -b ${JEKYLL_BASEURL}

@@ -3,10 +3,9 @@ title: Home
 layout: links
 
 link-highlight:
-  Summer Inductions Weekend: https://scoutingevent.com/525-68803
+  Scout Memorabilia Show: https://scoutingevent.com/525-80505
 
 links:
-  Scout Memorabilia Show: https://scoutingevent.com/525-80505
   Fall Fellowship: https://scoutingevent.com/525-68803
   2024 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates

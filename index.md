@@ -3,7 +3,6 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2024-scout-memorabilia-show.png: https://scoutingevent.com/525-80505
   /img/slider/2024-fall-fellowship.png: https://scoutingevent.com/525-68803
 
 button-bar:

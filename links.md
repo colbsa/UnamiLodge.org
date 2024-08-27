@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Scout Memorabilia Show: https://scoutingevent.com/525-80505
+  Community Service Day: https://scoutingevent.com/?OrgKey=BSA525&calendarID=482858
 
 links:
   Fall Fellowship: https://scoutingevent.com/525-68803

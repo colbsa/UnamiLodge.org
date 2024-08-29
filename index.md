@@ -3,7 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2024-fall-fellowship.png: https://scoutingevent.com/525-68803
+  /img/slider/2024-fall-fellowship.png: /news/2024-Fall-Fellowship
 
 button-bar:
   Elected Candidates: /electedcandidates

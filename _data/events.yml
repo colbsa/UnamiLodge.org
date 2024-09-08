@@ -119,8 +119,8 @@
   highlight: false
 
 - title: Spring Service 1
-  date: 2024-04-04
-  date-end: 2024-04-06
+  date: 2025-04-04
+  date-end: 2025-04-06
   r-closes:
   time:
   price:
@@ -134,8 +134,8 @@
   highlight: false
 
 - title: Spring Service 2
-  date: 2024-05-16
-  date-end: 2024-05-18
+  date: 2025-05-16
+  date-end: 2025-05-18
   r-closes:
   time:
   price:
@@ -149,8 +149,8 @@
   highlight: false
 
 - title: Section E17 Conclave
-  date: 2024-08-06
-  date-end: 2024-08-10
+  date: 2025-08-06
+  date-end: 2025-08-10
   r-closes:
   time:
   price:

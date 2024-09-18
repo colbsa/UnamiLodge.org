@@ -41,7 +41,7 @@
   post-url:
   ordeal: false
   brotherhood: true
-  highlight: false
+  highlight: true
 
 - title: Lodge Leadership Development
   date: 2024-12-14

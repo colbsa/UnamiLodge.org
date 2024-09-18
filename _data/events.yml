@@ -1,18 +1,3 @@
-- title: Vigil Weekend
-  date: 2024-09-13
-  date-end: 2024-09-15
-  r-closes: 2024-09-11
-  time:
-  price: 30
-  location: Resica Falls SR
-  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-85358
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Community Service Day
   date: 2024-09-21
   date-end:
@@ -51,12 +36,12 @@
   price: 30
   location: Musser SR
   location-url:
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-89332
   post-url:
   ordeal: false
   brotherhood: true
-  highlight: false
+  highlight: true
 
 - title: Lodge Leadership Development
   date: 2024-12-14

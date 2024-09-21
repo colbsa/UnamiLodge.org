@@ -298,10 +298,6 @@
   camp: Resica Falls
   lodge: Unami Lodge, One
   age: Adult
-- name: Tristan Hunter
-  year: 2021
-  camp: Resica Falls
-  lodge: Unami Lodge, One
   age: Youth
 - name: Matthew Luke
   year: 2021
@@ -350,31 +346,31 @@
   age: Adult
 - name: Patrick Lynch
   year: 2023
-  camp: 
+  camp:
   lodge: Unami Lodge, One
   age: Youth
 - name: Anton Meyer
   year: 2023
-  camp: 
+  camp:
   lodge: Unami Lodge, One
   age: Youth
 - name: Andrew Smallberger
   year: 2023
-  camp: 
+  camp:
   lodge: Unami Lodge, One
   age: Youth
 - name: Luke Smallberger
   year: 2023
-  camp: 
+  camp:
   lodge: Unami Lodge, One
   age: Youth
 - name: Dennis Abernethy
   year: 2023
-  camp: 
+  camp:
   lodge: Unami Lodge, One
   age: Adult
 - name: Theodore (Ted) McDonald
   year: 2023
-  camp: 
+  camp:
   lodge: Unami Lodge, One
   age: Adult

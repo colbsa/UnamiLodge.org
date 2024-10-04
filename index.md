@@ -3,7 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2024-fall-fellowship.png: /news/2024-Fall-Fellowship
+  /img/slider/2024-Brotherhood-Blitz.png: /news/2024-Brotherhood-Blitz
+  /img/slider/slide-awards.png: /awards
 
 button-bar:
   Elected Candidates: /electedcandidates

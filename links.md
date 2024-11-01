@@ -7,7 +7,6 @@ link-highlight:
 
 links:
   New Member's Bash: https://scoutingevent.com/525-90362
-  Award Nominations Due: /awards
   Lodge Leadership Development: https://docs.google.com/forms/d/e/1FAIpQLSevz3GigVG_GVLS8tguH6EOoOjX31n0e7iP0WcxkI2EHK50Bw/viewform
   2024 Dues: https://unamilodge.org/dues
   Join the Order: https://unamilodge.org/electedcandidates

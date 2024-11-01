@@ -4,7 +4,6 @@ layout: index
 
 slides:
   /img/slider/2024-Brotherhood-Blitz.png: /news/2024-Brotherhood-Blitz
-  /img/slider/slide-awards.png: /awards
 
 button-bar:
   Elected Candidates: /electedcandidates

@@ -51,12 +51,12 @@
   price: 40-45
   location: The Alloy (KoP)
   location-url: https://goo.gl/maps/GdQo99pfzEWyWY3H9
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-91019
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Dues Early Bird Ends
   date: 2025-01-31

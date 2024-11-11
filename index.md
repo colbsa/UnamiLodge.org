@@ -3,7 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2024-Brotherhood-Blitz.png: /news/2024-Brotherhood-Blitz
+  /img/slider/2024-new-members-bash.png: https://scoutingevent.com/525-90362
+  /img/slider/2025-dinner.png: https://scoutingevent.com/525-91019
 
 button-bar:
   Elected Candidates: /electedcandidates

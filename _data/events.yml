@@ -118,21 +118,6 @@
   brotherhood: false
   highlight: false
 
-- title: Section E17 Conclave
-  date: 2025-08-06
-  date-end: 2025-08-10
-  r-closes:
-  time:
-  price:
-  location: Camp Guajataka
-  location-url: https://maps.app.goo.gl/1u4oBAapptNLa5JU7
-  link-text: More Information
-  link-url: https://sectione17.oa-bsa.org/conclave-2025/
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
 - title: Summer Inductions
   date: 2025-08-01
   date-end: 2025-08-03
@@ -143,6 +128,21 @@
   location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
   link-text:
   link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Section E17 Conclave
+  date: 2025-08-06
+  date-end: 2025-08-10
+  r-closes:
+  time:
+  price:
+  location: Camp Guajataka
+  location-url: https://maps.app.goo.gl/1u4oBAapptNLa5JU7
+  link-text: More Information
+  link-url: https://sectione17.oa-bsa.org/conclave-2025/
   post-url:
   ordeal: false
   brotherhood: false

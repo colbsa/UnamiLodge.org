@@ -16,7 +16,7 @@ Hello Brothers,
 We are excited to announce that registration for Conclave 2025, hosted by Yokahú Lodge at Guajataka Scout Reservation in Puerto Rico, is NOW OPEN!!!
 
 <div class="text-center">
-  <a href="https://sectione17.oa-bsa.org/conclave-2025/" class="btn btn-primary btn-lg" target="_blank">More Information</a>
+  <a href="https://scoutingevent.com/525-Conclave2025" class="btn btn-primary btn-lg" target="_blank">Register Now</a>
 </div>
 
 We do want to take as many people as we possibly can with Section E17’s approval so please register early! But since we have no idea how many spots we are going to get from the section you are NOT GUARANTEED ONE!! Early registration gives you a higher opportunity to get a spot to attend this Conclave! Registration is a $250 deposit, which you will get back if you are not given a spot. There is a specific payment plan to reach the $1,200 price, which is the price that section is charging.

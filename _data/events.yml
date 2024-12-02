@@ -1,7 +1,7 @@
 - title: Lodge Leadership Development
   date: 2024-12-14
   date-end:
-  r-closes:
+  r-closes: 2024-12-08
   time: 8AM - 6PM
   price: 0
   location: Oscar Lasko Program Activity Resource Campus
@@ -36,12 +36,12 @@
   price:
   location: UnamiLodge.org
   location-url:
-  link-text:
-  link-url:
+  link-text: Pay My Dues
+  link-url: https://scoutingevent.com/525-91020
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Community Service Day
   date: 2025-03-22
@@ -126,12 +126,12 @@
   price:
   location: Camp Guajataka
   location-url: https://maps.app.goo.gl/1u4oBAapptNLa5JU7
-  link-text: More Information
-  link-url: https://sectione17.oa-bsa.org/conclave-2025/
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-Conclave2025
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Vigil Honor Weekend
   date: 2025-09-19

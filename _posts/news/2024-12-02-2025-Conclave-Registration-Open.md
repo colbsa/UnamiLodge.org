@@ -4,7 +4,7 @@ title: 2025 Conclave Registration
 author:
 date: 2024-12-02
 banner:
-thumbnail: 2025-Conclave.png
+thumbnail: 2025-Conclave.jpg
 excerpt: We do want to take as many people as we possibly can with Section E17’s approval so please register early!...
 event:
   title: Section E17 Conclave

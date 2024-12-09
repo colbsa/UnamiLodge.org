@@ -6,12 +6,12 @@
   price: 0
   location: Oscar Lasko Program Activity Resource Campus
   location-url: https://goo.gl/maps/6susT3QgX5tpDbXz6
-  link-text: Register Now
-  link-url: https://forms.gle/Fm4UPURDJMDK35VQ9
+  link-text: Registration Closed
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: 109th Annual Lodge Dinner
   date: 2025-01-04
@@ -52,6 +52,21 @@
   location: TBD
   location-url:
   link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Vigil Honor Nominations Due
+  date: 2025-03-31
+  date-end:
+  r-closes:
+  time:
+  price:
+  location: UnamiLodge.org
+  location-url: /awards
+  link-text: Nominate Today
   link-url:
   post-url:
   ordeal: false

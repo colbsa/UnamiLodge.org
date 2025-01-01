@@ -7,7 +7,7 @@ permalink: /unitelections/
 Thank you for your interest in completing a unit election in Unami Lodge, One. New members are vital to the continued success of our organization. All units are encouraged to hold a visitation each year, even if there are no eligible candidates. Learn more about the different parts of an election below.
 
 ## Requesting an Election/Visitation
-All Troops, Ships, and Crews within the Cradle of Liberty Council are eligible to hold one unit election per calendar year. Beginning in April of 2022, all units who have not been marked as having completed an election will begin receiving an automated email from Lodgemaster, our membership tracking system. Elections in 2022 must be completed and reported by September 30th. 
+All Troops, Ships, and Crews within the Cradle of Liberty Council are eligible to hold one unit election per calendar year. Beginning in mid-January, all units will receive an automated email from Lodgemaster, our membership tracking system. Elections must be scheduled by the end of September.
 
 If you would like to schedule a unit election or visitation prior to receiving a request email, please contact the lodge Unit Elections Committee at unitelections@unamilodge.org or your chapter leadership, as found [on this page](https://unamilodge.org/chapters/find).
 
@@ -30,7 +30,7 @@ Upon the completion of your unit election, election teams will confirm the resul
 
 Once the unit elections' team makes a report, you'll receive a copy of the election results for your records. Included in that email will be a link to nominate any adults in your unit. The number of adults you can nominate will be based on how many youth were elected. Adult nominees are notified immediately upon approval.
 
-Elected candidates, both youth and adult, will receive further information from Unami Lodge about completing their ordeal. Additional information for elected candidates can be found [here](https://unamilodge.org/electedcandidates/). Candidates have up to 24 months from election to complete their induction.
+Elected candidates, both youth and adult, will receive further information from Unami Lodge about completing their ordeal. Additional information for elected candidates can be found [here](https://unamilodge.org/electedcandidates/). Candidates have up to 18 months from election to complete their induction.
 
 <div class="alert alert-secondary">
   <strong>Election Teams:</strong>

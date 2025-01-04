@@ -4,11 +4,11 @@
   meeting-url: https://www.google.com/maps/embed?pb=!1m1pb=!1m18!1m12!1m3!1d3051.5224083414446!2d-75.21306999999999!3d40.108360000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6bbb7805a60e7%3A0xabb773bc51d3e7cc!2sFirst+Presbyterian+Church+in+Springfield!5e0!3m2!1sen!2sus!4v1421656792948
   officers:
   - title: Chief
-    name: Johnny M.
+    name: Dalton S.
   - title: Vice Chief
-    name: Vacant
+    name: Andrew S.
   - title: Secretary
-    name: Luke H.
+    name: Elise R.
   - title: Adviser
     name: Alexandra Smallberger
   - title: Associate Adviser
@@ -21,7 +21,7 @@
   meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d976.616920835712!2d-75.30883306716812!3d39.87542495914296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c2c2e798e707%3A0xc732d65f99cb37ec!2sBSA%20Scout%20Pack%2FTroop%20339%20Scout%20Cabin!5e0!3m2!1sen!2sus!4v1700105719619!5m2!1sen!2sus
   officers:
   - title: Chief
-    name: Christopher M.
+    name: Vacant
   - title: Vice Chief
     name: Vacant
   - title: Secretary
@@ -29,7 +29,7 @@
   - title: Adviser
     name: Wayne Bickford
   - title: Associate Adviser
-    name: Mikayla Bickford
+    name: Vacant
   zip: [19013, 19018, 19023, 19026, 19029, 19033, 19036, 19043, 19050, 19064, 19074, 19076, 19078, 19079, 19081, 19082, 19087, 19094, 19113, 19453]
 
 - chapter-name: Constellation
@@ -40,12 +40,10 @@
   - title: Chief
     name: Christopher S.
   - title: Vice Chief
-    name: Aidan S.
-  - title: Secretary
     name: Noah A.
+  - title: Secretary
+    name: Avery T.
   - title: Adviser
-    name: Thomas Luke
-  - title: Associate Adviser
     name: Mike Pilko
   - title: Associate Adviser
     name: Lee Zeplowitz
@@ -57,9 +55,9 @@
   meeting-url: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6085.958063809821!2d-75.57695438358229!3d40.298424518976745!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c683838e1f9731%3A0xd533668d61a2002f!2sNew+Hanover+Lutheran+Church!5e0!3m2!1sen!2sus!4v1428544436437
   officers:
   - title: Chief
-    name: William G.
-  - title: Vice Chief
     name: Matthew Y.
+  - title: Vice Chief
+    name: Vacant
   - title: Secretary
     name: Vacant
   - title: Adviser
@@ -74,15 +72,15 @@
   meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3134.4973974786126!2d-75.29446148526719!3d40.2476641652512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6a22d170cb359%3A0xa4db03da2cebe16f!2sTrinity%20Evangelical%20Lutheran%20Church!5e0!3m2!1sen!2sus!4v1642651885419!5m2!1sen!2sus
   officers:
   - title: Chief
-    name: Brayden L.
+    name: Alex R.
   - title: Vice Chief
-    name: Sarah H.
-  - title: Secretary
     name: Leah C.
+  - title: Secretary
+    name: Matt H.
   - title: Adviser
     name: Chris Nagele
   - title: Associate Adviser
-    name: Larry Brasch
+    name: Vacant
   zip: [18915, 18924, 18936, 18957, 18964, 18969, 19438, 19440, 19443, 19446, 19454, 19486]
 
 - chapter-name: Lafayette
@@ -91,15 +89,17 @@
   meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.5901716962035!2d-75.4219292227346!3d40.218178467698095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c69990530cbb8d%3A0xd37ec388200eb3ad!2sFarm%2C%20Home%2C%20%26%20Youth%20Complex!5e0!3m2!1sen!2sus!4v1733282974280!5m2!1sen!2sus
   officers:
   - title: Chief
-    name: Zach G.
-  - title: Vice Chief of Operations
-    name: Jaclyn K.
-  - title: Vice Chief of Elections
+    name: Douglas L.
+  - title: First Vice Chief
     name: Marina D.
+  - title: Second Vice Chief
+    name: John Y.
   - title: Secretary
-    name: Ian B.
+    name: Sarah O.
   - title: Adviser
     name: Michael Gilinger
+  - title: Associate Adviser
+    name: David Leblanc
   - title: Associate Adviser
     name: Brian Darcas
   zip: [19005, 19403, 19405, 19406, 19407, 19408, 19409, 19426, 19431, 19456, 19468, 19473, 19474, 19478, 19479, 19481, 19490, 19492, 19072, 19331, 19401, 19428, 19453]
@@ -112,13 +112,13 @@
   - title: Chief
     name: Gabe O.
   - title: Vice Chief
-    name: Lucas E.
+    name: Vacant
   - title: Secretary
-    name: Sam B.
+    name: Vacant
   - title: Adviser
     name: Glenn Campbell
   - title: Associate Adviser
-    name: Mike Penzone
+    name: Mike Covolus
   zip: [19013, 19014, 19015, 19039, 19061, 19063, 19086, 19331, 19342, 19373]
 
 - chapter-name: Northern
@@ -127,11 +127,11 @@
   meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d763.1986612958239!2d-75.2145166753804!3d40.07999252504993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b964c2b6fea7%3A0x58ad1c8ed28854a1!2sThe+Presbyterian+Church+of+Chestnut+Hill!5e0!3m2!1sen!2sus!4v1467304951427
   officers:
   - title: Chief
-    name: Miko K.
+    name: Cullen D.
   - title: Vice Chief
-    name: Ryan A.
+    name: Emma T.
   - title: Secretary
-    name: Vacant
+    name: Thomas V.
   - title: Adviser
     name: Peter Amuso
   - title: Associate Adviser
@@ -164,15 +164,15 @@
   meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d764.7660508705757!2d-75.21396087074805!3d39.939953526962725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c691eff9e709%3A0x645d1e1a86b6726c!2s1411+S+50th+St%2C+Philadelphia%2C+PA+19143!5e0!3m2!1sen!2sus!4v1467305533965
   officers:
   - title: Chief
-    name: Thomas D.
-  - title: Vice Chief
     name: Amelia L.
+  - title: Vice Chief
+    name: Vacant
   - title: Secretary
     name: Vacant
   - title: Adviser
     name: Chris Menna
   - title: Associate Adviser
-    name: Angel Sims
+    name: Angelina "Angel" Sims
   zip: [19101, 19102, 19103, 19104, 19106, 19110, 19112, 19113, 19121, 19122, 19123, 19130, 19131, 19132, 19133, 19139, 19142, 19143, 19145, 19146, 19147, 19148, 19151, 19153]
   alert:
     text: Please reach out to Paul Dallatore (Paul.Dallatore@UnamiLodge.org) for more information on how and when Triune Chapter meets.
@@ -184,19 +184,17 @@
   meeting-url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3050.383450111252!2d-75.11158788387733!3d40.13374158072398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b0353fda3e27%3A0xb8d08a72fe85f499!2s1837%20Harding%20Ave%2C%20Abington%2C%20PA%2019001!5e0!3m2!1sen!2sus!4v1642651565468!5m2!1sen!2sus
   officers:
   - title: Chief
-    name: Robbie R.
-  - title: Vice Chief
-    name: Alex K.
-  - title: Vice Chief
-    name: Jaqueline H.
-  - title: Secretary
     name: Aidan P.
-  - title: Co-Adviser
+  - title: First Vice Chief
+    name: David Z.
+  - title: Second Vice Chief
+    name: Samuel E.
+  - title: Secretary
+    name: Michael M.
+  - title: Adviser
     name: Michael Evans
-  - title: Co-Adviser
-    name: Andrew Barnett
   - title: Associate Adviser
     name: Jeffrey Klanderman
   - title: Associate Adviser
-    name: Robert Raggi
+    name: Robert Raggi Sr.
   zip: [19001, 19006, 19012, 19038, 19040, 19044, 19046, 19090, 19095, 19111, 19114, 19117]

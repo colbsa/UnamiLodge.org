@@ -1,41 +1,45 @@
 officers:
 - title: Lodge Chief
-  name: T.K. Lindsay
+  name: Martin S.
   email: chief
   key3: true
 
 - title: First Vice Chief
-  name: Martin S.
+  name: Luke S.
   email: first-vc
 
 - title: Second Vice Chief
-  name: Griffen O.
+  name: Paul S.
   email: second-vc
 
 - title: Secretary
-  name: Nathan S.
+  name: Zach G.
   email: secretary
 
 - title: Treasurer
-  name: Paul S.
+  name: Star M.
   email: treasurer
 
 - title: Lodge Adviser
-  name: Craig Cless
-  email: craig.cless
+  name: Theodore "Todge" Sutkowski
+  email: todge.sutkowski
   key3: true
 
 - title: Associate Lodge Adviser
-  name: Todge Sutkowski
-  email: todge.sutkowski
+  name: Brian Darcas
+  email: brian.darcas
+
+- title: Associate Lodge Adviser
+  name: Matt Gutterman
+  email: matt.gutterman
 
 - title: Associate Lodge Adviser
   name: Heather McConville
   email: heather.mcconville
 
 - title: Associate Lodge Adviser
-  name: Brian Darcas
-  email: brian.darcas
+  name: Ann Perrone
+  email: ann.perrone
 
 - title: Finance Adviser
   name: Gregg Slocum
@@ -54,15 +58,15 @@ officers:
 
 advisoryboard:
 - title: Immediate Past Chief
-  name: Liam Lynch
-  email: liam.lynch
+  name: Terence "T.K." Lindsay
+  email: tk.lindsay
 
 - title: Strategic Plan Chair
-  name: Vacant
-  email:
+  name: Terence "T.K." Lindsay
+  email: tk.lindsay
 
 - title: LodgeMaster Administrator
-  name: Lawrence (Larry) Neibauer
+  name: Larry Neibauer
   email: larry.neibauer
 
 - title: Memorabilia Show Chair
@@ -77,12 +81,16 @@ advisoryboard:
   name: Rhys Wallace
   email: memorabilia-show
 
-- title: Medical Records Adviser
-  name: Lee Faden
-  email: lee.faden
-
 - title: Conclave Chair
   name: Skye K.
+  email: conclave
+
+- title: Conclave Co-Vice Chair
+  name: Aidan S.
+  email: conclave
+
+- title: Conclave Co-Vice Chair
+  name: Amelia L.
   email: conclave
 
 - title: Conclave Adviser
@@ -93,13 +101,9 @@ advisoryboard:
   name: Fred Lynch
   email: conclave
 
-- title: NOAC Chair
-  name: Will B.
-  email: noac
-
-- title: NOAC Adviser
-  name: Matt Gutterman
-  email: noac
+- title: Native American Ambassador/Liason
+  name: Craig Cless
+  email: craig.cless
 
 
 committees:
@@ -109,12 +113,12 @@ committees:
   members:
   - title: Chair
     name: Andrew S.
+  - title: Vice Chair
+    name: Jason W.
   - title: Adviser
-    name: PJ Weidman
+    name: Patrick Lynch
   - title: Assoc. Adviser
-    name: Phil Weidman
-  - title: Assoc. Adviser
-    name: Meghan Luke
+    name: Tim English
   - title: Assoc. Adviser
     name: Felicia Menna
 
@@ -122,29 +126,37 @@ committees:
   email: brotherhood
   members:
   - title: Chair
-    name: Luke S.
+    name: Griffen O.
+  - title: Vice Chair
+    name: Alexander R.
   - title: Adviser
-    name: Fred Lynch
+    name: Robert Raggi Sr.
   - title: Assoc. Adviser
-    name: Alex Horan
+    name: Fred Lynch
 
 - committee-name: Inductions
   email: inductions
   members:
   - title: Chair
-    name: Star M.
-  - title: Vice-Chair
     name: Jaclyn K.
+  - title: Vice Chair
+    name: Laura G.
   - title: Adviser
-    name: Vacant
+    name: Liam Lynch
+  - title: Adviser
+    name: Liam Lynch
+  - title: Assoc. Adviser
+    name: Angelina "Angel" Sims
+  - title: Assoc. Adviser
+    name: PJ Weidman
 
 - committee-name: Ceremonies
   email: ceremonies
   members:
   - title: Chair
     name: Noah G.
-  - title: Vice-Chair
-    name: Andrew S.
+  - title: Vice Chair
+    name: Cullen D.
   - title: Adviser
     name: Matt Horan
   - title: Assoc. Adviser
@@ -153,70 +165,76 @@ committees:
 - committee-name: Unit Elections
   email: unitelections
   members:
-  - title: Chair
+  - title: Co-Chair
     name: Samuel E.
+  - title: Co-Chair
+    name: Douglas L.
   - title: Adviser
-    name: "David \"Doc\" Sirken"
+    name: David "Doc" Sirken
   - title: Adviser
-    name: Paul Dallatore
+    name: Andrew B.
 
 - committee-name: Membership
   email: membership
   members:
   - title: Chair
-    name: Katherine S.
+    name: David Z.
+  - title: Vice Chair
+    name: Robert R.
   - title: Adviser
     name: Jeffrey Aster
   - title: Assoc. Adviser
-    name: Michaela Donnelly
+    name: Paul Dallatore
   - title: Assoc. Adviser
-    name: Lee Faden
+    name: Michaela Donnelly
 
 - committee-name: Events
   email: events
   members:
   - title: Chair
-    name: Mara S.
-  - title: Vice-Chair
-    name: Sarah H.
+    name: Leah C.
+  - title: Vice Chair
+    name: Skye K.
+  - title: Vice Chair
+    name: Avery T.
   - title: Adviser
-    name: Jason Abiuso
+    name: Meghan Luke
   - title: Assoc. Adviser
-    name: Robert Deck
+    name: Bob Deck
   - title: Assoc. Adviser
-    name: Alicia Tryon
+    name: Angelina "Angel" Sims
 
 - committee-name: Service
   email: service
   members:
   - title: Chair
     name: Ian B.
-  - title: Vice-Chair
-    name: John H.
-  - title: Co-Adviser
+  - title: Vice Chair
+    name: Lillian R.
+  - title: Adviser
     name: Jerry Reed
-  - title: Co-Adviser
+  - title: Assoc. Adviser
+    name: Anton Meyer
+  - title: Assoc. Adviser
     name: Dan McDougald
 
 - committee-name: Camp Promotions
   email: camppromotions
   members:
   - title: Chair
-    name: Matt Y.
-  - title: Vice-Chair
-    name: Jules F.
+    name: Amelia L.
+  - title: Vice Chair
+    name: Patrick H.
   - title: Adviser
-    name: Vacant
-  - title: Assoc. Adviser
-    name: Vacant
+    name: Steven Hutchins
 
 - committee-name: History
   email: history
   members:
-  - title: Chair
+  - title: Co-Chair
     name: Aidan S.
-  - title: Vice-Chair
-    name: Shane C.
+  - title: Co-Chair
+    name: Martin R.
   - title: Adviser
     name: Rhys Wallace
   - title: Assoc. Adviser
@@ -228,9 +246,9 @@ committees:
   email: aia
   members:
   - title: Chair
-    name: Leah C.
-  - title: Vice-Chair
-    name: Andrew S.
+    name: Cullen D.
+  - title: Vice Chair
+    name: Avery T.
   - title: Adviser
     name: Scott Mann
   - title: Assoc. Adviser
@@ -241,7 +259,7 @@ committees:
   members:
   - title: Chair
     name: Sophia C.
-  - title: Vice-Chair
+  - title: Vice Chair
     name: Matt R.
   - title: Adviser
     name: Paul Bowman
@@ -252,11 +270,13 @@ committees:
   email: communications
   members:
   - title: Chair
-    name: Zach G.
-  - title: Vice-Chair
-    name: Vacant
+    name: Nathan S.
+  - title: Vice Chair
+    name: Natalie S.
   - title: Adviser
     name: David Gibbons
+  - title: Assoc. Adviser
+    name: Will Beardsley
   - title: Assoc. Adviser
     name: Zach Cross
 
@@ -265,6 +285,8 @@ committees:
   members:
   - title: Chair
     name: Matt R.
+  - title: Vice Chair
+    name: Michael M.
   - title: Adviser
     name: Mark Chilutti
 
@@ -273,6 +295,8 @@ committees:
   members:
   - title: Chair
     name: Zach K.
+  - title: Vice Chair
+    name: Noah G.
   - title: Adviser
     name: Brett Montich
   - title: Assoc. Adviser
@@ -283,9 +307,9 @@ committees:
 - committee-name: Unit Representative
   email: unitrep
   members:
-  - title: Chair
-    name: Robert R.
+  - title: Co-Chair
+    name: Douglas L.
+  - title: Co-Chair
+    name: Marina C.
   - title: Adviser
-    name: Vacant
-  - title: Assoc. Adviser
-    name: Vacant
+    name: Bob Deck

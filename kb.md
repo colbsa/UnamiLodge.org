@@ -100,11 +100,11 @@ Absolutely!  Please do not hesitate to reach out to communications@unamilodge.or
       <ul>
         <li><a target="_blank" href="https://scoutingwire.org/BSA-Brand-Center/">BSA Brand Center</a></li>
         <li><a target="_blank" href="https://www.scouting.org/resources/los/">BSA Lanuage of Scouting</a></li>
-        <li><a target="_blank" href="https://oa-bsa.org/resources/branding">National OA Branding Guide</a></li>
-        <li><a target="_blank" href="https://oa-bsa.org/resources/looa">National OA Language of the OA</a></li>
+        <li><a target="_blank" href="https://oa-scouting.org/resources/branding">National OA Branding Guide</a></li>
+        <li><a target="_blank" href="https://oa-scouting.org/resources/looa">National OA Language of the OA</a></li>
       </ul>
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://oa-bsa.org/resources/communications-toolkit">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://oa-scouting.org/resources/communications-toolkit">Read More</a></td>
   </tr>
 </table>
 

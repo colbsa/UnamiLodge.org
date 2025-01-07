@@ -178,7 +178,7 @@ If you have any questions please email the Leadership Development Committee at l
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">Explore Unami's Vital Statistics</h5></td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://oa-bsa.org/lodge-reporting/?region=northeast&section=NE-5&lodge=525">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://oa-scouting.org/lodge-reporting/?region=northeast&section=NE-5&lodge=525">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle"><h5 class="my-0">Watch Training Replays from Momentum: Launch</h5></td>

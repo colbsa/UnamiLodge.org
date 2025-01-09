@@ -118,20 +118,20 @@
   brotherhood: false
   highlight: true
 
-- title: Section E17 Conclave
-  date: 2025-08-06
-  date-end: 2025-08-10
+- title: Scout Memorabilia Show
+  date: 2025-08-22
+  date-end: 2025-08-23
   r-closes:
   time:
-  price:
-  location: Camp Guajataka
-  location-url: https://maps.app.goo.gl/1u4oBAapptNLa5JU7
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-Conclave2025
+  price: 5
+  location: TBD
+  location-url:
+  link-text:
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: true
+  highlight: false
 
 - title: Vigil Honor Weekend
   date: 2025-09-19

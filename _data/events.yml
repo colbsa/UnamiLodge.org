@@ -50,9 +50,9 @@
   time:
   price:
   location: UnamiLodge.org
-  location-url: /awards
+  location-url:
   link-text: Nominate Today
-  link-url:
+  link-url: /awards
   post-url:
   ordeal: false
   brotherhood: false

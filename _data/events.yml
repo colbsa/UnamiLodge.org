@@ -28,6 +28,21 @@
   brotherhood: false
   highlight: false
 
+- title: Turtle Pass Closes
+  date: 2025-03-31
+  date-end:
+  r-closes:
+  time:
+  price:
+  location: UnamiLodge.org
+  location-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-94122
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
 - title: Vigil Honor Nominations Due
   date: 2025-03-31
   date-end:
@@ -51,8 +66,8 @@
   price:
   location: Musser SR
   location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-94122
   post-url:
   ordeal: false
   brotherhood: false
@@ -66,8 +81,8 @@
   price:
   location: Resica Falls SR
   location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-94122
   post-url:
   ordeal: false
   brotherhood: false
@@ -96,8 +111,8 @@
   price:
   location: Resica Falls SR
   location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-94122
   post-url:
   ordeal: false
   brotherhood: false
@@ -156,8 +171,8 @@
   price:
   location: Musser SR
   location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-94122
   post-url:
   ordeal: false
   brotherhood: false

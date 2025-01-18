@@ -8,7 +8,7 @@ permalink: /faq/
 The Order of the Arrow is Scouting’s National Honor Society. Sometimes referred to as the OA, the Order recognize those Scouters who best exemplify the Scout Oath and Scout Law in their daily life.
 
 **What's a lodge?**
-Each local BSA council has their own group of the Order of the Arrow called a lodge. Our lodge, Unami Lodge, One is the first lodge founded. In 1915, Dr. E. Urner Goodman and Carroll A. Edson began the Order of the Arrow at Treasure Island Camp to recognize those Scouts and Scouters who best exemplified the Scout Oath and Scout Law in their daily life. Similarly, our lodge has a chapter representing each district in the Cradle of Liberty Council. The chapter takes the same name as the district.
+Each local Scouting America council has their own group of the Order of the Arrow called a lodge. Our lodge, Unami Lodge, One is the first lodge founded. In 1915, Dr. E. Urner Goodman and Carroll A. Edson began the Order of the Arrow at Treasure Island Camp to recognize those Scouts and Scouters who best exemplified the Scout Oath and Scout Law in their daily life. Similarly, our lodge has a chapter representing each district in the Cradle of Liberty Council. The chapter takes the same name as the district.
 
 **Who runs the lodge & chapters?**
 Unami Lodge, One is run by the Lodge Executive Committee, which is composed of lodge officers, chapter officers, and lodge operating committee chairs. The five officers of Unami are the Lodge Chief, the First Vice Chief, the Second Vice Chief, the Lodge Secretary, and the Lodge Treasurer. Lodge officers and chapter officers are elected for a term of one year, and operating committee chairs are appointed to the committee for the term of one year. The lodge officers, chapter chiefs, and operating committee chairs comprise the voting membership of the executive committee. All voting members are youth members, meaning they are under the age of 21.
@@ -22,7 +22,7 @@ The Lodge Executive Committee meets the fourth Tuesday of each month at the offi
 The OA has different procedures for youth and adults becoming members. Youth members (under the age of 21) are elected by the other youth members of their troop, crew, or ship at an election conducted by the lodge. At least 50% of the registered youth members of the unit must be present for an election to be held. The OA is unique in this respect because candidates are elected by OA members and non-OA members alike. Adult members (over the age of 21) are nominated by the unit committee and the nomination is forwarded to lodge adviser for consideration.
 
 **What are the requirements for becoming a member of the Order of the Arrow?**
-To be considered for election, a youth must be a registered member of a troop, crew, or ship. Scouts BSA members must have achieved the rank of First Class, Venturers must have been recognized with the Discovery Award, and Sea Scouts must have reached the Ordinary rank. Each candidate must have unit leader approval and have a minimum of 15 days and nights of camping under the auspices of Scouting America, including one long term camping experience within the two years prior to the election. With the exception of the rank requirement, and adult nominee must meet the same camping and membership requirements.
+To be considered for election, a youth must be a registered member of a troop, crew, or ship. Scouts BSA members must have achieved the rank of First Class, Venturers must have achieved the rank of Discovery, and Sea Scouts must have reached the Ordinary rank. Each candidate must have unit leader approval and have a minimum of 15 days and nights of camping under the auspices of Scouting America, including one long term camping experience within the two years prior to the election. With the exception of the rank requirement, and adult nominee must meet the same camping and membership requirements.
 
 **How many elections can my unit have per year?**
 Each unit is entitled to one election each year. The lodge calendar runs from January 1st through September 30th, and each troop, crew, or ship may have only one election during that time period.
@@ -40,16 +40,16 @@ The number of adults nominated can be no more than one-third of the number of yo
 Election into the Order of the Arrow is only the first step in your membership journey. Once elected, you must complete your Ordeal to be considered a full member of the OA. For more information regarding the Ordeal and other information for elected candidates, check out the Elected Candidates page (link).
 
 **What lodge activities can I participate in?**
-The lodge holds numerous activities throughout the year. Service and fellowship weekends are held every April, May, and October are our council camps – Musser Scout Reservation or Resica Falls Scout Reservation. The annual lodge dinner is held every January, and the Community Service Day is held in March. Check out the Lodge Calendar page (link) for more details and sign-up information.
+The lodge holds numerous activities throughout the year. Service and fellowship weekends are held every April, May, August, and October are our council camps – Musser Scout Reservation or Resica Falls Scout Reservation. The annual lodge dinner is held every January, and the Community Service Day is held in March. Check out the Lodge Calendar page (link) for more details and sign-up information.
 
 **My unit is going out of council for summer camp this year. Can I take my Ordeal there?**
-No. The Ordeal must be completed within the lodge in which you were elected. However, the Lodge does run a provisional Ordeal program over the summer at Resica Falls Scout Reservation. For more information regarding the provisional Ordeal program, check out the Elected Candidates page (link).
+No. The Ordeal must be completed within the lodge in which you were elected.
 
 **An election was held at our unit, but the results were not announced: what happens next?**
 You will be notified in the mail by the lodge within one month of the election confirming your selection for membership in the Order of the Arrow.
 
 **Are there yearly dues for the Order of the Arrow?**
-In order to be considered a member in good standing, members of Unami Lodge, One must pay their lodge dues annually. Yearly dues help support the lodge operating budget, give each member the right to wear a lodge flap, and allow you the ability to participate in lodge activies. If paid before February 1st of each lodge year, dues will be a discounted rate of $18.00. Dues paid on or after February 1st will be $20.00. Check out Pay My Dues (link) for more information and to pay your 2019 lodge dues.
+In order to be considered a member in good standing, members of Unami Lodge, One must pay their lodge dues annually. Yearly dues help support the lodge operating budget, give each member the right to wear a lodge flap, and allow you the ability to participate in lodge activies. If paid before February 1st of each lodge year, dues will be a discounted rate of $20.00 for youth and $25.00 for adults. Dues paid on or after February 1st will be $25.00 for youth and $28.00 for adults. Check out Pay My Dues (link) for more information and to pay your lodge dues.
 
 **Once I pay my dues, will I get a membership card?**
 A membership card will be mailed to you once your payment is received and your record is updated. This may take up to 2-6 weeks for you to receive your card.
@@ -57,7 +57,7 @@ A membership card will be mailed to you once your payment is received and your r
 **I am moving out of the Council, is my OA membership transferable?**
 Your membership is absolutely transferable to another lodge. Once you’re settled in and registered in your new council, have their lodge contact us for your membership record. Once you’re registered in your new lodge and council, you can no longer remain a member of Unami as you can only belong to one lodge at a time – per National policy.
 
-**Do I have to be registered in the BSA to be member of the lodge?**
+**Do I have to be registered in Scouting America to be member of the lodge?**
 YES. You must be registered as a unit, district, or council level Scout or Scouter to be considered an active member of the lodge and participate in lodge events, in addition to having your dues paid. All members 18 years of age and older must also have a valid Youth Protection training certificate.
 
 **Where can I purchase lodge flaps and other OA related supplies?**

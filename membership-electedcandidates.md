@@ -11,11 +11,11 @@ Hopefully, this page answers them all for you, and prepares you for the next ste
 journey!
 
 <h2>What is the Order of the Arrow?</h2>
-The Order of the Arrow is Scouting’s National Honor Society. Each local BSA council has their own group of the
+The Order of the Arrow is Scouting’s National Honor Society. Each local Scouting America council has their own group of the
 Order of the Arrow called a lodge. Our lodge, Unami Lodge, One is the first lodge founded. In 1915, Dr. E. Urner
 Goodman and Carroll A. Edson began the Order of the Arrow at Treasure Island Camp to recognize those Scouts
 and Scouters who best exemplified the Scout Oath and Scout Law in their daily life – just like you! In 1948, the
-Order of the Arrow became an official program of the Boy Scouts of America. In 2019, membership in the Order of
+Order of the Arrow became an official program of Scouting America. In 2019, membership in the Order of
 the Arrow expanded to welcome new members from Scouts BSA troops, Venturing crews, and Sea Scout ships,
 both male and female participants alike.
 

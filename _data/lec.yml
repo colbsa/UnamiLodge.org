@@ -166,13 +166,13 @@ committees:
   email: unitelections
   members:
   - title: Co-Chair
-    name: Samuel E.
+    name: Marina D.
   - title: Co-Chair
     name: Douglas L.
-  - title: Adviser
+  - title: Co-Adviser
     name: David "Doc" Sirken
-  - title: Adviser
-    name: Andrew B.
+  - title: Co-Adviser
+    name: Andrew Barnett
 
 - committee-name: Membership
   email: membership
@@ -310,6 +310,6 @@ committees:
   - title: Co-Chair
     name: Douglas L.
   - title: Co-Chair
-    name: Marina C.
+    name: Marina D.
   - title: Adviser
     name: Bob Deck

@@ -1,47 +1,17 @@
-- title: Dues Early Bird Ends
-  date: 2025-01-31
-  date-end:
-  r-closes:
-  time:
-  price:
-  location: UnamiLodge.org
-  location-url:
-  link-text: Pay My Dues
-  link-url: https://scoutingevent.com/525-91020
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
-- title: Chapter Unit Elections & Lodgemaster Training
-  date: 2025-02-22
-  date-end:
-  r-closes: 2025-02-15
-  time: 9AM-1PM
-  price: 0
-  location: COL Council Office
-  location-url: https://maps.app.goo.gl/xABdiVPFFqXHUubj7
-  link-text: Register Now
-  link-url: https://forms.gle/3iRVt8sSJhuUAPMv6
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Community Service Day
   date: 2025-03-22
   date-end:
-  r-closes:
-  time:
-  price:
-  location: TBD
+  r-closes: 2025-03-21
+  time: 8:30 AM - 12 PM
+  price: 0
+  location: Various
   location-url:
-  link-text:
-  link-url:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-95126
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Turtle Pass Closes
   date: 2025-03-31
@@ -84,9 +54,9 @@
   link-text: Register Now
   link-url: https://scoutingevent.com/525-94122
   post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
+  ordeal: true
+  brotherhood: true
+  highlight: true
 
 - title: Spring Service 2
   date: 2025-05-16
@@ -99,8 +69,8 @@
   link-text: Register Now
   link-url: https://scoutingevent.com/525-94122
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Camp Hart 95th Anniversary
@@ -129,8 +99,8 @@
   link-text: Register Now
   link-url: https://scoutingevent.com/525-94122
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Section E17 Conclave
@@ -189,8 +159,8 @@
   link-text: Register Now
   link-url: https://scoutingevent.com/525-94122
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Brotherhood Blitz

@@ -12,6 +12,10 @@ While you are always considered a member of the Order of the Arrow from the time
   </div>
 </div>
 
+<div class="col alert text-center alert-page alert-primary mb-0">
+  Dues cards will be mail after each quarter of the calendar year. You will receive your card a few weeks after the end of that quarter. Thank you.
+</div>
+
 <hr>
 
 # Accessing the OA Member Portal

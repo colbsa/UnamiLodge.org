@@ -1,17 +1,17 @@
 
-- title: Turtle Pass Closes
-  date: 2025-03-31
-  date-end:
+- title: Spring Service 1
+  date: 2025-04-04
+  date-end: 2025-04-06
   r-closes:
   time:
   price:
-  location: UnamiLodge.org
-  location-url:
+  location: Musser SR
+  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
   link-text: Register Now
   link-url: https://scoutingevent.com/525-94122
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: true
 
 - title: Vigil Honor Nominations Due
@@ -28,21 +28,6 @@
   ordeal: false
   brotherhood: false
   highlight: false
-
-- title: Spring Service 1
-  date: 2025-04-04
-  date-end: 2025-04-06
-  r-closes:
-  time:
-  price:
-  location: Musser SR
-  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-94122
-  post-url:
-  ordeal: true
-  brotherhood: true
-  highlight: true
 
 - title: Spring Service 2
   date: 2025-05-16
@@ -110,10 +95,10 @@
   r-closes:
   time:
   price: 5
-  location: TBD
-  location-url:
-  link-text:
-  link-url:
+  location: Emmanuel Lutheran Church
+  location-url: https://maps.app.goo.gl/mfo9Wxyh3LJSQ2L56
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-98316
   post-url:
   ordeal: false
   brotherhood: false

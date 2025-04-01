@@ -31,12 +31,14 @@ event:
   <a href="https://scoutingevent.com/525-98315" class="btn btn-primary">Purchase a vendor table!</a>
 </div>
 
+
 ## Merit Badges!!  
 The Unami Lodge History Committee will be teaching collections merit badge at 9 am and Scouting Heritage at 11 am.
 
 <div class="text-center">
   <a href="https://scoutingevent.com/525-98316" class="btn btn-primary">Register for merit badge classes!</a>
 </div>
+
 
 ## Location:
 Emmanuel Lutheran Church  

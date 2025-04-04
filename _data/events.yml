@@ -12,7 +12,7 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: true
+  highlight: false
 
 - title: Vigil Honor Nominations Due
   date: 2025-04-30
@@ -42,7 +42,7 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: false
+  highlight: true
 
 - title: Camp Hart 95th Anniversary
   date: 2025-06-14

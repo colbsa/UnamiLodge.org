@@ -4,7 +4,7 @@ layout: index
 
 slides:
   /img/slider/2025-SS2.png: /news/2025-Spring-Service-2
-  /img/slider/slide-dues.png: /dues
+  /img/slider/trading-post.png: https://unami-lodge-one.square.site/
   /img/slider/2025-conclave.jpg: /news/2025-Conclave-Registration-Open
 
 button-bar:

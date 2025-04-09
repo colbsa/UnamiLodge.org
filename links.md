@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  2025 Turtle Pass: https://scoutingevent.com/525-94122
+  2025 Spring Service 2: https://unamilodge.org/news/2025-Spring-Service-2
 
 links:
   Section E17 Conclave: https://scoutingevent.com/525-Conclave2025

@@ -16,7 +16,7 @@ As the first lodge, Unami has a long and storied past that we love to share. Tak
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://lp.constantcontactpages.com/su/qrw8jmk">Sign Up</a></td>
   </tr>
   <tr>
-    <td class="align-middle"><h5 class="my-0">Delmont Lodge History Facebook</h5></td>
+    <td class="align-middle"><h5 class="my-0">Unami Lodge History Facebook</h5></td>
     <td class="align-middle text-md-right"><a class="btn btn-primary" href="https://www.facebook.com/unamilodgehistorycommittee">Like</a></td>
   </tr>
   <tr>

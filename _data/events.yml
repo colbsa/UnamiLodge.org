@@ -1,34 +1,4 @@
 
-- title: Vigil Honor Nominations Due
-  date: 2025-04-30
-  date-end:
-  r-closes:
-  time:
-  price:
-  location: UnamiLodge.org
-  location-url:
-  link-text: Nominate Today
-  link-url: /awards
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: false
-
-- title: Spring Service 2
-  date: 2025-05-16
-  date-end: 2025-05-18
-  r-closes:
-  time:
-  price:
-  location: Resica Falls SR
-  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-94122
-  post-url:
-  ordeal: true
-  brotherhood: true
-  highlight: true
-
 - title: Camp Hart 95th Anniversary
   date: 2025-06-14
   date-end:
@@ -57,7 +27,7 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: false
+  highlight: True
 
 - title: Section E17 Conclave
   date: 2025-08-06
@@ -87,7 +57,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: True
 
 - title: Vigil Honor Weekend
   date: 2025-09-19

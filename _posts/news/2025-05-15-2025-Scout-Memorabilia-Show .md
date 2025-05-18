@@ -2,7 +2,7 @@
 layout: post
 title: 2025 Scout Memorabilia Show
 author: Rhys Wallace
-date: 2025-04-01
+date: 2025-05-15
 banner: 2025-Scout-Memorabilia-Show.png
 thumbnail: 2025-Scout-Memorabilia-Show.png
 excerpt: The upcoming Scout Memorabilia Show will certainly collect some attention!

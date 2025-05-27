@@ -36,14 +36,14 @@ Currently, new portal accounts are automatically issued to newly-elected candida
 
 ## Already have access the Member Portal
 
-Once you’ve linked your account, you can get to the member portal by going to [portal.oa-bsa.org](https://portal.oa-bsa.org/)
+Once you’ve linked your account, you can get to the member portal by going to [portal.oa-scouting.org](https://portal.oa-scouting.org/)
 
 ## Do not have a Member Portal account, see below
 ### Get an Arrow ID account
 
 The Order of the Arrow has a single-sign-on system called Arrow ID which is used to access any official Order of the Arrow resources (such as the national registration system used for NOAC and NLS/DYLC, LodgeMaster, and the Member Portal). If you’ve ever attended NOAC or NLS, you probably already have an account. You will need an Arrow ID account first before you can access the Member Portal.
 
-1. Go to [id.oa-bsa.org/Account/Register](https://id.oa-bsa.org/Account/Register)
+1. Go to [id.oa-scouting.org/Account/Register](https://id.oa-scouting.org/Account/Register)
 2. Fill in your name, your email address, and the password you want to use for your account and submit the form.
 3. Click **Register**.
 4. Follow any directions given to complete your registration.

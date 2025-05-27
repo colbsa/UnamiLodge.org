@@ -59,7 +59,7 @@ Absolutely!  Please do not hesitate to reach out to communications@unamilodge.or
 <table class="table">
   <tr>
     <td class="align-middle"><h5 class="my-0">OA LodgeMaster</h5>Manage members, events, and chapter communication all from one place!</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://lodgemaster-client.oa-bsa.org">Link</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://lodgemaster-client.oa-scouting.org">Link</a></td>
   </tr>
 </table>
 
@@ -91,7 +91,7 @@ Absolutely!  Please do not hesitate to reach out to communications@unamilodge.or
       <h5 class="my-0">LodgeMaster Email</h5>
       Email your chapter or relatively small segment of the Lodge from the platform we all know and love.
     </td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://confluence.oa-bsa.org/display/OALMLC4/Send+email+to+all+of+your+chapter+members">Read More</a></td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://confluence.oa-scouting.org/display/OALMLC4/Send+email+to+all+of+your+chapter+members">Read More</a></td>
   </tr>
   <tr>
     <td class="align-middle">

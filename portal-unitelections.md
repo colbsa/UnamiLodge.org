@@ -35,7 +35,7 @@ Elected candidates, both youth and adult, will receive further information from 
 <div class="alert alert-secondary">
   <strong>Election Teams:</strong>
   <p class='my-3'>
-    As a reminder, Unami Lodge has retired our previous Google Forms for reporting election results in favor of the new Inductions Module built into <a href="https://lodgemaster-client.oa-bsa.org/">LodgeMaster</a>. Please contact the Unit Elections committee if you need help accessing or entering elections.
+    As a reminder, Unami Lodge has retired our previous Google Forms for reporting election results in favor of the new Inductions Module built into <a href="https://lodgemaster-client.oa-scouting.org/">LodgeMaster</a>. Please contact the Unit Elections committee if you need help accessing or entering elections.
   </p>
   <p class='my-3'>
     Additionally, please enter election results in a timely manner. Unit leaders cannot submit adult nominations until youth results have been entered and approved. The Inductions Module does not notify any youth candidates of their election until the call-out date has been reached.

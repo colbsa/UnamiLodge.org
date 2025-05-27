@@ -92,7 +92,7 @@ banner: /img/portals/noac-2024-portal.png
       Scholarships are available to youth (under 21) members of the lodge to help offset the cost of NOAC. Each scholarship has it's own application and review process. Be sure to check the due date for each individually. 
       <ul>
         <li><strong>Unami Lodge</strong> - <a href="/scholarship/">OA High Adventure Scholarship</a></li>
-        <li><strong>Section E17</strong> - <a href="https://sectione17.oa-bsa.org/scholarships/bhs-scholarship/">Brian H. Swatt Memorial National Events Scholarship</a></li>
+        <li><strong>Section E17</strong> - <a href="https://e17.oa-scouting.org/scholarships/bhs-scholarship/">Brian H. Swatt Memorial National Events Scholarship</a></li>
         <li><strong>National OA</strong> - <a href="https://surveys.qualtrics.charlotte.edu/jfe/form/SV_bmvRrppiB4x2H7U">Trailblazer Scholarship</a></li>
       </ul>
     </p>

@@ -81,26 +81,6 @@ advisoryboard:
   name: Rhys Wallace
   email: memorabilia-show
 
-- title: Conclave Chair
-  name: Skye K.
-  email: conclave
-
-- title: Conclave Co-Vice Chair
-  name: Aidan S.
-  email: conclave
-
-- title: Conclave Co-Vice Chair
-  name: Amelia L.
-  email: conclave
-
-- title: Conclave Adviser
-  name: Thomas Luke
-  email: conclave
-
-- title: Conclave Assoc. Adviser
-  name: Fred Lynch
-  email: conclave
-
 - title: Native American Ambassador/Liason
   name: Craig Cless
   email: craig.cless
@@ -113,8 +93,10 @@ committees:
   members:
   - title: Chair
     name: Andrew S.
-  - title: Vice Chair
-    name: Jason W.
+  - title: Co-Vice Chair
+    name: Alex W.
+  - title: Co-Vice Chair
+    name: Amelia L.
   - title: Adviser
     name: Patrick Lynch
   - title: Assoc. Adviser
@@ -301,6 +283,18 @@ committees:
     name: Steve Mach
   - title: Assoc. Adviser
     name: Jason Abiuso
+
+- committee-name: Conclave
+  email: conclave
+  members:
+  - title: Chair
+    name: Skye K.
+  - title: Vice Chair
+    name: Aidan S.
+  - title: Adviser
+    name: Thomas Luke
+  - title: Assoc. Adviser
+    name: Fred Lynch
 
 - committee-name: Unit Representative
   email: unitrep

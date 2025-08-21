@@ -3,9 +3,8 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2025-SIW.png: /news/2025-Summer-Inductions
+  /img/slider/2025-FF.png: /news/2025-Fall-Fellowship
   /img/slider/trading-post.png: https://unami-lodge-one.square.site/
-  /img/slider/2025-conclave.jpg: /news/2025-Conclave-Registration-Open
 
 button-bar:
   Elected Candidates: /electedcandidates

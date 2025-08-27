@@ -1,34 +1,4 @@
 
-- title: Summer Inductions
-  date: 2025-08-01
-  date-end: 2025-08-03
-  r-closes:
-  time:
-  price:
-  location: Resica Falls SR
-  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-94122
-  post-url:
-  ordeal: true
-  brotherhood: true
-  highlight: True
-
-- title: Section E17 Conclave
-  date: 2025-08-06
-  date-end: 2025-08-10
-  r-closes:
-  time:
-  price:
-  location: Camp Guajataka
-  location-url: https://maps.app.goo.gl/1u4oBAapptNLa5JU7
-  link-text: Registration Closed
-  link-url: https://scoutingevent.com/525-Conclave2025
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Scout Memorabilia Show
   date: 2025-08-22
   date-end: 2025-08-23
@@ -72,7 +42,7 @@
   post-url:
   ordeal: true
   brotherhood: true
-  highlight: false
+  highlight: true
 
 - title: Brotherhood Blitz
   date: 2025-11-08

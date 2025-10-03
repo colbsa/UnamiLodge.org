@@ -4,7 +4,7 @@ title: Brotherhood Blitz
 author:
 date: 2025-10-02
 banner: 2025-Brotherhood-Blitz.png
-thumbnail: 2025-Brotherhood.Blitz.png
+thumbnail: 2025-Brotherhood-Blitz.png
 excerpt: Brotherhood Blitz is right around the Corner! Be sure to join us for...
 event:
   title: Brotherhood Blitz

@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Fall Fellowship: https://scoutingevent.com/525-94122
+  Brotherhood Blitz: https://scoutingevent.com/525-104936#
 
 links:
   2025 Dues: https://unamilodge.org/dues

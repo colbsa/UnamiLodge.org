@@ -23,7 +23,7 @@
   location-url: https://maps.app.goo.gl/ukFC9hhZoFXA6sKi8
   link-text: More Information
   link-url: https://scoutingevent.com/525-100580
-  post-url:
+  post-url: 
   ordeal: false
   brotherhood: false
   highlight: True
@@ -32,12 +32,12 @@
   date: 2025-12-06
   date-end:
   r-closes:
-  time: 8AM - 6PM
+  time: 8AM - 7:30PM
   price: 0
-  location: TBD
-  location-url:
-  link-text:
-  link-url:
+  location: Chester County Council Office
+  location-url: https://maps.app.goo.gl/hyE1jESYLYmj4Pdv5
+  link-text: Sign Up
+  link-url: https://docs.google.com/forms/d/13pAYQLW6jPjOnQoBa0zhlL6CQPHoVgFxfy0egeQ5U38/viewform?chromeless=1&edit_requested=true
   post-url:
   ordeal: false
   brotherhood: false
@@ -49,14 +49,14 @@
   r-closes:
   time:
   price:
-  location: TBD
-  location-url:
-  link-text:
-  link-url:
+  location: The Alloy King of Prussia
+  location-url: https://maps.app.goo.gl/xYgTeiPq4TUcvNG5A
+  link-text: Sign Up
+  link-url: https://scoutingevent.com/525-106309#
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: True
 
 - title: Dues Early Bird Ends
   date: 2026-01-31

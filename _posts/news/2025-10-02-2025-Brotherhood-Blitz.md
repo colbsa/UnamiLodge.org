@@ -17,7 +17,7 @@ Those Ordeal members who completed their Ordeal at or before Spring Service 2 (M
 
 <div class="text-center">
   <a href="https://scoutingevent.com/525-104936#" class="btn btn-primary">SIGN UP TODAY!</a>
-    <br><i>Registration closes November 5, 2025 at 11:59 PM.</i>
+    <br><i>Registration closes November 6, 2025 at 11:59 PM.</i>
 </div> 
 
 We look forward to seeing all eligible members at this year’s Blitz! Email brotherhood@UnamiLodge.org with any questions.

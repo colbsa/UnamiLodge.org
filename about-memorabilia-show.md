@@ -35,7 +35,7 @@ banner: /img/portals/memorabilia-show-portal.png
           <li><strong>Adults:</strong> $5.00</li>
         </ul>
           <div class="text-center my-5">
-            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Secure Your Tables</a>
+            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Register Here</a>
           </div>
     </p>
     <p>
@@ -75,9 +75,10 @@ banner: /img/portals/memorabilia-show-portal.png
           <li>rwallace@unamilodge.org</li>
         </ul>
     </p>
-<!-- --------------------------------------------------------------------------------- -->
+  <!-- --------------------------------------------------------------------------------- -->
   <div class="col-md-4">
     {% picture thumb /img/noac/training.jpg --img class="img-fluid rounded mb-2" --alt Arrowman participating in training at NOAC %}
     {% picture thumb /img/noac/show.jpg --img class="img-fluid rounded mb-2" --alt An evening show at NOAC %}
     {% picture thumb /img/noac/patch-trading.jpg --img class="img-fluid rounded mb-2" --alt Patches displayed for trading %}
   </div>
+</div>

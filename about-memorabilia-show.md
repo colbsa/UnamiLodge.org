@@ -35,12 +35,12 @@ banner: /img/portals/memorabilia-show-portal.png
           <li><strong>Adults:</strong> $5.00</li>
         </ul>
           <div class="text-center my-5">
-            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Register Here</a>
+            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Coming Soon</a>
           </div>
     </p>
     <p>
       <h2>Location</h2>
-        <b>Central Schwenkfelder Church</b> <br>
+        <a href="https://maps.app.goo.gl/RHY4qxTSJhN2DWVe7"><b>Central Schwenkfelder Church</b></a> <br>
         2111 S Valley Forge Rd <br>
         Lansdale, PA 19446 <br>
         Located near Skippack Pike and the PA Turnpike
@@ -64,7 +64,7 @@ banner: /img/portals/memorabilia-show-portal.png
           <li>Scouting History Merit Badge</li>
         </ul>
     <div class="text-center my-5">
-      <a href="-" class="btn btn-primary">Registration Not Open Yet</a>
+      <a href="-" class="btn btn-primary">Coming Soon</a>
     </div>
     </p>
     <p>

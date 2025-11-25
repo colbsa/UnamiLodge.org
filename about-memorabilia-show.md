@@ -75,6 +75,7 @@ banner: /img/portals/memorabilia-show-portal.png
           <li>rwallace@unamilodge.org</li>
         </ul>
     </p>
+  </div>
   <!-- --------------------------------------------------------------------------------- -->
   <div class="col-md-4">
     {% picture thumb /img/noac/training.jpg --img class="img-fluid rounded mb-2" --alt Arrowman participating in training at NOAC %}

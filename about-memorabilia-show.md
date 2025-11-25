@@ -31,14 +31,18 @@ banner: /img/portals/memorabilia-show-portal.png
     <p>
       <h2>Admission</h2>
         <ul>
-          <li><strong>Youth under age 21:</strong>FREE!</li>
-          <li><strong>Adults:</strong>$5.00</li>
+          <li><strong>Youth under age 21:</strong> FREE!</li>
+          <li><strong>Adults:</strong> $5.00</li>
         </ul>
+          <div class="text-center my-5">
+            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Secure Your Tables</a>
+          </div>
+    </p>
     <p>
       <h2>Location</h2>
-        <b>Central Schwenkfelder Church</b>
-        2111 S Valley Forge Rd
-        Lansdale, PA 19446
+        <b>Central Schwenkfelder Church</b> <br>
+        2111 S Valley Forge Rd <br>
+        Lansdale, PA 19446 <br>
         Located near Skippack Pike and the PA Turnpike
     </p>
     <p>
@@ -65,11 +69,11 @@ banner: /img/portals/memorabilia-show-portal.png
     </p>
     <p>
       <h2>Contact Information</h2>
-        If you have any questions or concerns please reach out to Rhys Wallace, Unami Lodge History Adviser.
+        Rhys Wallace, Unami Lodge History Adviser.
         <ul>
           <li>610-906-9140</li>
           <li>rwallace@unamilodge.org</li>
-        </ul
+        </ul>
     </p>
 <!-- --------------------------------------------------------------------------------- -->
   <div class="col-md-4">
@@ -77,4 +81,3 @@ banner: /img/portals/memorabilia-show-portal.png
     {% picture thumb /img/noac/show.jpg --img class="img-fluid rounded mb-2" --alt An evening show at NOAC %}
     {% picture thumb /img/noac/patch-trading.jpg --img class="img-fluid rounded mb-2" --alt Patches displayed for trading %}
   </div>
-</div>

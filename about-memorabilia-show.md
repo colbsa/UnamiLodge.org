@@ -10,13 +10,13 @@ banner: /img/portals/memorabilia-show-portal.png
     <p>
       <h2>When:</h2>
       <ul>
-        <li>Friday, August 22nd, 2026 — 4:30 PM to 9:30 PM</li>
-        <li>Saturday, August 23rd, 2026 — 8:00 AM to 2:00 PM</li>
+        <li>Friday, August 21st, 2026 — 4:30 PM to 9:30 PM</li>
+        <li>Saturday, August 22nd, 2026 — 8:00 AM to 2:00 PM</li>
       </ul>
     </p>
     <p>
       <h2>Key Information</h2>
-        All proceeds benefit the youth of Unami Lodge, One.
+        All proceeds benefit the youth of Unami Lodge, One. <br><br>
 
         The annual Scout Memorabilia Show brings together collectors, Scouts, and Scouters for a weekend of:
       <ul>
@@ -31,7 +31,7 @@ banner: /img/portals/memorabilia-show-portal.png
     <p>
       <h2>Admission</h2>
         <ul>
-          <li><strong>Youth under age 21:</strong> FREE!</li>
+          <li><strong>Youth (under 18):</strong> FREE!</li>
           <li><strong>Adults:</strong> $5.00</li>
         </ul>
           <div class="text-center my-5">
@@ -53,7 +53,7 @@ banner: /img/portals/memorabilia-show-portal.png
             <li>Wall tables: $30 each</li>
           </ul>
           <div class="text-center my-5">
-            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Secure Your Tables</a>
+            <a href="https://scoutingevent.com/525-107375?draftmode=1" class="btn btn-primary">Secure Your Tables</a>
           </div>
     </p> 
     <p>
@@ -62,6 +62,9 @@ banner: /img/portals/memorabilia-show-portal.png
         <ul>
           <li>Collections Merit Badge</li>
           <li>Scouting History Merit Badge</li>
+          <li>Fingerprinting Merit Badge</li>
+          <li>Entreprenuership Merit Badge</li>
+          <li>Coin Collecting Merit Badge</li>
         </ul>
     <div class="text-center my-5">
       <a href="-" class="btn btn-primary">Coming Soon</a>
@@ -78,8 +81,8 @@ banner: /img/portals/memorabilia-show-portal.png
   </div>
   <!-- --------------------------------------------------------------------------------- -->
   <div class="col-md-4">
-    {% picture thumb /img/noac/training.jpg --img class="img-fluid rounded mb-2" --alt Arrowman participating in training at NOAC %}
-    {% picture thumb /img/noac/show.jpg --img class="img-fluid rounded mb-2" --alt An evening show at NOAC %}
-    {% picture thumb /img/noac/patch-trading.jpg --img class="img-fluid rounded mb-2" --alt Patches displayed for trading %}
+    {% picture thumb /img/show/show-display.jpg --img class="img-fluid rounded mb-2" --alt Patches laid out in an orderly manner on a table %}
+    {% picture thumb /img/show/show-people.png --img class="img-fluid rounded mb-2" --alt People looking around at venders tables %}
+    {% picture thumb /img/show/show-patch.png --img class="img-fluid rounded mb-2" --alt Image of the Scout Memorabilia Show Patch which features Fred the turtle looking at patches on a table %}
   </div>
 </div>

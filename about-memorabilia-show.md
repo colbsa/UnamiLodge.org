@@ -40,8 +40,8 @@ banner: /img/portals/memorabilia-show-portal.png
     </p>
     <p>
       <h2>Location</h2>
-        <a href="https://maps.app.goo.gl/RHY4qxTSJhN2DWVe7"><b>Central Schwenkfelder Church</b></a> <br>
-        2111 S Valley Forge Rd <br>
+        <a href="https://maps.app.goo.gl/PJChg9qUxYVJSVZA7"><b>Community Center, Central Schwenkfelder Church</b></a> <br>
+        2067 Steelman Road <br>
         Lansdale, PA 19446 <br>
         Located near Skippack Pike and the PA Turnpike
     </p>
@@ -81,7 +81,7 @@ banner: /img/portals/memorabilia-show-portal.png
   </div>
   <!-- --------------------------------------------------------------------------------- -->
   <div class="col-md-4">
-    {% picture thumb /img/show/show-display.jpg --img class="img-fluid rounded mb-2" --alt Patches laid out in an orderly manner on a table %}
+    {% picture thumb /img/show/show-display.JPG --img class="img-fluid rounded mb-2" --alt Patches laid out in an orderly manner on a table %}
     {% picture thumb /img/show/show-people.png --img class="img-fluid rounded mb-2" --alt People looking around at venders tables %}
     {% picture thumb /img/show/show-patch.png --img class="img-fluid rounded mb-2" --alt Image of the Scout Memorabilia Show Patch which features Fred the turtle looking at patches on a table %}
   </div>

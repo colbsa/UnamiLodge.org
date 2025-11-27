@@ -32,7 +32,8 @@ banner: /img/portals/memorabilia-show-portal.png
       <h2>Admission</h2>
         <ul>
           <li><strong>Youth (under 18):</strong> FREE!</li>
-          <li><strong>Adults:</strong> $5.00</li>
+          <li><strong>Adult Program Participant (18 - 21):</strong> FREE!</li>
+          <li><strong>Adult:</strong> $5.00</li>
         </ul>
           <div class="text-center my-5">
             <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Coming Soon</a>

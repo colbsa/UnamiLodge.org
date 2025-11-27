@@ -81,7 +81,7 @@ banner: /img/portals/memorabilia-show-portal.png
   </div>
   <!-- --------------------------------------------------------------------------------- -->
   <div class="col-md-4">
-    {% picture thumb /img/show/show-display.JPG --img class="img-fluid rounded mb-2" --alt Patches laid out in an orderly manner on a table %}
+    {% picture thumb /img/show/show-display.jpg --img class="img-fluid rounded mb-2" --alt Patches laid out in an orderly manner on a table %}
     {% picture thumb /img/show/show-people.png --img class="img-fluid rounded mb-2" --alt People looking around at venders tables %}
     {% picture thumb /img/show/show-patch.png --img class="img-fluid rounded mb-2" --alt Image of the Scout Memorabilia Show Patch which features Fred the turtle looking at patches on a table %}
   </div>

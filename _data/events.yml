@@ -1,33 +1,4 @@
 
-- title: New Members Bash
-  date: 2025-11-23
-  date-end:
-  r-closes:
-  time: 
-  price: 
-  location: The Gravity Vault Radnor
-  location-url: https://maps.app.goo.gl/ukFC9hhZoFXA6sKi8
-  link-text: More Information
-  link-url: https://scoutingevent.com/525-100580
-  post-url: 
-  ordeal: false
-  brotherhood: false
-  highlight: True
-
-- title: Lodge Leadership Development
-  date: 2025-12-06
-  date-end:
-  r-closes:
-  time: 8AM - 7:30PM
-  price: 0
-  location: Chester County Council Office
-  location-url: https://maps.app.goo.gl/hyE1jESYLYmj4Pdv5
-  link-text: Sign Up
-  link-url: https://docs.google.com/forms/d/13pAYQLW6jPjOnQoBa0zhlL6CQPHoVgFxfy0egeQ5U38/viewform?chromeless=1&edit_requested=true
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: True
 
 - title: 110th Annual Lodge Dinner
   date: 2026-01-03
@@ -44,20 +15,20 @@
   brotherhood: false
   highlight: True
 
-- title: Dues Early Bird Ends
+- title: 2026 Dues
   date: 2026-01-31
   date-end:
   r-closes:
   time:
   price:
   location: UnamiLodge.org
-  location-url:
-  link-text:
-  link-url:
+  location-url: 
+  link-text: Pay Your Dues
+  link-url: https://scoutingevent.com/525-107546
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: True
 
 - title: Community Service Day
   date: 2026-03-21

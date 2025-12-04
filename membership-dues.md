@@ -8,7 +8,7 @@ While you are always considered a member of the Order of the Arrow from the time
 
 <div class="row justify-content-center">
   <div class="col-md-4 text-center">
-    <a href="https://scoutingevent.com/525-91020" class="btn btn-primary btn-block my-3">Pay My 2025 Dues!</a>
+    <a href="https://scoutingevent.com/525-107546" class="btn btn-primary btn-block my-3">Pay My 2026 Dues!</a>
   </div>
 </div>
 

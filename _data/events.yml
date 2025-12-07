@@ -30,6 +30,21 @@
   brotherhood: false
   highlight: True
 
+- title: Unit Elections Training
+  date: 2026-01-31
+  date-end:
+  r-closes:
+  time: 9AM-3PM
+  price:
+  location: Cradle of Liberty Council Office
+  location-url: https://maps.app.goo.gl/HD4h4a52TzHdCh1g7
+  link-text: 
+  link-url: 
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: True
+
 - title: Community Service Day
   date: 2026-03-21
   date-end:

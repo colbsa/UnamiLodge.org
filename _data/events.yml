@@ -1,20 +1,4 @@
 
-
-- title: 110th Annual Lodge Dinner
-  date: 2026-01-03
-  date-end:
-  r-closes:
-  time:
-  price:
-  location: The Alloy King of Prussia
-  location-url: https://maps.app.goo.gl/xYgTeiPq4TUcvNG5A
-  link-text: Sign Up
-  link-url: https://scoutingevent.com/525-106309#
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: True
-
 - title: 2026 Dues
   date: 2026-01-31
   date-end:
@@ -22,9 +6,24 @@
   time:
   price:
   location: UnamiLodge.org
-  location-url: 
+  location-url:
   link-text: Pay Your Dues
   link-url: https://scoutingevent.com/525-107546
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: True
+
+- title: Chapter Officer Training
+  date: 2026-01-31
+  date-end:
+  r-closes:
+  time: 9AM-3PM
+  price:
+  location: Cradle of Liberty Council Office
+  location-url: https://maps.app.goo.gl/HD4h4a52TzHdCh1g7
+  link-text: Sign Up
+  link-url: https://scoutingevent.com/525-108471
   post-url:
   ordeal: false
   brotherhood: false
@@ -96,10 +95,24 @@
   date-end: 2026-08-09
   time:
   price:
-  location: Musser SR
-  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
+  location: Resica Falls SR
+  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
   link-text:
   link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Scout Memorabilia Show
+  date: 2026-08-21
+  date-end: 2026-08-22
+  time:
+  price:
+  location: Community Center, Central Schwenkfelder Church
+  location-url: https://maps.app.goo.gl/Nh6VQFGyds2Q3fnu9
+  link-text: More Information
+  link-url: /show
   post-url:
   ordeal: false
   brotherhood: false

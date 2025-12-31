@@ -22,7 +22,7 @@
   time:
   price:
   location: UnamiLodge.org
-  location-url: 
+  location-url:
   link-text: Pay Your Dues
   link-url: https://scoutingevent.com/525-107546
   post-url:
@@ -30,7 +30,7 @@
   brotherhood: false
   highlight: True
 
-- title: Unit Elections Training
+- title: Chapter Officer Training
   date: 2026-01-31
   date-end:
   r-closes:
@@ -38,8 +38,8 @@
   price:
   location: Cradle of Liberty Council Office
   location-url: https://maps.app.goo.gl/HD4h4a52TzHdCh1g7
-  link-text: 
-  link-url: 
+  link-text:
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false
@@ -111,8 +111,8 @@
   date-end: 2026-08-09
   time:
   price:
-  location: Musser SR
-  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
+  location: Resica Falls SR
+  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
   link-text:
   link-url:
   post-url:
@@ -124,7 +124,7 @@
   date: 2026-08-21
   date-end: 2026-08-22
   time:
-  price: 
+  price:
   location: Community Center, Central Schwenkfelder Church
   location-url: https://maps.app.goo.gl/Nh6VQFGyds2Q3fnu9
   link-text: More Information

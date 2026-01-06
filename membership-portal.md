@@ -40,6 +40,8 @@ Once submitted, the system will send a Member Portal invitation email if you are
   NOTE: You must be 13 years of age or older to receive a Member Portal account. Parent access for members under 13 is not currently available.
 </div>
 
+<br><br>
+
 ## Complete Your Portal Setup
 After receiving your invitation email: 
 

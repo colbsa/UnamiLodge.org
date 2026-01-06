@@ -5,7 +5,7 @@ permalink: /portal/
 ---
 
 ## Get an Arrow ID Account
-The Order of the Arrow uses a single sign-on system called Arrow ID to access official OA resources, including the OA Member Portal, LodgeMaster, and the national event registration system (NOARS).
+The Order of the Arrow uses a single sign-on system called Arrow ID to access official OA resources, including the OA Member Portal, LodgeMaster, and the national event registration system (NOARS). You must be a registered member of Scouting America in order of claim your account. 
 
 If you have ever attended a NOAC or NLS/DYLC, you may already have an Arrow ID account.
 

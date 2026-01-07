@@ -9,6 +9,11 @@ While you are always considered a member of the Order of the Arrow from the time
 <div class="row justify-content-center">
   <div class="col-md-4 text-center">
     <a href="https://scoutingevent.com/525-107546" class="btn btn-primary btn-block my-3">Pay My 2026 Dues!</a>
+    <br><i>Pay via Blackpug.</i>
+  </div>
+  <div class="col-md-4 text-center">
+    <a href="https://members.oa-scouting.org/membership-dues/pay" class="btn btn-primary btn-block my-3">Pay my 2026 Dues!</a>
+    <br><i><b>PREFERRED</b> - Pay via Membership Portal</i>
   </div>
 </div>
 

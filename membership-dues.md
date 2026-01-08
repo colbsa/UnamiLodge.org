@@ -9,18 +9,27 @@ While you are always considered a member of the Order of the Arrow from the time
 <div class="row justify-content-center">
   <div class="col-md-4 text-center">
     <a href="https://scoutingevent.com/525-107546" class="btn btn-primary btn-block my-3">Pay My 2026 Dues!</a>
+    <br><i>Pay via Blackpug.</i>
+  </div>
+  <div class="col-md-4 text-center">
+    <a href="https://members.oa-scouting.org/membership-dues/pay" class="btn btn-primary btn-block my-3">Pay my 2026 Dues!</a>
+    <br><i><b>PREFERRED</b> - Pay via Membership Portal</i>
   </div>
 </div>
 
 <div class="col alert text-center alert-page alert-primary mb-0">
-  Dues cards will be mailed after each quarter of the calendar year. You will receive your card a few weeks after the end of that quarter. Thank you.
+Starting in 2027, the only way to pay lodge dues and sign up for OA events will be through the new OA App. The OA App uses the same Arrow ID login credentials as the OA Member Portal.
+
+Having an Arrow ID and access to the OA Member Portal will be essential for managing your membership, dues payments, and registering for events.
+
+For more information visit [unamilodge.org/portal](https://unamilodge.org/portal)
 </div>
 
 <hr>
 
 # Accessing the OA Member Portal
 
-The Order of the Arrow has recently introduced a Member Portal, though which you can do the
+The Order of the Arrow recently introduced a Member Portal, though which you can do the
 following:
 - Update your contact information (email/phone/mailing address)
 - View the lodge calendar

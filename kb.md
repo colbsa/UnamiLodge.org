@@ -24,7 +24,7 @@ For more detailed information, check out the **Documentation** heading below, an
 
 
 **Who can have an account?**
-All those who hold a formal [position](/contactlist) in the lodge are automatically provided with Google Workspace & Slack accounts.  Other accounts (ex. MailChimp) are provided by request, so don't hesitate to ask!  Outside of that, anyone with interest in using these tools to be active on the LEC or a Chapter level are encouraged to request an account.  Account requests may be sent via email or posted on someone's behalf in the [#Communications](https://unamilodge.slack.com/archives/C4RN3NCTS) Slack channel.
+All those who hold a formal [position](/contactlist) in the lodge are automatically provided with Google Workspace & Slack accounts.  Other accounts (ex. Constant Contact) are provided by request, so don't hesitate to ask!  Outside of that, anyone with interest in using these tools to be active on the LEC or a Chapter level are encouraged to request an account.  Account requests may be sent via email or posted on someone's behalf in the [#Communications](https://unamilodge.slack.com/archives/C4RN3NCTS) Slack channel.
 
 
 **Can you help me recover my login details?**
@@ -34,12 +34,8 @@ Absolutely!  Please do not hesitate to reach out to communications@unamilodge.or
 <h2 class="text-primary pl-2">Meetings</h2>
 <table class="table">
   <tr>
-    <td class="align-middle"><h5 class="my-0">LEC Meeting Minutes</h5>Check out approved minutes from previous LEC meetings</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://docs.google.com/document/d/17o2Ewc3amz6609SfpCDsekjRGbioYwKKRxhLeBPdkG8/edit">Link</a></td>
-  </tr>
-  <tr>
-    <td class="align-middle"><h5 class="my-0">LEC Report</h5>Sign-in & submit your official committee report for this month's LEC meeting</td>
-    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://docs.google.com/forms/d/1sVbIUVSb-pmGEMsAlag_qxFJmA3FdOe_wqD_0VyOtds/edit">Link</a></td>
+    <td class="align-middle"><h5 class="my-0">LEC Archives</h5>This read-only Google Drive is accessible by all @unamilodge.org email addresses and includes LEC minutes, templates, and other resources.</td>
+    <td class="align-middle text-md-right"><a class="btn btn-primary" target="_blank" href="https://drive.google.com/drive/u/1/folders/0AKCkQheUkudwUk9PVA">Link</a></td>
   </tr>
 </table>
 

@@ -14,16 +14,16 @@
   brotherhood: false
   highlight: True
 
-- title: Chapter Officer Training
-  date: 2026-01-31
+  - title: Musser Work Day
+  date: 2026-03-21
   date-end:
   r-closes:
-  time: 9AM-3PM
+  time:
   price:
-  location: Cradle of Liberty Council Office
-  location-url: https://maps.app.goo.gl/HD4h4a52TzHdCh1g7
+  location: TBD
+  location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
   link-text: Sign Up
-  link-url: https://scoutingevent.com/525-108471
+  link-url: https://scoutingevent.com/525-111033?=1
   post-url:
   ordeal: false
   brotherhood: false
@@ -52,12 +52,12 @@
   price:
   location: Musser SR
   location-url: https://goo.gl/maps/73yBWLnRBgfA7JWn9
-  link-text:
-  link-url:
+  link-text: Sign Up
+  link-url: https://scoutingevent.com/525-109329
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: True
 
 - title: Spring Service 2
   date: 2026-05-15
@@ -67,8 +67,8 @@
   price:
   location: Resica Falls SR
   location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text:
-  link-url:
+  link-text: Sign Up
+  link-url: https://scoutingevent.com/525-109329
   post-url:
   ordeal: false
   brotherhood: false
@@ -97,8 +97,8 @@
   price:
   location: Resica Falls SR
   location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text:
-  link-url:
+  link-text: Sign Up
+  link-url: https://scoutingevent.com/525-109329
   post-url:
   ordeal: false
   brotherhood: false
@@ -126,8 +126,8 @@
   price:
   location: Resica Falls SR
   location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
-  link-text:
-  link-url:
+  link-text: Sign Up
+  link-url: https://scoutingevent.com/525-109329
   post-url:
   ordeal: false
   brotherhood: false

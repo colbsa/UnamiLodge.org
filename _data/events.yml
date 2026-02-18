@@ -14,7 +14,7 @@
   brotherhood: false
   highlight: true
 
-  - title: Musser Work Day
+- title: Musser Work Day
   date: 2026-03-21
   date-end:
   r-closes:
@@ -35,9 +35,9 @@
   r-closes:
   time:
   price:
-  location: TBD
+  location: Mt. Moriah & Pennypack Park
   location-url:
-  link-text:
+  link-text: Coming Soon
   link-url:
   post-url:
   ordeal: false

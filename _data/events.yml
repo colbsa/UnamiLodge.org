@@ -55,8 +55,8 @@
   link-text: Sign Up
   link-url: https://scoutingevent.com/525-109329
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: true
 
 - title: Spring Service 2
@@ -70,8 +70,8 @@
   link-text: Sign Up
   link-url: https://scoutingevent.com/525-109329
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Section E17 Conclave
@@ -100,8 +100,8 @@
   link-text: Sign Up
   link-url: https://scoutingevent.com/525-109329
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Scout Memorabilia Show
@@ -129,8 +129,8 @@
   link-text: Sign Up
   link-url: https://scoutingevent.com/525-109329
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Brotherhood Blitz
@@ -145,5 +145,5 @@
   link-url:
   post-url:
   ordeal: false
-  brotherhood: false
+  brotherhood: true
   highlight: false

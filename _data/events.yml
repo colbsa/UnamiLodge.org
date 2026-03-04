@@ -15,7 +15,7 @@
   highlight: true
 
 - title: Musser Work Day
-  date: 2026-03-21
+  date: 2026-03-14
   date-end:
   r-closes:
   time:
@@ -37,12 +37,12 @@
   price:
   location: Mt. Moriah & Pennypack Park
   location-url:
-  link-text: Coming Soon
-  link-url:
+  link-text: More Information
+  link-url: /news/2026-Community-Service-Day
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Spring Service 1
   date: 2026-04-10
@@ -113,6 +113,21 @@
   location-url: https://maps.app.goo.gl/Nh6VQFGyds2Q3fnu9
   link-text: More Information
   link-url: /show
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
+- title: Vigil Honor Weekend
+  date: 2026-09-19
+  date-end: 2026-09-20
+  r-closes:
+  time:
+  price:
+  location: Resica Falls SR
+  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
+  link-text:
+  link-url:
   post-url:
   ordeal: false
   brotherhood: false

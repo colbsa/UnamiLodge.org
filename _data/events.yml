@@ -14,8 +14,23 @@
   brotherhood: false
   highlight: true
 
+- title: Unami Lodge Town Hall (Adult Members Only)
+  date: 2026-03-16
+  date-end:
+  r-closes:
+  time:
+  price:
+  location: Council Service Center
+  location-url: https://maps.app.goo.gl/WM3HbGFUSfKGHG6k8
+  link-text: Sign Up
+  link-url: https://scoutingevent.com/525-111686
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Musser Work Day
-  date: 2026-03-21
+  date: 2026-03-14
   date-end:
   r-closes:
   time:
@@ -37,12 +52,12 @@
   price:
   location: Mt. Moriah & Pennypack Park
   location-url:
-  link-text: Coming Soon
-  link-url:
+  link-text: More Information
+  link-url: /news/2026-Community-Service-Day
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Spring Service 1
   date: 2026-04-10
@@ -55,8 +70,8 @@
   link-text: Sign Up
   link-url: https://scoutingevent.com/525-109329
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: true
 
 - title: Spring Service 2
@@ -70,8 +85,8 @@
   link-text: Sign Up
   link-url: https://scoutingevent.com/525-109329
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Section E17 Conclave
@@ -83,8 +98,8 @@
     adult:
   location: Forestburg SR
   location-url: https://maps.app.goo.gl/eMLcXgW5izR7zrNq6
-  link-text:
-  link-url:
+  link-text: Sign Up
+  link-url: https://registration.oa-scouting.org/Event/1339
   post-url:
   ordeal: false
   brotherhood: false
@@ -100,8 +115,8 @@
   link-text: Sign Up
   link-url: https://scoutingevent.com/525-109329
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Scout Memorabilia Show
@@ -118,6 +133,21 @@
   brotherhood: false
   highlight: false
 
+- title: Vigil Honor Weekend
+  date: 2026-09-19
+  date-end: 2026-09-20
+  r-closes:
+  time:
+  price:
+  location: Resica Falls SR
+  location-url: https://goo.gl/maps/Fn6LfcEkADCf21iZ6
+  link-text:
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Fall Fellowship
   date: 2026-10-02
   date-end: 2026-10-04
@@ -129,8 +159,8 @@
   link-text: Sign Up
   link-url: https://scoutingevent.com/525-109329
   post-url:
-  ordeal: false
-  brotherhood: false
+  ordeal: true
+  brotherhood: true
   highlight: false
 
 - title: Brotherhood Blitz
@@ -145,5 +175,5 @@
   link-url:
   post-url:
   ordeal: false
-  brotherhood: false
+  brotherhood: true
   highlight: false

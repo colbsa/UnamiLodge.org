@@ -1,19 +1,4 @@
 
-- title: 2026 Dues
-  date: 2026-01-31
-  date-end:
-  r-closes:
-  time:
-  price:
-  location: UnamiLodge.org
-  location-url: 
-  link-text: Pay Your Dues
-  link-url: https://scoutingevent.com/525-107546
-  post-url:
-  ordeal: false
-  brotherhood: false
-  highlight: true
-
 - title: Unami Lodge Town Hall (Adult Members Only)
   date: 2026-03-16
   date-end:
@@ -54,6 +39,21 @@
   location-url:
   link-text: More Information
   link-url: /news/2026-Community-Service-Day
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: true
+
+- title: 2026 Turtle Pass
+  date: 2026-03-31
+  date-end:
+  r-closes:
+  time:
+  price:
+  location: 
+  location-url:
+  link-text: More Information
+  link-url: https://scoutingevent.com/525-109329#
   post-url:
   ordeal: false
   brotherhood: false

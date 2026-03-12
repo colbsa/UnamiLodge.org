@@ -15,6 +15,7 @@ The Community Service Day is our Lodge’s paramount way to give back to our loc
 
 ## Mount Moriah Cemetery
 - Location: [6201 Kingsessing Ave, Philadelphia, PA 19142](https://maps.app.goo.gl/zjERVwojTT1G59Qq6){:target="_blank"}
+  - *NOTE: GPS directions to Mount Moriah can sometimes be inaccurate. Please use the address above and reference the map pin.*
 - What: Clearing of cemetery grounds
 - Contact: Tim English (timengbsa@yahoo.com) 610-585-1432
 

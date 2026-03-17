@@ -3,6 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
+  Sign up for a weekend: https://scoutingevent.com/525-109329
   2026 Dues: https://unamilodge.org/dues
   Get the OA App: https://apps.apple.com/us/app/order-of-the-arrow-members/id6748922907
 

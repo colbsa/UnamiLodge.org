@@ -2,7 +2,7 @@
 layout: post
 title: 2026 Section E17 Conclave
 author:
-date: 2026-06-14
+date: 2026-04-14
 banner: 
 thumbnail: 2026-Conclave.png
 excerpt: The 2026 Section E17 Conclave is right around the Corner! Be sure to join us for...

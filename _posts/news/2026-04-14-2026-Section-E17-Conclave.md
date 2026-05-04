@@ -27,10 +27,10 @@ Throughout Conclave, you’ll have access to a wide range of training sessions l
 
 ## Event Details:
 
-**Who:** Open to all dues paying Unami Lodge, One members 
-**Where:** [Forestburg Scout Reservation](<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2986.7967236301174!2d-74.74472722410373!3d41.530343671282026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c34d2d2fdf372b%3A0xe61b54bfacd58dc6!2sForestburg%20Scout%20Reservation!5e0!3m2!1sen!2sus!4v1776288742075!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>){:target="_blank"} 
-**When:** June 5-7, 2026
-**Price:** $52.00
+**Who:** Open to all dues paying Unami Lodge, One members <br>
+**Where:** [Forestburg Scout Reservation](https://maps.app.goo.gl/Ayf9o9JhGow41YvQ9) <br>
+**When:** June 5-7, 2026 <br>
+**Price:** $52.00 <br>
 
 ## Theming:
 

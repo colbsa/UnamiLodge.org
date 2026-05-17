@@ -3,7 +3,7 @@ title: Home
 layout: index
 
 slides:
-  /img/slider/2026-SS2.png: https://scoutingevent.com/525-109329
+  /img/slider/2026-Conclave.png: https://unamilodge.org/news/2026-Section-E17-Conclave/
   /img/slider/OA-app.png: https://apps.apple.com/us/app/order-of-the-arrow-members/id6748922907
   /img/slider/2026-OAHA-Registration.png: https://registration.oa-scouting.org/
   /img/slider/2026-Operation-Arrow.png: https://oa-scouting.org/program/events/jamboree

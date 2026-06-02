@@ -36,7 +36,7 @@ banner: /img/portals/memorabilia-show-portal.png
           <li><strong>Adult:</strong> $5.00</li>
         </ul>
           <div class="text-center my-5">
-            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Coming Soon</a>
+            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Pay at the Door</a>
           </div>
     </p>
     <p>
@@ -68,7 +68,7 @@ banner: /img/portals/memorabilia-show-portal.png
           <li>Coin Collecting Merit Badge</li>
         </ul>
     <div class="text-center my-5">
-      <a href="-" class="btn btn-primary">Coming Soon</a>
+      <a href="https://scoutingevent.com/525-116270" class="btn btn-primary">Register for Classes</a>
     </div>
     </p>
     <p>

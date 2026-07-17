@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2026 Spring Service 2
+title: 2026 Summer Inductions
 author:
-date: 2026-04-15
+date: 2026-07-12
 banner: 
 thumbnail: 2026-SIW.png 
 excerpt: Summer Inductions is right around the Corner! Be sure to join us for...

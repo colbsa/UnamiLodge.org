@@ -1,297 +1,293 @@
 officers:
-- title: Lodge Chief
-  name: Matthew R.
-  email: chief
-  key3: true
+  - title: Lodge Chief
+    name: Matthew R.
+    email: chief
+    key3: true
 
-- title: First Vice Chief
-  name: Ian B.
-  email: first-vc
+  - title: First Vice Chief
+    name: Vacant
+    email: key3
 
-- title: Second Vice Chief
-  name: Amelia L.
-  email: second-vc
+  - title: Second Vice Chief
+    name: Amelia L.
+    email: second-vc
 
-- title: Secretary
-  name: Sophia C.
-  email: secretary
+  - title: Secretary
+    name: Sophia C.
+    email: secretary
 
-- title: Treasurer
-  name: Ben B.
-  email: treasurer
+  - title: Treasurer
+    name: Ben B.
+    email: treasurer
 
-- title: Lodge Adviser
-  name: Theodore "Todge" Sutkowski
-  email: todge.sutkowski
-  key3: true
+  - title: Lodge Adviser
+    name: Theodore "Todge" Sutkowski
+    email: todge.sutkowski
+    key3: true
 
-- title: Associate Lodge Adviser
-  name: Brian Darcas
-  email: brian.darcas
+  - title: Associate Lodge Adviser
+    name: Brian Darcas
+    email: brian.darcas
 
-- title: Associate Lodge Adviser
-  name: Matt Gutterman
-  email: matt.gutterman
+  - title: Associate Lodge Adviser
+    name: Matt Gutterman
+    email: matt.gutterman
 
-- title: Associate Lodge Adviser
-  name: Heather McConville
-  email: heather.mcconville
+  - title: Associate Lodge Adviser
+    name: Heather McConville
+    email: heather.mcconville
 
-- title: Associate Lodge Adviser
-  name: Ann Perrone
-  email: ann.perrone
+  - title: Associate Lodge Adviser
+    name: Ann Perrone
+    email: ann.perrone
 
-- title: Finance Adviser
-  name: Gregg Slocum
-  email: gregg.slocum
+  - title: Finance Adviser
+    name: Gregg Slocum
+    email: gregg.slocum
 
-- title: Lodge Staff Adviser
-  name: John Bickel
-  email: staffadviser
-  key3: true
+  - title: Lodge Staff Adviser
+    name: John Bickel
+    email: staffadviser
+    key3: true
 
-- title: Supreme Chief of the Fire
-  name: Daniel Templar
-  email: supremechief
-
-
+  - title: Supreme Chief of the Fire
+    name: Daniel Templar
+    email: supremechief
 
 advisoryboard:
-- title: LodgeMaster Administrator
-  name: Larry Neibauer
-  email: larry.neibauer
+  - title: LodgeMaster Administrator
+    name: Larry Neibauer
+    email: larry.neibauer
 
-- title: Memorabilia Show Chair
-  name: Aidan S.
-  email: memorabilia-show
+  - title: Memorabilia Show Chair
+    name: Aidan S.
+    email: memorabilia-show
 
-- title: Memorabilia Adviser
-  name: Paul Bowman
-  email: memorabilia-show
+  - title: Memorabilia Adviser
+    name: Paul Bowman
+    email: memorabilia-show
 
-- title: Memorabilia Assoc. Adviser
-  name: Rhys Wallace
-  email: memorabilia-show
+  - title: Memorabilia Assoc. Adviser
+    name: Rhys Wallace
+    email: memorabilia-show
 
-- title: Native American Ambassador/Liason
-  name: Craig Cless
-  email: craig.cless
-
+  - title: Native American Ambassador/Liason
+    name: Craig Cless
+    email: craig.cless
 
 committees:
+  - committee-name: Ordeal
+    email: ordeal
+    members:
+      - title: Chair
+        name: Berlin A.
+      - title: Vice Chair
+        name: Emma T.
+      - title: Adviser
+        name: Patrick Lynch
+      - title: Assoc. Adviser
+        name: Zack Kline
+      - title: Assoc. Adviser
+        name: Felicia Menna
 
-- committee-name: Ordeal
-  email: ordeal
-  members:
-  - title: Chair
-    name: Berlin A. 
-  - title: Vice Chair
-    name: Emma T.
-  - title: Adviser
-    name: Patrick Lynch
-  - title: Assoc. Adviser
-    name: Zack Kline
-  - title: Assoc. Adviser
-    name: Felicia Menna
+  - committee-name: Brotherhood
+    email: brotherhood
+    members:
+      - title: Chair
+        name: Alex R.
+      - title: Vice Chair
+        name: Vacant
+      - title: Adviser
+        name: Tim English
+      - title: Assoc. Adviser
+        name: Fred Lynch
+      - title: Assoc. Adviser
+        name: Griffen O'Brian
 
-- committee-name: Brotherhood
-  email: brotherhood
-  members:
-  - title: Chair
-    name: Alex R.
-  - title: Vice Chair
-    name: Vacant
-  - title: Adviser
-    name: Tim English
-  - title: Assoc. Adviser
-    name: Fred Lynch
-  - title: Assoc. Adviser
-    name: Griffen O'Brian
+  - committee-name: Inductions
+    email: inductions
+    members:
+      - title: Chair
+        name: Dustin "Kenney" E.
+      - title: Vice Chair
+        name: Avery R.
+      - title: Adviser
+        name: Liam Lynch
+      - title: Assoc. Adviser
+        name: Angelina "Angel" Sims
+      - title: Assoc. Adviser
+        name: PJ Weidman
 
-- committee-name: Inductions
-  email: inductions
-  members:
-  - title: Chair
-    name: Dustin "Kenney" E.
-  - title: Vice Chair
-    name: Avery R.
-  - title: Adviser
-    name: Liam Lynch
-  - title: Assoc. Adviser
-    name: Angelina "Angel" Sims
-  - title: Assoc. Adviser
-    name: PJ Weidman
+  - committee-name: Ceremonies
+    email: ceremonies
+    members:
+      - title: Chair
+        name: Cullen D.
+      - title: Vice Chair
+        name: Vacant
+      - title: Adviser
+        name: Matt Horan
+      - title: Assoc. Adviser
+        name: Scott Mann
 
-- committee-name: Ceremonies
-  email: ceremonies
-  members:
-  - title: Chair
-    name: Cullen D.
-  - title: Vice Chair
-    name: Vacant
-  - title: Adviser
-    name: Matt Horan
-  - title: Assoc. Adviser
-    name: Scott Mann
+  - committee-name: Unit Elections
+    email: unitelections
+    members:
+      - title: Chair
+        name: Marina D.
+      - title: Vice Chair
+        name: Vacant
+      - title: Co-Adviser
+        name: David "Doc" Sirken
+      - title: Co-Adviser
+        name: Andrew Barnett
 
-- committee-name: Unit Elections
-  email: unitelections
-  members:
-  - title: Chair
-    name: Marina D.
-  - title: Vice Chair
-    name: Vacant
-  - title: Co-Adviser
-    name: David "Doc" Sirken
-  - title: Co-Adviser
-    name: Andrew Barnett
+  - committee-name: Membership
+    email: membership
+    members:
+      - title: Chair
+        name: David Z.
+      - title: Vice Chair
+        name: Ben S.
+      - title: Adviser
+        name: Jeffrey Aster
+      - title: Assoc. Adviser
+        name: Paul Dallatore
 
-- committee-name: Membership
-  email: membership
-  members:
-  - title: Chair
-    name: David Z.
-  - title: Vice Chair
-    name: Ben S.
-  - title: Adviser
-    name: Jeffrey Aster
-  - title: Assoc. Adviser
-    name: Paul Dallatore
+  - committee-name: Events
+    email: events
+    members:
+      - title: Chair
+        name: Leah C.
+      - title: Vice Chair
+        name: Fiona L.
+      - title: Vice Chair
+        name: Skye K.
+      - title: Adviser
+        name: Jake Walsh
+      - title: Assoc. Adviser
+        name: Bob Deck
+      - title: Assoc. Adviser
+        name: Angelina "Angel" Sims
 
-- committee-name: Events
-  email: events
-  members:
-  - title: Chair
-    name: Leah C.
-  - title: Vice Chair
-    name: Fiona L.
-  - title: Vice Chair
-    name: Skye K.
-  - title: Adviser
-    name: Jake Walsh
-  - title: Assoc. Adviser
-    name: Bob Deck
-  - title: Assoc. Adviser
-    name: Angelina "Angel" Sims
+  - committee-name: Service
+    email: service
+    members:
+      - title: Chair
+        name: Zach G.
+      - title: Vice Chair
+        name: Vacant
+      - title: Adviser
+        name: Jerry Reed
+      - title: Assoc. Adviser
+        name: Anton Meyer
 
-- committee-name: Service
-  email: service
-  members:
-  - title: Chair
-    name: Zach G.
-  - title: Vice Chair
-    name: Vacant
-  - title: Adviser
-    name: Jerry Reed
-  - title: Assoc. Adviser
-    name: Anton Meyer
+  - committee-name: Camp Promotions
+    email: camppromotions
+    members:
+      - title: Chair
+        name: Aidan S.
+      - title: Vice Chair
+        name: Vacant
+      - title: Adviser
+        name: Meghan Luke
 
-- committee-name: Camp Promotions
-  email: camppromotions
-  members:
-  - title: Chair
-    name: Aidan S.
-  - title: Vice Chair
-    name: Vacant
-  - title: Adviser
-    name: Meghan Luke
+  - committee-name: History
+    email: history
+    members:
+      - title: Co-Chair
+        name: Kai Xin M.
+      - title: Co-Chair
+        name: Martin R.
+      - title: Adviser
+        name: Rhys Wallace
+      - title: Assoc. Adviser
+        name: Phil Hittner
+      - title: Assoc. Adviser
+        name: Mike Comfort
 
-- committee-name: History
-  email: history
-  members:
-  - title: Co-Chair
-    name: Kai Xin M.
-  - title: Co-Chair
-    name: Martin R.
-  - title: Adviser
-    name: Rhys Wallace
-  - title: Assoc. Adviser
-    name: Phil Hittner
-  - title: Assoc. Adviser
-    name: Mike Comfort
+  - committee-name: American Indian Affairs
+    email: aia
+    members:
+      - title: Chair
+        name: Vacant
+      - title: Vice Chair
+        name: Vacant
+      - title: Adviser
+        name: Scott Mann
+      - title: Assoc. Adviser
+        name: Matt Horan
 
-- committee-name: American Indian Affairs
-  email: aia
-  members:
-  - title: Chair
-    name: Vacant
-  - title: Vice Chair
-    name: Vacant
-  - title: Adviser
-    name: Scott Mann
-  - title: Assoc. Adviser
-    name: Matt Horan
+  - committee-name: Lodge Operations
+    email: lodgeoperations
+    members:
+      - title: Chair
+        name: Natalie S.
+      - title: Vice Chair
+        name: Vacant
+      - title: Adviser
+        name: Paul Bowman
+      - title: Assoc. Adviser
+        name: Stuart Bowman
 
-- committee-name: Lodge Operations
-  email: lodgeoperations
-  members:
-  - title: Chair
-    name: Natalie S.
-  - title: Vice Chair
-    name: Vacant
-  - title: Adviser
-    name: Paul Bowman
-  - title: Assoc. Adviser
-    name: Stuart Bowman
+  - committee-name: Communications
+    email: communications
+    members:
+      - title: Chair
+        name: Nathan S.
+      - title: Vice Chair
+        name: Natalie S.
+      - title: Adviser
+        name: David Gibbons
+      - title: Assoc. Adviser
+        name: Andrew Barnett
+      - title: Assoc. Adviser
+        name: Will Beardsley
+      - title: Assoc. Adviser
+        name: Zach Cross
 
-- committee-name: Communications
-  email: communications
-  members:
-  - title: Chair
-    name: Nathan S.
-  - title: Vice Chair
-    name: Natalie S.
-  - title: Adviser
-    name: David Gibbons
-  - title: Assoc. Adviser
-    name: Andrew Barnett
-  - title: Assoc. Adviser
-    name: Will Beardsley
-  - title: Assoc. Adviser
-    name: Zach Cross
+  - committee-name: Leadership Development
+    email: leadershipdevelopment
+    members:
+      - title: Chair
+        name: Fiona L.
+      - title: Vice Chair
+        name: Vacant
+      - title: Adviser
+        name: Mark Chilutti
 
-- committee-name: Leadership Development
-  email: leadershipdevelopment
-  members:
-  - title: Chair
-    name: Fiona L. 
-  - title: Vice Chair
-    name: Vacant
-  - title: Adviser
-    name: Mark Chilutti
+  - committee-name: Vigil Honor
+    email: vigilhonor
+    members:
+      - title: Chair
+        name: Martin S.
+      - title: Vice Chair
+        name: Vacant
+      - title: Co-Adviser
+        name: Brett Montich
+      - title: Co-Adviser
+        name: Steve Mach
+      - title: Assoc. Adviser
+        name: Jason Abiuso
 
-- committee-name: Vigil Honor
-  email: vigilhonor
-  members:
-  - title: Chair
-    name: Martin S.
-  - title: Vice Chair
-    name: Vacant
-  - title: Co-Adviser
-    name: Brett Montich
-  - title: Co-Adviser
-    name: Steve Mach
-  - title: Assoc. Adviser
-    name: Jason Abiuso
+  - committee-name: Conclave
+    email: conclave
+    members:
+      - title: Chair
+        name: Skye K.
+      - title: Vice Chair
+        name: Sarah O.
+      - title: Adviser
+        name: Thomas Luke
+      - title: Assoc. Adviser
+        name: Fred Lynch
 
-- committee-name: Conclave
-  email: conclave
-  members:
-  - title: Chair
-    name: Skye K.
-  - title: Vice Chair
-    name: Sarah O.
-  - title: Adviser
-    name: Thomas Luke
-  - title: Assoc. Adviser
-    name: Fred Lynch
-
-- committee-name: Unit Representative
-  email: unitrep
-  members:
-  - title: Chair
-    name: Vacant
-  - title: Vice Chair
-    name: Vacant
-  - title: Adviser
-    name: Robert Raggi
+  - committee-name: Unit Representative
+    email: unitrep
+    members:
+      - title: Chair
+        name: Vacant
+      - title: Vice Chair
+        name: Vacant
+      - title: Adviser
+        name: Robert Raggi

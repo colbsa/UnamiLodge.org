@@ -20,7 +20,7 @@ Whether you’re joining the cast for service, enjoying activities with your fel
 The adventure is waiting. Will you be part of the story?
 
 <div class="text-center">
-  <a href="https://scoutingevent.com/525-94122" class="btn btn-primary">SIGN UP TODAY!</a>
+  <a href="https://scoutingevent.com/525-109329#" class="btn btn-primary">SIGN UP TODAY!</a>
     <br><i>Registration closes Sept. 30, 2026 at 11:59 PM.</i>
 </div> 
 

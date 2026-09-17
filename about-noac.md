@@ -21,7 +21,7 @@ banner: /img/portals/noac-2026-portal.png
       </ul>
     </p>
     <p>
-      Unami Lodge will be traveling to NOAC starting on July 26 and return on August 1st via bus. The cost of attending with the lodge will be $960.00 for both youth and adult members. This cost includes your conference fee, bus transportation, a day pass to Cedar Point, meals, a set of Unami patches, Unami t-shirts, and a limited edition duffle bag.
+      Unami Lodge will be traveling to NOAC starting on July 25 and return on August 1st via bus. The cost of attending with the lodge will be $960.00 for both youth and adult members. This cost includes your conference fee, bus transportation, a day pass to Cedar Point, meals, a set of Unami patches, Unami t-shirts, and a limited edition duffle bag.
     </p>
     <p>
       We hope you’ll join our lodge at the conference as we engage with more than 200 other lodge contingents in competitions, fellowship, and stadium shows! Registration opens on September 20th and requires a $240 deposit to lock-in your spot.

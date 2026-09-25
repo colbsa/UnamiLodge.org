@@ -8,7 +8,7 @@ thumbnail: 2026-FF.png
 excerpt: Fall Fellowship is right around the Corner! Be sure to join us for...
 event:
   title: Fall Fellowship 
-  date: 2026-10-2
+  date: 2026-10-02
 ---
 
 Lights, camera, adventure!

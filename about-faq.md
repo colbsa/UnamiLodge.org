@@ -37,7 +37,7 @@ Adult nomination forms are available from the election team or your chapter advi
 The number of adults nominated can be no more than one-third of the number of youth candidates elected, rounded up where the number of youth candidates is not a multiple of three. In addition to the one-third limit, the unit committee may nominate the currently serving unit leader (but not assistant leaders), as long as he or she has served as unit leader for at least the previous twelve months.
 
 **Once elected, am I a member?**
-Election into the Order of the Arrow is only the first step in your membership journey. Once elected, you must complete your Induction to be considered a full member of the OA. For more information regarding the induction and other information for elected members, check out the [Elected Members page](/electedcandidates).
+Election into the Order of the Arrow is only the first step in your membership journey. Once elected, you must complete your Induction to be considered a full member of the OA. For more information regarding the induction and other information for elected members, check out the [Newly Elected Members page](/electedcandidates).
 
 **What lodge activities can I participate in?**
 The lodge holds numerous activities throughout the year. Service and fellowship weekends are held every April, May, August, and October are our council camps – Musser Scout Reservation or Resica Falls Scout Reservation. The annual lodge dinner is held every January, and the Community Service Day is held in March. Check out the [Lodge Calendar](/calendar) page for more details and sign-up information.

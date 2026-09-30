@@ -10,7 +10,7 @@ slides:
   /img/slider/trading-post.png: https://unami-lodge-one.square.site/
 
 button-bar:
-  Elected New Members: /electedcandidates
+  Newly Elected Members: /electedcandidates
   Pay My Dues: /dues
   Seal The Bond: /brotherhood
 

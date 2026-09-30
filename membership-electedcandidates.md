@@ -1,5 +1,5 @@
 ---
-title: Elected New Members
+title: Newly Elected Members
 layout: page
 permalink: /electedcandidates/
 ---

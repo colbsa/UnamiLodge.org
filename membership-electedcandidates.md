@@ -1,5 +1,5 @@
 ---
-title: Elected Candidates
+title: Elected New Members
 layout: page
 permalink: /electedcandidates/
 ---
@@ -26,14 +26,14 @@ stewardship in the unit, year-round and in summer camp. To develop leaders with 
 and ability to advance the activities of their units, our Order, and Scouting. To crystallize the Scout habit of
 helpfulness into a life purpose of leadership in cheerful service to others.
 
-<h2>When can I complete my Ordeal?</h2>
-As a newly elected candidate, completing your Ordeal and becoming a full member in the Order of the Arrow is the
-next step in your membership journey. From the time of your election, you have 18 months to complete your Ordeal;
-There are multiple opportunities offered throughout the year for you complete your Ordeal. Please see the list below for the most up-to-date ordeal opportunities.
+<h2>When can I complete my Induction?</h2>
+As a newly elected candidate, completing your Induction and becoming a full member in the Order of the Arrow is the
+next step in your membership journey. From the time of your election, you have 18 months to complete your Induction.
+There are multiple opportunities offered throughout the year for you to complete your Induction. Please see the list below for the most up-to-date induction opportunities.
 
 <div class="card mb-3">
   <div class="card-body">
-    <h5>Upcoming Ordeal Opportunities</h5>
+    <h5>Upcoming Induction Opportunities</h5>
     <ul>
       {% assign highlighted_events = site.data.events | where:"ordeal", "true" %}
       {% for event in highlighted_events %}
@@ -64,19 +64,19 @@ There are multiple opportunities offered throughout the year for you complete yo
   </div>
 </div>
 
-<h2>Why is the Ordeal such a big secret?</h2>
+<h2>Why is the Induction such a big secret?</h2>
 Unami Lodge, One does not intend to keep any information from its newly elected candidates. However, any
-secrecy around the Ordeal is meant for a single purpose: the Experience. Revealing too much information before the
-Ordeal would hurt the full experience of your membership journey. The Ordeal is meant to be a chance for you to
+secrecy around the Induction is meant for a single purpose: the Experience. Revealing too much information before the
+Induction would hurt the full experience of your membership journey. The Induction is meant to be a chance for you to
 reflect on Scouting and grow in your service to others.
 
-<h2>What should I bring to my Ordeal?</h2>
-Ten Essentials: Sleeping Bag, Sleeping Pad, Tarp, Tent with ground cloth (for after your Ordeal), work clothes,
+<h2>What should I bring to my Induction?</h2>
+Ten Essentials: Sleeping Bag, Sleeping Pad, Tarp, Tent with ground cloth (for after your Induction), work clothes,
 work gloves, personal grooming gear, full Field (Class A) Scout Uniform (for your induction ceremony), a current
 and complete BSA Medical form (along with any prescription medications), and A POSITIVE SCOUT
 ATTITUDE!
 
-Make sure you check out the [Ordeal Packing Instructions](/files/OrdealPackingInstructions.pdf) for more details.
+Make sure you check out the [Induction Packing Instructions](/files/OrdealPackingInstructions.pdf) for more details.
 
 <h2>More Questions?</h2>
 If you have any other question, or if you would like to confirm eligibility, please feel free to contact us at ordeal@unamilodge.org.

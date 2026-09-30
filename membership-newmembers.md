@@ -19,12 +19,10 @@ From the beginning, you can continue your active membership in Unami Lodge, One 
 As a member of Unami Lodge, One, you are also a member of a chapter – a smaller portion of our lodge – which corresponds to your district of the council. Each chapter has a chapter chief, a chapter vice chief, and a chapter secretary, as well as a chapter adviser. Each chapter holds monthly meetings and activities for its members. Chapters also are responsible for conducting unit elections in your home unit and assisting with camp promotions. <!-- To find out which chapter you belong to, more info about their meeting, and the latest news & updates, click [here](/chapters). -->
 
 ## Get Involved & Join a Committee
-There are 13 operating committees of Unami Lodge, One, all eager for you to become a part of and help with. Read a brief description of the work that each committee does and click on the committee name to contact them and get involved!
+There are 15 operating committees of Unami Lodge, One, all eager for you to become a part of and help with. Read a brief description of the work that each committee does and click on the committee name to contact them and get involved!
 
 {% for committee in site.data.committees %}
-{% unless committee.email == "aia" or committee.email == "ordeal" %}
 **{{committee.committee-name}}** - {{committee.responsibilities}}
-{% endunless %}
 {% endfor %}
 
 ### Seal the Bonds of Brotherhood

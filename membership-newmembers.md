@@ -4,7 +4,7 @@ layout: page
 permalink: /newmembers/
 ---
 
-Congratulations! You’ve completed your Ordeal and are now a full member in Order of the Arrow, entitled to all the rights and privileges of membership. However, your journey in the Order of the Arrow is only just beginning. A world of opportunity is now open to you as a member of Unami Lodge, One. This page will help you as take the next steps on your membership journey and explore the wonders of the Order of the Arrow.
+Congratulations! You’ve completed your Induction and are now a full member in the Order of the Arrow, entitled to all the rights and privileges of membership. However, your journey in the Order of the Arrow is only just beginning. A world of opportunity is now open to you as a member of Unami Lodge, One. This page will help you take the next steps on your membership journey and explore the wonders of the Order of the Arrow.
 
 ## Join in the Fellowship – Come Out to a Lodge Activity
 From the beginning, you can continue your active membership in Unami Lodge, One by attending a variety of lodge activities, including:
@@ -26,7 +26,7 @@ There are 15 operating committees of Unami Lodge, One, all eager for you to beco
 {% endfor %}
 
 ### Seal the Bonds of Brotherhood
-As an Ordeal member, your focus should be on providing leadership to your home unit. After 6 months as an Ordeal member, you have the opportunity to take the next step in your membership journey and become a Brotherhood member. As a Brotherhood member, your focus should shift to now serve the lodge as well, and providing leadership on the chapter or lodge level. You can become a Brotherhood member at any of our three lodge weekends, as well as at Resica Fall Scout Reservation during the summer. To sign-up and seal the bond, head over to the [Lodge Calendar](/calendar).
+As an inducted member, your focus should be on providing leadership to your home unit. After 6 months as an inducted member, you have the opportunity to take the next step in your membership journey and become a Brotherhood member. As a Brotherhood member, your focus should shift to now serve the lodge as well, and providing leadership on the chapter or lodge level. You can become a Brotherhood member at any of our three lodge weekends, as well as at Resica Fall Scout Reservation during the summer. To sign-up and seal the bond, head over to the [Lodge Calendar](/calendar).
 
 ### Key Contacts
 Questions? Head over to the [contact form](/contact) and ask one of our lodge committees, or contact one of the leaders of the lodge listed below.

@@ -1,0 +1,21 @@
+#!/usr/bin/env sh
+set -eu
+
+ROOT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+cd "$ROOT_DIR"
+
+RUBY_BIN=${RUBY_BIN:-ruby}
+BUNDLE_BIN=${BUNDLE_BIN:-bundle}
+
+if [ "$RUBY_BIN" = "ruby" ] && [ -x /opt/homebrew/opt/ruby@3.4/bin/ruby ]; then
+  RUBY_BIN=/opt/homebrew/opt/ruby@3.4/bin/ruby
+fi
+
+if [ "$BUNDLE_BIN" = "bundle" ] && [ -x /opt/homebrew/opt/ruby@3.4/bin/bundle ]; then
+  BUNDLE_BIN=/opt/homebrew/opt/ruby@3.4/bin/bundle
+fi
+
+rm -rf _site
+
+"$BUNDLE_BIN" exec jekyll build
+"$BUNDLE_BIN" exec "$RUBY_BIN" -Itest test/site_test.rb

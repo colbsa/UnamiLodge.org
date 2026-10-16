@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Sign up for a weekend: https://scoutingevent.com/525-109329
+  Sign up for an Event: https://unamilodge.org/calendar
   2026 Dues: https://unamilodge.org/dues
 
 links:

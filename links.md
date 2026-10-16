@@ -3,7 +3,7 @@ title: Home
 layout: links
 
 link-highlight:
-  Sign up for a weekend: https://unamilodge.org/calendar
+  Sign up for an Event: https://unamilodge.org/calendar
   2026 Dues: https://unamilodge.org/dues
 
 links:

@@ -9,6 +9,43 @@ ROOT = Pathname.new(__dir__).parent
 SITE = ROOT.join("_site")
 
 class SiteTest < Minitest::Test
+  def test_calendar_events_have_titles
+    events = YAML.safe_load_file(ROOT.join("_data/events.yml"), permitted_classes: [Date])
+
+    events.each_with_index do |event, index|
+      refute_empty event.fetch("title").to_s.strip, "calendar event #{index + 1} needs a title"
+    end
+  end
+
+  def test_calendar_events_are_unique
+    events = YAML.safe_load_file(ROOT.join("_data/events.yml"), permitted_classes: [Date])
+    duplicates = events.group_by { |event| [event.fetch("title").strip.downcase, event.fetch("date").to_s] }
+      .select { |_key, matches| matches.length > 1 }.keys
+
+    assert_empty duplicates, "duplicate calendar events: #{duplicates.inspect}"
+  end
+
+  def test_calendar_dates_are_valid_and_ordered
+    events = YAML.safe_load_file(ROOT.join("_data/events.yml"), permitted_classes: [Date])
+
+    events.each do |event|
+      start_date = Date.iso8601(event.fetch("date").to_s)
+      end_date = Date.iso8601((event["date-end"] || event.fetch("date")).to_s)
+
+      assert_operator end_date, :>=, start_date, "#{event.fetch('title')}: end date precedes start date"
+    rescue Date::Error
+      flunk "#{event.fetch('title')}: invalid calendar date (#{event['date'].inspect}, #{event['date-end'].inspect})"
+    end
+  end
+
+  def test_chapter_page_identifiers_are_unique
+    chapters = YAML.safe_load_file(ROOT.join("_data/chapters.yml"), aliases: true)
+    identifiers = chapters.map { |chapter| sanitize_filename(chapter.fetch("email")) }
+
+    refute_includes identifiers, "", "chapter page identifiers must not be empty"
+    assert_equal identifiers.uniq, identifiers, "duplicate chapter identifiers overwrite generated pages"
+  end
+
   def test_core_pages_are_generated
     %w[
       index.html

@@ -29,16 +29,7 @@ bundle install
 bundle exec jekyll serve   # or: bundle exec jekyll build
 ```
 
-Production/server Bundler installs should exclude the local test group:
-
-```sh
-bundle config set without test
-bundle install
-```
-
-Set `bundle config set without test` once on each server as a persistent local Bundler
-setting. Do not put that command in the deploy workflows; deploys use `script_stop: true`,
-so a missing `bundle` executable would abort before `git pull`.
+Production Docker installs exclude the local test group with `BUNDLE_WITHOUT=test` in `dockerfile`. Native production installs should likewise configure Bundler to exclude the `test` group.
 
 Use Ruby 3.x for local work. The current `jekyll_picture_tag` dependency does not support Ruby 4. On Homebrew macOS, `ruby@3.4` works:
 
@@ -66,12 +57,11 @@ generic Ruby packages.
 
 ## Deployment (important branch semantics)
 
-Deploy is via GitHub Actions that SSH into the web servers and `git reset --hard && git pull` — the server builds the site, not CI.
+Hosting and CI/CD use **DigitalOcean App Platform**, not GitHub Actions. DigitalOcean deploys the production website from **`main`** (confirmed by the site maintainer).
 
-- `.github/workflows/dev.yml` → triggers on push to **`development`** → deploys to dev.unamilodge.org
-- `.github/workflows/prod.yml` → triggers on push to **`master`** → deploys to production
+Changes flow through `development` first, then a promotion PR from `development` into `main`. Review the full promotion diff for other unreleased changes before merging. Treat a merge to `main` as a production release.
 
-The default working branch is `development`. Changes flow through `development` (staging) first, then to `master`/production. Any push to these branches deploys immediately, so treat commits to them as publishes.
+The checked-in `.github/workflows/dev.yml` and `.github/workflows/prod.yml` are legacy configuration; their SSH commands and `master` trigger do not describe the current deployment process. Confirm staging source-branch and automatic deployment settings in DigitalOcean rather than inferring them from those files.
 
 ## Architecture
 

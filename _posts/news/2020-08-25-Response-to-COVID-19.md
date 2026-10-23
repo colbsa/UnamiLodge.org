@@ -44,9 +44,9 @@ The [virtual long-term camping authorization](https://oa-bsa.org/coronavirus/tem
 
 <strong>April 28, 2020 - 5:00PM EST - Unami Events Update</strong>
 
-The coucil program committee met and decided to close all camps and cancel all events until June 1. This cancellation applies to all of our in person events as well, including Spring Service 2, the NOAC Fundraiser Trivia Night, and Pow-Wow in the Park. 
+The council program committee met and decided to close all camps and cancel all events until June 1. This cancellation applies to all of our in person events as well, including Spring Service 2, the NOAC Fundraiser Trivia Night, and Pow-Wow in the Park.
 
-Our NOAC Committee and Events Committee are coordinating with eachother on how to open the trivia night up to youth and adults as a *virtual* fellowship event! Stay tuned to our news and calendar for more information! Chapter meetings and Unit Elections are continuing online. Make sure to reach out to your chapter leaders for more information.
+Our NOAC Committee and Events Committee are coordinating with each other on how to open the trivia night up to youth and adults as a *virtual* fellowship event! Stay tuned to our news and calendar for more information! Chapter meetings and Unit Elections are continuing online. Make sure to reach out to your chapter leaders for more information.
 
 <hr>
 

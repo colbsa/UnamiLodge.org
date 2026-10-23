@@ -37,11 +37,11 @@ following:
 - Check if your dues are paid
 - Contact lodge leadership with questions
 
-In addition, recently elected members whose units opted to inform them of their election prior to their ordeal can access information to help you prepare for your Ordeal, and recently inducted members will have access to information to help you on your journey to Brotherhood.
+In addition, recently elected members whose units opted to inform them of their election prior to their induction can access information to help you prepare for your Induction, and recently inducted members will have access to information to help you on your journey to Brotherhood.
 
 You must be 13 years of age or older to get a Member Portal account. Currently there is no access for parents to accounts of members who are under 13, either. A future update should add the ability for parents of members under 13 to access on their behalf.
 
-Currently, new portal accounts are automatically issued to newly-elected candidates after their election results have been announced, or to newly-inducted members after they pass their ordeal, whichever happens first, provided that their election was reported via the new LodgeMaster Inductions module which became available for the entire lodge in the upcoming election cycle.
+Currently, new portal accounts are automatically issued to newly-elected candidates after their election results have been announced, or to newly-inducted members after they complete their induction, whichever happens first, provided that their election was reported via the new LodgeMaster Inductions module which became available for the entire lodge in the upcoming election cycle.
 
 ## Already have access the Member Portal
 

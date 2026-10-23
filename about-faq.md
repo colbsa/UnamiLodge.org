@@ -36,20 +36,20 @@ Adult nomination forms are available from the election team or your chapter advi
 **How many adults may my unit nominate?**
 The number of adults nominated can be no more than one-third of the number of youth candidates elected, rounded up where the number of youth candidates is not a multiple of three. In addition to the one-third limit, the unit committee may nominate the currently serving unit leader (but not assistant leaders), as long as he or she has served as unit leader for at least the previous twelve months.
 
-**Once elected, am I member?**
-Election into the Order of the Arrow is only the first step in your membership journey. Once elected, you must complete your Ordeal to be considered a full member of the OA. For more information regarding the Ordeal and other information for elected candidates, check out the Elected Candidates page (link).
+**Once elected, am I a member?**
+Election into the Order of the Arrow is only the first step in your membership journey. Once elected, you must complete your Induction to be considered a full member of the OA. For more information regarding the induction and other information for elected members, check out the [Newly Elected Members page](/electedcandidates).
 
 **What lodge activities can I participate in?**
-The lodge holds numerous activities throughout the year. Service and fellowship weekends are held every April, May, August, and October are our council camps – Musser Scout Reservation or Resica Falls Scout Reservation. The annual lodge dinner is held every January, and the Community Service Day is held in March. Check out the Lodge Calendar page (link) for more details and sign-up information.
+The lodge holds numerous activities throughout the year. Service and fellowship weekends are held every April, May, August, and October are our council camps – Musser Scout Reservation or Resica Falls Scout Reservation. The annual lodge dinner is held every January, and the Community Service Day is held in March. Check out the [Lodge Calendar](/calendar) page for more details and sign-up information.
 
-**My unit is going out of council for summer camp this year. Can I take my Ordeal there?**
-No. The Ordeal must be completed within the lodge in which you were elected.
+**My unit is going out of council for summer camp this year. Can I do my Induction there?**
+No. The Induction must be completed within the lodge in which you were elected.
 
 **An election was held at our unit, but the results were not announced: what happens next?**
 You will be notified in the mail by the lodge within one month of the election confirming your selection for membership in the Order of the Arrow.
 
 **Are there yearly dues for the Order of the Arrow?**
-In order to be considered a member in good standing, members of Unami Lodge, One must pay their lodge dues annually. Yearly dues help support the lodge operating budget, give each member the right to wear a lodge flap, and allow you the ability to participate in lodge activies. If paid before February 1st of each lodge year, dues will be a discounted rate of $20.00 for youth and $25.00 for adults. Dues paid on or after February 1st will be $25.00 for youth and $28.00 for adults. Check out Pay My Dues (link) for more information and to pay your lodge dues.
+In order to be considered a member in good standing, members of Unami Lodge, One must pay their lodge dues annually. Yearly dues help support the lodge operating budget, give each member the right to wear a lodge flap, and allow you the ability to participate in lodge activities. If paid before February 1st of each lodge year, dues will be a discounted rate of $20.00 for youth and $25.00 for adults. Dues paid on or after February 1st will be $25.00 for youth and $28.00 for adults. Check out [Pay My Dues](/dues) for more information and to pay your lodge dues.
 
 **Once I pay my dues, will I get a membership card?**
 A membership card will be mailed to you once your payment is received and your record is updated. This may take up to 2-6 weeks for you to receive your card.
@@ -61,6 +61,7 @@ Your membership is absolutely transferable to another lodge. Once you’re settl
 YES. You must be registered as a unit, district, or council level Scout or Scouter to be considered an active member of the lodge and participate in lodge events, in addition to having your dues paid. All members 18 years of age and older must also have a valid Youth Protection training certificate.
 
 **Where can I purchase lodge flaps and other OA related supplies?**
-Lodge flaps, OA sashes, and lodge merchandise can be purchased at each Executive Committee meeting, at all lodge functions, and at our council camps. Lodge flaps are also available at the offices of Cradle of Liberty Council in King of Prussia, PA. General OA supplies are available in the local Scout Shop, but Unami-specific materials are not. Some lodge properties are also available at our online lodge trading post here (link).
-Where do I get more information?
-Explore the remainder of the lodge website for information regarding news updates, events, history, membership, and more. If you want to know more information about a specific topic or you have a specific question, please Contact Us (link) and one of our operating committees or lodge officers will be happy to help you.
+Lodge flaps, OA sashes, and lodge merchandise can be purchased at each Executive Committee meeting, at all lodge functions, and at our council camps. Lodge flaps are also available at the offices of Cradle of Liberty Council in King of Prussia, PA. General OA supplies are available in the local Scout Shop, but Unami-specific materials are not. Some lodge properties are also available at our [online lodge trading post](/tradingpost).
+
+**Where do I get more information?**
+Explore the remainder of the lodge website for information regarding news updates, events, history, membership, and more. If you want to know more information about a specific topic or you have a specific question, please [Contact Us](/contact) and one of our operating committees or lodge officers will be happy to help you.

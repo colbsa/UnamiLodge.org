@@ -12,12 +12,12 @@ The Order of the Arrow is Scouting’s National Honor Society. Each local BSA co
 ## How will the Order of the Arrow help my son or daughter?
 Beyond recognizing your Scout exemplifying the Scout Oath and Scout Law, the Order of the Arrow also has the purpose of promoting outdoor adventure, developing leaders of character, and serving others throughout Scouting. Each of these ideas is further instilled at lodge activities that your son and daughter can participate in throughout the year, including service and fellowship weekends, and leadership training. The Order of the Arrow will also give them the opportunity to interact with Scouts from other troops, districts, councils, and even across the country, sharing ideas and learning from each other. Check out the [New Members Page](/newmembers) or the [Lodge Calendar](/calendar) for information about the next exciting event they can be a part of. 
 
-## When can my son or daughter complete their Ordeal?
-Election is only the first step in the membership journey of the Order of the Arrow. Next, elected candidates must complete their Ordeal to become a full member in the Order of the Arrow. From the time of their election, your son or daughter has 18 months to complete their Ordeal. There are multiple opportunities offered throughout the year for your Scout to complete their Ordeal. 
+## When can my son or daughter complete their Induction?
+Election is only the first step in the membership journey of the Order of the Arrow. Next, elected candidates must complete their Induction to become a full member in the Order of the Arrow. From the time of their election, your son or daughter has 18 months to complete their Induction. There are multiple opportunities offered throughout the year for your Scout to complete their Induction. 
 
 <div class="card mb-3">
   <div class="card-body">
-    <h5>Upcoming Ordeal Opportunities</h5>
+    <h5>Upcoming Induction Opportunities</h5>
     <ul>
       {% assign highlighted_events = site.data.events | where:"ordeal", "true" %}
       {% for event in highlighted_events %}
@@ -36,9 +36,6 @@ Election is only the first step in the membership journey of the Order of the Ar
     </ul>
   </div>
 </div>
-
-## Why is the Ordeal such a big secret?
-Unami Lodge, One does not intend to keep any information from its newly elected candidates or their parents. However, any secrecy around the Ordeal is meant for a single purpose: the Experience. Revealing too much information before the Ordeal would hurt the full experience of the membership journey. The Ordeal is meant to be a chance for your son or daughter to reflect on Scouting and grow in their service to others. If there are any questions or concerns regarding the nature of the Ordeal, you can reach out to the Lodge Adviser, Todge Sutkowski, to alleviate any issues you may have.
 
 ## Can adults join the Order of the Arrow, too?
 The Order of the Arrow is youth led, but these youth need guidance from capable adults. An adult currently registered in Scouting on the unit, district, or council level can join Unami Lodge, One. Adults in troops, crews, and ships are nominated by the unit committee chair, and adults on the district or council level can be nominated by the lodge adviser, district chair, council president, or member of the professional staff. All candidates for adult membership must be approved by the Scout Executive. When considered an adult for nomination, keep in mind that the nomination for membership should not be viewed as a recognition for an adult's service, but also how he or she can help the lodge and its youth leaders meet the purpose and goals of the Order.

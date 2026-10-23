@@ -15,6 +15,6 @@ Join us this new year at the Lodge's 107th Annual Dinner! This is one of the old
 
 **The Night Sky and Beyond** is the theme and it will surely be an enlightening endeavor. As always with the annual dinner, friends and family are more than welcome to join! Patch auctions, and door prizes will be available so make sure to arrive on time.
 
-Join us in thanking our past officers and LEC as well as say 'hello' to our future! Don't forget to be the first to congratulate the winners of this years Oustanding Service Awards, Spirit of Camp Leadership Awards, Founder's Award and more!
+Join us in thanking our past officers and LEC as well as say 'hello' to our future! Don't forget to be the first to congratulate the winners of this years Outstanding Service Awards, Spirit of Camp Leadership Awards, Founder's Award and more!
 
 If you have any questions, let the dinner committee know at dinner@unamilodge.org.

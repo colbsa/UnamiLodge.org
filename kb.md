@@ -95,7 +95,7 @@ Absolutely!  Please do not hesitate to reach out to communications@unamilodge.or
       The National OA Committee publishes a guide on how to best present ourselves online. Additional links to both OA and BSA branding and language guides are below.
       <ul>
         <li><a target="_blank" href="https://scoutingwire.org/BSA-Brand-Center/">BSA Brand Center</a></li>
-        <li><a target="_blank" href="https://www.scouting.org/resources/los/">BSA Lanuage of Scouting</a></li>
+        <li><a target="_blank" href="https://www.scouting.org/resources/los/">BSA Language of Scouting</a></li>
         <li><a target="_blank" href="https://oa-scouting.org/resources/branding">National OA Branding Guide</a></li>
         <li><a target="_blank" href="https://oa-scouting.org/resources/looa">National OA Language of the OA</a></li>
       </ul>

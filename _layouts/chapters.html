@@ -24,7 +24,7 @@
             <tr>
               <td>{{officer.title}}</td>
               <td>{{officer.name}}</td>
-              <td>{{page.email}}@unamilodge.org</td>
+              <td>{% if officer.email %}{{officer.email}}{% else %}{{page.email}}@unamilodge.org{% endif %}</td>
             </tr>
           {% endfor %}
         </tbody>

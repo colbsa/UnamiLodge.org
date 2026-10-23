@@ -23,5 +23,5 @@ Each year, Unami Lodge presents a series of awards to both member and non-member
   <a href="/awards" class="btn btn-primary btn-lg">Submit A Nomination!</a>
 </div>
 
-Recogonize those who have served this year, even in the toughest of times. Sumbit an award nomination today!
+Recognize those who have served this year, even in the toughest of times. Submit an award nomination today!
 

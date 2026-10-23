@@ -7,7 +7,7 @@ permalink: /contactlist/
 <table class="table table-responsive table-striped mt-3">
   <thead>
     <tr>
-      <th scope="col">Positon</th>
+      <th scope="col">Position</th>
       <th scope="col">Name</th>
       <th scope="col">Email</th>
     </tr>
@@ -26,7 +26,7 @@ permalink: /contactlist/
 <table class="table table-responsive table-striped mt-3">
   <thead>
     <tr>
-      <th scope="col">Positon</th>
+      <th scope="col">Position</th>
       <th scope="col">Name</th>
       <th scope="col">Email</th>
     </tr>
@@ -45,7 +45,7 @@ permalink: /contactlist/
 <table class="table table-responsive mt-3">
   <thead>
     <tr>
-      <th scope="col">Positon</th>
+      <th scope="col">Position</th>
       <th scope="col">Name</th>
       <th scope="col">Email</th>
     </tr>
@@ -67,7 +67,7 @@ permalink: /contactlist/
 <table class="table table-responsive mt-3">
   <thead>
     <tr>
-      <th scope="col">Positon</th>
+      <th scope="col">Position</th>
       <th scope="col">Name</th>
       <th scope="col">Email</th>
     </tr>

@@ -88,7 +88,7 @@ banner: /img/portals/noac-2026-portal.png
       <ul>
         <li><strong>Unami Lodge</strong> - <a href="/scholarship/">OA High Adventure Scholarship</a></li>
         <li><strong>Section E17</strong> - <a href="https://e17.oa-scouting.org/scholarships/bhs-scholarship/">Brian H. Swatt Memorial National Events Scholarship</a></li>
-        <li><strong>National OA</strong> - Trailblazer Scholarship</li>
+        <li><strong>National OA</strong> - <a href="https://scouting.co1.qualtrics.com/jfe/form/SV_2s2G6ofYutVOQVE">Trailblazer Scholarship</a></li>
       </ul>
     </p>
     <h2>Refund Policy</h2>

@@ -61,6 +61,11 @@ Hosting and CI/CD use **DigitalOcean App Platform**, not GitHub Actions. Digital
 
 Changes flow through `development` first, then a promotion PR from `development` into `main`. Review the full promotion diff for other unreleased changes before merging. Treat a merge to `main` as a production release.
 
+### Branch rules for agents
+- **Every change goes through `development`.** Create feature branches from `development` (never from `main`), and open PRs into `development` only. Never target `main` with a change PR, even to avoid an open promotion PR.
+- **An open promotion PR picks up anything merged into `development`.** Check `gh pr list --base main` before merging or pushing for review. If a `development` -> `main` PR is open and the change should not ship with it, keep the feature branch local (unpushed) and wait until the promotion PR merges, then open the PR into `development`.
+- Commit to the feature branch only; do not commit directly on `development` or `main`, and do not push or merge without being asked.
+
 The checked-in `.github/workflows/dev.yml` and `.github/workflows/prod.yml` are legacy configuration; their SSH commands and `master` trigger do not describe the current deployment process. Confirm staging source-branch and automatic deployment settings in DigitalOcean rather than inferring them from those files.
 
 ## Architecture

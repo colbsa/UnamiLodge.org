@@ -58,6 +58,13 @@ class SiteTest < Minitest::Test
     end
   end
 
+  def test_main_navigation_links_to_reports_page
+    html = SITE.join("index.html").read
+
+    assert_includes html, 'href="/reports">Reports & Minutes</a>'
+    assert SITE.join("reports/index.html").file?, "nav links to /reports but the page is missing"
+  end
+
   def test_reports_page_lists_minutes
     html = SITE.join("reports/index.html").read
 

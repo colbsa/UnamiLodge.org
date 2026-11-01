@@ -38,6 +38,36 @@ class SiteTest < Minitest::Test
     end
   end
 
+  def test_reports_minutes_files_exist_and_are_unique
+    minutes = YAML.safe_load_file(ROOT.join("_data/reports.yml")).fetch("minutes")
+    keys = minutes.map { |m| [m.fetch("date"), m.fetch("body")] }
+
+    assert_equal keys.uniq, keys, "duplicate minutes entries"
+    minutes.each do |meeting|
+      Date.iso8601(meeting.fetch("date"))
+      attachments = meeting["attachments"] || []
+      attachments.each do |a|
+        refute_empty a.fetch("title").to_s.strip, "attachment needs a title for #{meeting['date']}"
+        assert a["omitted"] ^ a.key?("file"), "#{a['title']}: needs exactly one of file or omitted"
+      end
+      paths = [meeting.fetch("minutes")] + attachments.reject { |a| a["omitted"] }.map { |a| a.fetch("file") }
+      paths.each do |path|
+        assert ROOT.join(path.delete_prefix("/")).file?, "#{path} is missing for #{meeting['date']}"
+        assert SITE.join(path.delete_prefix("/")).file?, "#{path} not in built site"
+      end
+    end
+  end
+
+  def test_reports_page_lists_minutes
+    html = SITE.join("reports/index.html").read
+
+    assert_includes html, "minutes-2025"
+    assert_includes html, "2025-12-16_LEC_Minutes.pdf"
+    assert_includes html, "mailto:secretary@unamilodge.org?subject=Request%20for%20attachment"
+    assert_includes html, "2026 Event Patches.pdf"
+    refute_match(/\{[{%]/, html, "reports page has unrendered Liquid")
+  end
+
   def test_chapter_page_identifiers_are_unique
     chapters = YAML.safe_load_file(ROOT.join("_data/chapters.yml"), aliases: true)
     identifiers = chapters.map { |chapter| sanitize_filename(chapter.fetch("email")) }

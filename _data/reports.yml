@@ -3,5 +3,688 @@ annual:
   url: #
 
 minutes:
-- title: Coming Soon!
-  url: #
+- date: "2017-12-19"
+  body: LEC
+  minutes: "/files/minutes/2017/2017-12-19_LEC/2017-12-19_LEC_Minutes.pdf"
+- date: "2018-01-27"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-01-27_LEC/2018-01-27_LEC_Minutes.pdf"
+  attachments:
+  - title: "2018-01-27_LEC_Agenda.docx"
+    file: "/files/minutes/2018/2018-01-27_LEC/2018-01-27_LEC_Agenda.docx"
+- date: "2018-02-27"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-02-27_LEC/2018-02-27_LEC_Minutes.pdf"
+- date: "2018-03-27"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-03-27_LEC/2018-03-27_LEC_Minutes.pdf"
+- date: "2018-04-15"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-04-15_LEC/2018-04-15_LEC_Minutes.pdf"
+- date: "2018-04-24"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-04-24_LEC/2018-04-24_LEC_Minutes.pdf"
+- date: "2018-05-20"
+  body: General-Members
+  minutes: "/files/minutes/2018/2018-05-20_General-Members/2018-05-20_General-Members_Minutes.pdf"
+- date: "2018-05-22"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-05-22_LEC/2018-05-22_LEC_Minutes.pdf"
+- date: "2018-08-28"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-08-28_LEC/2018-08-28_LEC_Minutes.pdf"
+- date: "2018-09-25"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-09-25_LEC/2018-09-25_LEC_Minutes.pdf"
+- date: "2018-10-06"
+  body: General-Members
+  minutes: "/files/minutes/2018/2018-10-06_General-Members/2018-10-06_General-Members_Minutes.pdf"
+- date: "2018-10-07"
+  body: General-Members
+  minutes: "/files/minutes/2018/2018-10-07_General-Members/2018-10-07_General-Members_Minutes.pdf"
+- date: "2018-10-23"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-10-23_LEC/2018-10-23_LEC_Minutes.pdf"
+- date: "2018-11-27"
+  body: LEC
+  minutes: "/files/minutes/2018/2018-11-27_LEC/2018-11-27_LEC_Minutes.pdf"
+- date: "2019-09-24"
+  body: LEC
+  minutes: "/files/minutes/2019/2019-09-24_LEC/2019-09-24_LEC_Minutes.pdf"
+- date: "2020-01-28"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-01-28_LEC/2020-01-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-01-28_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-01-28_LEC/2020-01-28_LEC_Agenda.pdf"
+  - title: "Account Balance Report 12-31-19.pdf"
+    file: "/files/minutes/2020/2020-01-28_LEC/Account-Balance-Report-12-31-19.pdf"
+  - title: "Budget-Actual Compare 12-31-19.pdf"
+    file: "/files/minutes/2020/2020-01-28_LEC/Budget-Actual-Compare-12-31-19.pdf"
+  - title: "Event to Properties Adjustment.pdf"
+    file: "/files/minutes/2020/2020-01-28_LEC/Event-to-Properties-Adjustment.pdf"
+  - title: "Original Proposed Budget.pdf"
+    file: "/files/minutes/2020/2020-01-28_LEC/Original-Proposed-Budget.pdf"
+  - title: "Unami Lodge 2020 Visitation Summary - Sheet1.pdf"
+    file: "/files/minutes/2020/2020-01-28_LEC/Unami-Lodge-2020-Visitation-Summary---Sheet1.pdf"
+  - title: "noacflap-04.png"
+    file: "/files/minutes/2020/2020-01-28_LEC/noacflap-04.png"
+- date: "2020-02-25"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-02-25_LEC/2020-02-25_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020 OA Weekend Budget Spring Service One (Proposed).xlsx"
+    file: "/files/minutes/2020/2020-02-25_LEC/2020-OA-Weekend-Budget-Spring-Service-One-Proposed.xlsx"
+  - title: "2020-02-25_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-02-25_LEC/2020-02-25_LEC_Agenda.pdf"
+  - title: "2020.02.17-SS1_Patch_Spec.pdf"
+    file: "/files/minutes/2020/2020-02-25_LEC/2020.02.17-SS1_Patch_Spec.pdf"
+  - title: "Constellation Flag.png"
+    file: "/files/minutes/2020/2020-02-25_LEC/Constellation-Flag.png"
+  - title: "Participation Award 2020 DRAFT.pdf"
+    file: "/files/minutes/2020/2020-02-25_LEC/Participation-Award-2020-DRAFT.pdf"
+  - title: "UVs as of 2.14.20.xlsx"
+    file: "/files/minutes/2020/2020-02-25_LEC/UVs-as-of-2.14.20.xlsx"
+- date: "2020-03-24"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-03-24_LEC/2020-03-24_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-03-24_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-03-24_LEC/2020-03-24_LEC_Agenda.pdf"
+  - title: "Black Sash Award.pdf"
+    file: "/files/minutes/2020/2020-03-24_LEC/Black-Sash-Award.pdf"
+  - title: "Constellation Flag.jpg"
+    file: "/files/minutes/2020/2020-03-24_LEC/Constellation-Flag.jpg"
+  - title: "Election Report March 2020.pdf"
+    file: "/files/minutes/2020/2020-03-24_LEC/Election-Report-March-2020.pdf"
+- date: "2020-04-28"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-04-28_LEC/2020-04-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-04-28_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-04-28_LEC/2020-04-28_LEC_Agenda.pdf"
+  - title: "Continental Chapter Patch.jpg"
+    file: "/files/minutes/2020/2020-04-28_LEC/Continental-Chapter-Patch.jpg"
+  - title: "Lodge Face Mask.JPG"
+    file: "/files/minutes/2020/2020-04-28_LEC/Lodge-Face-Mask.jpg"
+  - title: "Participation Award 2020 Final .pdf"
+    file: "/files/minutes/2020/2020-04-28_LEC/Participation-Award-2020-Final.pdf"
+- date: "2020-05-26"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-05-26_LEC/2020-05-26_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-05-26_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-05-26_LEC/2020-05-26_LEC_Agenda.pdf"
+  - title: "Continental Chapter Patch Proposal.xlsx"
+    file: "/files/minutes/2020/2020-05-26_LEC/Continental-Chapter-Patch-Proposal.xlsx"
+- date: "2020-06-23"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-06-23_LEC/2020-06-23_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-06-23_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-06-23_LEC/2020-06-23_LEC_Agenda.pdf"
+  - title: "6.17.2020 - Covid-19 Suspension of Rules and Procedures Articles.docx"
+    file: "/files/minutes/2020/2020-06-23_LEC/6.17.2020---Covid-19-Suspension-of-Rules-and-Procedures-Articles.docx"
+- date: "2020-07-28"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-07-28_LEC/2020-07-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-07-28_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-07-28_LEC/2020-07-28_LEC_Agenda.pdf"
+- date: "2020-08-25"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-08-25_LEC/2020-08-25_LEC_Minutes.pdf"
+- date: "2020-09-22"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-09-22_LEC/2020-09-22_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-09-22_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-09-22_LEC/2020-09-22_LEC_Agenda.pdf"
+  - title: "2020-unami-lodge-financial-report.xlsx"
+    file: "/files/minutes/2020/2020-09-22_LEC/2020-unami-lodge-financial-report.xlsx"
+- date: "2020-10-12"
+  body: LEC-Special
+  minutes: "/files/minutes/2020/2020-10-12_LEC-Special/2020-10-12_LEC-Special_Minutes.pdf"
+- date: "2020-10-27"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-10-27_LEC/2020-10-27_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-10-27_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-10-27_LEC/2020-10-27_LEC_Agenda.pdf"
+  - title: "Dues Presentation .pptx"
+    file: "/files/minutes/2020/2020-10-27_LEC/Dues-Presentation.pptx"
+- date: "2020-11-24"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-11-24_LEC/2020-11-24_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-11-24_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-11-24_LEC/2020-11-24_LEC_Agenda.pdf"
+  - title: "Ceremonial Grounds Project Final Draft.pptx"
+    omitted: true
+- date: "2020-12-22"
+  body: LEC
+  minutes: "/files/minutes/2020/2020-12-22_LEC/2020-12-22_LEC_Minutes.pdf"
+  attachments:
+  - title: "2020-12-22_LEC_Agenda.pdf"
+    file: "/files/minutes/2020/2020-12-22_LEC/2020-12-22_LEC_Agenda.pdf"
+- date: "2021-01-26"
+  body: LEC
+  minutes: "/files/minutes/2021/2021-01-26_LEC/2021-01-26_LEC_Minutes.pdf"
+  attachments:
+  - title: "2021 Unami Lodge Financial Worksheets - Presentation Copy.pdf"
+    file: "/files/minutes/2021/2021-01-26_LEC/2021-Unami-Lodge-Financial-Worksheets---Presentation-Copy.pdf"
+  - title: "2021 Unami Lodge Proposed Budget.pdf"
+    file: "/files/minutes/2021/2021-01-26_LEC/2021-Unami-Lodge-Proposed-Budget.pdf"
+  - title: "2021-01-26_LEC_Agenda.pdf"
+    file: "/files/minutes/2021/2021-01-26_LEC/2021-01-26_LEC_Agenda.pdf"
+  - title: "Conclave-Packet-2021.pdf"
+    omitted: true
+- date: "2021-02-23"
+  body: LEC
+  minutes: "/files/minutes/2021/2021-02-23_LEC/2021-02-23_LEC_Minutes.pdf"
+  attachments:
+  - title: "2021 OA Weekend Budget Spring Service One (Proposed) (1).xlsx"
+    file: "/files/minutes/2021/2021-02-23_LEC/2021-OA-Weekend-Budget-Spring-Service-One-Proposed-1.xlsx"
+  - title: "2021-02-23_LEC_Agenda.pdf"
+    file: "/files/minutes/2021/2021-02-23_LEC/2021-02-23_LEC_Agenda.pdf"
+  - title: "COL Jam Flaps.jpeg"
+    file: "/files/minutes/2021/2021-02-23_LEC/COL-Jam-Flaps.jpeg"
+  - title: "Restricted 2021 OA Weekend Budget Spring Service One (Proposed) (1).xlsx"
+    file: "/files/minutes/2021/2021-02-23_LEC/Restricted-2021-OA-Weekend-Budget-Spring-Service-One-Proposed-1.xlsx"
+- date: "2021-03-23"
+  body: LEC
+  minutes: "/files/minutes/2021/2021-03-23_LEC/2021-03-23_LEC_Minutes.pdf"
+  attachments:
+  - title: "2021 OA Weekend Budget Spring Service Two (Proposed).xlsx - Budget.pdf"
+    file: "/files/minutes/2021/2021-03-23_LEC/2021-OA-Weekend-Budget-Spring-Service-Two-Proposed-.xlsx---Budget.pdf"
+  - title: "2021-03-23_LEC_Agenda.pdf"
+    file: "/files/minutes/2021/2021-03-23_LEC/2021-03-23_LEC_Agenda.pdf"
+  - title: "Image from iOS.png"
+    file: "/files/minutes/2021/2021-03-23_LEC/Image-from-iOS.png"
+  - title: "Unami Lodge SS2 Patch.pdf"
+    file: "/files/minutes/2021/2021-03-23_LEC/Unami-Lodge-SS2-Patch.pdf"
+  - title: "Unami University sweater logo.png"
+    file: "/files/minutes/2021/2021-03-23_LEC/Unami-University-sweater-logo.png"
+- date: "2021-04-27"
+  body: LEC
+  minutes: "/files/minutes/2021/2021-04-27_LEC/2021-04-27_LEC_Minutes.pdf"
+  attachments:
+  - title: "2021 OA Weekend Budget Spring Service One .xlsx - Actual.pdf"
+    file: "/files/minutes/2021/2021-04-27_LEC/2021-OA-Weekend-Budget-Spring-Service-One-.xlsx---Actual.pdf"
+  - title: "2021-04-27_LEC_Agenda.pdf"
+    file: "/files/minutes/2021/2021-04-27_LEC/2021-04-27_LEC_Agenda.pdf"
+  - title: "Chapter Dues Report - April.pdf"
+    file: "/files/minutes/2021/2021-04-27_LEC/Chapter-Dues-Report---April.pdf"
+- date: "2021-09-28"
+  body: LEC
+  minutes: "/files/minutes/2021/2021-09-28_LEC/2021-09-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "2021-09-28_LEC_Agenda.pdf"
+    file: "/files/minutes/2021/2021-09-28_LEC/2021-09-28_LEC_Agenda.pdf"
+  - title: "Hart_90th_BookReader-Lamda.pdf"
+    omitted: true
+  - title: "September 2021 Unami Lodge Financial Worksheets.xlsx"
+    file: "/files/minutes/2021/2021-09-28_LEC/September-2021-Unami-Lodge-Financial-Worksheets.xlsx"
+- date: "2021-10-26"
+  body: LEC
+  minutes: "/files/minutes/2021/2021-10-26_LEC/2021-10-26_LEC_Minutes.pdf"
+  attachments:
+  - title: "2021-10-26_LEC_Agenda.pdf"
+    file: "/files/minutes/2021/2021-10-26_LEC/2021-10-26_LEC_Agenda.pdf"
+- date: "2021-11-23"
+  body: LEC
+  minutes: "/files/minutes/2021/2021-11-23_LEC/2021-11-23_LEC_Minutes.pdf"
+  attachments:
+  - title: "2021-11-23_LEC_Agenda.pdf"
+    file: "/files/minutes/2021/2021-11-23_LEC/2021-11-23_LEC_Agenda.pdf"
+  - title: "2022 OA Budget Annual Lodge Dinner.xlsx"
+    file: "/files/minutes/2021/2021-11-23_LEC/2022-OA-Budget-Annual-Lodge-Dinner.xlsx"
+  - title: "ContingentFlapNOAC2022.jpg"
+    file: "/files/minutes/2021/2021-11-23_LEC/ContingentFlapNOAC2022.jpg"
+  - title: "Dinner Patch.png"
+    file: "/files/minutes/2021/2021-11-23_LEC/Dinner-Patch.png"
+  - title: "TraderFlapNOAC2022.jpg"
+    file: "/files/minutes/2021/2021-11-23_LEC/TraderFlapNOAC2022.jpg"
+- date: "2021-12-21"
+  body: LEC
+  minutes: "/files/minutes/2021/2021-12-21_LEC/2021-12-21_LEC_Minutes.pdf"
+  attachments:
+  - title: "2021-12-21_LEC_Agenda.pdf"
+    file: "/files/minutes/2021/2021-12-21_LEC/2021-12-21_LEC_Agenda.pdf"
+- date: "2022-02-22"
+  body: LEC
+  minutes: "/files/minutes/2022/2022-02-22_LEC/2022-02-22_LEC_Minutes.pdf"
+  attachments:
+  - title: "2022 OA Weekend Budget Spring Service One .xlsx"
+    file: "/files/minutes/2022/2022-02-22_LEC/2022-OA-Weekend-Budget-Spring-Service-One.xlsx"
+  - title: "Screenshot (47)a.png"
+    file: "/files/minutes/2022/2022-02-22_LEC/Screenshot-47-a.png"
+  - title: "UNAMIDESIGNNEW.png"
+    file: "/files/minutes/2022/2022-02-22_LEC/UNAMIDESIGNNEW.png"
+- date: "2022-03-22"
+  body: LEC
+  minutes: "/files/minutes/2022/2022-03-22_LEC/2022-03-22_LEC_Minutes.pdf"
+- date: "2022-05-24"
+  body: LEC
+  minutes: "/files/minutes/2022/2022-05-24_LEC/2022-05-24_LEC_Minutes.pdf"
+- date: "2023-01-24"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-01-24_LEC/2023-01-24_LEC_Minutes.pdf"
+  attachments:
+  - title: "2022 Budget to Actual Report.pdf"
+    file: "/files/minutes/2023/2023-01-24_LEC/2022-Budget-to-Actual-Report.pdf"
+  - title: "2022 Unami Lodge Account Balance Report.pdf"
+    file: "/files/minutes/2023/2023-01-24_LEC/2022-Unami-Lodge-Account-Balance-Report.pdf"
+  - title: "2023 Unami Lodge Proposed Budget.pdf"
+    file: "/files/minutes/2023/2023-01-24_LEC/2023-Unami-Lodge-Proposed-Budget.pdf"
+  - title: "2023-01-24_LEC_Agenda.pdf"
+    file: "/files/minutes/2023/2023-01-24_LEC/2023-01-24_LEC_Agenda.pdf"
+  - title: "Conclave - 2023 Conclave Budget.xlsx"
+    file: "/files/minutes/2023/2023-01-24_LEC/Conclave---2023-Conclave-Budget.xlsx"
+  - title: "Conclave Back of T-Shirt Design.jpg"
+    file: "/files/minutes/2023/2023-01-24_LEC/Conclave-Back-of-T-Shirt-Design.jpg"
+  - title: "Conclave Fundraiser Flap.jpg"
+    file: "/files/minutes/2023/2023-01-24_LEC/Conclave-Fundraiser-Flap.jpg"
+  - title: "Events - January LEC Events Business.pptx"
+    omitted: true
+  - title: "History - 2022 History Account Detail Ledger.xlsx"
+    file: "/files/minutes/2023/2023-01-24_LEC/History---2022-History-Account-Detail-Ledger.xlsx"
+  - title: "History - 2023 History Budget.xlsx"
+    file: "/files/minutes/2023/2023-01-24_LEC/History---2023-History-Budget.xlsx"
+  - title: "History - TOR Budget 2022 Actual.xlsx"
+    file: "/files/minutes/2023/2023-01-24_LEC/History---TOR-Budget-2022-Actual.xlsx"
+- date: "2023-02-28"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-02-28_LEC/2023-02-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "108th Annual Lodge Dinner Patch.png"
+    file: "/files/minutes/2023/2023-02-28_LEC/108th-Annual-Lodge-Dinner-Patch.png"
+  - title: "2023 February LEC Proposed Changes.pdf"
+    file: "/files/minutes/2023/2023-02-28_LEC/2023-February-LEC-Proposed-Changes.pdf"
+  - title: "2023 Jamboree Flap - As Approved.pdf"
+    file: "/files/minutes/2023/2023-02-28_LEC/2023-Jamboree-Flap---As-Approved.pdf"
+  - title: "2023 OA Weekend Budget Spring Service One .xlsx - Budget.pdf"
+    file: "/files/minutes/2023/2023-02-28_LEC/2023-OA-Weekend-Budget-Spring-Service-One-.xlsx---Budget.pdf"
+  - title: "Brotherhood Blitz.pdf"
+    file: "/files/minutes/2023/2023-02-28_LEC/Brotherhood-Blitz.pdf"
+  - title: "Fall Fellowship Patch.png"
+    file: "/files/minutes/2023/2023-02-28_LEC/Fall-Fellowship-Patch.png"
+  - title: "Patch Set (2).png"
+    file: "/files/minutes/2023/2023-02-28_LEC/Patch-Set-2.png"
+  - title: "Spring Service One Patch.png"
+    file: "/files/minutes/2023/2023-02-28_LEC/Spring-Service-One-Patch.png"
+  - title: "Spring Service Two Patch.png"
+    file: "/files/minutes/2023/2023-02-28_LEC/Spring-Service-Two-Patch.png"
+  - title: "Summer Induction Weekend Dangle (1).png"
+    file: "/files/minutes/2023/2023-02-28_LEC/Summer-Induction-Weekend-Dangle-1.png"
+  - title: "Unami Events (1).pdf"
+    file: "/files/minutes/2023/2023-02-28_LEC/Unami-Events-1.pdf"
+  - title: "Video.mov"
+    omitted: true
+- date: "2023-03-28"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-03-28_LEC/2023-03-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "2023 OA Weekend Budget Spring Service Two.xlsx - Budget.pdf"
+    file: "/files/minutes/2023/2023-03-28_LEC/2023-OA-Weekend-Budget-Spring-Service-Two.xlsx---Budget.pdf"
+  - title: "Lafayette Chapter Flag.png"
+    file: "/files/minutes/2023/2023-03-28_LEC/Lafayette-Chapter-Flag.png"
+- date: "2023-04-25"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-04-25_LEC/2023-04-25_LEC_Minutes.pdf"
+  attachments:
+  - title: "4_25_23 LEC Rules and Procedures Changes Proposal.pdf"
+    file: "/files/minutes/2023/2023-04-25_LEC/4_25_23-LEC-Rules-and-Procedures-Changes-Proposal.pdf"
+  - title: "Constellation Chapter Patches LEC Proposal.pdf"
+    file: "/files/minutes/2023/2023-04-25_LEC/Constellation-Chapter-Patches-LEC-Proposal.pdf"
+  - title: "Rose and Thorn.pdf"
+    file: "/files/minutes/2023/2023-04-25_LEC/Rose-and-Thorn.pdf"
+  - title: "unami__design__1080____1080_px___2_.png"
+    file: "/files/minutes/2023/2023-04-25_LEC/unami__design__1080____1080_px___2_.png"
+- date: "2023-05-23"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-05-23_LEC/2023-05-23_LEC_Minutes.pdf"
+  attachments:
+  - title: "2023 Brotherhood Blitz Budget (Proposed).xlsx"
+    file: "/files/minutes/2023/2023-05-23_LEC/2023-Brotherhood-Blitz-Budget-Proposed.xlsx"
+  - title: "2023 Budget vs 2022 Printout for LEC .pdf"
+    file: "/files/minutes/2023/2023-05-23_LEC/2023-Budget-vs-2022-Printout-for-LEC.pdf"
+  - title: "Unami Lodge Belt Proposal Design.jpg"
+    omitted: true
+- date: "2023-08-08"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-08-08_LEC/2023-08-08_LEC_Minutes.pdf"
+  attachments:
+  - title: "2023 vigil Weekend budget.xlsx"
+    file: "/files/minutes/2023/2023-08-08_LEC/2023-vigil-Weekend-budget.xlsx"
+  - title: "IMG_7980.jpg"
+    file: "/files/minutes/2023/2023-08-08_LEC/IMG_7980.jpg"
+  - title: "IMG_7981.jpg"
+    file: "/files/minutes/2023/2023-08-08_LEC/IMG_7981.jpg"
+  - title: "IMG_7982.jpg"
+    file: "/files/minutes/2023/2023-08-08_LEC/IMG_7982.jpg"
+- date: "2023-09-26"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-09-26_LEC/2023-09-26_LEC_Minutes.pdf"
+  attachments:
+  - title: "2023 OA Weekend Budget Fall Fellowship .xlsx"
+    file: "/files/minutes/2023/2023-09-26_LEC/2023-OA-Weekend-Budget-Fall-Fellowship.xlsx"
+  - title: "2023.07.27 - NOAC 2024 Proposed Budget-2.xlsx"
+    file: "/files/minutes/2023/2023-09-26_LEC/2023.07.27---NOAC-2024-Proposed-Budget-2.xlsx"
+  - title: "Chapter Patch.pdf"
+    file: "/files/minutes/2023/2023-09-26_LEC/Chapter-Patch.pdf"
+  - title: "Vigil Chenille artwork.docx"
+    file: "/files/minutes/2023/2023-09-26_LEC/Vigil-Chenille-artwork.docx"
+- date: "2023-10-24"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-10-24_LEC/2023-10-24_LEC_Minutes.pdf"
+  attachments:
+  - title: "2024 Dues - Sheet1.pdf"
+    file: "/files/minutes/2023/2023-10-24_LEC/2024-Dues---Sheet1.pdf"
+  - title: "2024 Event and Turtle Pass Prices.pdf"
+    file: "/files/minutes/2023/2023-10-24_LEC/2024-Event-and-Turtle-Pass-Prices.pdf"
+  - title: "2024 OA Budget Annual Lodge Dinner.xlsx - Budget.pdf"
+    file: "/files/minutes/2023/2023-10-24_LEC/2024-OA-Budget-Annual-Lodge-Dinner.xlsx---Budget.pdf"
+  - title: "New Standard Flap.png"
+    file: "/files/minutes/2023/2023-10-24_LEC/New-Standard-Flap.png"
+- date: "2023-11-28"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-11-28_LEC/2023-11-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "2023-11-28_LEC_Agenda.pdf"
+    file: "/files/minutes/2023/2023-11-28_LEC/2023-11-28_LEC_Agenda.pdf"
+  - title: "Comms Camera.jpg"
+    file: "/files/minutes/2023/2023-11-28_LEC/Comms-Camera.jpg"
+  - title: "Eagle Scout Flap - v2.pdf"
+    file: "/files/minutes/2023/2023-11-28_LEC/Eagle-Scout-Flap---v2.pdf"
+  - title: "LLD Registration QR code.png"
+    file: "/files/minutes/2023/2023-11-28_LEC/LLD-Registration-QR-code.png"
+  - title: "Lu Lu Shriners Patch Design.png"
+    file: "/files/minutes/2023/2023-11-28_LEC/Lu-Lu-Shriners-Patch-Design.png"
+  - title: "Lu Lu Shriners Patch Quota.jpg"
+    file: "/files/minutes/2023/2023-11-28_LEC/Lu-Lu-Shriners-Patch-Quota.jpg"
+  - title: "OAWV Testiomny .pptx"
+    omitted: true
+  - title: "OAWV Testiomny_.pptx"
+    omitted: true
+- date: "2023-12-19"
+  body: LEC
+  minutes: "/files/minutes/2023/2023-12-19_LEC/2023-12-19_LEC_Minutes.pdf"
+  attachments:
+  - title: "Paul - OAHA Presentation.pdf"
+    omitted: true
+  - title: "QZ Logo@3x.png"
+    file: "/files/minutes/2023/2023-12-19_LEC/QZ-Logo-3x.png"
+- date: "2024-01-23"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-01-23_LEC/2024-01-23_LEC_Minutes.pdf"
+- date: "2024-02-27"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-02-27_LEC/2024-02-27_LEC_Minutes.pdf"
+- date: "2024-03-26"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-03-26_LEC/2024-03-26_LEC_Minutes.pdf"
+- date: "2024-04-07"
+  body: General-Members
+  minutes: "/files/minutes/2024/2024-04-07_General-Members/2024-04-07_General-Members_Minutes.pdf"
+  attachments:
+  - title: "April General Members Meeting Presentation.pdf"
+    file: "/files/minutes/2024/2024-04-07_General-Members/April-General-Members-Meeting-Presentation.pdf"
+  - title: "SS1 GM Meeting R&P Changes.pdf"
+    file: "/files/minutes/2024/2024-04-07_General-Members/SS1-GM-Meeting-R-P-Changes.pdf"
+- date: "2024-04-07"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-04-07_LEC/2024-04-07_LEC_Minutes.pdf"
+- date: "2024-04-30"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-04-30_LEC/2024-04-30_LEC_Minutes.pdf"
+- date: "2024-05-28"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-05-28_LEC/2024-05-28_LEC_Minutes.pdf"
+- date: "2024-08-11"
+  body: General-Members
+  minutes: "/files/minutes/2024/2024-08-11_General-Members/2024-08-11_General-Members_Minutes.pdf"
+- date: "2024-08-20"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-08-20_LEC/2024-08-20_LEC_Minutes.pdf"
+- date: "2024-09-24"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-09-24_LEC/2024-09-24_LEC_Minutes.pdf"
+- date: "2024-10-22"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-10-22_LEC/2024-10-22_LEC_Minutes.pdf"
+  attachments:
+  - title: "2025 OA Budget Annual Lodge Dinner.xlsx - Budget (1).pdf"
+    file: "/files/minutes/2024/2024-10-22_LEC/2025-OA-Budget-Annual-Lodge-Dinner.xlsx---Budget-1.pdf"
+  - title: "Front of long sleeve.jpg"
+    file: "/files/minutes/2024/2024-10-22_LEC/Front-of-long-sleeve.jpg"
+  - title: "Fundraiser Patch Set pre patch companies.jpg"
+    file: "/files/minutes/2024/2024-10-22_LEC/Fundraiser-Patch-Set-pre-patch-companies.jpg"
+  - title: "MemberVitalStatistics (3).pdf"
+    file: "/files/minutes/2024/2024-10-22_LEC/MemberVitalStatistics-3.pdf"
+  - title: "UnitVisitStatistics.pdf"
+    file: "/files/minutes/2024/2024-10-22_LEC/UnitVisitStatistics.pdf"
+  - title: "back of long sleeve.jpg"
+    file: "/files/minutes/2024/2024-10-22_LEC/back-of-long-sleeve.jpg"
+- date: "2024-11-26"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-11-26_LEC/2024-11-26_LEC_Minutes.pdf"
+- date: "2024-12-17"
+  body: LEC
+  minutes: "/files/minutes/2024/2024-12-17_LEC/2024-12-17_LEC_Minutes.pdf"
+- date: "2025-01-28"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-01-28_LEC/2025-01-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "2024 Unami Lodge Financial Worksheets Page 2.pdf"
+    file: "/files/minutes/2025/2025-01-28_LEC/2024-Unami-Lodge-Financial-Worksheets-Page-2.pdf"
+  - title: "2025 OA Budget Annual Lodge Dinner.xlsx - Actual.pdf"
+    file: "/files/minutes/2025/2025-01-28_LEC/2025-OA-Budget-Annual-Lodge-Dinner.xlsx---Actual.pdf"
+  - title: "2025 Unami Lodge Proposed Budget (2).pdf"
+    file: "/files/minutes/2025/2025-01-28_LEC/2025-Unami-Lodge-Proposed-Budget-2.pdf"
+  - title: "2025 Vigil Budget.xlsx - Google Sheets.pdf"
+    file: "/files/minutes/2025/2025-01-28_LEC/2025-Vigil-Budget.xlsx---Google-Sheets.pdf"
+  - title: "OA History Cmte - Balance Sheet - year-end 2024 (1).pdf"
+    file: "/files/minutes/2025/2025-01-28_LEC/OA-History-Cmte---Balance-Sheet---year-end-2024-1.pdf"
+  - title: "OA History Cmte - Cash Flow report - year-end 2024.pdf"
+    file: "/files/minutes/2025/2025-01-28_LEC/OA-History-Cmte---Cash-Flow-report---year-end-2024.pdf"
+  - title: "Unit elections Patch.pdf"
+    file: "/files/minutes/2025/2025-01-28_LEC/Unit-elections-Patch.pdf"
+- date: "2025-02-25"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-02-25_LEC/2025-02-25_LEC_Minutes.pdf"
+  attachments:
+  - title: "2025 Events patches - Google Docs.pdf"
+    file: "/files/minutes/2025/2025-02-25_LEC/2025-Events-patches---Google-Docs.pdf"
+  - title: "2025 Spring Service One Budget.pdf"
+    file: "/files/minutes/2025/2025-02-25_LEC/2025-Spring-Service-One-Budget.pdf"
+  - title: "American Indian Affairs Policy Update (1).pdf"
+    omitted: true
+  - title: "LEC Proposal Lafayette Chapter Patch - Google Slides.pdf"
+    file: "/files/minutes/2025/2025-02-25_LEC/LEC-Proposal-Lafayette-Chapter-Patch---Google-Slides.pdf"
+  - title: "Lodge Nametags.png"
+    file: "/files/minutes/2025/2025-02-25_LEC/Lodge-Nametags.png"
+- date: "2025-03-25"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-03-25_LEC/2025-03-25_LEC_Minutes.pdf"
+  attachments:
+  - title: "2025 Unit Elections.jpg"
+    file: "/files/minutes/2025/2025-03-25_LEC/2025-Unit-Elections.jpg"
+  - title: "IMG_3989.png"
+    file: "/files/minutes/2025/2025-03-25_LEC/IMG_3989.png"
+  - title: "Unami Zip-Up Design - Google Docs.pdf"
+    file: "/files/minutes/2025/2025-03-25_LEC/Unami-Zip-Up-Design---Google-Docs.pdf"
+- date: "2025-04-06"
+  body: General-Members
+  minutes: "/files/minutes/2025/2025-04-06_General-Members/2025-04-06_General-Members_Minutes.pdf"
+  attachments:
+  - title: "IMG_4670.png"
+    file: "/files/minutes/2025/2025-04-06_General-Members/IMG_4670.png"
+  - title: "IMG_4880.jpg"
+    file: "/files/minutes/2025/2025-04-06_General-Members/IMG_4880.jpg"
+  - title: "WWW.png"
+    file: "/files/minutes/2025/2025-04-06_General-Members/WWW.png"
+- date: "2025-04-22"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-04-22_LEC/2025-04-22_LEC_Minutes.pdf"
+  attachments:
+  - title: "Extended Elangomat Patch - Google Slides.pdf"
+    file: "/files/minutes/2025/2025-04-22_LEC/Extended-Elangomat-Patch---Google-Slides.pdf"
+  - title: "Matt R. Patch design.pdf"
+    file: "/files/minutes/2025/2025-04-22_LEC/Matt-R.-Patch-design.pdf"
+  - title: "SS2 - 2025 Unami Lodge, One Weekend Budgets - SS2.xlsx - SS2 (1).pdf"
+    file: "/files/minutes/2025/2025-04-22_LEC/SS2---2025-Unami-Lodge-One-Weekend-Budgets---SS2.xlsx---SS2-1.pdf"
+  - title: "Unami1 Hat - Google Docs.pdf"
+    file: "/files/minutes/2025/2025-04-22_LEC/Unami1-Hat---Google-Docs.pdf"
+- date: "2025-05-18"
+  body: General-Members
+  minutes: "/files/minutes/2025/2025-05-18_General-Members/2025-05-18_General-Members_Minutes.pdf"
+- date: "2025-05-27"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-05-27_LEC/2025-05-27_LEC_Minutes.pdf"
+  attachments:
+  - title: "2025 Vigil weekend budget (1).xlsx"
+    file: "/files/minutes/2025/2025-05-27_LEC/2025-Vigil-weekend-budget-1.xlsx"
+  - title: "Northern Chapter Patch - Google Docs.pdf"
+    file: "/files/minutes/2025/2025-05-27_LEC/Northern-Chapter-Patch---Google-Docs.pdf"
+  - title: "Unami Properties.pdf"
+    file: "/files/minutes/2025/2025-05-27_LEC/Unami-Properties.pdf"
+- date: "2025-08-19"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-08-19_LEC/2025-08-19_LEC_Minutes.pdf"
+  attachments:
+  - title: "2025 Memorabilia Show Budget.pdf"
+    file: "/files/minutes/2025/2025-08-19_LEC/2025-Memorabilia-Show-Budget.pdf"
+  - title: "FF - 2025 Unami Lodge, One Weekend Budgets.xlsx - Google Sheets.pdf"
+    file: "/files/minutes/2025/2025-08-19_LEC/FF---2025-Unami-Lodge-One-Weekend-Budgets.xlsx---Google-Sheets.pdf"
+- date: "2025-09-30"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-09-30_LEC/2025-09-30_LEC_Minutes.pdf"
+  attachments:
+  - title: "2025 Brotherhood Blitz Budget (Proposed) - Google Docs.pdf"
+    file: "/files/minutes/2025/2025-09-30_LEC/2025-Brotherhood-Blitz-Budget-Proposed---Google-Docs.pdf"
+  - title: "2535-Left-Sleeve.pdf"
+    file: "/files/minutes/2025/2025-09-30_LEC/2535-Left-Sleeve.pdf"
+  - title: "Conclave 2025 Budget Actuals (2).xlsx"
+    file: "/files/minutes/2025/2025-09-30_LEC/Conclave-2025-Budget-Actuals-2.xlsx"
+  - title: "Dues Proposal for 2026.pdf"
+    file: "/files/minutes/2025/2025-09-30_LEC/Dues-Proposal-for-2026.pdf"
+  - title: "GenU-Tshirts-v2.pdf"
+    omitted: true
+  - title: "GenUv2-Sign-Tshirts-v1.pdf"
+    omitted: true
+  - title: "NMBdraft1.jpg"
+    file: "/files/minutes/2025/2025-09-30_LEC/NMBdraft1.jpg"
+- date: "2025-10-04"
+  body: General-Members
+  minutes: "/files/minutes/2025/2025-10-04_General-Members/2025-10-04_General-Members_Minutes.pdf"
+- date: "2025-10-28"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-10-28_LEC/2025-10-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "2025 Unami Lodge Financial Worksheets.pdf"
+    file: "/files/minutes/2025/2025-10-28_LEC/2025-Unami-Lodge-Financial-Worksheets.pdf"
+  - title: "2025 Vigil Honor Backpatch Proposal #2.pdf"
+    omitted: true
+  - title: "2025 show budget propsed and actual (2).xlsx"
+    file: "/files/minutes/2025/2025-10-28_LEC/2025-show-budget-propsed-and-actual-2.xlsx"
+  - title: "2026 OA Budget Annual Lodge Dinner.xlsx - Google Sheets.pdf"
+    file: "/files/minutes/2025/2025-10-28_LEC/2026-OA-Budget-Annual-Lodge-Dinner.xlsx---Google-Sheets.pdf"
+  - title: "Flap 1.jpg"
+    file: "/files/minutes/2025/2025-10-28_LEC/Flap-1.jpg"
+- date: "2025-11-25"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-11-25_LEC/2025-11-25_LEC_Minutes.pdf"
+  attachments:
+  - title: "IMG_6599.jpeg"
+    file: "/files/minutes/2025/2025-11-25_LEC/IMG_6599.jpeg"
+- date: "2025-12-16"
+  body: LEC
+  minutes: "/files/minutes/2025/2025-12-16_LEC/2025-12-16_LEC_Minutes.pdf"
+  attachments:
+  - title: "2026 Unami Lodge, One National Jamboree Patch (FINAL).png"
+    file: "/files/minutes/2025/2025-12-16_LEC/2026-Unami-Lodge-One-National-Jamboree-Patch-FINAL.png"
+  - title: "Roosevelt Chapter Patch - Gold Border (Chapter Officers).png"
+    file: "/files/minutes/2025/2025-12-16_LEC/Roosevelt-Chapter-Patch---Gold-Border-Chapter-Officers.png"
+  - title: "Roosevelt Chapter Patch - Green Border (General Chapter Members).png"
+    file: "/files/minutes/2025/2025-12-16_LEC/Roosevelt-Chapter-Patch---Green-Border-General-Chapter-Members.png"
+- date: "2026-01-27"
+  body: LEC
+  minutes: "/files/minutes/2026/2026-01-27_LEC/2026-01-27_LEC_Minutes.pdf"
+  attachments:
+  - title: "2025 Unami Lodge Account Balance Report.pdf"
+    file: "/files/minutes/2026/2026-01-27_LEC/2025-Unami-Lodge-Account-Balance-Report.pdf"
+  - title: "2025 Unami Lodge General Fund Budget to Actual.pdf"
+    file: "/files/minutes/2026/2026-01-27_LEC/2025-Unami-Lodge-General-Fund-Budget-to-Actual.pdf"
+  - title: "2026 Event Pricing.pdf"
+    file: "/files/minutes/2026/2026-01-27_LEC/2026-Event-Pricing.pdf"
+  - title: "2026 OA Budget Annual Lodge Dinner.xlsx - Budget.pdf"
+    file: "/files/minutes/2026/2026-01-27_LEC/2026-OA-Budget-Annual-Lodge-Dinner.xlsx---Budget.pdf"
+  - title: "2026 Unami Lodge Proposed Budget.pdf"
+    file: "/files/minutes/2026/2026-01-27_LEC/2026-Unami-Lodge-Proposed-Budget.pdf"
+  - title: "2026 Unami Lodge, One National Jamboree Patch.png"
+    file: "/files/minutes/2026/2026-01-27_LEC/2026-Unami-Lodge-One-National-Jamboree-Patch.png"
+  - title: "2026 Vigil Annual Budget.xlsx - Sheet1.pdf"
+    file: "/files/minutes/2026/2026-01-27_LEC/2026-Vigil-Annual-Budget.xlsx---Sheet1.pdf"
+  - title: "Copy of 2026 History budget and actual 1_27_26 .xlsx"
+    file: "/files/minutes/2026/2026-01-27_LEC/Copy-of-2026-History-budget-and-actual-1_27_26.xlsx"
+- date: "2026-02-24"
+  body: LEC
+  minutes: "/files/minutes/2026/2026-02-24_LEC/2026-02-24_LEC_Minutes.pdf"
+  attachments:
+  - title: "2026 Event Patches.pdf"
+    omitted: true
+  - title: "484642 - 02-18-2026-01_39 pm.pdf"
+    file: "/files/minutes/2026/2026-02-24_LEC/484642---02-18-2026-01_39-pm.pdf"
+  - title: "Conclave Rebate.pdf"
+    file: "/files/minutes/2026/2026-02-24_LEC/Conclave-Rebate.pdf"
+  - title: "SS1 - 2026 Unami Lodge, One Weekend Budget.xlsx - SS1.pdf"
+    file: "/files/minutes/2026/2026-02-24_LEC/SS1---2026-Unami-Lodge-One-Weekend-Budget.xlsx---SS1.pdf"
+  - title: "Unami Lodge Back Patch.png"
+    file: "/files/minutes/2026/2026-02-24_LEC/Unami-Lodge-Back-Patch.png"
+  - title: "Unami Lodge Carhartts.png"
+    file: "/files/minutes/2026/2026-02-24_LEC/Unami-Lodge-Carhartts.png"
+  - title: "Unami Lodge Neckerchief - Red.pdf"
+    file: "/files/minutes/2026/2026-02-24_LEC/Unami-Lodge-Neckerchief---Red.pdf"
+  - title: "Washington Chapter Patch - Updated.jpg"
+    file: "/files/minutes/2026/2026-02-24_LEC/Washington-Chapter-Patch---Updated.jpg"
+- date: "2026-03-24"
+  body: LEC
+  minutes: "/files/minutes/2026/2026-03-24_LEC/2026-03-24_LEC_Minutes.pdf"
+  attachments:
+  - title: "LEC 3_24_2026.pdf"
+    file: "/files/minutes/2026/2026-03-24_LEC/LEC-3_24_2026.pdf"
+- date: "2026-04-12"
+  body: General-Members
+  minutes: "/files/minutes/2026/2026-04-12_General-Members/2026-04-12_General-Members_Minutes.pdf"
+- date: "2026-04-28"
+  body: LEC
+  minutes: "/files/minutes/2026/2026-04-28_LEC/2026-04-28_LEC_Minutes.pdf"
+  attachments:
+  - title: "Conclave - 2026 Conclave Budget.xlsx - Proposed.pdf"
+    file: "/files/minutes/2026/2026-04-28_LEC/Conclave---2026-Conclave-Budget.xlsx---Proposed.pdf"
+  - title: "LEC 4_28_2026.pdf"
+    file: "/files/minutes/2026/2026-04-28_LEC/LEC-4_28_2026.pdf"
+- date: "2026-05-17"
+  body: General-Members
+  minutes: "/files/minutes/2026/2026-05-17_General-Members/2026-05-17_General-Members_Minutes.pdf"
+- date: "2026-05-26"
+  body: LEC
+  minutes: "/files/minutes/2026/2026-05-26_LEC/2026-05-26_LEC_Minutes.pdf"
+  attachments:
+  - title: "LEC 5_26_2026 (presentation).pdf"
+    file: "/files/minutes/2026/2026-05-26_LEC/LEC-5_26_2026-presentation.pdf"
+- date: "2026-08-29"
+  body: LEC
+  minutes: "/files/minutes/2026/2026-08-29_LEC/2026-08-29_LEC_Minutes.pdf"
+  attachments:
+  - title: "2026 Memorbilia Show Proposed Budget and Actuals 8_29_26.xlsx"
+    file: "/files/minutes/2026/2026-08-29_LEC/2026-Memorbilia-Show-Proposed-Budget-and-Actuals-8_29_26.xlsx"
+  - title: "2026-08-29_LEC_Agenda.pdf"
+    file: "/files/minutes/2026/2026-08-29_LEC/2026-08-29_LEC_Agenda.pdf"
+  - title: "2027 Unami Lodge, One NOAC 2027 Budget.xlsx - NOAC 2027.pdf"
+    file: "/files/minutes/2026/2026-08-29_LEC/2027-Unami-Lodge-One-NOAC-2027-Budget.xlsx---NOAC-2027.pdf"
+  - title: "SI 26 Unami Lodge, One Weekend Budget.xlsx - SI.pdf"
+    file: "/files/minutes/2026/2026-08-29_LEC/SI-26-Unami-Lodge-One-Weekend-Budget.xlsx---SI.pdf"
+  - title: "Suggested Rules and Procedures Changes August LEC (1).pdf"
+    file: "/files/minutes/2026/2026-08-29_LEC/Suggested-Rules-and-Procedures-Changes-August-LEC-1.pdf"

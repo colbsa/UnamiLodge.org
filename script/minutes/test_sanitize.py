@@ -7,7 +7,7 @@ import re, sys, tempfile, unittest
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import pymupdf
-from sanitize_lib import INVISIBLE, sanitize_text
+from sanitize_lib import INVISIBLE, choose_minutes, sanitize_text
 from sanitize_pdf import sanitize
 
 DATE = "2026-01-01"
@@ -134,6 +134,28 @@ class Lists(unittest.TestCase):
     def test_text_helper(self):
         out, _ = sanitize_text("John Doe, Jeff Smith", DATE)
         self.assertEqual(out, "John D., Jeff S.")
+
+
+class MinutesChoice(unittest.TestCase):
+    def _pick(self, *names):
+        files = [Path(n) for n in names]
+        mins, skipped = choose_minutes(files)
+        return [m.name for m in mins], [d.name for d in skipped]
+
+    def test_single_minutes_file_is_used(self):
+        self.assertEqual(self._pick("a_LEC_Minutes.pdf", "Budget.pdf"), (["a_LEC_Minutes.pdf"], []))
+        self.assertEqual(self._pick("a_LEC_Minutes.docx"), (["a_LEC_Minutes.docx"], []))
+
+    def test_docx_and_pdf_copy_publishes_docx_and_skips_pdf(self):
+        self.assertEqual(self._pick("a_LEC_Minutes.pdf", "a_LEC_Minutes.docx", "a_LEC_Agenda.docx"),
+                         (["a_LEC_Minutes.docx"], ["a_LEC_Minutes.pdf"]))
+
+    def test_no_minutes_file(self):
+        self.assertEqual(self._pick("Budget.pdf"), ([], []))
+
+    def test_two_files_of_the_same_kind_are_left_for_the_caller_to_reject(self):
+        mins, skipped = self._pick("x_Minutes.pdf", "y_Minutes.pdf")
+        self.assertEqual((len(mins), skipped), (2, []))
 
 
 if __name__ == "__main__":

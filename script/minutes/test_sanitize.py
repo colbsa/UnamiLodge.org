@@ -111,6 +111,15 @@ class Lists(unittest.TestCase):
         for surname in ("Pembroke", "Fairmont", "Quimby", "Wexford"):
             self.assertNotIn(surname, t)
 
+    def test_names_glued_to_brackets_slashes_commas_and_dashes(self):
+        t = self._names("NOAC(Tom Wexford)- due; Secretary-Nick Fairmont; Matt Quimby(withdrawn); "
+                        "Rich Ashby,Bill; Chair (Spencer Pembroke/Don Lowell) Vigil",
+                        [{"text": n, "kind": "youth"} for n in ("Tom Wexford", "Nick Fairmont", "Matt Quimby",
+                                                               "Rich Ashby", "Spencer Pembroke", "Don Lowell")])
+        for surname in ("Wexford", "Fairmont", "Quimby", "Ashby", "Pembroke", "Lowell"):
+            self.assertNotIn(surname, t)
+        self.assertIn("Tom W.", t); self.assertIn("Secretary-Nick F.", t)
+
     def test_period_after_an_ordinary_word_still_ends_a_name(self):
         t = self._names("Thanks to Dana. Pembroke attended.", [{"text": "Dana Pembroke", "kind": "youth"}])
         self.assertIn("Pembroke", t)

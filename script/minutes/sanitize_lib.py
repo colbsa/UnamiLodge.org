@@ -178,7 +178,7 @@ def sanitize_text(text, date, surnames=None):
             unrev.append(f"{a} {b}")
         return m.group()
 
-    text = re.sub(r"\b([A-Z][a-z]{1,}(?:['’][A-Z][a-z]+)?) ([A-Z][a-z]{2,}(?:['’-][A-Z][a-z]+)?)\b", pair, text)
+    text = re.sub(r"\b([A-Z][a-z]{1,}(?:['’][A-Z][a-z]+)?) ((?:Mc|Mac|De|Di|La|Le)?[A-Z][a-z]{2,}(?:['’-][A-Z][a-z]+)?)\b", pair, text)
     for s in (surnames or ()):
         text = re.sub(rf"\b{re.escape(s)}\b", initial(s), text)
     return text, unrev

@@ -100,7 +100,7 @@ def verify_pdf(path, date):
     text = re.sub(r"\s+", " ", INVISIBLE.sub("", text))
     bad = [m.group() for m in EMAIL.finditer(text) if not keep_email(m.group(), date)] + PHONE.findall(text)
     adult_surnames = {al for _, al in snapshot(date)["adults"]}  # a lone adult surname is fine
-    for m in re.finditer(r"\b([A-Z][a-z]+(?:['’][A-Z][a-z]+)?) ([A-Z][a-z]{2,}(?:-[A-Z][a-z]+)?)\b", text):
+    for m in re.finditer(r"\b([A-Z][a-z]+(?:['’][A-Z][a-z]+)?) ((?:Mc|Mac|De|Di|La|Le)?[A-Z][a-z]{2,}(?:-[A-Z][a-z]+)?)\b", text):
         if m.group(2).lower() in adult_surnames:
             continue
         if classify(m.group(1), m.group(2), date) == "person" and m.group(2).lower() not in all_first_names() and not (

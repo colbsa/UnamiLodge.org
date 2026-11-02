@@ -304,6 +304,10 @@ def fine_words(page):
 def _page_acts(pno, words, adult_parts, adult_full, youth_parts, heur, alone):
     """Redactions for one page from its word boxes."""
     acts = []
+    youth_first = {}   # surname -> first names of approved youth with that surname
+    for yp, _ in youth_parts:
+        if len(yp) >= 2:
+            youth_first.setdefault(yp[-1].lower(), set()).add(yp[0].lower())
     if True:
         words = sorted(words, key=lambda w: (w[5], w[6], w[7]))
         protected = set()
@@ -321,8 +325,11 @@ def _page_acts(pno, words, adult_parts, adult_full, youth_parts, heur, alone):
                     # shield the neighbouring youth's surname.
                     for idx in _find_name(words, [parts[-1], parts[0]], punct_ok=(0,)):
                         before = words[idx[0] - 1] if idx[0] > 0 else None
-                        if before is not None and _core(before[4]).lower() in all_first_names() \
-                                and abs(before[1] - words[idx[0]][1]) < 3:
+                        if before is not None and (
+                                (_core(before[4]).lower() in all_first_names()
+                                 and abs(before[1] - words[idx[0]][1]) < 3)
+                                # an approved youth of that surname (also when the name wraps to the next line)
+                                or _core(before[4]).lower() in youth_first.get(parts[-1].lower(), ())):
                             continue
                         protected.update(idx)
         done = set()

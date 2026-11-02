@@ -68,6 +68,11 @@ history from git).
 
 ## Redaction policy
 
+* **Old meetings keep all names.** Meetings dated more than 11 years before the run (the cutoff
+  is recorded as `name_cutoff` in `report.json`; set it with `--name-cutoff`, default today minus 11 years) are not name-redacted at all: a
+  youth is at least 10 in the minutes, so eleven years later they are over 21. Only e-mail
+  addresses off the contact list and phone numbers are removed from those meetings.
+  `--name-cutoff none` redacts names everywhere. The rules below apply to newer meetings.
 * **People.** A person keeps their full name only if the contact-list roster
   (`_data/lec.yml`) **as it was on the meeting date** lists them under an adult title
   (adviser, staff, master, administrator, ambassador, supreme chief, ...). The roster
@@ -78,7 +83,7 @@ history from git).
   matched fuzzily (spelling variants, nicknames) on surname plus first initial.
   Surnames abbreviated in a document are also abbreviated where they appear alone.
 * **Contact details.** E-mail addresses are kept only if they are on the contact list
-  (`lec.yml` or `chapters.yml`); all other addresses and all phone numbers are replaced.
+  (`lec.yml`, including committee addresses, or `chapters.yml`; the roster version on the meeting date counts); all other addresses and all phone numbers are replaced.
   `mailto:` links and document metadata (author etc.) are removed.
 * **PDFs** are redacted for real (text removed, not covered). `.docx`/`.pptx` are
   converted to PDF first. `.xlsx` cells, sheet names, comments, hyperlinks and properties
@@ -100,6 +105,7 @@ history from git).
 | `sanitize_lib.py` | Roster-by-date lookup, name classification, text sanitizer |
 | `build_reports.py` | `manifest.json` + `links.csv` → `_data/reports.yml`. `-h` / `'-?'` |
 | `drive-links.gs` | Google Apps Script: share files publicly and export `links.csv` |
+| `role_addresses.txt` | Lodge role/committee mailboxes kept in full although they are not on the current contact list (old or misspelled committee addresses). Never put a person's own mailbox here |
 | `names.txt`, `nonnames.txt`, `surnames.txt` | Reviewed word lists that teach the tool; edit and commit them (they contain first names and common words only) |
 
 In zsh quote the question mark: `sanitize_minutes.py '-?'`.

@@ -38,11 +38,42 @@ class SiteTest < Minitest::Test
     end
   end
 
+  # Minutes are hosted on Google Drive (script/minutes/README.md); the data file must hold
+  # unique meetings, each with a Drive link, and no document may be committed to the repo.
+  def test_reports_minutes_data_is_valid_and_unique
+    minutes = YAML.safe_load_file(ROOT.join("_data/reports.yml")).fetch("minutes") || []
+    keys = minutes.map { |m| [m.fetch("date"), m.fetch("body")] }
+
+    assert_equal keys.uniq, keys, "duplicate minutes entries"
+    minutes.each do |meeting|
+      Date.iso8601(meeting.fetch("date"))
+      assert_match %r{\Ahttps://(drive|docs)\.google\.com/}, meeting.fetch("minutes")
+      (meeting["attachments"] || []).each do |a|
+        refute_empty a.fetch("title").to_s.strip, "attachment needs a title for #{meeting['date']}"
+        assert a["omitted"] ^ a.key?("url"), "#{a['title']}: needs exactly one of url or omitted"
+        assert_match %r{\Ahttps://(drive|docs)\.google\.com/}, a["url"] if a.key?("url")
+      end
+    end
+  end
+
+  def test_no_minutes_documents_are_committed
+    refute ROOT.join("files/minutes").exist?, "files/minutes must not be committed; host on Drive"
+  end
+
   def test_main_navigation_links_to_reports_page
     html = SITE.join("index.html").read
 
     assert_includes html, 'href="/reports">Reports & Minutes</a>'
     assert SITE.join("reports/index.html").file?, "nav links to /reports but the page is missing"
+  end
+
+  def test_reports_page_lists_minutes
+    html = SITE.join("reports/index.html").read
+    minutes = YAML.safe_load_file(ROOT.join("_data/reports.yml")).fetch("minutes") || []
+
+    assert_includes html, "Lodge Executive Committee Minutes"
+    minutes.each { |m| assert_includes html, m.fetch("minutes"), "link for #{m['date']} missing" }
+    refute_match(/\{[{%]/, html, "reports page has unrendered Liquid")
   end
 
   def test_chapter_page_identifiers_are_unique

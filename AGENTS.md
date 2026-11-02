@@ -83,5 +83,6 @@ Handled by `jekyll_picture_tag` (config in `_data/picture.yml`), which compresse
 
 ## Conventions
 
+- **Meeting minutes are hosted on Google Drive, not in this repo.** `/reports/` renders `_data/reports.yml`, which holds only Drive share links. Never commit minutes, attachments or other meeting documents (`files/minutes/` must not exist; `script/test` checks). To publish new minutes, sanitize them (youth surnames abbreviated, non-contact-list e-mails and phone numbers removed) with `script/minutes/sanitize_minutes.py`, upload to the shared drive, and generate the data with `script/minutes/build_reports.py`. Full procedure and policy: `script/minutes/README.md`.
 - Prefer Markdown over raw HTML wherever possible (README). Liquid is used only in layouts/includes/plugins, not in normal content pages.
 - When adding a post, copy the closest existing post in `_posts/news/` as a template; `thumbnail` and `excerpt` are effectively required, `banner` is optional.

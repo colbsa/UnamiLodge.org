@@ -27,7 +27,8 @@ Representative, officers) or otherwise shown as a youth member. A name printed b
 youth-only office is a YOUTH even if the roster lists an adult with that name (relatives share
 names). Judge each file on its own: people grow from youth to adult. If you cannot tell,
 classify as youth. Before the oldest roster (header says nobody is kept in full) treat everyone
-as youth unless the text shows an adult cue. Relatives share surnames: list "Robert Lockwood Sr"
+as youth unless the text shows an adult cue (still list adults as adults; the merge step then
+abbreviates everyone in meetings before the oldest roster, whatever the label). Relatives share surnames: list "Robert Lockwood Sr"
 (adult) and "Robert Lockwood Jr." (youth) as separate people, writing the suffix as printed.
 
 PER FILE: (1) list every distinct person's name that appears in the ORIGINAL wording (read

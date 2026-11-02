@@ -103,6 +103,18 @@ class Lists(unittest.TestCase):
             sanitize_with_names(src, dst, DATE, people)
             return " ".join(w[4] for w in sorted(pymupdf.open(dst)[0].get_text("words"), key=lambda w: (round(w[1] / 3), w[0])))
 
+    def test_names_with_middle_initials_initials_and_titles_are_redacted(self):
+        t = self._names("Present: Dana J. Pembroke, Sam Wexford, T.R. Fairmont, Dr. Lowell Ashby, Mr. Quimby.",
+                        [{"text": "Dana J. Pembroke", "kind": "youth"}, {"text": "T.R. Fairmont", "kind": "youth"},
+                         {"text": "Dr. Quimby", "kind": "youth"}, {"text": "Mr. Quimby", "kind": "youth"},
+                         {"text": "Sam Wexford", "kind": "youth"}])
+        for surname in ("Pembroke", "Fairmont", "Quimby", "Wexford"):
+            self.assertNotIn(surname, t)
+
+    def test_period_after_an_ordinary_word_still_ends_a_name(self):
+        t = self._names("Thanks to Dana. Pembroke attended.", [{"text": "Dana Pembroke", "kind": "youth"}])
+        self.assertIn("Pembroke", t)
+
     def test_sr_adult_protected_but_jr_youth_redacted(self):
         t = self._names("Chair: George Pembroke   Adviser: George Pembroke Sr.",
                         [{"text": "George Pembroke Sr.", "kind": "adult"}, {"text": "George Pembroke", "kind": "youth"}])

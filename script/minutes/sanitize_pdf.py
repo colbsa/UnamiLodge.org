@@ -217,6 +217,19 @@ def _matches(word, want):
     return c == w or (c.startswith(w) and _core(word[4])[len(w):].isupper())
 
 
+_INITIAL_OR_TITLE = re.compile(r"[A-Za-z](?:\.[A-Za-z])*|(?:mr|mrs|ms|dr|rev|fr)", re.I)
+
+
+def _breaks_name(token):
+    """True if the punctuation after `token` ends a name.  A period after an initial
+    ("Dana J. Pembroke", "T.R. Fairmont") or a title ("Dr. Quimby") does not."""
+    core, trail = split_token(token)
+    trail = trail.strip("'’s")
+    if trail == "." and _INITIAL_OR_TITLE.fullmatch(core):
+        return False
+    return bool(trail)
+
+
 def _find_name(words, parts, punct_ok=(), suffix=None):
     """Yield lists of word indexes in `words` (sorted reading order) that spell `parts`
     (first [middle] last) with an optional quoted nickname after the first word, where each
@@ -235,7 +248,7 @@ def _find_name(words, parts, punct_ok=(), suffix=None):
             prev_is_nick = False
             if NICK.match(INVISIBLE.sub("", cand[4])) and k + 1 < len(words):
                 idx.append(k); prev = cand; prev_is_nick = True; k += 1; cand = words[k]
-            if not _matches(cand, want) or (not prev_is_nick and (pos - 1) not in punct_ok and split_token(prev[4])[1].strip("'’s")):
+            if not _matches(cand, want) or (not prev_is_nick and (pos - 1) not in punct_ok and _breaks_name(prev[4])):
                 ok = False; break
             h = prev[3] - prev[1]
             if abs(cand[1] - prev[1]) < 3:

@@ -87,3 +87,5 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+__pycache__/
+*.pyc

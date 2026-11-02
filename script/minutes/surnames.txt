@@ -1,0 +1,4 @@
+# Extra surnames always abbreviated when they stand alone (beyond those the sanitizer derives
+# from "First Last" pairs in the same document).  Keep this file EMPTY in the repository: real
+# members' surnames do not belong in a public repo.  Use the plan-review workflow (README) instead,
+# or keep a private copy of this file outside the repo.

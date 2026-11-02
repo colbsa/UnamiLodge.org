@@ -72,7 +72,9 @@ history from git).
   (`_data/lec.yml`) **as it was on the meeting date** lists them under an adult title
   (adviser, staff, master, administrator, ambassador, supreme chief, ...). The roster
   version is taken from git history (the newest commit on or before the date). Meetings **before the oldest
-  roster version** (2019-01-27) keep nobody in full: everyone is abbreviated. Everyone else becomes `First L.`. Names are
+  roster version** (2019-01-27) keep nobody in full: everyone is abbreviated (`merge_reviews.py` enforces this by
+  demoting reviewers' adult labels in those meetings; `--keep-pre-roster-adults` turns it off; public
+  figures and `--adults` names stay in full). Everyone else becomes `First L.`. Names are
   matched fuzzily (spelling variants, nicknames) on surname plus first initial.
   Surnames abbreviated in a document are also abbreviated where they appear alone.
 * **Contact details.** E-mail addresses are kept only if they are on the contact list

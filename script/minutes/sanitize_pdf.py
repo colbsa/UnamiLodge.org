@@ -109,7 +109,7 @@ def plan(doc, date):
     # word-box pass cannot see.  Match on the page's text, then locate the surname on the page.
     for pno, page in enumerate(doc):
         text = INVISIBLE.sub("", page.get_text())
-        for m in re.finditer(r"(?<![A-Za-z])([A-Z][a-z]+(?:['’][A-Z][a-z]+)?)(?: ?\n ?| )(?:[\"“‘'][A-Za-z-]+[\"”’'] )?([A-Z][a-z]{2,}(?:-[A-Z][a-z]+)?)", text):
+        for m in re.finditer(r"(?<![A-Za-z])([A-Z][a-z]+(?:['’][A-Z][a-z]+)?)(?: ?\n ?| )(?:[\"“‘'][A-Za-z-]+[\"”’'] )?((?:Mc|Mac|De|Di|La|Le)?[A-Z][a-z]{2,}(?:-[A-Z][a-z]+)?)", text):
             a_, b_ = m.group(1), m.group(2)
             kind_ = classify(a_, b_, date)
             if kind_ == "adult" and youth_role_context(text[max(0, m.start() - 40):m.start()], text[m.end():m.end() + 30]):
@@ -264,23 +264,52 @@ def _find_name(words, parts, punct_ok=(), suffix=None):
             yield idx
 
 
-def sanitize_with_names(src, dst, date, people, alone=(), union=True):
-    """Sanitize `src` using an approved name list.
+_CUT_AFTER = ")]/,;:\u2013\u2014-"
 
-    people: [{"text": "Gary Marlowe", "kind": "youth"|"adult"}, ...]  as printed in this document.
-    alone:  surnames of youth that also appear by themselves.
-    Youth names become "First L."; adults are protected; contact details are removed as usual.
-    Returns the list of redactions made (page, rect, replacement, kind, text)."""
-    doc = pymupdf.open(src)
-    acts = [a for a in plan(doc, date)[0] if a[3] in ("email", "phone")]
-    heur = [a for a in plan(doc, date)[0] if a[3] == "name"] if union else []
-    adult_parts = [_parse_person(p["text"]) for p in people if p.get("kind") == "adult"]
-    adult_full = [[t.strip(".,") for t in p["text"].split() if not t.startswith('"')]
-                  for p in people if p.get("kind") == "adult"]
-    youth_parts = [_parse_person(p["text"]) for p in people if p.get("kind") != "adult"]
-    for pno, page in enumerate(doc):
-        words = page.get_text("words")
-        words.sort(key=lambda w: (w[5], w[6], w[7]))
+
+def fine_words(page):
+    """Word boxes like page.get_text("words"), but a run of text is also cut after ) ] / , ; : - and
+    before ( [, so "Tom Wexford)-" and "Pembroke/Don" give separate words.  The cut-off
+    punctuation stays with the word it follows, and every box comes from real glyph positions."""
+    out = []
+    for b, blk in enumerate(page.get_text("rawdict")["blocks"]):
+        for l, line in enumerate(blk.get("lines", [])):
+            cur = []
+            n = 0
+            for sp in line["spans"]:
+                for c in sp["chars"] + [None]:
+                    end = c is None or c["c"].isspace() or (c["c"] in "([" and cur and cur[-1]["c"] not in "([")
+                    if end and cur:
+                        out.append((min(x["bbox"][0] for x in cur), min(x["bbox"][1] for x in cur),
+                                    max(x["bbox"][2] for x in cur), max(x["bbox"][3] for x in cur),
+                                    "".join(x["c"] for x in cur), b, l, n))
+                        n += 1
+                        cur = []
+                    if c is None or c["c"].isspace():
+                        continue
+                    cur.append(c)
+                    if c["c"] in _CUT_AFTER:
+                        out.append((min(x["bbox"][0] for x in cur), min(x["bbox"][1] for x in cur),
+                                    max(x["bbox"][2] for x in cur), max(x["bbox"][3] for x in cur),
+                                    "".join(x["c"] for x in cur), b, l, n))
+                        n += 1
+                        cur = []
+            if cur:
+                out.append((min(x["bbox"][0] for x in cur), min(x["bbox"][1] for x in cur),
+                            max(x["bbox"][2] for x in cur), max(x["bbox"][3] for x in cur),
+                            "".join(x["c"] for x in cur), b, l, n))
+    return out
+
+
+def _page_acts(pno, words, adult_parts, adult_full, youth_parts, heur, alone):
+    """Redactions for one page from its word boxes."""
+    acts = []
+    youth_first = {}   # surname -> first names of approved youth with that surname
+    for yp, _ in youth_parts:
+        if len(yp) >= 2:
+            youth_first.setdefault(yp[-1].lower(), set()).add(yp[0].lower())
+    if True:
+        words = sorted(words, key=lambda w: (w[5], w[6], w[7]))
         protected = set()
         for toks in adult_full:   # adults/public figures: also protect the exact printed form (middle names)
             if len(toks) > 2:
@@ -296,8 +325,11 @@ def sanitize_with_names(src, dst, date, people, alone=(), union=True):
                     # shield the neighbouring youth's surname.
                     for idx in _find_name(words, [parts[-1], parts[0]], punct_ok=(0,)):
                         before = words[idx[0] - 1] if idx[0] > 0 else None
-                        if before is not None and _core(before[4]).lower() in all_first_names() \
-                                and abs(before[1] - words[idx[0]][1]) < 3:
+                        if before is not None and (
+                                (_core(before[4]).lower() in all_first_names()
+                                 and abs(before[1] - words[idx[0]][1]) < 3)
+                                # an approved youth of that surname (also when the name wraps to the next line)
+                                or _core(before[4]).lower() in youth_first.get(parts[-1].lower(), ())):
                             continue
                         protected.update(idx)
         done = set()
@@ -339,6 +371,33 @@ def sanitize_with_names(src, dst, date, people, alone=(), union=True):
             for j, w in enumerate(words):
                 if j not in done and j not in protected and _core(w[4]) == s:
                     acts.append((pno, pymupdf.Rect(w[:4]), initial(s) + split_token(w[4])[1].lstrip("."), "name", s))
+    return acts
+
+
+def sanitize_with_names(src, dst, date, people, alone=(), union=True):
+    """Sanitize `src` using an approved name list.
+
+    people: [{"text": "Gary Marlowe", "kind": "youth"|"adult"}, ...]  as printed in this document.
+    alone:  surnames of youth that also appear by themselves.
+    Youth names become "First L."; adults are protected; contact details are removed as usual.
+    Returns the list of redactions made (page, rect, replacement, kind, text)."""
+    doc = pymupdf.open(src)
+    acts = [a for a in plan(doc, date)[0] if a[3] in ("email", "phone")]
+    heur = [a for a in plan(doc, date)[0] if a[3] == "name"] if union else []
+    adult_parts = [_parse_person(p["text"]) for p in people if p.get("kind") == "adult"]
+    adult_full = [[t.strip(".,") for t in p["text"].split() if not t.startswith('"')]
+                  for p in people if p.get("kind") == "adult"]
+    youth_parts = [_parse_person(p["text"]) for p in people if p.get("kind") != "adult"]
+    for pno, page in enumerate(doc):
+        got = _page_acts(pno, page.get_text("words"), adult_parts, adult_full, youth_parts, heur, alone)
+        # Names glued to punctuation ("NOAC(Tom Wexford)-", "Pembroke/Don") are not whole words
+        # to get_text("words"); look again at words split at brackets, slashes, commas and dashes,
+        # and keep what the first look did not already cover.
+        have = [x[1] for x in got] + [x[1] for x in heur if x[0] == pno]
+        for x in _page_acts(pno, fine_words(page), adult_parts, adult_full, youth_parts, [], alone):
+            if not any(x[1].intersects(r) for r in have):
+                got.append(x)
+        acts.extend(got)
     _apply(doc, acts)
     for page in doc:
         for l in page.get_links():

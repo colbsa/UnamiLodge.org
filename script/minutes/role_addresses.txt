@@ -1,0 +1,13 @@
+# Lodge role/committee mailboxes (the part before @unamilodge.org) that are public even though they are
+# not on the current contact list: former or renamed committees and typos that appear in old minutes.
+# Never add a person's own mailbox here (first.last, initial+surname, ...).
+fellowship
+unitsupport
+ala_program
+unitelection
+cpue
+brotherhood
+coomunications
+coommunications
+induction
+vc_adminstration

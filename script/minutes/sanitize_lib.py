@@ -1,11 +1,13 @@
 """Shared logic for sanitizing meeting documents before public posting.
 
 Policy (see script/minutes/README.md):
+  * Meetings more than 11 years old (sanitize_minutes.py --name-cutoff) keep every name; only
+    e-mail addresses and phone numbers are removed (sanitize_text(..., names=False)).
   * A person is kept in full only if the contact-list roster (_data/lec.yml) that was
     live on the meeting date lists them in an adult role.  Everyone else (youth,
     unknown) is reduced to "First L.".
-  * E-mail addresses are kept only if they appear on the contact list; other e-mail
-    addresses and phone numbers are removed.
+  * E-mail addresses are kept only if they appear on the contact list (officer, committee and
+    chapter addresses in lec.yml / chapters.yml); other e-mail addresses and phone numbers are removed.
   * Capitalized word pairs that are neither known people nor reviewed non-names are
     reported ("unreviewed") so a human decides; nothing is guessed silently.
 """
@@ -32,6 +34,7 @@ def _words(path):
 
 
 FIRST_NAMES = {w.lower() for w in _words("names.txt")}
+ROLE_ADDRESSES = {w.lower() for w in _words("role_addresses.txt")}  # public role mailboxes not on the current roster
 NONNAMES = {w.lower() for w in _words("nonnames.txt")}  # lower-cased "word1 word2", or "word *" for any pair starting with word
 
 
@@ -52,6 +55,8 @@ def _walk(node, title=None, out=None):
         t = node.get("title", title)
         if "name" in node and isinstance(node["name"], str):
             out.append((str(node.get("title", t) or ""), node["name"], str(node.get("email", "") or "")))
+        elif node.get("email"):  # a committee's own address (no person on the node): still on the contact list
+            out.append(("", "", str(node["email"])))
         for k, v in node.items():
             if k in ("title", "name", "email"):
                 continue
@@ -82,10 +87,10 @@ def snapshot(date):
     adults, youth, emails = [], [], set()
     for title, name, email in _walk(data):
         n = _clean(name)
-        if not n or n.lower() in ("vacant", "tbd", "open"):
-            continue
         if email:
             emails.add(email.lower())
+        if not n or n.lower() in ("vacant", "tbd", "open"):
+            continue
         parts = n.split()
         if len(parts) < 2:
             continue
@@ -113,7 +118,7 @@ def all_first_names():
 
 def allowed_emails(date):
     """Contact-list addresses: local parts from the roster at `date` and at HEAD."""
-    loc = set(snapshot(date)["emails"]) | set(snapshot("9999-12-31")["emails"])
+    loc = set(snapshot(date)["emails"]) | set(snapshot("9999-12-31")["emails"]) | ROLE_ADDRESSES
     try:
         for c in yaml.safe_load((REPO / "_data/chapters.yml").read_text()) or []:
             if isinstance(c, dict) and c.get("email"):
@@ -123,9 +128,17 @@ def allowed_emails(date):
     return loc
 
 
+GLUED_LEAD_INS = ("email", "emails", "emailus", "contact", "mail", "to", "at")
+
+
 def keep_email(addr, date):
     local, _, dom = addr.lower().partition("@")
-    return dom.endswith(("unamilodge.org",)) and local in allowed_emails(date)
+    if not dom.endswith(("unamilodge.org",)):
+        return False
+    ok = allowed_emails(date)
+    # PDFs sometimes run the lead-in word and the address together ("email" + zero-width space +
+    # "brotherhood@..." reads as "emailbrotherhood@..."): accept a short lead-in word in front.
+    return local in ok or any(local == lead + a for a in ok for lead in GLUED_LEAD_INS)
 
 
 def _close(a, b):
@@ -158,14 +171,18 @@ def initial(last):
     return last[0].upper() + "."
 
 
-def sanitize_text(text, date, surnames=None):
+def sanitize_text(text, date, surnames=None, names=True):
     text = INVISIBLE.sub("", text)
-    text = re.sub(r"([A-Z][a-z]+) [\"“‘'][A-Za-z-]+[\"”’'] ([A-Z][a-z]{2,})", r"\1 \2", text)  # drop nicknames
+    if names:
+        text = re.sub(r"([A-Z][a-z]+) [\"“‘'][A-Za-z-]+[\"”’'] ([A-Z][a-z]{2,})", r"\1 \2", text)  # drop nicknames
     """Sanitize free text (cell values, file names): abbreviate surnames, drop
     non-contact-list e-mails and phone numbers.  Returns (new_text, unreviewed_pairs)."""
     unrev = []
     text = EMAIL.sub(lambda m: m.group() if keep_email(m.group(), date) else "[email removed]", text)
     text = PHONE.sub("[phone removed]", text)
+
+    if not names:  # meeting old enough that names are not redacted: contact details only
+        return text, unrev
 
     def pair(m):
         a, b = m.group(1), m.group(2)
@@ -178,7 +195,7 @@ def sanitize_text(text, date, surnames=None):
             unrev.append(f"{a} {b}")
         return m.group()
 
-    text = re.sub(r"\b([A-Z][a-z]{1,}(?:['’][A-Z][a-z]+)?) ([A-Z][a-z]{2,}(?:['’-][A-Z][a-z]+)?)\b", pair, text)
+    text = re.sub(r"\b([A-Z][a-z]{1,}(?:['’][A-Z][a-z]+)?) ((?:Mc|Mac|De|Di|La|Le)?[A-Z][a-z]{2,}(?:['’-][A-Z][a-z]+)?)\b", pair, text)
     for s in (surnames or ()):
         text = re.sub(rf"\b{re.escape(s)}\b", initial(s), text)
     return text, unrev

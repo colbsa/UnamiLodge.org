@@ -6,9 +6,11 @@
 
 Source layout: <year>/<YYYY-MM-DD>_<Body>/ with <date>_<Body>_Minutes.(pdf|docx) + attachments.
 Output: <out>/<year>/<meeting>/<files> and <out>/manifest.json (see README.md).
+Names are redacted (youth -> "First L.") only in meetings less than 11 years old at run time
+(--name-cutoff); older meetings lose only non-contact-list e-mail addresses and phone numbers.
 Needs: pymupdf, openpyxl, pyyaml; macOS + Microsoft Word/PowerPoint for docx/pptx -> PDF.
 """
-import argparse, json, os, re, shutil, subprocess, sys, hashlib
+import argparse, datetime, json, os, re, shutil, subprocess, sys, hashlib
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import pymupdf, openpyxl, yaml
@@ -39,10 +41,24 @@ ap.add_argument("--image-decisions", type=Path, metavar="YAML",
 ap.add_argument("--names", type=Path, metavar="JSON",
                 help="approved name list from merge_reviews.py; files listed in it are redacted by exact "
                      "name (youth names reduced, listed adults protected); other files use the heuristics")
+ap.add_argument("--name-cutoff", metavar="YYYY-MM-DD|none", default=None,
+                help="meetings on or before this date keep all names (only e-mail addresses and phone numbers "
+                     "are removed). Default: today minus 11 years: a youth is at least 10 in the minutes and "
+                     "over 21 eleven years later. 'none' redacts names in every meeting.")
 ap.add_argument("--accept-unreviewed", action="store_true",
                 help="do not fail on capitalized pairs the tool cannot classify (they are still left "
                      "unredacted and listed in report.json)")
 a = ap.parse_args()
+if a.name_cutoff == "none":
+    CUTOFF = ""
+elif a.name_cutoff:
+    CUTOFF = a.name_cutoff
+else:
+    t = datetime.date.today()
+    try:
+        CUTOFF = t.replace(year=t.year - 11).isoformat()
+    except ValueError:  # Feb 29
+        CUTOFF = t.replace(year=t.year - 11, day=28).isoformat()
 
 CONTAINER = Path.home() / "Library/Containers"
 SKIP = {"README.md", ".DS_Store"}
@@ -71,17 +87,17 @@ def office_to_pdf(src, out, app):
     shutil.copy(tout, out)
 
 
-def clean_xlsx(src, dst, date):
+def clean_xlsx(src, dst, date, names=True):
     wb = openpyxl.load_workbook(src)
     sur, unrev, warn = set(), [], []
     for ws in wb.worksheets:
         if ws._images or ws._charts:
             warn.append(f"{ws.title}: charts/images not preserved")
-        ws.title = sanitize_text(ws.title, date, sur)[0][:31]
+        ws.title = sanitize_text(ws.title, date, sur, names)[0][:31]
         for row in ws.iter_rows():
             for c in row:
                 if isinstance(c.value, str) and not c.value.startswith("="):
-                    c.value, u = sanitize_text(c.value, date, sur); unrev += u
+                    c.value, u = sanitize_text(c.value, date, sur, names); unrev += u
                 if c.comment:
                     c.comment = None
                 if c.hyperlink:
@@ -100,7 +116,7 @@ def verify_pdf(path, date):
     text = re.sub(r"\s+", " ", INVISIBLE.sub("", text))
     bad = [m.group() for m in EMAIL.finditer(text) if not keep_email(m.group(), date)] + PHONE.findall(text)
     adult_surnames = {al for _, al in snapshot(date)["adults"]}  # a lone adult surname is fine
-    for m in re.finditer(r"\b([A-Z][a-z]+(?:['’][A-Z][a-z]+)?) ([A-Z][a-z]{2,}(?:-[A-Z][a-z]+)?)\b", text):
+    for m in re.finditer(r"\b([A-Z][a-z]+(?:['’][A-Z][a-z]+)?) ((?:Mc|Mac|De|Di|La|Le)?[A-Z][a-z]{2,}(?:-[A-Z][a-z]+)?)\b", text):
         if m.group(2).lower() in adult_surnames:
             continue
         if classify(m.group(1), m.group(2), date) == "person" and m.group(2).lower() not in all_first_names() and not (
@@ -108,6 +124,13 @@ def verify_pdf(path, date):
                 (m.group(2).lower() in all_first_names() and m.group(1).lower() not in all_first_names())):
             bad.append(m.group())
     return bad
+
+
+def verify_contacts(path, date):
+    """Check a finished PDF for leftover e-mail addresses (not on the contact list) and phone numbers."""
+    text = " ".join(p.get_text() for p in pymupdf.open(path))
+    text = re.sub(r"\s+", " ", INVISIBLE.sub("", text))
+    return [m.group() for m in EMAIL.finditer(text) if not keep_email(m.group(), date)] + PHONE.findall(text)
 
 
 def verify_names(path, entry):
@@ -130,7 +153,7 @@ def verify_names(path, entry):
     return left
 
 
-report = {"unreviewed": {}, "verify_failures": [], "warnings": [], "omitted": [], "counts": {}}
+report = {"name_cutoff": CUTOFF or None, "unreviewed": {}, "verify_failures": [], "warnings": [], "omitted": [], "counts": {}}
 records = []
 for year in sorted(p for p in a.source.iterdir() if p.is_dir() and re.fullmatch(r"\d{4}", p.name)):
     for mdir in sorted(p for p in year.iterdir() if p.is_dir() and re.match(r"\d{4}-\d{2}-\d{2}_", p.name)):
@@ -149,10 +172,11 @@ for year in sorted(p for p in a.source.iterdir() if p.is_dir() and re.fullmatch(
         outdir.mkdir(parents=True, exist_ok=True)
         rel = lambda n: f"{year.name}/{mdir.name}/{n}"
         used = set()
+        names = not (CUTOFF and date <= CUTOFF)   # False: this meeting is old enough to keep names
 
         def publish(f, is_minutes=False):
             ext = f.suffix.lower()
-            title = sanitize_text(f.name, date)[0]
+            title = sanitize_text(f.name, date, names=names)[0]
             stem = os.path.splitext(title)[0]
             tmp = None
             try:
@@ -185,7 +209,10 @@ for year in sorted(p for p in a.source.iterdir() if p.is_dir() and re.fullmatch(
                 elif ext == ".pdf":
                     orig = os.path.splitext(f.name)[0] + ".pdf"          # the name the plan/review used
                     entry = approved.get(rel(orig)) or approved.get(rel(safe(orig)))
-                    if entry is not None:
+                    if not names:   # old meeting: only e-mail addresses and phone numbers are removed
+                        sanitize_with_names(src, dst, date, [], union=False)
+                        bad = verify_contacts(dst, date)
+                    elif entry is not None:
                         sanitize_with_names(src, dst, date, entry["people"], entry.get("alone", []))
                         bad = verify_names(dst, entry)
                     else:
@@ -194,7 +221,7 @@ for year in sorted(p for p in a.source.iterdir() if p.is_dir() and re.fullmatch(
                         bad = verify_pdf(dst, date)
                     if bad: report["verify_failures"].append((rel(name), bad[:5]))
                 elif ext == ".xlsx":
-                    un, warn = clean_xlsx(src, dst, date)
+                    un, warn = clean_xlsx(src, dst, date, names)
                     for k in un: report["unreviewed"][k] = report["unreviewed"].get(k, 0) + 1
                     report["warnings"] += [(rel(name), w) for w in warn]
                 else:  # other types (txt, csv...) are not handled: hold back
@@ -212,9 +239,9 @@ for year in sorted(p for p in a.source.iterdir() if p.is_dir() and re.fullmatch(
                 key = str(f.relative_to(a.source))
                 if decisions.get(key) == "publish":
                     n = safe(f.name); used.add(n); shutil.copy(f, outdir / n)
-                    rec["attachments"].append({"title": sanitize_text(f.name, date)[0], "file": rel(n)})
+                    rec["attachments"].append({"title": sanitize_text(f.name, date, names=names)[0], "file": rel(n)})
                 else:
-                    rec["attachments"].append({"title": sanitize_text(f.name, date)[0], "status": "omitted", "reason": "image held for review"})
+                    rec["attachments"].append({"title": sanitize_text(f.name, date, names=names)[0], "status": "omitted", "reason": "image held for review"})
                     report["omitted"].append(key)
                 continue
             r = publish(f)

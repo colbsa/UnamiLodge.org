@@ -61,6 +61,11 @@ Hosting and CI/CD use **DigitalOcean App Platform**, not GitHub Actions. Digital
 
 Changes flow through `development` first, then a promotion PR from `development` into `main`. Review the full promotion diff for other unreleased changes before merging. Treat a merge to `main` as a production release.
 
+### Branch rules for agents
+- **Every change goes through `development`.** Create feature branches from `development` (never from `main`), and open PRs into `development` only. Never target `main` with a change PR, even to avoid an open promotion PR.
+- **An open promotion PR picks up anything merged into `development`.** Check `gh pr list --base main` before merging or pushing for review. If a `development` -> `main` PR is open and the change should not ship with it, keep the feature branch local (unpushed) and wait until the promotion PR merges, then open the PR into `development`.
+- Commit to the feature branch only; do not commit directly on `development` or `main`, and do not push or merge without being asked.
+
 The checked-in `.github/workflows/dev.yml` and `.github/workflows/prod.yml` are legacy configuration; their SSH commands and `master` trigger do not describe the current deployment process. Confirm staging source-branch and automatic deployment settings in DigitalOcean rather than inferring them from those files.
 
 ## Architecture
@@ -83,6 +88,6 @@ Handled by `jekyll_picture_tag` (config in `_data/picture.yml`), which compresse
 
 ## Conventions
 
-- **Meeting minutes are hosted on Google Drive, not in this repo.** `/reports/` renders `_data/reports.yml`, which holds only Drive share links. Never commit minutes, attachments or other meeting documents (`files/minutes/` must not exist; `script/test` checks). To publish new minutes, sanitize them (youth surnames abbreviated, non-contact-list e-mails and phone numbers removed) with `script/minutes/sanitize_minutes.py`, upload to the shared drive, and generate the data with `script/minutes/build_reports.py`. Full procedure and policy: `script/minutes/README.md`.
+- **Meeting minutes are hosted on Google Drive, not in this repo.** `/reports/` renders `_data/reports.yml`, which holds only Drive share links. Never commit minutes, attachments or other meeting documents (`files/minutes/` must not exist; `script/test` checks). To publish new minutes, sanitize them (youth surnames abbreviated in meetings under 11 years old, non-contact-list e-mails and phone numbers removed) with `script/minutes/sanitize_minutes.py`, upload to the shared drive, and generate the data with `script/minutes/build_reports.py`. Full procedure and policy: `script/minutes/README.md`.
 - Prefer Markdown over raw HTML wherever possible (README). Liquid is used only in layouts/includes/plugins, not in normal content pages.
 - When adding a post, copy the closest existing post in `_posts/news/` as a template; `thumbnail` and `excerpt` are effectively required, `banner` is optional.

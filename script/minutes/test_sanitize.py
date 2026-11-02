@@ -111,6 +111,54 @@ class Lists(unittest.TestCase):
         for surname in ("Pembroke", "Fairmont", "Quimby", "Wexford"):
             self.assertNotIn(surname, t)
 
+    def test_names_glued_to_brackets_slashes_commas_and_dashes(self):
+        t = self._names("NOAC(Tom Wexford)- due; Secretary-Nick Fairmont; Matt Quimby(withdrawn); "
+                        "Rich Ashby,Bill; Chair (Spencer Pembroke/Don Lowell) Vigil",
+                        [{"text": n, "kind": "youth"} for n in ("Tom Wexford", "Nick Fairmont", "Matt Quimby",
+                                                               "Rich Ashby", "Spencer Pembroke", "Don Lowell")])
+        for surname in ("Wexford", "Fairmont", "Quimby", "Ashby", "Pembroke", "Lowell"):
+            self.assertNotIn(surname, t)
+        self.assertIn("Tom W.", t); self.assertIn("Secretary-Nick F.", t)
+
+    def test_committee_addresses_without_a_person_are_collected(self):
+        import sanitize_lib
+        data = {"committees": [{"committee-name": "Inductions", "email": "inductions",
+                                "members": [{"title": "Chair", "name": "Dana Pembroke"}]}]}
+        self.assertIn("inductions", {e for _, _, e in sanitize_lib._walk(data)})
+
+    def test_old_meetings_keep_names_but_lose_contact_details(self):
+        import sanitize_lib
+        t, un = sanitize_lib.sanitize_text("Luke Brandt jd@example.com 215-555-0100", DATE, names=False)
+        self.assertIn("Luke Brandt", t); self.assertNotIn("example.com", t); self.assertNotIn("555", t)
+        t, _ = sanitize_lib.sanitize_text("Luke Brandt", DATE)
+        self.assertIn("Luke B.", t)
+
+    def test_role_addresses_kept_personal_mailboxes_removed(self):
+        import sanitize_lib
+        self.assertTrue(sanitize_lib.keep_email("fellowship@unamilodge.org", DATE))
+        self.assertTrue(sanitize_lib.keep_email("inductions@unamilodge.org", DATE))
+        self.assertFalse(sanitize_lib.keep_email("dana.pembroke@unamilodge.org", DATE))
+
+    def test_youth_next_to_adult_relative_with_same_surname(self):
+        # "Zed Pembroke, Dana Pembroke": Zed's surname must not be shielded by the adult "Pembroke, Dana".
+        t = self._names("Present: Zed Pembroke, Dana Pembroke, Sam Wexford",
+                        [{"text": "Zed Pembroke", "kind": "youth"}, {"text": "Dana Pembroke", "kind": "adult"}])
+        self.assertIn("Zed P.", t); self.assertIn("Dana Pembroke", t)
+        # the same when the youth's name wraps: first name ends one line, surname starts the next
+        t = self._names("Present: " + "Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Zed Pembroke, Dana Pembroke",
+                        [{"text": "Zed Pembroke", "kind": "youth"}, {"text": "Dana Pembroke", "kind": "adult"}])
+        self.assertNotIn("Zed Pembroke", t)
+
+    def test_address_glued_to_lead_in_word_is_still_a_contact_list_address(self):
+        import sanitize_lib
+        self.assertTrue(sanitize_lib.keep_email("emailbrotherhood@unamilodge.org", DATE))
+        self.assertFalse(sanitize_lib.keep_email("emaildana.pembroke@unamilodge.org", DATE))
+
+    def test_title_that_looks_like_a_name_is_left_alone(self):
+        import sanitize_lib
+        t, _ = sanitize_lib.sanitize_text("Weekend themes: Star Wars, Karate Kid", DATE)
+        self.assertIn("Star Wars", t)
+
     def test_period_after_an_ordinary_word_still_ends_a_name(self):
         t = self._names("Thanks to Dana. Pembroke attended.", [{"text": "Dana Pembroke", "kind": "youth"}])
         self.assertIn("Pembroke", t)

@@ -137,15 +137,11 @@ for year in sorted(p for p in a.source.iterdir() if p.is_dir() and re.fullmatch(
         if mdir.name in a.exclude:
             continue
         files = [f for f in sorted(mdir.iterdir()) if f.is_file() and f.name not in SKIP]
-        mins = [f for f in files if re.search(r"_Minutes\.(pdf|docx)$", f.name)]
+        mins, skipped = choose_minutes(files)
         if not mins:
             continue
-        if len(mins) == 2 and {f.suffix.lower() for f in mins} == {".pdf", ".docx"}:
-            # The original .docx and a PDF copy of the same minutes: publish the .docx
-            # (the original record) and skip the PDF duplicate.
-            dup = next(f for f in mins if f.suffix.lower() == ".pdf")
+        for dup in skipped:
             files.remove(dup)
-            mins.remove(dup)
             report["warnings"].append((f"{year.name}/{mdir.name}/{dup.name}", "PDF copy of the .docx minutes skipped"))
         assert len(mins) == 1, mdir
         date, body = mdir.name.split("_", 1)

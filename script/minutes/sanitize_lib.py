@@ -210,3 +210,17 @@ def youth_role_context(before, after):
     youth-only office title and no adult cue."""
     ctx = f"{before} {after}"
     return bool(YOUTH_ROLE.search(ctx)) and not ADULT_CUE.search(ctx)
+
+
+def choose_minutes(files):
+    """Pick the minutes file among a meeting folder's files.
+
+    Returns (minutes, skipped): `minutes` holds the files named *_Minutes.pdf/.docx and
+    `skipped` the duplicates dropped from the folder.  When a folder has both a .docx and a
+    PDF copy of the same minutes, the .docx (the original record) is kept and the PDF is
+    skipped.  Any other combination is returned unchanged so the caller can reject it."""
+    mins = [f for f in files if re.search(r"_Minutes\.(pdf|docx)$", f.name)]
+    if len(mins) == 2 and {f.suffix.lower() for f in mins} == {".pdf", ".docx"}:
+        dup = next(f for f in mins if f.suffix.lower() == ".pdf")
+        return [f for f in mins if f is not dup], [dup]
+    return mins, []

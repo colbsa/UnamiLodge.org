@@ -29,7 +29,7 @@
         <ul class="list-unstyled mb-0">
   {% endif %}
           <li class="mb-2">
-            <a href="{{ m.minutes }}" rel="noopener">{{ m.date | date: "%B %-d" }} &ndash;
+            <a href="{{ m.minutes }}" target="_blank" rel="noopener">{{ m.date | date: "%B %-d" }} &ndash;
               {% case m.body %}{% when "General-Members" %}General Members{% when "LEC-Special" %}Special LEC{% else %}LEC{% endcase %} Minutes</a>
             {% if m.attachments %}
             <details class="small ml-3">
@@ -40,7 +40,7 @@
                 {% capture request_subject %}Request for attachment: {{ a.title }} ({{ m.date }} {{ m.body }}){% endcapture %}
                 <li>{{ a.title }} &ndash; <a href="mailto:secretary@unamilodge.org?subject={{ request_subject | uri_escape }}">not posted online; contact the Lodge Secretary to request a copy</a></li>
                 {% else %}
-                <li><a href="{{ a.url }}" rel="noopener">{{ a.title }}</a></li>
+                <li><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></li>
                 {% endif %}
                 {% endfor %}
               </ul>

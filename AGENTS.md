@@ -59,12 +59,12 @@ generic Ruby packages.
 
 Hosting and CI/CD use **DigitalOcean App Platform**, not GitHub Actions. DigitalOcean deploys the production website from **`main`** (confirmed by the site maintainer).
 
-Changes flow through `development` first, then a promotion PR from `development` into `main`. Review the full promotion diff for other unreleased changes before merging. Treat a merge to `main` as a production release.
+Changes flow through `development` first (dev/staging). Promotion to production is **not** a `development` -> `main` merge: `development` accumulates work that is not all destined for production, so merging it into `main` would drag unreleased changes along. To release a specific change to production, create a feature branch off `main`, cherry-pick (or re-commit) only the commit(s) for that change — the same change that already landed via a `development` PR — and open a PR into `main`. That PR is the production release. Treat a merge to `main` as a production release.
 
 ### Branch rules for agents
-- **Every change goes through `development`.** Create feature branches from `development` (never from `main`), and open PRs into `development` only. Never target `main` with a change PR, even to avoid an open promotion PR.
-- **An open promotion PR picks up anything merged into `development`.** Check `gh pr list --base main` before merging or pushing for review. If a `development` -> `main` PR is open and the change should not ship with it, keep the feature branch local (unpushed) and wait until the promotion PR merges, then open the PR into `development`.
-- Commit to the feature branch only; do not commit directly on `development` or `main`, and do not push or merge without being asked.
+- **Every change starts on `development`.** Create feature branches from `development` and open the first PR into `development`. Do not commit directly on `development` or `main`.
+- **Promote to production with a cherry-pick branch, never a straight `development` -> `main` merge.** Because `development` holds changes not ready for production, a straight merge would ship unreleased work. When a change is ready for production, create a separate feature branch off `main`, cherry-pick the specific commit(s) that already went through the `development` PR, and open a PR into `main`. Review that PR's diff against `main` to confirm it carries only the intended change.
+- Commit to the feature branch only; do not push or merge without being asked.
 
 The checked-in `.github/workflows/dev.yml` and `.github/workflows/prod.yml` are legacy configuration; their SSH commands and `master` trigger do not describe the current deployment process. Confirm staging source-branch and automatic deployment settings in DigitalOcean rather than inferring them from those files.
 

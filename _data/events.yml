@@ -26,7 +26,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Lodge Leadership Development
   date: 2026-12-05
@@ -57,7 +57,7 @@
   post-url:
   ordeal: false
   brotherhood: false
-  highlight: false
+  highlight: true
 
 - title: Spring Service 1
   date: 2027-04-02

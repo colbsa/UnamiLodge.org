@@ -75,6 +75,22 @@
   brotherhood: false
   highlight: false
 
+- title: Vigil Selection Meeting
+  date: 2027-04-24
+  date-end:
+  time:
+  price:
+    youth:
+    adult:
+  location: COL Council Office
+  location-url: https://maps.app.goo.gl/c42oLxWixqTKh7fN8
+  link-text: Invite Only
+  link-url:
+  post-url:
+  ordeal: false
+  brotherhood: false
+  highlight: false
+
 - title: Spring Service 2
   date: 2027-05-21
   date-end: 2027-05-23

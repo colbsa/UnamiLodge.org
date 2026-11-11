@@ -94,9 +94,9 @@ Handled by `jekyll_picture_tag` (config in `_data/picture.yml`), which compresse
   |---|---|
   | COL Council Office | `https://maps.app.goo.gl/c42oLxWixqTKh7fN8` |
   | Musser SR (Camp Hart entrance) | `https://maps.app.goo.gl/kJajs3j3gBxVX33d6` |
-  | Resica Falls SR | `https://goo.gl/maps/Fn6LfcEkADCf21iZ6` |
+  | Resica Falls SR | `https://maps.app.goo.gl/cEmWVdyQkmN9rQxZ9` |
 
-  The Musser SR link points at the Camp Hart entrance, the lodge's usual arrival point. The Resica Falls link still uses Google's older `goo.gl/maps/` short-link format (deprecated); it resolves and is what the live calendar uses, but prefer refreshing it to the current `maps.app.goo.gl/...` format when a known-good replacement is on hand. One-off event venues (e.g. a banquet hall, a climbing gym, an out-of-area NOAC/conclave site) are not standardized here — link them per event.
+  The Musser SR link points at the Camp Hart entrance, the lodge's usual arrival point. Resica Falls SR is also referred to as Resica Falls or RFSR; use the same link regardless. One-off event venues (e.g. a banquet hall, a climbing gym, an out-of-area NOAC/conclave site) are not standardized here — link them per event.
 - **Meeting minutes are hosted on Google Drive, not in this repo.** `/reports/` renders `_data/reports.yml`, which holds only Drive share links. Never commit minutes, attachments or other meeting documents (`files/minutes/` must not exist; `script/test` checks). To publish new minutes, sanitize them (youth surnames abbreviated in meetings under 11 years old, non-contact-list e-mails and phone numbers removed) with `script/minutes/sanitize_minutes.py`, upload to the shared drive, and generate the data with `script/minutes/build_reports.py`. Full procedure and policy: `script/minutes/README.md`.
 - Prefer Markdown over raw HTML wherever possible (README). Liquid is used only in layouts/includes/plugins, not in normal content pages.
 - When adding a post, copy the closest existing post in `_posts/news/` as a template; `thumbnail` and `excerpt` are effectively required, `banner` is optional.

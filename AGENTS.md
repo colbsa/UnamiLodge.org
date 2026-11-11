@@ -88,7 +88,15 @@ Handled by `jekyll_picture_tag` (config in `_data/picture.yml`), which compresse
 
 ## Conventions
 
-- **Council Office map link:** Use `https://maps.app.goo.gl/c42oLxWixqTKh7fN8` as the preferred location link for the Cradle of Liberty Council Office (COL Council Office). The office moved; avoid copying older map links from historical events.
+- **Standard location map links.** The recurring places below have a canonical `location-url` used in `_data/events.yml`. When adding or editing a calendar event (or linking these places elsewhere), reuse the matching link rather than copying an older one from a historical event — the Council Office in particular moved, so old links point to the wrong address. The key is the exact `location:` value used in the calendar.
+
+  | `location:` | Canonical `location-url` |
+  |---|---|
+  | COL Council Office | `https://maps.app.goo.gl/c42oLxWixqTKh7fN8` |
+  | Musser SR | `https://goo.gl/maps/73yBWLnRBgfA7JWn9` |
+  | Resica Falls SR | `https://goo.gl/maps/Fn6LfcEkADCf21iZ6` |
+
+  The two camp links use Google's older `goo.gl/maps/` short-link format (deprecated); they still resolve and are what the live calendar uses, but prefer refreshing them to the current `maps.app.goo.gl/...` format when a known-good replacement is on hand. One-off event venues (e.g. a banquet hall, a climbing gym, an out-of-area NOAC/conclave site) are not standardized here — link them per event.
 - **Meeting minutes are hosted on Google Drive, not in this repo.** `/reports/` renders `_data/reports.yml`, which holds only Drive share links. Never commit minutes, attachments or other meeting documents (`files/minutes/` must not exist; `script/test` checks). To publish new minutes, sanitize them (youth surnames abbreviated in meetings under 11 years old, non-contact-list e-mails and phone numbers removed) with `script/minutes/sanitize_minutes.py`, upload to the shared drive, and generate the data with `script/minutes/build_reports.py`. Full procedure and policy: `script/minutes/README.md`.
 - Prefer Markdown over raw HTML wherever possible (README). Liquid is used only in layouts/includes/plugins, not in normal content pages.
 - When adding a post, copy the closest existing post in `_posts/news/` as a template; `thumbnail` and `excerpt` are effectively required, `banner` is optional.

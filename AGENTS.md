@@ -94,9 +94,11 @@ Handled by `jekyll_picture_tag` (config in `_data/picture.yml`), which compresse
   |---|---|
   | COL Council Office | `https://maps.app.goo.gl/c42oLxWixqTKh7fN8` |
   | Musser SR | `https://maps.app.goo.gl/kJajs3j3gBxVX33d6` |
+  | Camp Hart | `https://maps.app.goo.gl/kJajs3j3gBxVX33d6` |
+  | Camp Garrison | `https://maps.app.goo.gl/6AmHwCp9m3bGkPN86` |
   | Resica Falls SR | `https://maps.app.goo.gl/cEmWVdyQkmN9rQxZ9` |
 
-  The Musser SR link points at the Camp Hart entrance, the lodge's usual arrival point. Resica Falls SR is also referred to as Resica Falls or RFSR; use the same link regardless. One-off event venues (e.g. a banquet hall, a climbing gym, an out-of-area NOAC/conclave site) are not standardized here — link them per event.
+  Musser SR (Musser Scout Reservation) contains two areas the lodge uses, Camp Hart and Camp Garrison. A bare `Musser SR` means Camp Hart, the lodge's usual arrival point, so both share the same link; `Camp Hart` may also appear as its own `location:` value when it needs to be distinguished from the reservation at large. Use `Camp Garrison` (and its link) only when an event is specifically at that area. Resica Falls SR is also referred to as Resica Falls or RFSR; use the same link regardless. One-off event venues (e.g. a banquet hall, a climbing gym, an out-of-area NOAC/conclave site) are not standardized here — link them per event.
 - **Meeting minutes are hosted on Google Drive, not in this repo.** `/reports/` renders `_data/reports.yml`, which holds only Drive share links. Never commit minutes, attachments or other meeting documents (`files/minutes/` must not exist; `script/test` checks). To publish new minutes, sanitize them (youth surnames abbreviated in meetings under 11 years old, non-contact-list e-mails and phone numbers removed) with `script/minutes/sanitize_minutes.py`, upload to the shared drive, and generate the data with `script/minutes/build_reports.py`. Full procedure and policy: `script/minutes/README.md`.
 - Prefer Markdown over raw HTML wherever possible (README). Liquid is used only in layouts/includes/plugins, not in normal content pages.
 - When adding a post, copy the closest existing post in `_posts/news/` as a template; `thumbnail` and `excerpt` are effectively required, `banner` is optional.

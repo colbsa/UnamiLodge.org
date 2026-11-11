@@ -93,7 +93,7 @@ Handled by `jekyll_picture_tag` (config in `_data/picture.yml`), which compresse
   | `location:` | Canonical `location-url` |
   |---|---|
   | COL Council Office | `https://maps.app.goo.gl/c42oLxWixqTKh7fN8` |
-  | Musser SR (Camp Hart entrance) | `https://maps.app.goo.gl/kJajs3j3gBxVX33d6` |
+  | Musser SR | `https://maps.app.goo.gl/kJajs3j3gBxVX33d6` |
   | Resica Falls SR | `https://maps.app.goo.gl/cEmWVdyQkmN9rQxZ9` |
 
   The Musser SR link points at the Camp Hart entrance, the lodge's usual arrival point. Resica Falls SR is also referred to as Resica Falls or RFSR; use the same link regardless. One-off event venues (e.g. a banquet hall, a climbing gym, an out-of-area NOAC/conclave site) are not standardized here — link them per event.

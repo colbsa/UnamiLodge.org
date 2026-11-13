@@ -10,8 +10,8 @@ banner: /img/portals/memorabilia-show-portal.png
     <p>
       <h2>When:</h2>
       <ul>
-        <li>Friday, August 21st, 2026 — 4:30 PM to 9:30 PM</li>
-        <li>Saturday, August 22nd, 2026 — 8:00 AM to 2:00 PM</li>
+        <li>Friday, August 27th, 2027 — 4:30 PM to 9:30 PM</li>
+        <li>Saturday, August 28th, 2027 — 8:00 AM to 2:00 PM</li>
       </ul>
     </p>
     <p>
@@ -36,7 +36,7 @@ banner: /img/portals/memorabilia-show-portal.png
           <li><strong>Adult:</strong> $5.00</li>
         </ul>
           <div class="text-center my-5">
-            <a href="https://scoutingevent.com/525-107375-246919?draftmode=1" class="btn btn-primary">Pay at the Door</a>
+            Admission is payable at the door.
           </div>
     </p>
     <p>
@@ -54,7 +54,7 @@ banner: /img/portals/memorabilia-show-portal.png
             <li>Wall tables: $30 each</li>
           </ul>
           <div class="text-center my-5">
-            <a href="https://scoutingevent.com/525-107375?draftmode=1" class="btn btn-primary">Secure Your Tables</a>
+            Vendor registration details for 2027 are coming soon.
           </div>
     </p> 
     <p>
@@ -68,7 +68,7 @@ banner: /img/portals/memorabilia-show-portal.png
           <li>Coin Collecting Merit Badge</li>
         </ul>
     <div class="text-center my-5">
-      <a href="https://scoutingevent.com/525-116270" class="btn btn-primary">Register for Classes</a>
+      Merit badge registration details for 2027 are coming soon.
     </div>
     </p>
     <p>

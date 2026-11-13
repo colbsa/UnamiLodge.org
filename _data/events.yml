@@ -138,3 +138,17 @@
   ordeal: false
   brotherhood: false
   highlight: true
+
+- title: Scout Memorabilia Show
+  date: 2027-08-27
+  date-end: 2027-08-28
+  time: "Friday 4:30 PM–9:30 PM; Saturday 8:00 AM–2:00 PM"
+  price:
+  location: Community Center, Central Schwenkfelder Church
+  location-url: https://maps.app.goo.gl/PJChg9qUxYVJSVZA7
+  link-text: Learn More
+  link-url: /show/
+  post-url: /news/2027-Scout-Memorabilia-Show/
+  ordeal: false
+  brotherhood: false
+  highlight: true

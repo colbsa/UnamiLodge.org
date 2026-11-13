@@ -10,8 +10,8 @@ banner: /img/portals/memorabilia-show-portal.png
     <p>
       <h2>When:</h2>
       <ul>
-        <li>Friday, August 27th, 2027 — 4:30 PM to 9:30 PM</li>
-        <li>Saturday, August 28th, 2027 — 8:00 AM to 2:00 PM</li>
+        <li>Friday, August 27th, 2027 — 3:00 PM to 9:30 PM</li>
+        <li>Saturday, August 28th, 2027 — 8:00 AM to 3:00 PM</li>
       </ul>
     </p>
     <p>

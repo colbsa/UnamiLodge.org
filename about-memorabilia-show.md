@@ -53,7 +53,7 @@ banner: /img/portals/memorabilia-show-portal.png
             <li>Wall tables: $30 each</li>
           </ul>
           <div class="text-center my-5">
-            <a href="https://scoutingevent.com/525-123195">Register for a vendor table</a>
+            <a href="https://scoutingevent.com/525-123195" class="btn btn-primary">Register for a vendor table</a>
           </div>
     </p> 
     <p>

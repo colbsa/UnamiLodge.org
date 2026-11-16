@@ -21,7 +21,6 @@ banner: /img/portals/memorabilia-show-portal.png
         The annual Scout Memorabilia Show brings together collectors, Scouts, and Scouters for a weekend of:
       <ul>
         <li>Buying, selling, trading, and browsing Scout memorabilia and patches</li>
-        <li>Meeting major national authors and dealers in Scout collectibles</li>
         <li>Delicious Philadelphia cuisine available for purchase to support Unami Lodge</li>
         <li>Multiple OA Lodges and Councils hosting tables to sell memorabilia</li>
         <li>A designated youth-only trading area</li>
@@ -54,7 +53,7 @@ banner: /img/portals/memorabilia-show-portal.png
             <li>Wall tables: $30 each</li>
           </ul>
           <div class="text-center my-5">
-            Vendor registration details for 2027 are coming soon.
+            <a href="https://scoutingevent.com/525-123195">Register for a vendor table</a>
           </div>
     </p> 
     <p>

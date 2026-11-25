@@ -11,10 +11,19 @@ If you have any questions please email the Leadership Development Committee at l
 <h1 class="text-center text-primary mt-5">Event Details</h1>
 
 <div class="text-center">
-  <strong>December 18th & 19th</strong><br/>
-  Cradle of Liberty Council Office<br/>
-  Registration Coming Soon!
+  <strong>Saturday, December 5th</strong><br/>
+  Check-in 8:00 AM &middot; Training begins promptly at 8:30 AM<br/>
+  <a href="https://maps.app.goo.gl/rr5YMCnJicq5DUcv6">Chester County Council, BSA<br/>
+  1 Scouting Way, Exton, PA 19341</a><br/>
+  Registration details have been sent to invitees by email.
 </div>
+
+<h1 class="text-center text-primary mt-5">What to Know</h1>
+
+- Wear full Class A uniform with your OA sash.
+- Bring a filled water bottle and a notebook or paper for notes.
+- Breakfast is light (donuts and the like), so eat beforehand. Lunch is provided.
+- This is a training event. All ideas are welcome, and please ask questions.
 
 
 
